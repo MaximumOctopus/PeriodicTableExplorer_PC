@@ -1,0 +1,32 @@
+A.blink:link {color:#006666; text-decoration: none}
+A.blink:visited {color:#006666; text-decoration: none}
+A.blink:hover {color:#FF0000; text-decoration: underline}
+A.blink:active {color:#006666; text-decoration: none}
+A.wlink:link {color:#660066; text-decoration: none}
+A.wlink:visited {color:#660066; text-decoration: none}
+A.wlink:hover {color:#FF0000; text-decoration: underline}
+A.wlink:active {color:#660066; text-decoration: none}
+A.elink:link {color:#006600; text-decoration: none}
+A.elink:visited {color:#006600; text-decoration: none}
+A.elink:hover {color:#FF0000; text-decoration: underline}
+A.elink:active {color:#006600; text-decoration: none}
+A.glink:link {color:#000066; text-decoration: none}
+A.glink:visited {color:#000066; text-decoration: none}
+A.glink:hover {color:#FF0000; text-decoration: underline}
+A.glink:active {color:#000066; text-decoration: none}
+A.slink:link {color:#660000; text-decoration: none}
+A.slink:visited {color:#660000; text-decoration: none}
+A.slink:hover {color:#FF0000; text-decoration: underline}
+A.slink:active {color:#660000; text-decoration: none}
+A:link {color:#000000; text-decoration: none}
+A:visited {color:#000000; text-decoration: none}
+A:hover {color:#FF0000; text-decoration: underline}
+A.small:link {font-family: Verdana; font-size:8pt; color:#666666; text-decoration: none}
+A.small:active {font-family: Verdana; font-size:8pt; color:#666666; text-decoration: none}
+A.small:visited {font-family: Verdana; font-size:8pt; color:#666666; text-decoration: none}
+A.small:hover {font-family: Verdana; font-size:8pt; color:#000066; text-decoration: underline}
+.H1 {font-family: Verdana; font-size:10pt; color:#888888; font-weight:bold;}
+.JF {font-family: Verdana; font-size:10pt; color:#000000;}
+.JZ {font-family: Verdana; font-size:8pt; color:#888888;}
+.JX {font-family: Verdana; font-size:8pt; color:#666666;}
+.PF {font-family: Verdana; font-size:8pt; color:#000000;}
