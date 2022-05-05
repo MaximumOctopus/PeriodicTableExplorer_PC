@@ -1,0 +1,3196 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Paul Alan Freshney February 11th 2010 -->
+
+<plist version="1.0">
+<array>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>1</integer>
+		<key>atomicweight</key>
+		<string>1.00794</string>
+		<key>name</key>
+		<string>Hydrogen</string>
+		<key>group</key>
+		<string>Non-metals</string>
+		<key>state</key>
+		<string>gas at 298 K (the lightest gas known)</string>
+		<key>colour</key>
+		<string>colourless</string>
+		<key>enps</key>
+		<string>2.20</string>
+		<key>period</key>
+		<string>1</string>
+		<key>symbol</key>
+		<string>H</string>
+		<key>type</key>
+		<integer>3</integer>
+		<key>bp</key>
+		<string>20.268K</string>
+		<key>mp</key>
+		<string>14.01K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>2</integer>
+		<key>atomicweight</key>
+		<string>4.002602</string>
+		<key>name</key>
+		<string>Helium</string>
+		<key>group</key>
+		<string>Noble gas</string>
+		<key>state</key>
+		<string>gas at 298 K</string>
+		<key>colour</key>
+		<string>colourless</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>1</string>
+		<key>symbol</key>
+		<string>He</string>
+		<key>type</key>
+		<integer>7</integer>
+		<key>bp</key>
+		<string>4.22K</string>
+		<key>mp</key>
+		<string>0.95K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>3</integer>
+		<key>atomicweight</key>
+		<string>[6.941 (2)]</string>
+		<key>name</key>
+		<string>Lithium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white/grey</string>
+		<key>enps</key>
+		<string>0.98</string>
+		<key>period</key>
+		<string>2</string>
+		<key>symbol</key>
+		<string>Li</string>
+		<key>type</key>
+		<integer>1</integer>
+		<key>bp</key>
+		<string>1615K</string>
+		<key>mp</key>
+		<string>453.69K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>4</integer>
+		<key>atomicweight</key>
+		<string>9.012182 (3)</string>
+		<key>name</key>
+		<string>Beryllium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>state</key>
+		<string>solid</string>
+		<key>colour</key>
+		<string>lead grey </string>
+		<key>enps</key>
+		<string>1.57</string>
+		<key>period</key>
+		<string>2</string>
+		<key>symbol</key>
+		<string>Be</string>
+		<key>type</key>
+		<integer>4</integer>
+		<key>bp</key>
+		<string>2742K</string>
+		<key>mp</key>
+		<string>1560K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>5</integer>
+		<key>atomicweight</key>
+		<string>10.811 (7)</string>
+		<key>name</key>
+		<string>Boron</string>
+		<key>group</key>
+		<string>Metalloids</string>
+		<key>state</key>
+		<string>solid</string>
+		<key>colour</key>
+		<string>black</string>
+		<key>enps</key>
+		<string>2.04</string>
+		<key>period</key>
+		<string>2</string>
+		<key>symbol</key>
+		<string>B</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>bp</key>
+		<string>4200K</string>
+		<key>mp</key>
+		<string>2349K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>6</integer>
+		<key>atomicweight</key>
+		<string>12.0107</string>
+		<key>name</key>
+		<string>Carbon</string>
+		<key>group</key>
+		<string>Non-metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>graphite is black, diamond is colourless</string>
+		<key>enps</key>
+		<string>2.55</string>
+		<key>period</key>
+		<string>2</string>
+		<key>symbol</key>
+		<string>C</string>
+		<key>type</key>
+		<integer>3</integer>
+		<key>bp</key>
+		<string>4300K</string>
+		<key>mp</key>
+		<string>3800K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>7</integer>
+		<key>atomicweight</key>
+		<string>14.0067</string>
+		<key>name</key>
+		<string>Nitrogen</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>state</key>
+		<string>gas at 298 K</string>
+		<key>colour</key>
+		<string>colourless</string>
+		<key>enps</key>
+		<string>3.04</string>
+		<key>period</key>
+		<string>2</string>
+		<key>symbol</key>
+		<string>N</string>
+		<key>type</key>
+		<integer>3</integer>
+		<key>bp</key>
+		<string>77.36K</string>
+		<key>mp</key>
+		<string>63.05K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>8</integer>
+		<key>atomicweight</key>
+		<string>15.9994 (3)</string>
+		<key>name</key>
+		<string>Oxygen</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>state</key>
+		<string>gas at 298 K</string>
+		<key>colour</key>
+		<string>colourless as a gas, liquid is pale blue</string>
+		<key>enps</key>
+		<string>3.44</string>
+		<key>period</key>
+		<string>2</string>
+		<key>symbol</key>
+		<string>O</string>
+		<key>type</key>
+		<integer>3</integer>
+		<key>bp</key>
+		<string>90.2K</string>
+		<key>mp</key>
+		<string>54.8K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>9</integer>
+		<key>atomicweight</key>
+		<string>18.9984032 (5)</string>
+		<key>name</key>
+		<string>Fluorine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>state</key>
+		<string>gas at 298 K</string>
+		<key>colour</key>
+		<string>pale yellow</string>
+		<key>enps</key>
+		<string>3.98</string>
+		<key>period</key>
+		<string>2</string>
+		<key>symbol</key>
+		<string>F</string>
+		<key>type</key>
+		<integer>6</integer>
+		<key>bp</key>
+		<string>85.03K</string>
+		<key>mp</key>
+		<string>53.53K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>10</integer>
+		<key>atomicweight</key>
+		<string>20.1797</string>
+		<key>name</key>
+		<string>Neon</string>
+		<key>group</key>
+		<string>Noble gas</string>
+		<key>state</key>
+		<string>gas at 298 K</string>
+		<key>colour</key>
+		<string>colourless</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>2</string>
+		<key>symbol</key>
+		<string>Ne</string>
+		<key>type</key>
+		<integer>7</integer>
+		<key>bp</key>
+		<string>27.07K</string>
+		<key>mp</key>
+		<string>24.56K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>11</integer>
+		<key>atomicweight</key>
+		<string>22.989770</string>
+		<key>name</key>
+		<string>Sodium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>0.93</string>
+		<key>period</key>
+		<string>3</string>
+		<key>symbol</key>
+		<string>Na</string>
+		<key>type</key>
+		<integer>1</integer>
+		<key>bp</key>
+		<string>1156K</string>
+		<key>mp</key>
+		<string>370.87K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>12</integer>
+		<key>atomicweight</key>
+		<string>24.3050</string>
+		<key>name</key>
+		<string>Magnesium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.31</string>
+		<key>period</key>
+		<string>3</string>
+		<key>symbol</key>
+		<string>Mg</string>
+		<key>type</key>
+		<integer>4</integer>
+		<key>bp</key>
+		<string>1363K</string>
+		<key>mp</key>
+		<string>923K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>13</integer>
+		<key>atomicweight</key>
+		<string>26.981538 (2)</string>
+		<key>name</key>
+		<string>Aluminium</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery</string>
+		<key>enps</key>
+		<string>1.61</string>
+		<key>period</key>
+		<string>3</string>
+		<key>symbol</key>
+		<string>Al</string>
+		<key>type</key>
+		<integer>5</integer>
+		<key>bp</key>
+		<string>2792K</string>
+		<key>mp</key>
+		<string>933.47K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>14</integer>
+		<key>atomicweight</key>
+		<string>28.0855</string>
+		<key>name</key>
+		<string>Silicon</string>
+		<key>group</key>
+		<string>Metalloids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>dark grey with a bluish tinge</string>
+		<key>enps</key>
+		<string>1.90</string>
+		<key>period</key>
+		<string>3</string>
+		<key>symbol</key>
+		<string>Si</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>bp</key>
+		<string>3173K</string>
+		<key>mp</key>
+		<string>1687K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>15</integer>
+		<key>atomicweight</key>
+		<string>30.973761</string>
+		<key>name</key>
+		<string>Phosphorus</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>colourless/red/silvery white</string>
+		<key>enps</key>
+		<string>2.19</string>
+		<key>period</key>
+		<string>3</string>
+		<key>symbol</key>
+		<string>P</string>
+		<key>type</key>
+		<integer>3</integer>
+		<key>bp</key>
+		<string>550K</string>
+		<key>mp</key>
+		<string>317.3K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>16</integer>
+		<key>atomicweight</key>
+		<string>32.065</string>
+		<key>name</key>
+		<string>Sulfur</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>lemon yellow</string>
+		<key>enps</key>
+		<string>2.58</string>
+		<key>period</key>
+		<string>3</string>
+		<key>symbol</key>
+		<string>S</string>
+		<key>type</key>
+		<integer>3</integer>
+		<key>bp</key>
+		<string>717.87K</string>
+		<key>mp</key>
+		<string>388.36K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>17</integer>
+		<key>atomicweight</key>
+		<string>35.453</string>
+		<key>name</key>
+		<string>Chlorine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>state</key>
+		<string>gas at 298 K</string>
+		<key>colour</key>
+		<string>yellowish green</string>
+		<key>enps</key>
+		<string>3.16</string>
+		<key>period</key>
+		<string>3</string>
+		<key>symbol</key>
+		<string>Cl</string>
+		<key>type</key>
+		<integer>6</integer>
+		<key>bp</key>
+		<string>239.11K</string>
+		<key>mp</key>
+		<string>171.6K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>18</integer>
+		<key>atomicweight</key>
+		<string>39.948 (1)</string>
+		<key>name</key>
+		<string>Argon</string>
+		<key>group</key>
+		<string>Noble gas</string>
+		<key>state</key>
+		<string>gas at 298 K</string>
+		<key>colour</key>
+		<string>colourless</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>3</string>
+		<key>symbol</key>
+		<string>Ar</string>
+		<key>type</key>
+		<integer>7</integer>
+		<key>bp</key>
+		<string>87.3K</string>
+		<key>mp</key>
+		<string>83.80K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>19</integer>
+		<key>atomicweight</key>
+		<string>39.0983</string>
+		<key>name</key>
+		<string>Potassium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>0.82</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>K</string>
+		<key>type</key>
+		<integer>1</integer>
+		<key>bp</key>
+		<string>1032K</string>
+		<key>mp</key>
+		<string>336.53K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>20</integer>
+		<key>atomicweight</key>
+		<string>40.078</string>
+		<key>name</key>
+		<string>Calcium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.00</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Ca</string>
+		<key>type</key>
+		<integer>4</integer>
+		<key>bp</key>
+		<string>1757K</string>
+		<key>mp</key>
+		<string>1115K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>21</integer>
+		<key>atomicweight</key>
+		<string>44.955910</string>
+		<key>name</key>
+		<string>Scandium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white, develops a yellowish or pinkish cast when exposed to air.</string>
+		<key>enps</key>
+		<string>1.36</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Sc</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>3103K</string>
+		<key>mp</key>
+		<string>1814K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>22</integer>
+		<key>atomicweight</key>
+		<string>47.867</string>
+		<key>name</key>
+		<string>Titanium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery metallic</string>
+		<key>enps</key>
+		<string>1.54</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Ti</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>3560K</string>
+		<key>mp</key>
+		<string>1941K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>23</integer>
+		<key>atomicweight</key>
+		<string>50.9415 (1)</string>
+		<key>name</key>
+		<string>Vanadium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery grey metallic</string>
+		<key>enps</key>
+		<string>1.63</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>V</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>3680K</string>
+		<key>mp</key>
+		<string>2183K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>24</integer>
+		<key>atomicweight</key>
+		<string>51.9961</string>
+		<key>name</key>
+		<string>Chromium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery metallic</string>
+		<key>enps</key>
+		<string>1.66</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Cr</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>2943K</string>
+		<key>mp</key>
+		<string>2180K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>25</integer>
+		<key>atomicweight</key>
+		<string>54.938049</string>
+		<key>name</key>
+		<string>Manganese</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery metallic</string>
+		<key>enps</key>
+		<string>1.55</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Mn</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>2234K</string>
+		<key>mp</key>
+		<string>1519K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>26</integer>
+		<key>atomicweight</key>
+		<string>55.845 (2)</string>
+		<key>name</key>
+		<string>Iron</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>lustrous, metallic, greyish tinge</string>
+		<key>enps</key>
+		<string>1.83</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Fe</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>3134K</string>
+		<key>mp</key>
+		<string>1811K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>27</integer>
+		<key>atomicweight</key>
+		<string>58.933195</string>
+		<key>name</key>
+		<string>Cobalt</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>lustrous, metallic, greyish tinge</string>
+		<key>enps</key>
+		<string>1.88</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Co</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>3200K</string>
+		<key>mp</key>
+		<string>1768K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>28</integer>
+		<key>atomicweight</key>
+		<string>58.6934</string>
+		<key>name</key>
+		<string>Nickel</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>lustrous, metallic, silvery tinge</string>
+		<key>enps</key>
+		<string>1.91</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Ni</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>3186K</string>
+		<key>mp</key>
+		<string>1728K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>29</integer>
+		<key>atomicweight</key>
+		<string>63.546</string>
+		<key>name</key>
+		<string>Copper</string>
+		<key>group</key>
+		<string>Coinage metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>copper, metallic</string>
+		<key>enps</key>
+		<string>1.90</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Cu</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>3200K</string>
+		<key>mp</key>
+		<string>1357.77K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>30</integer>
+		<key>atomicweight</key>
+		<string>65.409 (4)</string>
+		<key>name</key>
+		<string>Zinc</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>bluish pale grey</string>
+		<key>enps</key>
+		<string>1.65</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Zn</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>1180K</string>
+		<key>mp</key>
+		<string>692.68K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>31</integer>
+		<key>atomicweight</key>
+		<string>69.723</string>
+		<key>name</key>
+		<string>Gallium</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>state</key>
+		<string>solid at 298 K (but melts only slightly above this temperature)</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.81</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Ga</string>
+		<key>type</key>
+		<integer>5</integer>
+		<key>bp</key>
+		<string>2477K</string>
+		<key>mp</key>
+		<string>302.91K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>32</integer>
+		<key>atomicweight</key>
+		<string>72.64</string>
+		<key>name</key>
+		<string>Germanium</string>
+		<key>group</key>
+		<string>Metalloids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>greyish white</string>
+		<key>enps</key>
+		<string>2.01</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Ge</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>bp</key>
+		<string>3093K</string>
+		<key>mp</key>
+		<string>1211.4K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>33</integer>
+		<key>atomicweight</key>
+		<string>74.92160 (2)</string>
+		<key>name</key>
+		<string>Arsenic</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>metallic grey</string>
+		<key>enps</key>
+		<string>2.18</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>As</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>bp</key>
+		<string>887K</string>
+		<key>mp</key>
+		<string>1090K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>34</integer>
+		<key>atomicweight</key>
+		<string>78.96</string>
+		<key>name</key>
+		<string>Selenium</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>grey, metallic lustre</string>
+		<key>enps</key>
+		<string>2.55</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Se</string>
+		<key>type</key>
+		<integer>3</integer>
+		<key>bp</key>
+		<string>958K</string>
+		<key>mp</key>
+		<string>494K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>35</integer>
+		<key>atomicweight</key>
+		<string>79.904</string>
+		<key>name</key>
+		<string>Bromine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>state</key>
+		<string>liquid</string>
+		<key>colour</key>
+		<string>red-brown, metallic lustre when solid</string>
+		<key>enps</key>
+		<string>2.96</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Br</string>
+		<key>type</key>
+		<integer>6</integer>
+		<key>bp</key>
+		<string>332K</string>
+		<key>mp</key>
+		<string>265.8K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>36</integer>
+		<key>atomicweight</key>
+		<string>83.798</string>
+		<key>name</key>
+		<string>Krypton</string>
+		<key>group</key>
+		<string>Noble Gases</string>
+		<key>state</key>
+		<string>Gas</string>
+		<key>colour</key>
+		<string>Colourless</string>
+		<key>enps</key>
+		<string>3.00</string>
+		<key>period</key>
+		<string>4</string>
+		<key>symbol</key>
+		<string>Kr</string>
+		<key>type</key>
+		<integer>7</integer>
+		<key>bp</key>
+		<string>119.93K</string>
+		<key>mp</key>
+		<string>115.79K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>37</integer>
+		<key>atomicweight</key>
+		<string>85.4678 (3)</string>
+		<key>name</key>
+		<string>Rubidium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>state</key>
+		<string>solid</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>0.82</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Rb</string>
+		<key>type</key>
+		<integer>1</integer>
+		<key>bp</key>
+		<string>961K</string>
+		<key>mp</key>
+		<string>312.46K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>38</integer>
+		<key>atomicweight</key>
+		<string>87.62</string>
+		<key>name</key>
+		<string>Strontium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>0.95</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Sr</string>
+		<key>type</key>
+		<integer>4</integer>
+		<key>bp</key>
+		<string>1655K</string>
+		<key>mp</key>
+		<string>1050K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>39</integer>
+		<key>atomicweight</key>
+		<string>88.90585 (2)</string>
+		<key>name</key>
+		<string>Yttrium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.22</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Y</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>3609K</string>
+		<key>mp</key>
+		<string>1799K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>40</integer>
+		<key>atomicweight</key>
+		<string>91.224 (2)</string>
+		<key>name</key>
+		<string>Zirconium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.33</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Zr</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>4682K</string>
+		<key>mp</key>
+		<string>2128K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>41</integer>
+		<key>atomicweight</key>
+		<string>92.90638</string>
+		<key>name</key>
+		<string>Niobium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>grey metallic</string>
+		<key>enps</key>
+		<string>1.6</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Nb</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>5017K</string>
+		<key>mp</key>
+		<string>2750K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>42</integer>
+		<key>atomicweight</key>
+		<string>95.94</string>
+		<key>name</key>
+		<string>Molybdenum</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>grey metallic</string>
+		<key>enps</key>
+		<string>2.16</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Mo</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>4912K</string>
+		<key>mp</key>
+		<string>2896K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>43</integer>
+		<key>atomicweight</key>
+		<string>[98]</string>
+		<key>name</key>
+		<string>Technetium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery grey metallic</string>
+		<key>enps</key>
+		<string>1.9</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Tc</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>4538K</string>
+		<key>mp</key>
+		<string>2430K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>44</integer>
+		<key>atomicweight</key>
+		<string>101.07 (2)</string>
+		<key>name</key>
+		<string>Ruthenium</string>
+		<key>group</key>
+		<string>Precious metal or Platinum group metal</string>
+		<key>state</key>
+		<string>solid</string>
+		<key>colour</key>
+		<string>silvery white metallic</string>
+		<key>enps</key>
+		<string>2.2</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Ru</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>4423K</string>
+		<key>mp</key>
+		<string>2607K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>45</integer>
+		<key>atomicweight</key>
+		<string>102.90550 (2)</string>
+		<key>name</key>
+		<string>Rhodium</string>
+		<key>group</key>
+		<string>Precious metal or Platinum group metal</string>
+		<key>state</key>
+		<string>solid</string>
+		<key>colour</key>
+		<string>silvery white metallic</string>
+		<key>enps</key>
+		<string>2.28</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Rh</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>3968K</string>
+		<key>mp</key>
+		<string>2237K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>46</integer>
+		<key>atomicweight</key>
+		<string>106.42 (1)</string>
+		<key>name</key>
+		<string>Palladium</string>
+		<key>group</key>
+		<string>Precious metal or Platinum group metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white metallic</string>
+		<key>enps</key>
+		<string>2.20</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Pd</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>3236K</string>
+		<key>mp</key>
+		<string>1828.05K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>47</integer>
+		<key>atomicweight</key>
+		<string>107.8682</string>
+		<key>name</key>
+		<string>Silver</string>
+		<key>group</key>
+		<string>Coinage metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silver</string>
+		<key>enps</key>
+		<string>1.93</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Ag</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>2435K</string>
+		<key>mp</key>
+		<string>1234.93K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>48</integer>
+		<key>atomicweight</key>
+		<string>112.411</string>
+		<key>name</key>
+		<string>Cadmium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery grey metallic</string>
+		<key>enps</key>
+		<string>1.69</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Cd</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>1040K</string>
+		<key>mp</key>
+		<string>594.22K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>49</integer>
+		<key>atomicweight</key>
+		<string>114.818 (3)</string>
+		<key>name</key>
+		<string>Indium</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>Silvery lustrous grey</string>
+		<key>enps</key>
+		<string>1.78</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>In</string>
+		<key>type</key>
+		<integer>5</integer>
+		<key>bp</key>
+		<string>2345K</string>
+		<key>mp</key>
+		<string>429.75K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>50</integer>
+		<key>atomicweight</key>
+		<string>118.710</string>
+		<key>name</key>
+		<string>Tin</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery lustrous grey</string>
+		<key>enps</key>
+		<string>1.96</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Sn</string>
+		<key>type</key>
+		<integer>5</integer>
+		<key>bp</key>
+		<string>2875K</string>
+		<key>mp</key>
+		<string>505.08K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>51</integer>
+		<key>atomicweight</key>
+		<string>121.760 (1)</string>
+		<key>name</key>
+		<string>Antimony</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery lustrous grey</string>
+		<key>enps</key>
+		<string>2.05</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Sb</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>bp</key>
+		<string>1860K</string>
+		<key>mp</key>
+		<string>903.78K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>52</integer>
+		<key>atomicweight</key>
+		<string>127.60</string>
+		<key>name</key>
+		<string>Tellurium</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery lustrous grey</string>
+		<key>enps</key>
+		<string>2.1</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Te</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>bp</key>
+		<string>1261K</string>
+		<key>mp</key>
+		<string>722.66K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>53</integer>
+		<key>atomicweight</key>
+		<string>126.90447 (3)</string>
+		<key>name</key>
+		<string>Iodine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>Violet-dark grey, lustrous</string>
+		<key>enps</key>
+		<string>2.66</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>I</string>
+		<key>type</key>
+		<integer>6</integer>
+		<key>bp</key>
+		<string>457.4K</string>
+		<key>mp</key>
+		<string>386.85K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>54</integer>
+		<key>atomicweight</key>
+		<string>131.293 (6)</string>
+		<key>name</key>
+		<string>Xenon</string>
+		<key>group</key>
+		<string>Noble gas</string>
+		<key>state</key>
+		<string>gas at 298 K</string>
+		<key>colour</key>
+		<string>colourless</string>
+		<key>enps</key>
+		<string>2.6</string>
+		<key>period</key>
+		<string>5</string>
+		<key>symbol</key>
+		<string>Xe</string>
+		<key>type</key>
+		<integer>7</integer>
+		<key>bp</key>
+		<string>165.1K</string>
+		<key>mp</key>
+		<string>161.4K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>55</integer>
+		<key>atomicweight</key>
+		<string>132.90545</string>
+		<key>name</key>
+		<string>Caesium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>state</key>
+		<string>solid at 298 K (but melts only slightly above this temperature)</string>
+		<key>colour</key>
+		<string>silvery gold</string>
+		<key>enps</key>
+		<string>0.79</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Cs</string>
+		<key>type</key>
+		<integer>1</integer>
+		<key>bp</key>
+		<string>944K</string>
+		<key>mp</key>
+		<string>301.59K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>56</integer>
+		<key>atomicweight</key>
+		<string>137.327 (7)</string>
+		<key>name</key>
+		<string>Barium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>state</key>
+		<string>solid</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>0.89</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Ba</string>
+		<key>type</key>
+		<integer>4</integer>
+		<key>bp</key>
+		<string>2143K</string>
+		<key>mp</key>
+		<string>1000K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>57</integer>
+		<key>atomicweight</key>
+		<string>138.9055 (2)</string>
+		<key>name</key>
+		<string>Lanthanum</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.1</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>La</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>3743K</string>
+		<key>mp</key>
+		<string>1193K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>58</integer>
+		<key>atomicweight</key>
+		<string>140.116</string>
+		<key>name</key>
+		<string>Cerium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.12</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Ce</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>3633K</string>
+		<key>mp</key>
+		<string>1068K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>59</integer>
+		<key>atomicweight</key>
+		<string>140.90765(2)</string>
+		<key>name</key>
+		<string>Praseodymium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white, yellowish tinge</string>
+		<key>enps</key>
+		<string>1.13</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Pr</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>3563K</string>
+		<key>mp</key>
+		<string>1208K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>60</integer>
+		<key>atomicweight</key>
+		<string>144.24</string>
+		<key>name</key>
+		<string>Neodymium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white, yellowish tinge</string>
+		<key>enps</key>
+		<string>1.14</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Nd</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>3373K</string>
+		<key>mp</key>
+		<string>1297K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>61</integer>
+		<key>atomicweight</key>
+		<string>[145]</string>
+		<key>name</key>
+		<string>Promethium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>metallic</string>
+		<key>enps</key>
+		<string>1.13</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Pm</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>3273K</string>
+		<key>mp</key>
+		<string>1373K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>62</integer>
+		<key>atomicweight</key>
+		<string>150.36</string>
+		<key>name</key>
+		<string>Samarium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.17</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Sm</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>2076K</string>
+		<key>mp</key>
+		<string>1345K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>63</integer>
+		<key>atomicweight</key>
+		<string>151.964 (1)</string>
+		<key>name</key>
+		<string>Europium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.2</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Eu</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>1800K</string>
+		<key>mp</key>
+		<string>1099K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>64</integer>
+		<key>atomicweight</key>
+		<string>157.25</string>
+		<key>name</key>
+		<string>Gadolinium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.2</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Gd</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>3523K</string>
+		<key>mp</key>
+		<string>1585K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>65</integer>
+		<key>atomicweight</key>
+		<string>158.92534</string>
+		<key>name</key>
+		<string>Terbium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.1</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Tb</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>3503K</string>
+		<key>mp</key>
+		<string>1629K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>66</integer>
+		<key>atomicweight</key>
+		<string>162.500 (1)</string>
+		<key>name</key>
+		<string>Dysprosium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.22</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Dy</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>2840K</string>
+		<key>mp</key>
+		<string>1680K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>67</integer>
+		<key>atomicweight</key>
+		<string>164.93032</string>
+		<key>name</key>
+		<string>Holmium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.23</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Ho</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>2993K</string>
+		<key>mp</key>
+		<string>1734K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>68</integer>
+		<key>atomicweight</key>
+		<string>167.259 (3)</string>
+		<key>name</key>
+		<string>Erbium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.24</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Er</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>3141K</string>
+		<key>mp</key>
+		<string>1770K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>69</integer>
+		<key>atomicweight</key>
+		<string>168.93421</string>
+		<key>name</key>
+		<string>Thulium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.25</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Tm</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>2223K</string>
+		<key>mp</key>
+		<string>1818K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>70</integer>
+		<key>atomicweight</key>
+		<string>173.04 (3)</string>
+		<key>name</key>
+		<string>Ytterbium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.1</string>
+		<key>period</key>
+		<string>6 (lanthanoid)</string>
+		<key>symbol</key>
+		<string>Yb</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>1469K</string>
+		<key>mp</key>
+		<string>1097K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>71</integer>
+		<key>atomicweight</key>
+		<string>174.967 (1)</string>
+		<key>name</key>
+		<string>Lutetium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.27</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Lu</string>
+		<key>type</key>
+		<integer>9</integer>
+		<key>bp</key>
+		<string>3675K</string>
+		<key>mp</key>
+		<string>1925K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>72</integer>
+		<key>atomicweight</key>
+		<string>178.49</string>
+		<key>name</key>
+		<string>Hafnium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>grey steel</string>
+		<key>enps</key>
+		<string>1.3</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Hf</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>4876K</string>
+		<key>mp</key>
+		<string>2506K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>73</integer>
+		<key>atomicweight</key>
+		<string>180.9479</string>
+		<key>name</key>
+		<string>Tantalum</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>grey blue </string>
+		<key>enps</key>
+		<string>1.5</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Ta</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>5731K</string>
+		<key>mp</key>
+		<string>3290K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>74</integer>
+		<key>atomicweight</key>
+		<string>183.84</string>
+		<key>name</key>
+		<string>Tungsten</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>greyish white, lustrous</string>
+		<key>enps</key>
+		<string>2.36</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>W</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>5828K</string>
+		<key>mp</key>
+		<string>3695K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>75</integer>
+		<key>atomicweight</key>
+		<string>186.207 (1)</string>
+		<key>name</key>
+		<string>Rhenium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>solid</string>
+		<key>colour</key>
+		<string>greyish white</string>
+		<key>enps</key>
+		<string>1.9</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Re</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>5869K</string>
+		<key>mp</key>
+		<string>3459K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>76</integer>
+		<key>atomicweight</key>
+		<string>190.23 (3)</string>
+		<key>name</key>
+		<string>Osmium</string>
+		<key>group</key>
+		<string>Precious metal or Platinum group metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>bluish grey</string>
+		<key>enps</key>
+		<string>2.2</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Os</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>5285K</string>
+		<key>mp</key>
+		<string>3306K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>77</integer>
+		<key>atomicweight</key>
+		<string>192.217 (3)</string>
+		<key>name</key>
+		<string>Iridium</string>
+		<key>group</key>
+		<string>Precious metal or Platinum group metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>2.20</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Ir</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>4701K</string>
+		<key>mp</key>
+		<string>2739K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>78</integer>
+		<key>atomicweight</key>
+		<string>195.078</string>
+		<key>name</key>
+		<string>Platinum</string>
+		<key>group</key>
+		<string>Precious metal or platinum group metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>greyish white</string>
+		<key>enps</key>
+		<string>2.28</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Pt</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>4098K</string>
+		<key>mp</key>
+		<string>2041.4K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>79</integer>
+		<key>atomicweight</key>
+		<string>196.96655</string>
+		<key>name</key>
+		<string>Gold</string>
+		<key>group</key>
+		<string>Coinage metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>gold (!)</string>
+		<key>enps</key>
+		<string>2.54</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Au</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>3129K</string>
+		<key>mp</key>
+		<string>1337.33K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>80</integer>
+		<key>atomicweight</key>
+		<string>200.59</string>
+		<key>name</key>
+		<string>Mercury</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>state</key>
+		<string>liquid at 298 K (the heaviest known elemental liquid)</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>2.00</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Hg</string>
+		<key>type</key>
+		<integer>2</integer>
+		<key>bp</key>
+		<string>629.88K</string>
+		<key>mp</key>
+		<string>234.32K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>81</integer>
+		<key>atomicweight</key>
+		<string>204.3833</string>
+		<key>name</key>
+		<string>Thallium</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.62</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Tl</string>
+		<key>type</key>
+		<integer>5</integer>
+		<key>bp</key>
+		<string>1746K</string>
+		<key>mp</key>
+		<string>577K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>82</integer>
+		<key>atomicweight</key>
+		<string>207.2 (1)</string>
+		<key>name</key>
+		<string>Lead</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>bluish white</string>
+		<key>enps</key>
+		<string>2.33</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Pb</string>
+		<key>type</key>
+		<integer>5</integer>
+		<key>bp</key>
+		<string>2022K</string>
+		<key>mp</key>
+		<string>600.61K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>83</integer>
+		<key>atomicweight</key>
+		<string>208.98038 (2)</string>
+		<key>name</key>
+		<string>Bismuth</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>state</key>
+		<string>solid</string>
+		<key>colour</key>
+		<string>lustrous reddish white</string>
+		<key>enps</key>
+		<string>2.02</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Bi</string>
+		<key>type</key>
+		<integer>5</integer>
+		<key>bp</key>
+		<string>1837K</string>
+		<key>mp</key>
+		<string>544.4K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>84</integer>
+		<key>atomicweight</key>
+		<string>[209]</string>
+		<key>name</key>
+		<string>Polonium</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery</string>
+		<key>enps</key>
+		<string>2.0</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Po</string>
+		<key>type</key>
+		<integer>0</integer>
+		<key>bp</key>
+		<string>1235K</string>
+		<key>mp</key>
+		<string>527K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>85</integer>
+		<key>atomicweight</key>
+		<string>[210]</string>
+		<key>name</key>
+		<string>Astatine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>metallic</string>
+		<key>enps</key>
+		<string>2.2</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>At</string>
+		<key>type</key>
+		<integer>6</integer>
+		<key>bp</key>
+		<string>610K</string>
+		<key>mp</key>
+		<string>575K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>86</integer>
+		<key>atomicweight</key>
+		<string>[222]</string>
+		<key>name</key>
+		<string>Radon</string>
+		<key>group</key>
+		<string>Noble gas</string>
+		<key>state</key>
+		<string>gas</string>
+		<key>colour</key>
+		<string>colourless</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>6</string>
+		<key>symbol</key>
+		<string>Rn</string>
+		<key>type</key>
+		<integer>7</integer>
+		<key>bp</key>
+		<string>211.3K</string>
+		<key>mp</key>
+		<string>202K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>87</integer>
+		<key>atomicweight</key>
+		<string>[223]</string>
+		<key>name</key>
+		<string>Francium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>Metallic</string>
+		<key>enps</key>
+		<string>0.7</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Fr</string>
+		<key>type</key>
+		<integer>1</integer>
+		<key>bp</key>
+		<string>950K</string>
+		<key>mp</key>
+		<string>300K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>88</integer>
+		<key>atomicweight</key>
+		<string>[226]</string>
+		<key>name</key>
+		<string>Radium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>state</key>
+		<string>solid</string>
+		<key>colour</key>
+		<string>metallic</string>
+		<key>enps</key>
+		<string>0.9</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Ra</string>
+		<key>type</key>
+		<integer>4</integer>
+		<key>bp</key>
+		<string>2010K</string>
+		<key>mp</key>
+		<string>973K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>89</integer>
+		<key>atomicweight</key>
+		<string>[227]</string>
+		<key>name</key>
+		<string>Actinium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery</string>
+		<key>enps</key>
+		<string>1.1</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>Ac</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>3753K</string>
+		<key>mp</key>
+		<string>1323K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>90</integer>
+		<key>atomicweight</key>
+		<string>232.0381</string>
+		<key>name</key>
+		<string>Thorium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.3</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>Th</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>5093K</string>
+		<key>mp</key>
+		<string>2115K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>91</integer>
+		<key>atomicweight</key>
+		<string>231.03588</string>
+		<key>name</key>
+		<string>Protactinium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery metallic</string>
+		<key>enps</key>
+		<string>1.5</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>Pa</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>(?) 4300K</string>
+		<key>mp</key>
+		<string>1841K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>92</integer>
+		<key>atomicweight</key>
+		<string>238.02891 (3)</string>
+		<key>name</key>
+		<string>Uranium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>metallic grey</string>
+		<key>enps</key>
+		<string>1.38</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>U</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>4200K</string>
+		<key>mp</key>
+		<string>1405.3K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>93</integer>
+		<key>atomicweight</key>
+		<string>[237]</string>
+		<key>name</key>
+		<string>Neptunium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery metallic</string>
+		<key>enps</key>
+		<string>1.36</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>Np</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>4273K</string>
+		<key>mp</key>
+		<string>910K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>94</integer>
+		<key>atomicweight</key>
+		<string>[244]</string>
+		<key>name</key>
+		<string>Plutonium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.28</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>Pu</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>3503K</string>
+		<key>mp</key>
+		<string>912.5K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>95</integer>
+		<key>atomicweight</key>
+		<string>[243]</string>
+		<key>name</key>
+		<string>Americium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silvery white</string>
+		<key>enps</key>
+		<string>1.3</string>
+		<key>period</key>
+		<string>7 (actinoid</string>
+		<key>symbol</key>
+		<string>Am</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>2880K</string>
+		<key>mp</key>
+		<string>1449K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>96</integer>
+		<key>atomicweight</key>
+		<string>[247]</string>
+		<key>name</key>
+		<string>Curium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>silver</string>
+		<key>enps</key>
+		<string>1.28</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>Cm</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>3383K</string>
+		<key>mp</key>
+		<string>1613K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>97</integer>
+		<key>atomicweight</key>
+		<string>[247]</string>
+		<key>name</key>
+		<string>Berkelium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>solid</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>1.3</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>Bk</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>1259K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>98</integer>
+		<key>atomicweight</key>
+		<string>[251]</string>
+		<key>name</key>
+		<string>Californium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>1.3</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>Cf</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>1173K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>99</integer>
+		<key>atomicweight</key>
+		<string>[252]</string>
+		<key>name</key>
+		<string>Einsteinium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>1.3</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>Es</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>1133K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>100</integer>
+		<key>atomicweight</key>
+		<string>[257]</string>
+		<key>name</key>
+		<string>Fermium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>1.3</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>Fm</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>1800K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>101</integer>
+		<key>atomicweight</key>
+		<string>[258]</string>
+		<key>name</key>
+		<string>Mendelevium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>1.3</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>Md</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>1100K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>102</integer>
+		<key>atomicweight</key>
+		<string>[259]</string>
+		<key>name</key>
+		<string>Nobelium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>1.3</string>
+		<key>period</key>
+		<string>7 (actinoid)</string>
+		<key>symbol</key>
+		<string>No</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>1100K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>103</integer>
+		<key>atomicweight</key>
+		<string>[262]</string>
+		<key>name</key>
+		<string>Lawrencium</string>
+		<key>group</key>
+		<string>Actinoids</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Lr</string>
+		<key>type</key>
+		<integer>10</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>1900K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>104</integer>
+		<key>atomicweight</key>
+		<string>[261]</string>
+		<key>name</key>
+		<string>Rutherfordium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>state</key>
+		<string>presumably a solid</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Rf</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>105</integer>
+		<key>atomicweight</key>
+		<string>[262]</string>
+		<key>name</key>
+		<string>Dubnium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>state</key>
+		<string>resumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Db</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>106</integer>
+		<key>atomicweight</key>
+		<string>[266]</string>
+		<key>name</key>
+		<string>Seaborgium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>state</key>
+		<string>Metallic</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Sg</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>107</integer>
+		<key>atomicweight</key>
+		<string>[264]</string>
+		<key>name</key>
+		<string>Bohrium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>state</key>
+		<string>presumably a solid</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Bh</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>108</integer>
+		<key>atomicweight</key>
+		<string>[269]</string>
+		<key>name</key>
+		<string>Hassium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Hs</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>109</integer>
+		<key>atomicweight</key>
+		<string>[268]</string>
+		<key>name</key>
+		<string>Meitnerium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Mt</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>110</integer>
+		<key>atomicweight</key>
+		<string>[281]</string>
+		<key>name</key>
+		<string>Darmstadtium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>state</key>
+		<string>resumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>Unknown, but probably metallic and silvery white or grey in appearance. Man made radioactive metal.</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Ds</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>111</integer>
+		<key>atomicweight</key>
+		<string>[272]</string>
+		<key>name</key>
+		<string>Roentgenium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>Unknown, but probably metallic and silvery white or grey in appearance. Man made radioactive metal.</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Rg</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>112</integer>
+		<key>atomicweight</key>
+		<string>[285]</string>
+		<key>name</key>
+		<string>Copernicium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>state</key>
+		<string>presumably a liquid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Cn</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>113</integer>
+		<key>atomicweight</key>
+		<string>[284]</string>
+		<key>name</key>
+		<string>Nihonium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Nh</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>114</integer>
+		<key>atomicweight</key>
+		<string>[289]</string>
+		<key>name</key>
+		<string>Flerovium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Uuq</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>115</integer>
+		<key>atomicweight</key>
+		<string>[288]</string>
+		<key>name</key>
+		<string>Moscovium</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Mc</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>116</integer>
+		<key>atomicweight</key>
+		<string>[292]</string>
+		<key>name</key>
+		<string>Livermorium</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and silvery white or grey in appearance</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Uuh</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>117</integer>
+		<key>atomicweight</key>
+		<string>unknown</string>
+		<key>name</key>
+		<string>Tennessine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>state</key>
+		<string>presumably a solid at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably metallic and dark in appearance </string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Ts</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>118</integer>
+		<key>atomicweight</key>
+		<string>unknown</string>
+		<key>name</key>
+		<string>Oganesson</string>
+		<key>group</key>
+		<string>Noble Gases</string>
+		<key>state</key>
+		<string>presumably a gas at 298 K</string>
+		<key>colour</key>
+		<string>unknown, but probably a colourless gas</string>
+		<key>enps</key>
+		<string>0</string>
+		<key>period</key>
+		<string>7</string>
+		<key>symbol</key>
+		<string>Og</string>
+		<key>type</key>
+		<integer>8</integer>
+		<key>bp</key>
+		<string>unknown</string>
+		<key>mp</key>
+		<string>unknown</string>
+	</dict>
+
+</array>
+</plist>

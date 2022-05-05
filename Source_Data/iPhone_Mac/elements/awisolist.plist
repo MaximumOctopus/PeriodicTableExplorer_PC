@@ -1,0 +1,3668 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Paul Alan Freshney September 7th 2011 -->
+
+<plist version="1.0">
+<array>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>1</integer>
+		<key>aw</key>
+		<string>1.007941</string>
+		<key>atomicicoint</key>
+		<integer>3</integer>		
+		
+		<key>iname1</key>
+		<string>1H</string>
+		<key>ip1</key>
+		<string>99.9885</string>
+		<key>iw1</key>
+		<string>1.007825</string>
+		
+		<key>iname2</key>
+		<string>2H (D)</string>
+		<key>ip2</key>
+		<string>0.0115</string>
+		<key>iw2</key>
+		<string>2.014102</string>
+		
+		<key>iname3</key>
+		<string>3H (T)</string>
+		<key>ip3</key>
+		<string>0</string>
+		<key>iw3</key>
+		<string>3.016049</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>2</integer>
+		<key>aw</key>
+		<string>4.002602</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>3He</string>
+		<key>ip1</key>
+		<string>0.000137</string>
+		<key>iw1</key>
+		<string>3.016029</string>
+		
+		<key>iname2</key>
+		<string>4He</string>
+		<key>ip2</key>
+		<string>99.999863</string>
+		<key>iw2</key>
+		<string>4.002603</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>3</integer>
+		<key>aw</key>
+		<string>6.940037</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>6Li</string>
+		<key>ip1</key>
+		<string>7.59</string>
+		<key>iw1</key>
+		<string>6.015122</string>
+		
+		<key>iname2</key>
+		<string>7Li</string>
+		<key>ip2</key>
+		<string>92.41</string>
+		<key>iw2</key>
+		<string>7.016004</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>4</integer>
+		<key>aw</key>
+		<string>9.012182</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>9Be</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>9.012182</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>5</integer>
+		<key>aw</key>
+		<string>10.811028</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>10B</string>
+		<key>ip1</key>
+		<string>19.9</string>
+		<key>iw1</key>
+		<string>10.012937</string>
+		
+		<key>iname2</key>
+		<string>11B</string>
+		<key>ip2</key>
+		<string>80.1</string>
+		<key>iw2</key>
+		<string>11.009305</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>6</integer>
+		<key>aw</key>
+		<string>12.010736</string>
+		<key>atomicicoint</key>
+		<integer>3</integer>		
+		
+		<key>iname1</key>
+		<string>12C</string>
+		<key>ip1</key>
+		<string>98.93</string>
+		<key>iw1</key>
+		<string>12.000000</string>
+		
+		<key>iname2</key>
+		<string>13C</string>
+		<key>ip2</key>
+		<string>1.07</string>
+		<key>iw2</key>
+		<string>13.003355</string>
+		
+		<key>iname3</key>
+		<string>14C</string>
+		<key>ip3</key>
+		<string>0</string>
+		<key>iw3</key>
+		<string>14.003242</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>7</integer>
+		<key>aw</key>
+		<string>14.006743</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>14N</string>
+		<key>ip1</key>
+		<string>99.632</string>
+		<key>iw1</key>
+		<string>14.003074</string>
+		
+		<key>iname2</key>
+		<string>15N</string>
+		<key>ip2</key>
+		<string>0.368</string>
+		<key>iw2</key>
+		<string>15.000109</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>8</integer>
+		<key>aw</key>
+		<string>15.999405</string>
+		<key>atomicicoint</key>
+		<integer>3</integer>		
+		
+		<key>iname1</key>
+		<string>16O</string>
+		<key>ip1</key>
+		<string>99.757</string>
+		<key>iw1</key>
+		<string>15.994915</string>
+		
+		<key>iname2</key>
+		<string>17O</string>
+		<key>ip2</key>
+		<string>0.038</string>
+		<key>iw2</key>
+		<string>16.999132</string>
+		
+		<key>iname3</key>
+		<string>18O</string>
+		<key>ip3</key>
+		<string>0.205</string>
+		<key>iw3</key>
+		<string>17.999160</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>9</integer>
+		<key>aw</key>
+		<string>18.998403</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>19F</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>18.998403</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>10</integer>
+		<key>aw</key>
+		<string>20.180046</string>
+		<key>atomicicoint</key>
+		<integer>3</integer>		
+		
+		<key>iname1</key>
+		<string>20Ne</string>
+		<key>ip1</key>
+		<string>90.48</string>
+		<key>iw1</key>
+		<string>19.992440</string>
+		
+		<key>iname2</key>
+		<string>21Ne</string>
+		<key>ip2</key>
+		<string>0.27</string>
+		<key>iw2</key>
+		<string>20.993847</string>
+		
+		<key>iname3</key>
+		<string>22Ne</string>
+		<key>ip3</key>
+		<string>9.25</string>
+		<key>iw3</key>
+		<string>21.991386</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>11</integer>
+		<key>aw</key>
+		<string>22.989770</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>23Na</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>22.989770</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>12</integer>
+		<key>aw</key>
+		<string>24.305052</string>
+		<key>atomicicoint</key>
+		<integer>3</integer>		
+		
+		<key>iname1</key>
+		<string>24Mg</string>
+		<key>ip1</key>
+		<string>78.99</string>
+		<key>iw1</key>
+		<string>23.985042</string>
+		
+		<key>iname2</key>
+		<string>25Mg</string>
+		<key>ip2</key>
+		<string>10</string>
+		<key>iw2</key>
+		<string>24.985837</string>
+		
+		<key>iname3</key>
+		<string>26Mg</string>
+		<key>ip3</key>
+		<string>11.01</string>
+		<key>iw3</key>
+		<string>5.982593</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>13</integer>
+		<key>aw</key>
+		<string>26.981538</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>27Al</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>26.981538</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>14</integer>
+		<key>aw</key>
+		<string>28.085385</string>
+		<key>atomicicoint</key>
+		<integer>3</integer>		
+		
+		<key>iname1</key>
+		<string>28Si</string>
+		<key>ip1</key>
+		<string>92.2297</string>
+		<key>iw1</key>
+		<string>27.976927</string>
+		
+		<key>iname2</key>
+		<string>29Si</string>
+		<key>ip2</key>
+		<string>4.6832</string>
+		<key>iw2</key>
+		<string>28.976495</string>
+		
+		<key>iname3</key>
+		<string>30Si</string>
+		<key>ip3</key>
+		<string>3.0872</string>
+		<key>iw3</key>
+		<string>29.973770</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>15</integer>
+		<key>aw</key>
+		<string>30.973762</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>31P</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>30.973762</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>16</integer>
+		<key>aw</key>
+		<string>32.066085</string>
+		<key>atomicicoint</key>
+		<integer>4</integer>		
+		
+		<key>iname1</key>
+		<string>32S</string>
+		<key>ip1</key>
+		<string>94.93</string>
+		<key>iw1</key>
+		<string>31.972071</string>
+		
+		<key>iname2</key>
+		<string>33S</string>
+		<key>ip2</key>
+		<string>0.76</string>
+		<key>iw2</key>
+		<string>32.971458</string>
+		
+		<key>iname3</key>
+		<string>34S</string>
+		<key>ip3</key>
+		<string>4.29</string>
+		<key>iw3</key>
+		<string>33.967867</string>
+		
+		<key>iname4</key>
+		<string>36S</string>
+		<key>ip4</key>
+		<string>0.02</string>
+		<key>iw4</key>
+		<string>35.967081</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>17</integer>
+		<key>aw</key>
+		<string>35.452538</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>35Cl</string>
+		<key>ip1</key>
+		<string>75.78</string>
+		<key>iw1</key>
+		<string>34.968853</string>
+		
+		<key>iname2</key>
+		<string>37Cl</string>
+		<key>ip2</key>
+		<string>24.22</string>
+		<key>iw2</key>
+		<string>36.965903</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>18</integer>
+		<key>aw</key>
+		<string>39.947677</string>
+		<key>atomicicoint</key>
+		<integer>3</integer>		
+		
+		<key>iname1</key>
+		<string>36Ar</string>
+		<key>ip1</key>
+		<string>0.3365</string>
+		<key>iw1</key>
+		<string>35.967546</string>
+		
+		<key>iname2</key>
+		<string>38Ar</string>
+		<key>ip2</key>
+		<string>0.0632</string>
+		<key>iw2</key>
+		<string>37.962732</string>
+		
+		<key>iname3</key>
+		<string>40Ar</string>
+		<key>ip3</key>
+		<string>99.6003</string>
+		<key>iw3</key>
+		<string>39.962383</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>19</integer>
+		<key>aw</key>
+		<string>39.098301</string>
+		<key>atomicicoint</key>
+		<integer>3</integer>		
+		
+		<key>iname1</key>
+		<string>39K</string>
+		<key>ip1</key>
+		<string>93.2581</string>
+		<key>iw1</key>
+		<string>38.963707</string>
+		
+		<key>iname2</key>
+		<string>40K</string>
+		<key>ip2</key>
+		<string>0.0117</string>
+		<key>iw2</key>
+		<string>39.963999</string>
+		
+		<key>iname3</key>
+		<string>41K</string>
+		<key>ip3</key>
+		<string>6.7302</string>
+		<key>iw3</key>
+		<string>40.961826</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>20</integer>
+		<key>aw</key>
+		<string>40.078023</string>
+		<key>atomicicoint</key>
+		<integer>6</integer>		
+		
+		<key>iname1</key>
+		<string>40Ca</string>
+		<key>ip1</key>
+		<string>96.941</string>
+		<key>iw1</key>
+		<string>39.962591</string>
+		
+		<key>iname2</key>
+		<string>42Ca</string>
+		<key>ip2</key>
+		<string>0.647</string>
+		<key>iw2</key>
+		<string>41.958618</string>
+		
+		<key>iname3</key>
+		<string>44Ca</string>
+		<key>ip3</key>
+		<string>0.135</string>
+		<key>iw3</key>
+		<string>42.958767</string>
+		
+		<key>iname4</key>
+		<string>44Ca</string>
+		<key>ip4</key>
+		<string>2.086</string>
+		<key>iw4</key>
+		<string>43.955481</string>
+		
+		<key>iname5</key>
+		<string>46Ca</string>
+		<key>ip5</key>
+		<string>0.004</string>
+		<key>iw5</key>
+		<string>45.953693</string>
+		
+		<key>iname6</key>
+		<string>48Ca</string>
+		<key>ip6</key>
+		<string>0.187</string>
+		<key>iw6</key>
+		<string>47.952534</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>21</integer>
+		<key>aw</key>
+		<string>44.955910</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>45Sc</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>44.955910</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>22</integer>
+		<key>aw</key>
+		<string>47.866750</string>
+		<key>atomicicoint</key>
+		<integer>5</integer>		
+		
+		<key>iname1</key>
+		<string>46Ti</string>
+		<key>ip1</key>
+		<string>8.25</string>
+		<key>iw1</key>
+		<string>45.952630</string>
+		
+		<key>iname2</key>
+		<string>47Ti</string>
+		<key>ip2</key>
+		<string>7.44</string>
+		<key>iw2</key>
+		<string>46.951764</string>
+		
+		<key>iname3</key>
+		<string>48Ti</string>
+		<key>ip3</key>
+		<string>73.72</string>
+		<key>iw3</key>
+		<string>47.947947</string>
+		
+		<key>iname4</key>
+		<string>49Ti</string>
+		<key>ip4</key>
+		<string>5.41</string>
+		<key>iw4</key>
+		<string>48.947871</string>
+		
+		<key>iname5</key>
+		<string>50Ti</string>
+		<key>ip5</key>
+		<string>5.18</string>
+		<key>iw5</key>
+		<string>49.944792</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>23</integer>
+		<key>aw</key>
+		<string>50.941472</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>50V</string>
+		<key>ip1</key>
+		<string>0.25</string>
+		<key>iw1</key>
+		<string>49.947163</string>
+		
+		<key>iname2</key>
+		<string>51V</string>
+		<key>ip2</key>
+		<string>99.75</string>
+		<key>iw2</key>
+		<string>50.943964</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>24</integer>
+		<key>aw</key>
+		<string>51.996138</string>
+		<key>atomicicoint</key>
+		<integer>4</integer>		
+		
+		<key>iname1</key>
+		<string>50Cr</string>
+		<key>ip1</key>
+		<string>4.345</string>
+		<key>iw1</key>
+		<string>49.946050</string>
+		
+		<key>iname2</key>
+		<string>52Cr</string>
+		<key>ip2</key>
+		<string>83.789</string>
+		<key>iw2</key>
+		<string>51.940512</string>
+		
+		<key>iname3</key>
+		<string>53Cr</string>
+		<key>ip3</key>
+		<string>9.501</string>
+		<key>iw3</key>
+		<string>52.940654</string>
+		
+		<key>iname4</key>
+		<string>54Cr</string>
+		<key>ip4</key>
+		<string>2.365</string>
+		<key>iw4</key>
+		<string>53.938885</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>25</integer>
+		<key>aw</key>
+		<string>54.938050</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>55Mn</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>54.938050</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>26</integer>
+		<key>aw</key>
+		<string>55.845150</string>
+		<key>atomicicoint</key>
+		<integer>4</integer>		
+		
+		<key>iname1</key>
+		<string>54Fe</string>
+		<key>ip1</key>
+		<string>5.845</string>
+		<key>iw1</key>
+		<string>53.939615</string>
+		
+		<key>iname2</key>
+		<string>56Fe</string>
+		<key>ip2</key>
+		<string>91.754</string>
+		<key>iw2</key>
+		<string>55.934942</string>
+		
+		<key>iname3</key>
+		<string>57Fe</string>
+		<key>ip3</key>
+		<string>2.119</string>
+		<key>iw3</key>
+		<string>56.935399</string>
+		
+		<key>iname4</key>
+		<string>58Fe</string>
+		<key>ip4</key>
+		<string>0.282</string>
+		<key>iw4</key>
+		<string>57.933281</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>27</integer>
+		<key>aw</key>
+		<string>58.933200</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>59Co</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>58.933200</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>28</integer>
+		<key>aw</key>
+		<string>58.693356</string>
+		<key>atomicicoint</key>
+		<integer>5</integer>		
+		
+		<key>iname1</key>
+		<string>58Ni</string>
+		<key>ip1</key>
+		<string>68.0769</string>
+		<key>iw1</key>
+		<string>57.935348</string>
+		
+		<key>iname2</key>
+		<string>60Ni</string>
+		<key>ip2</key>
+		<string>26.2231</string>
+		<key>iw2</key>
+		<string>59.930791</string>
+		
+		<key>iname3</key>
+		<string>61Ni</string>
+		<key>ip3</key>
+		<string>1.1399</string>
+		<key>iw3</key>
+		<string>60.931060</string>
+		
+		<key>iname4</key>
+		<string>62Ni</string>
+		<key>ip4</key>
+		<string>3.6345</string>
+		<key>iw4</key>
+		<string>61.928349</string>
+		
+		<key>iname5</key>
+		<string>64Ni</string>
+		<key>ip5</key>
+		<string>0.9256</string>
+		<key>iw5</key>
+		<string>63.927970</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>29</integer>
+		<key>aw</key>
+		<string>63.545644</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>63Cu</string>
+		<key>ip1</key>
+		<string>69.17</string>
+		<key>iw1</key>
+		<string>62.929601</string>
+		
+		<key>iname2</key>
+		<string>65Cu</string>
+		<key>ip2</key>
+		<string>30.83</string>
+		<key>iw2</key>
+		<string>64.927794</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>30</integer>
+		<key>aw</key>
+		<string>65.395567</string>
+		<key>atomicicoint</key>
+		<integer>5</integer>		
+		
+		<key>iname1</key>
+		<string>64</string>
+		<key>ip1</key>
+		<string>48.63</string>
+		<key>iw1</key>
+		<string>63.929147</string>
+		
+		<key>iname2</key>
+		<string>66</string>
+		<key>ip2</key>
+		<string>27.9</string>
+		<key>iw2</key>
+		<string>65.926037</string>
+		
+		<key>iname3</key>
+		<string>67</string>
+		<key>ip3</key>
+		<string>4.1</string>
+		<key>iw3</key>
+		<string>66.927131</string>
+		
+		<key>iname4</key>
+		<string>68</string>
+		<key>ip4</key>
+		<string>18.75</string>
+		<key>iw4</key>
+		<string>67.924848</string>
+		
+		<key>iname5</key>
+		<string>70</string>
+		<key>ip5</key>
+		<string>0.62</string>
+		<key>iw5</key>
+		<string>69.925325</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>31</integer>
+		<key>aw</key>
+		<string>69.723072</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>69Ga</string>
+		<key>ip1</key>
+		<string>60.108</string>
+		<key>iw1</key>
+		<string>68.925581</string>
+		
+		<key>iname2</key>
+		<string>71Ga</string>
+		<key>ip2</key>
+		<string>39.892</string>
+		<key>iw2</key>
+		<string>70.924705</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>32</integer>
+		<key>aw</key>
+		<string>72.612759</string>
+		<key>atomicicoint</key>
+		<integer>5</integer>		
+		
+		<key>iname1</key>
+		<string>70Ge</string>
+		<key>ip1</key>
+		<string>20.84</string>
+		<key>iw1</key>
+		<string>69.924250</string>
+		
+		<key>iname2</key>
+		<string>72Ge</string>
+		<key>ip2</key>
+		<string>27.54</string>
+		<key>iw2</key>
+		<string>71.922076</string>
+		
+		<key>iname3</key>
+		<string>73Ge</string>
+		<key>ip3</key>
+		<string>7.73</string>
+		<key>iw3</key>
+		<string>72.923459</string>
+		
+		<key>iname4</key>
+		<string>74Ge</string>
+		<key>ip4</key>
+		<string>36.28</string>
+		<key>iw4</key>
+		<string>73.921178</string>
+		
+		<key>iname5</key>
+		<string>76Ge</string>
+		<key>ip5</key>
+		<string>7.61</string>
+		<key>iw5</key>
+		<string>75.921403</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>33</integer>
+		<key>aw</key>
+		<string>74.921596</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>75As</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>74.921596</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>34</integer>
+		<key>aw</key>
+		<string>78.959389</string>
+		<key>atomicicoint</key>
+		<integer>6</integer>		
+		
+		<key>iname1</key>
+		<string>74Se</string>
+		<key>ip1</key>
+		<string>0.89</string>
+		<key>iw1</key>
+		<string>73.922477</string>
+		
+		<key>iname2</key>
+		<string>76Se</string>
+		<key>ip2</key>
+		<string>9.37</string>
+		<key>iw2</key>
+		<string>75.919214</string>
+		
+		<key>iname3</key>
+		<string>77Se</string>
+		<key>ip3</key>
+		<string>7.63</string>
+		<key>iw3</key>
+		<string>76.919915</string>
+		
+		<key>iname4</key>
+		<string>78Se</string>
+		<key>ip4</key>
+		<string>23.77</string>
+		<key>iw4</key>
+		<string>77.917310</string>
+		
+		<key>iname5</key>
+		<string>80Se</string>
+		<key>ip5</key>
+		<string>49.61</string>
+		<key>iw5</key>
+		<string>79.916522</string>
+		
+		<key>iname6</key>
+		<string>82Se</string>
+		<key>ip6</key>
+		<string>8.73</string>
+		<key>iw6</key>
+		<string>81.916700</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>35</integer>
+		<key>aw</key>
+		<string>79.903528</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>79Br</string>
+		<key>ip1</key>
+		<string>50.69</string>
+		<key>iw1</key>
+		<string>78.918338</string>
+		
+		<key>iname2</key>
+		<string>81Br</string>
+		<key>ip2</key>
+		<string>49.31</string>
+		<key>iw2</key>
+		<string>80.916291</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>36</integer>
+		<key>aw</key>
+		<string>83.799325</string>
+		<key>atomicicoint</key>
+		<integer>6</integer>		
+		
+		<key>iname1</key>
+		<string>78Kr</string>
+		<key>ip1</key>
+		<string>0.35</string>
+		<key>iw1</key>
+		<string>77.920386</string>
+		
+		<key>iname2</key>
+		<string>80Kr</string>
+		<key>ip2</key>
+		<string>2.28</string>
+		<key>iw2</key>
+		<string>79.916378</string>
+		
+		<key>iname3</key>
+		<string>82Kr</string>
+		<key>ip3</key>
+		<string>11.58</string>
+		<key>iw3</key>
+		<string>81.913485</string>
+		
+		<key>iname4</key>
+		<string>84Kr</string>
+		<key>ip4</key>
+		<string>11.49</string>
+		<key>iw4</key>
+		<string>82.914136</string>
+		
+		<key>iname5</key>
+		<string>86Kr</string>
+		<key>ip5</key>
+		<string>57</string>
+		<key>iw5</key>
+		<string>83.911507</string>
+		
+		<key>iname6</key>
+		<string>88Kr</string>
+		<key>ip6</key>
+		<string>17.3</string>
+		<key>iw6</key>
+		<string>85.910610</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>37</integer>
+		<key>aw</key>
+		<string>85.467664</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>85Rb</string>
+		<key>ip1</key>
+		<string>72.17</string>
+		<key>iw1</key>
+		<string>84.911789</string>
+		
+		<key>iname2</key>
+		<string>87Rb</string>
+		<key>ip2</key>
+		<string>27.83</string>
+		<key>iw2</key>
+		<string>86.909183</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>38</integer>
+		<key>aw</key>
+		<string>87.616646</string>
+		<key>atomicicoint</key>
+		<integer>4</integer>		
+		
+		<key>iname1</key>
+		<string>84Sr</string>
+		<key>ip1</key>
+		<string>0.56</string>
+		<key>iw1</key>
+		<string>83.913425</string>
+		
+		<key>iname2</key>
+		<string>86Sr</string>
+		<key>ip2</key>
+		<string>9.86</string>
+		<key>iw2</key>
+		<string>85.909262</string>
+		
+		<key>iname3</key>
+		<string>87Sr</string>
+		<key>ip3</key>
+		<string>7</string>
+		<key>iw3</key>
+		<string>86.908879</string>
+		
+		<key>iname4</key>
+		<string>88Sr</string>
+		<key>ip4</key>
+		<string>82.58</string>
+		<key>iw4</key>
+		<string>87.905614</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>39</integer>
+		<key>aw</key>
+		<string>88.905848</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>89Y</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>88.905848</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>40</integer>
+		<key>aw</key>
+		<string>91.223647</string>
+		<key>atomicicoint</key>
+		<integer>5</integer>		
+		
+		<key>iname1</key>
+		<string>90Zr</string>
+		<key>ip1</key>
+		<string>51.45</string>
+		<key>iw1</key>
+		<string>89.904704</string>
+		
+		<key>iname2</key>
+		<string>91Zr</string>
+		<key>ip2</key>
+		<string>11.22</string>
+		<key>iw2</key>
+		<string>90.905645</string>
+		
+		<key>iname3</key>
+		<string>92Zr</string>
+		<key>ip3</key>
+		<string>17.15</string>
+		<key>iw3</key>
+		<string>91.905040</string>
+		
+		<key>iname4</key>
+		<string>94Zr</string>
+		<key>ip4</key>
+		<string>17.38</string>
+		<key>iw4</key>
+		<string>93.906316</string>
+		
+		<key>iname5</key>
+		<string>96Zr</string>
+		<key>ip5</key>
+		<string>2.8</string>
+		<key>iw5</key>
+		<string>95.908276</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>41</integer>
+		<key>aw</key>
+		<string>92.906378</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>93Nb</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>92.906378</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>42</integer>
+		<key>aw</key>
+		<string>95.931292</string>
+		<key>atomicicoint</key>
+		<integer>7</integer>		
+		
+		<key>iname1</key>
+		<string>92Mo</string>
+		<key>ip1</key>
+		<string>14.84</string>
+		<key>iw1</key>
+		<string>91.906810</string>
+		
+		<key>iname2</key>
+		<string>94Mo</string>
+		<key>ip2</key>
+		<string>9.25</string>
+		<key>iw2</key>
+		<string>93.905088</string>
+		
+		<key>iname3</key>
+		<string>95Mo</string>
+		<key>ip3</key>
+		<string>15.92</string>
+		<key>iw3</key>
+		<string>94.905841</string>
+		
+		<key>iname4</key>
+		<string>96Mo</string>
+		<key>ip4</key>
+		<string>16.68</string>
+		<key>iw4</key>
+		<string>95.904679</string>
+		
+		<key>iname5</key>
+		<string>97Mo</string>
+		<key>ip5</key>
+		<string>9.55</string>
+		<key>iw5</key>
+		<string>96.906021</string>
+		
+		<key>iname6</key>
+		<string>98Mo</string>
+		<key>ip6</key>
+		<string>24.13</string>
+		<key>iw6</key>
+		<string>97.905408</string>
+		
+		<key>iname7</key>
+		<string>100Mo</string>
+		<key>ip7</key>
+		<string>9.63</string>
+		<key>iw7</key>
+		<string>99.907477</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>43</integer>
+		<key>aw</key>
+		<string>98.906255</string>
+		<key>atomicicoint</key>
+		<integer>3</integer>		
+		
+		<key>iname1</key>
+		<string>97Tc</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>96.906365</string>
+		
+		<key>iname2</key>
+		<string>98Tc</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>97.907216</string>
+		
+		<key>iname3</key>
+		<string>99Tc</string>
+		<key>ip3</key>
+		<string>0</string>
+		<key>iw3</key>
+		<string>98.906255</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>44</integer>
+		<key>aw</key>
+		<string>101.064945</string>
+		<key>atomicicoint</key>
+		<integer>7</integer>		
+		
+		<key>iname1</key>
+		<string>96Ru</string>
+		<key>ip1</key>
+		<string>5.54</string>
+		<key>iw1</key>
+		<string>95.907598</string>
+		
+		<key>iname2</key>
+		<string>98Ru</string>
+		<key>ip2</key>
+		<string>1.87</string>
+		<key>iw2</key>
+		<string>97.905287</string>
+		
+		<key>iname3</key>
+		<string>99Ru</string>
+		<key>ip3</key>
+		<string>12.76</string>
+		<key>iw3</key>
+		<string>98.905939</string>
+		
+		<key>iname4</key>
+		<string>100Ru</string>
+		<key>ip4</key>
+		<string>12.6</string>
+		<key>iw4</key>
+		<string>99.904220</string>
+		
+		<key>iname5</key>
+		<string>101Ru</string>
+		<key>ip5</key>
+		<string>17.06</string>
+		<key>iw5</key>
+		<string>100.905582</string>
+		
+		<key>iname6</key>
+		<string>102Ru</string>
+		<key>ip6</key>
+		<string>31.55</string>
+		<key>iw6</key>
+		<string>101.904349</string>
+		
+		<key>iname7</key>
+		<string>104Ru</string>
+		<key>ip7</key>
+		<string>18.62</string>
+		<key>iw7</key>
+		<string>103.905430</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>45</integer>
+		<key>aw</key>
+		<string>102.905504</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>103Rh</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>102.905504</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>46</integer>
+		<key>aw</key>
+		<string>106.415328</string>
+		<key>atomicicoint</key>
+		<integer>6</integer>		
+		
+		<key>iname1</key>
+		<string>102Pd</string>
+		<key>ip1</key>
+		<string>1.02</string>
+		<key>iw1</key>
+		<string>101.905608</string>
+		
+		<key>iname2</key>
+		<string>104Pd</string>
+		<key>ip2</key>
+		<string>11.14</string>
+		<key>iw2</key>
+		<string>103.904035</string>
+		
+		<key>iname3</key>
+		<string>105Pd</string>
+		<key>ip3</key>
+		<string>22.33</string>
+		<key>iw3</key>
+		<string>104.905084</string>
+		
+		<key>iname4</key>
+		<string>106Pd</string>
+		<key>ip4</key>
+		<string>27.33</string>
+		<key>iw4</key>
+		<string>105.903483</string>
+		
+		<key>iname5</key>
+		<string>108Pd</string>
+		<key>ip5</key>
+		<string>26.46</string>
+		<key>iw5</key>
+		<string>107.903894</string>
+		
+		<key>iname6</key>
+		<string>110Pd</string>
+		<key>ip6</key>
+		<string>11.72</string>
+		<key>iw6</key>
+		<string>109.905152</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>47</integer>
+		<key>aw</key>
+		<string>107.868151</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>107Ag</string>
+		<key>ip1</key>
+		<string>51.839</string>
+		<key>iw1</key>
+		<string>106.905093</string>
+		
+		<key>iname2</key>
+		<string>109Ag</string>
+		<key>ip2</key>
+		<string>48.161</string>
+		<key>iw2</key>
+		<string>108.904756</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>48</integer>
+		<key>aw</key>
+		<string>112.411553</string>
+		<key>atomicicoint</key>
+		<integer>8</integer>		
+		
+		<key>iname1</key>
+		<string>106Cd</string>
+		<key>ip1</key>
+		<string>1.25</string>
+		<key>iw1</key>
+		<string>105.906458</string>
+		
+		<key>iname2</key>
+		<string>108Cd</string>
+		<key>ip2</key>
+		<string>0.89</string>
+		<key>iw2</key>
+		<string>107.904183</string>
+		
+		<key>iname3</key>
+		<string>110Cd</string>
+		<key>ip3</key>
+		<string>12.49</string>
+		<key>iw3</key>
+		<string>109.903006</string>
+		
+		<key>iname4</key>
+		<string>111Cd</string>
+		<key>ip4</key>
+		<string>12.8</string>
+		<key>iw4</key>
+		<string>110.904182</string>
+		
+		<key>iname5</key>
+		<string>112Cd</string>
+		<key>ip5</key>
+		<string>24.13</string>
+		<key>iw5</key>
+		<string>111.902757</string>
+		
+		<key>iname6</key>
+		<string>113Cd</string>
+		<key>ip6</key>
+		<string>12.22</string>
+		<key>iw6</key>
+		<string>112.904401</string>
+		
+		<key>iname7</key>
+		<string>114Cd</string>
+		<key>ip7</key>
+		<string>28.73</string>
+		<key>iw7</key>
+		<string>113.903358</string>
+		
+		<key>iname8</key>
+		<string>116Cd</string>
+		<key>ip8</key>
+		<string>7.49</string>
+		<key>iw8</key>
+		<string>115.904755</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>49</integer>
+		<key>aw</key>
+		<string>114.818086</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>113In</string>
+		<key>ip1</key>
+		<string>4.29</string>
+		<key>iw1</key>
+		<string>112.904061</string>
+		
+		<key>iname2</key>
+		<string>115In</string>
+		<key>ip2</key>
+		<string>95.71</string>
+		<key>iw2</key>
+		<string>114.903878</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>50</integer>
+		<key>aw</key>
+		<string>118.710110</string>
+		<key>atomicicoint</key>
+		<integer>10</integer>		
+		
+		<key>iname1</key>
+		<string>112Sn</string>
+		<key>ip1</key>
+		<string>0.97</string>
+		<key>iw1</key>
+		<string>111.904821</string>
+		
+		<key>iname2</key>
+		<string>114Sn</string>
+		<key>ip2</key>
+		<string>0.66</string>
+		<key>iw2</key>
+		<string>113.902782</string>
+		
+		<key>iname3</key>
+		<string>115Sn</string>
+		<key>ip3</key>
+		<string>0.34</string>
+		<key>iw3</key>
+		<string>114.903346</string>
+		
+		<key>iname4</key>
+		<string>116Sn</string>
+		<key>ip4</key>
+		<string>14.54</string>
+		<key>iw4</key>
+		<string>115.901744</string>
+		
+		<key>iname5</key>
+		<string>117Sn</string>
+		<key>ip5</key>
+		<string>7.68</string>
+		<key>iw5</key>
+		<string>116.902954</string>
+		
+		<key>iname6</key>
+		<string>118Sn</string>
+		<key>ip6</key>
+		<string>24.22</string>
+		<key>iw6</key>
+		<string>117.901606</string>
+		
+		<key>iname7</key>
+		<string>119Sn</string>
+		<key>ip7</key>
+		<string>8.59</string>
+		<key>iw7</key>
+		<string>118.903309</string>
+		
+		<key>iname8</key>
+		<string>120Sn</string>
+		<key>ip8</key>
+		<string>32.58</string>
+		<key>iw8</key>
+		<string>119.902197</string>
+		
+		<key>iname9</key>
+		<string>122Sn</string>
+		<key>ip9</key>
+		<string>4.63</string>
+		<key>iw9</key>
+		<string>121.903440</string>
+		
+		<key>iname10</key>
+		<string>124Sn</string>
+		<key>ip10</key>
+		<string>5.79</string>
+		<key>iw10</key>
+		<string>123.905275</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>51</integer>
+		<key>aw</key>
+		<string>121.759788</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>121Sb</string>
+		<key>ip1</key>
+		<string>52.71</string>
+		<key>iw1</key>
+		<string>120.903818</string>
+		
+		<key>iname2</key>
+		<string>123Sb</string>
+		<key>ip2</key>
+		<string>42.79</string>
+		<key>iw2</key>
+		<string>122.904216</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>52</integer>
+		<key>aw</key>
+		<string>127.603125</string>
+		<key>atomicicoint</key>
+		<integer>8</integer>		
+		
+		<key>iname1</key>
+		<string>120Te</string>
+		<key>ip1</key>
+		<string>0.09</string>
+		<key>iw1</key>
+		<string>119.904020</string>
+		
+		<key>iname2</key>
+		<string>122Te</string>
+		<key>ip2</key>
+		<string>2.55</string>
+		<key>iw2</key>
+		<string>121.903047</string>
+		
+		<key>iname3</key>
+		<string>123Te</string>
+		<key>ip3</key>
+		<string>0.89</string>
+		<key>iw3</key>
+		<string>122.904273</string>
+		
+		<key>iname4</key>
+		<string>124Te</string>
+		<key>ip4</key>
+		<string>4.74</string>
+		<key>iw4</key>
+		<string>123.902820</string>
+		
+		<key>iname5</key>
+		<string>125Te</string>
+		<key>ip5</key>
+		<string>7.07</string>
+		<key>iw5</key>
+		<string>124.904425</string>
+		
+		<key>iname6</key>
+		<string>126Te</string>
+		<key>ip6</key>
+		<string>18.84</string>
+		<key>iw6</key>
+		<string>125.903306</string>
+		
+		<key>iname7</key>
+		<string>128Te</string>
+		<key>ip7</key>
+		<string>31.74</string>
+		<key>iw7</key>
+		<string>127.904461</string>
+		
+		<key>iname8</key>
+		<string>130Te</string>
+		<key>ip8</key>
+		<string>34.08</string>
+		<key>iw8</key>
+		<string>129.906223</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>53</integer>
+		<key>aw</key>
+		<string>126.904468</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>127I</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>126.904468</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>54</integer>
+		<key>aw</key>
+		<string>131.292481</string>
+		<key>atomicicoint</key>
+		<integer>9</integer>		
+		
+		<key>iname1</key>
+		<string>124</string>
+		<key>ip1</key>
+		<string>0.09</string>
+		<key>iw1</key>
+		<string>123.905896</string>
+		
+		<key>iname2</key>
+		<string>126</string>
+		<key>ip2</key>
+		<string>0.09</string>
+		<key>iw2</key>
+		<string>125.904269</string>
+		
+		<key>iname3</key>
+		<string>128</string>
+		<key>ip3</key>
+		<string>1.92</string>
+		<key>iw3</key>
+		<string>127.903530</string>
+		
+		<key>iname4</key>
+		<string>129</string>
+		<key>ip4</key>
+		<string>26.44</string>
+		<key>iw4</key>
+		<string>128.904779</string>
+		
+		<key>iname5</key>
+		<string>130</string>
+		<key>ip5</key>
+		<string>4.08</string>
+		<key>iw5</key>
+		<string>129.903508</string>
+		
+		<key>iname6</key>
+		<string>131</string>
+		<key>ip6</key>
+		<string>21.18</string>
+		<key>iw6</key>
+		<string>130.905082</string>
+		
+		<key>iname7</key>
+		<string>132</string>
+		<key>ip7</key>
+		<string>26.89</string>
+		<key>iw7</key>
+		<string>131.904155</string>
+		
+		<key>iname8</key>
+		<string>134</string>
+		<key>ip8</key>
+		<string>10.44</string>
+		<key>iw8</key>
+		<string>133.905394</string>
+		
+		<key>iname9</key>
+		<string>136</string>
+		<key>ip9</key>
+		<string>8.87</string>
+		<key>iw9</key>
+		<string>135.907220</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>55</integer>
+		<key>aw</key>
+		<string>132.905447</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>133Cs</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>132.905447</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>56</integer>
+		<key>aw</key>
+		<string>137.326886</string>
+		<key>atomicicoint</key>
+		<integer>7</integer>		
+		
+		<key>iname1</key>
+		<string>129Ba</string>
+		<key>ip1</key>
+		<string>0.106</string>
+		<key>iw1</key>
+		<string>129.906310</string>
+		
+		<key>iname2</key>
+		<string>131Ba</string>
+		<key>ip2</key>
+		<string>0.101</string>
+		<key>iw2</key>
+		<string>131.905056</string>
+		
+		<key>iname3</key>
+		<string>133Ba</string>
+		<key>ip3</key>
+		<string>2.417</string>
+		<key>iw3</key>
+		<string>133.904503</string>
+		
+		<key>iname4</key>
+		<string>134Ba</string>
+		<key>ip4</key>
+		<string>6.592</string>
+		<key>iw4</key>
+		<string>134.905683</string>
+		
+		<key>iname5</key>
+		<string>135Ba</string>
+		<key>ip5</key>
+		<string>7.854</string>
+		<key>iw5</key>
+		<string>135.904570</string>
+		
+		<key>iname6</key>
+		<string>136Ba</string>
+		<key>ip6</key>
+		<string>11.232</string>
+		<key>iw6</key>
+		<string>136.905821</string>
+		
+		<key>iname7</key>
+		<string>137Ba</string>
+		<key>ip7</key>
+		<string>71.698</string>
+		<key>iw7</key>
+		<string>137.905241</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>57</integer>
+		<key>aw</key>
+		<string>138.905449</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>138La</string>
+		<key>ip1</key>
+		<string>0.09</string>
+		<key>iw1</key>
+		<string>137.907107</string>
+		
+		<key>iname2</key>
+		<string>139La</string>
+		<key>ip2</key>
+		<string>99.91</string>
+		<key>iw2</key>
+		<string>138.906348</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>58</integer>
+		<key>aw</key>
+		<string>140.115722</string>
+		<key>atomicicoint</key>
+		<integer>4</integer>		
+		
+		<key>iname1</key>
+		<string>136Ce</string>
+		<key>ip1</key>
+		<string>0.185</string>
+		<key>iw1</key>
+		<string>135.907140</string>
+		
+		<key>iname2</key>
+		<string>138Ce</string>
+		<key>ip2</key>
+		<string>0.251</string>
+		<key>iw2</key>
+		<string>137.905986</string>
+		
+		<key>iname3</key>
+		<string>140Ce</string>
+		<key>ip3</key>
+		<string>88.45</string>
+		<key>iw3</key>
+		<string>139.905434</string>
+		
+		<key>iname4</key>
+		<string>142Ce</string>
+		<key>ip4</key>
+		<string>11.114</string>
+		<key>iw4</key>
+		<string>141.909240</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>59</integer>
+		<key>aw</key>
+		<string>140.907648</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>141Pr</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string></string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>60</integer>
+		<key>aw</key>
+		<string>144.236127</string>
+		<key>atomicicoint</key>
+		<integer>7</integer>		
+		
+		<key>iname1</key>
+		<string>142Nd</string>
+		<key>ip1</key>
+		<string>27.2</string>
+		<key>iw1</key>
+		<string>141.907719</string>
+		
+		<key>iname2</key>
+		<string>143Nd</string>
+		<key>ip2</key>
+		<string>12.2</string>
+		<key>iw2</key>
+		<string>142.909810</string>
+		
+		<key>iname3</key>
+		<string>144Nd</string>
+		<key>ip3</key>
+		<string>23.8</string>
+		<key>iw3</key>
+		<string>143.910083</string>
+		
+		<key>iname4</key>
+		<string>145Nd</string>
+		<key>ip4</key>
+		<string>8.3</string>
+		<key>iw4</key>
+		<string>144.912569</string>
+		
+		<key>iname5</key>
+		<string>146Nd</string>
+		<key>ip5</key>
+		<string>17.2</string>
+		<key>iw5</key>
+		<string>145.913112</string>
+		
+		<key>iname6</key>
+		<string>148Nd</string>
+		<key>ip6</key>
+		<string>5.7</string>
+		<key>iw6</key>
+		<string>147.916889</string>
+		
+		<key>iname7</key>
+		<string>150Nd</string>
+		<key>ip7</key>
+		<string>5.6</string>
+		<key>iw7</key>
+		<string>149.920887</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>61</integer>
+		<key>aw</key>
+		<string>[145]</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>145Pm</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>144.912744</string>
+		
+		<key>iname2</key>
+		<string>147Pm</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>146.915134</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>62</integer>
+		<key>aw</key>
+		<string>150.366344</string>
+		<key>atomicicoint</key>
+		<integer>7</integer>		
+		
+		<key>iname1</key>
+		<string>144Sm</string>
+		<key>ip1</key>
+		<string>3.07</string>
+		<key>iw1</key>
+		<string>143.911995</string>
+		
+		<key>iname2</key>
+		<string>147Sm</string>
+		<key>ip2</key>
+		<string>14.99</string>
+		<key>iw2</key>
+		<string>146.914893</string>
+		
+		<key>iname3</key>
+		<string>148Sm</string>
+		<key>ip3</key>
+		<string>11.24</string>
+		<key>iw3</key>
+		<string>147.914818</string>
+		
+		<key>iname4</key>
+		<string>149Sm</string>
+		<key>ip4</key>
+		<string>13.82</string>
+		<key>iw4</key>
+		<string>148.917180</string>
+		
+		<key>iname5</key>
+		<string>150Sm</string>
+		<key>ip5</key>
+		<string>7.38</string>
+		<key>iw5</key>
+		<string>149.917271</string>
+		
+		<key>iname6</key>
+		<string>152Sm</string>
+		<key>ip6</key>
+		<string>26.75</string>
+		<key>iw6</key>
+		<string>151.919728</string>
+		
+		<key>iname7</key>
+		<string>154Sm</string>
+		<key>ip7</key>
+		<string>22.75</string>
+		<key>iw7</key>
+		<string>153.922205</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>63</integer>
+		<key>aw</key>
+		<string>151.964366</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>151Eu</string>
+		<key>ip1</key>
+		<string>47.81</string>
+		<key>iw1</key>
+		<string>150.919846</string>
+		
+		<key>iname2</key>
+		<string>153Eu</string>
+		<key>ip2</key>
+		<string>52.19</string>
+		<key>iw2</key>
+		<string>152.921226</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>64</integer>
+		<key>aw</key>
+		<string>157.252119</string>
+		<key>atomicicoint</key>
+		<integer>7</integer>		
+		
+		<key>iname1</key>
+		<string>152Gd</string>
+		<key>ip1</key>
+		<string>0.2</string>
+		<key>iw1</key>
+		<string>151.919788</string>
+		
+		<key>iname2</key>
+		<string>154Gd</string>
+		<key>ip2</key>
+		<string>2.18</string>
+		<key>iw2</key>
+		<string>153.920862</string>
+		
+		<key>iname3</key>
+		<string>155Gd</string>
+		<key>ip3</key>
+		<string>14.8</string>
+		<key>iw3</key>
+		<string>154.922619</string>
+		
+		<key>iname4</key>
+		<string>156Gd</string>
+		<key>ip4</key>
+		<string>20.47</string>
+		<key>iw4</key>
+		<string>155.922120</string>
+		
+		<key>iname5</key>
+		<string>157Gd</string>
+		<key>ip5</key>
+		<string>15.65</string>
+		<key>iw5</key>
+		<string>156.923957</string>
+		
+		<key>iname6</key>
+		<string>158Gd</string>
+		<key>ip6</key>
+		<string>24.84</string>
+		<key>iw6</key>
+		<string>157.924101</string>
+		
+		<key>iname7</key>
+		<string>160Gd</string>
+		<key>ip7</key>
+		<string>21.86</string>
+		<key>iw7</key>
+		<string>159.927051</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>65</integer>
+		<key>aw</key>
+		<string>158.925343</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>159Tb</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>158.925343</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>66</integer>
+		<key>aw</key>
+		<string>162.497030</string>
+		<key>atomicicoint</key>
+		<integer>7</integer>		
+		
+		<key>iname1</key>
+		<string>156Dy</string>
+		<key>ip1</key>
+		<string>0.06</string>
+		<key>iw1</key>
+		<string>155.924278</string>
+		
+		<key>iname2</key>
+		<string>158Dy</string>
+		<key>ip2</key>
+		<string>0.1</string>
+		<key>iw2</key>
+		<string>157.924405</string>
+		
+		<key>iname3</key>
+		<string>160Dy</string>
+		<key>ip3</key>
+		<string>2.34</string>
+		<key>iw3</key>
+		<string>159.925194</string>
+		
+		<key>iname4</key>
+		<string>161Dy</string>
+		<key>ip4</key>
+		<string>18.91</string>
+		<key>iw4</key>
+		<string>160.926930</string>
+		
+		<key>iname5</key>
+		<string>162Dy</string>
+		<key>ip5</key>
+		<string>25.51</string>
+		<key>iw5</key>
+		<string>161.926795</string>
+		
+		<key>iname6</key>
+		<string>163Dy</string>
+		<key>ip6</key>
+		<string>24.9</string>
+		<key>iw6</key>
+		<string>162.928728</string>
+		
+		<key>iname7</key>
+		<string>164Dy</string>
+		<key>ip7</key>
+		<string>28.18</string>
+		<key>iw7</key>
+		<string>163.929171</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>67</integer>
+		<key>aw</key>
+		<string>164.930319</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>165Ho</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>164.930319</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>68</integer>
+		<key>aw</key>
+		<string>167.256301</string>
+		<key>atomicicoint</key>
+		<integer>6</integer>		
+		
+		<key>iname1</key>
+		<string>162Er</string>
+		<key>ip1</key>
+		<string>0.14</string>
+		<key>iw1</key>
+		<string>161.928775</string>
+		
+		<key>iname2</key>
+		<string>164Er</string>
+		<key>ip2</key>
+		<string>1.61</string>
+		<key>iw2</key>
+		<string>163.929197</string>
+		
+		<key>iname3</key>
+		<string>166Er</string>
+		<key>ip3</key>
+		<string>33.61</string>
+		<key>iw3</key>
+		<string>165.930290</string>
+		
+		<key>iname4</key>
+		<string>167Er</string>
+		<key>ip4</key>
+		<string>22.93</string>
+		<key>iw4</key>
+		<string>166.932045</string>
+		
+		<key>iname5</key>
+		<string>168Er</string>
+		<key>ip5</key>
+		<string>26.78</string>
+		<key>iw5</key>
+		<string>167.932368</string>
+		
+		<key>iname6</key>
+		<string>170Er</string>
+		<key>ip6</key>
+		<string>14.93</string>
+		<key>iw6</key>
+		<string>169.935460</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>69</integer>
+		<key>aw</key>
+		<string>168.934211</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>169Tm</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>168.934211</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>70</integer>
+		<key>aw</key>
+		<string>173.037692</string>
+		<key>atomicicoint</key>
+		<integer>7</integer>		
+		
+		<key>iname1</key>
+		<string>168Yb</string>
+		<key>ip1</key>
+		<string>0.13</string>
+		<key>iw1</key>
+		<string>167.933894</string>
+		
+		<key>iname2</key>
+		<string>170Yb</string>
+		<key>ip2</key>
+		<string>3.04</string>
+		<key>iw2</key>
+		<string>169.934759</string>
+		
+		<key>iname3</key>
+		<string>171Yb</string>
+		<key>ip3</key>
+		<string>14.28</string>
+		<key>iw3</key>
+		<string>170.936322</string>
+		
+		<key>iname4</key>
+		<string>172Yb</string>
+		<key>ip4</key>
+		<string>21.83</string>
+		<key>iw4</key>
+		<string>171.936378</string>
+		
+		<key>iname5</key>
+		<string>173Yb</string>
+		<key>ip5</key>
+		<string>16.13</string>
+		<key>iw5</key>
+		<string>172.938207</string>
+		
+		<key>iname6</key>
+		<string>174Yb</string>
+		<key>ip6</key>
+		<string>31.83</string>
+		<key>iw6</key>
+		<string>173.938858</string>
+		
+		<key>iname7</key>
+		<string>176Yb</string>
+		<key>ip7</key>
+		<string>12.76</string>
+		<key>iw7</key>
+		<string>175.942568</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>71</integer>
+		<key>aw</key>
+		<string>174.966717</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>175Lu</string>
+		<key>ip1</key>
+		<string>97.41</string>
+		<key>iw1</key>
+		<string>174.940768</string>
+		
+		<key>iname2</key>
+		<string>176Lu</string>
+		<key>ip2</key>
+		<string>2.59</string>
+		<key>iw2</key>
+		<string>175.942682</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>72</integer>
+		<key>aw</key>
+		<string>178.484971</string>
+		<key>atomicicoint</key>
+		<integer>6</integer>		
+		
+		<key>iname1</key>
+		<string>174Hf</string>
+		<key>ip1</key>
+		<string>0.16</string>
+		<key>iw1</key>
+		<string>173.940040</string>
+		
+		<key>iname2</key>
+		<string>176Hf</string>
+		<key>ip2</key>
+		<string>5.26</string>
+		<key>iw2</key>
+		<string>175.941402</string>
+		
+		<key>iname3</key>
+		<string>177Hf</string>
+		<key>ip3</key>
+		<string>18.6</string>
+		<key>iw3</key>
+		<string>176.943220</string>
+		
+		<key>iname4</key>
+		<string>178Hf</string>
+		<key>ip4</key>
+		<string>27.28</string>
+		<key>iw4</key>
+		<string>177.943698</string>
+		
+		<key>iname5</key>
+		<string>179Hf</string>
+		<key>ip5</key>
+		<string>13.62</string>
+		<key>iw5</key>
+		<string>178.945815</string>
+		
+		<key>iname6</key>
+		<string>180Hf</string>
+		<key>ip6</key>
+		<string>35.08</string>
+		<key>iw6</key>
+		<string>179.946549</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>73</integer>
+		<key>aw</key>
+		<string>180.947876</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>180Ta</string>
+		<key>ip1</key>
+		<string>0.012</string>
+		<key>iw1</key>
+		<string>179.947466</string>
+		
+		<key>iname2</key>
+		<string>181Ta</string>
+		<key>ip2</key>
+		<string>99.988</string>
+		<key>iw2</key>
+		<string>180.947996</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>74</integer>
+		<key>aw</key>
+		<string>183.841779</string>
+		<key>atomicicoint</key>
+		<integer>5</integer>		
+		
+		<key>iname1</key>
+		<string>180W</string>
+		<key>ip1</key>
+		<string>0.12</string>
+		<key>iw1</key>
+		<string>179.946706</string>
+		
+		<key>iname2</key>
+		<string>182W</string>
+		<key>ip2</key>
+		<string>26.5</string>
+		<key>iw2</key>
+		<string>181.948206</string>
+		
+		<key>iname3</key>
+		<string>183W</string>
+		<key>ip3</key>
+		<string>14.31</string>
+		<key>iw3</key>
+		<string>182.950224</string>
+		
+		<key>iname4</key>
+		<string>184W</string>
+		<key>ip4</key>
+		<string>30.64</string>
+		<key>iw4</key>
+		<string>183.950933</string>
+		
+		<key>iname5</key>
+		<string>186W</string>
+		<key>ip5</key>
+		<string>28.43</string>
+		<key>iw5</key>
+		<string>185.954362</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>75</integer>
+		<key>aw</key>
+		<string>186.206705</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>185Re</string>
+		<key>ip1</key>
+		<string>37.4</string>
+		<key>iw1</key>
+		<string>184.952956</string>
+		
+		<key>iname2</key>
+		<string>187Re</string>
+		<key>ip2</key>
+		<string>62.6</string>
+		<key>iw2</key>
+		<string>186.955751</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>76</integer>
+		<key>aw</key>
+		<string>190.224861</string>
+		<key>atomicicoint</key>
+		<integer>7</integer>		
+		
+		<key>iname1</key>
+		<string>184Os</string>
+		<key>ip1</key>
+		<string>0.02</string>
+		<key>iw1</key>
+		<string>183.952491</string>
+		
+		<key>iname2</key>
+		<string>186Os</string>
+		<key>ip2</key>
+		<string>1.59</string>
+		<key>iw2</key>
+		<string>185.953838</string>
+		
+		<key>iname3</key>
+		<string>187Os</string>
+		<key>ip3</key>
+		<string>1.96</string>
+		<key>iw3</key>
+		<string>186.955748</string>
+		
+		<key>iname4</key>
+		<string>188Os</string>
+		<key>ip4</key>
+		<string>13.24</string>
+		<key>iw4</key>
+		<string>187.955836</string>
+		
+		<key>iname5</key>
+		<string>189Os</string>
+		<key>ip5</key>
+		<string>16.15</string>
+		<key>iw5</key>
+		<string>188.958145</string>
+		
+		<key>iname6</key>
+		<string>190Os</string>
+		<key>ip6</key>
+		<string>26.26</string>
+		<key>iw6</key>
+		<string>189.958445</string>
+		
+		<key>iname7</key>
+		<string>192Os</string>
+		<key>ip7</key>
+		<string>40.78</string>
+		<key>iw7</key>
+		<string>191.961479</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>77</integer>
+		<key>aw</key>
+		<string>192.216054</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>191Ir</string>
+		<key>ip1</key>
+		<string>37.3</string>
+		<key>iw1</key>
+		<string>190.960591</string>
+		
+		<key>iname2</key>
+		<string>193Ir</string>
+		<key>ip2</key>
+		<string>62.7</string>
+		<key>iw2</key>
+		<string>192.962924</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>78</integer>
+		<key>aw</key>
+		<string>195.077791</string>
+		<key>atomicicoint</key>
+		<integer>6</integer>		
+		
+		<key>iname1</key>
+		<string>190Pt</string>
+		<key>ip1</key>
+		<string>0.014</string>
+		<key>iw1</key>
+		<string>189.959930</string>
+		
+		<key>iname2</key>
+		<string>192Pt</string>
+		<key>ip2</key>
+		<string>0.782</string>
+		<key>iw2</key>
+		<string>191.961035</string>
+		
+		<key>iname3</key>
+		<string>194Pt</string>
+		<key>ip3</key>
+		<string>32.967</string>
+		<key>iw3</key>
+		<string>193.962664</string>
+		
+		<key>iname4</key>
+		<string>195Pt</string>
+		<key>ip4</key>
+		<string>33.832</string>
+		<key>iw4</key>
+		<string>194.964774</string>
+		
+		<key>iname5</key>
+		<string>196Pt</string>
+		<key>ip5</key>
+		<string>25.242</string>
+		<key>iw5</key>
+		<string>195.964935</string>
+		
+		<key>iname6</key>
+		<string>198Pt</string>
+		<key>ip6</key>
+		<string>7.163</string>
+		<key>iw6</key>
+		<string>197.967876</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>79</integer>
+		<key>aw</key>
+		<string>196.966552</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>197Au</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>196.966552</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>80</integer>
+		<key>aw</key>
+		<string>200.599149</string>
+		<key>atomicicoint</key>
+		<integer>7</integer>		
+		
+		<key>iname1</key>
+		<string>196Hg</string>
+		<key>ip1</key>
+		<string>0.15</string>
+		<key>iw1</key>
+		<string>195.965815</string>
+		
+		<key>iname2</key>
+		<string>198Hg</string>
+		<key>ip2</key>
+		<string>9.97</string>
+		<key>iw2</key>
+		<string>197.966752</string>
+		
+		<key>iname3</key>
+		<string>199Hg</string>
+		<key>ip3</key>
+		<string>16.87</string>
+		<key>iw3</key>
+		<string>198.968262</string>
+		
+		<key>iname4</key>
+		<string>200Hg</string>
+		<key>ip4</key>
+		<string>23.1</string>
+		<key>iw4</key>
+		<string>199.968309</string>
+		
+		<key>iname5</key>
+		<string>201Hg</string>
+		<key>ip5</key>
+		<string>13.18</string>
+		<key>iw5</key>
+		<string>200.970285</string>
+		
+		<key>iname6</key>
+		<string>202Hg</string>
+		<key>ip6</key>
+		<string>29.86</string>
+		<key>iw6</key>
+		<string>201.970626</string>
+		
+		<key>iname7</key>
+		<string>204Hg</string>
+		<key>ip7</key>
+		<string>6.87</string>
+		<key>iw7</key>
+		<string>203.973476</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>81</integer>
+		<key>aw</key>
+		<string>204.383317</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>203Tl</string>
+		<key>ip1</key>
+		<string>29.524</string>
+		<key>iw1</key>
+		<string>202.972329</string>
+		
+		<key>iname2</key>
+		<string>205Tl</string>
+		<key>ip2</key>
+		<string>70.476</string>
+		<key>iw2</key>
+		<string>204.974412</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>82</integer>
+		<key>aw</key>
+		<string>207.216892</string>
+		<key>atomicicoint</key>
+		<integer>4</integer>		
+		
+		<key>iname1</key>
+		<string>204Pb</string>
+		<key>ip1</key>
+		<string>1.4</string>
+		<key>iw1</key>
+		<string>203.973029</string>
+		
+		<key>iname2</key>
+		<string>206Pb</string>
+		<key>ip2</key>
+		<string>24.1</string>
+		<key>iw2</key>
+		<string>205.974449</string>
+		
+		<key>iname3</key>
+		<string>207Pb</string>
+		<key>ip3</key>
+		<string>22.1</string>
+		<key>iw3</key>
+		<string>206.975881</string>
+		
+		<key>iname4</key>
+		<string>208Pb</string>
+		<key>ip4</key>
+		<string>52.4</string>
+		<key>iw4</key>
+		<string>207.976636</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>83</integer>
+		<key>aw</key>
+		<string>208.980383</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>209Bi</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>208.980383</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>84</integer>
+		<key>aw</key>
+		<string>209.982857</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>209Po</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>208.982416</string>
+		
+		<key>iname2</key>
+		<string>210Po</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>209.982857</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>85</integer>
+		<key>aw</key>
+		<string>210.987481</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>210At</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>209.987131</string>
+		
+		<key>iname2</key>
+		<string>211At</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>210.987481</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>86</integer>
+		<key>aw</key>
+		<string>222.017571</string>
+		<key>atomicicoint</key>
+		<integer>3</integer>		
+		
+		<key>iname1</key>
+		<string>211Rn</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>210.990585</string>
+		
+		<key>iname2</key>
+		<string>220Rn</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>220.011384</string>
+		
+		<key>iname3</key>
+		<string>222Rn</string>
+		<key>ip3</key>
+		<string>0</string>
+		<key>iw3</key>
+		<string>222.017571</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>87</integer>
+		<key>aw</key>
+		<string>223.019731</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>223F</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>223.019731</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>88</integer>
+		<key>aw</key>
+		<string>226.025403</string>
+		<key>atomicicoint</key>
+		<integer>4</integer>		
+		
+		<key>iname1</key>
+		<string>223Ra</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>223.018497</string>
+		
+		<key>iname2</key>
+		<string>224Ra</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>224.020202</string>
+		
+		<key>iname3</key>
+		<string>226Ra</string>
+		<key>ip3</key>
+		<string>0</string>
+		<key>iw3</key>
+		<string>226.025403</string>
+		
+		<key>iname4</key>
+		<string>228Ra</string>
+		<key>ip4</key>
+		<string>0</string>
+		<key>iw4</key>
+		<string>228.031064</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>89</integer>
+		<key>aw</key>
+		<string>227.027747</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>227Ac</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>227.027747</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>90</integer>
+		<key>aw</key>
+		<string>232.038050</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>230Th</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>230.033127</string>
+		
+		<key>iname2</key>
+		<string>232Th</string>
+		<key>ip2</key>
+		<string>100</string>
+		<key>iw2</key>
+		<string>232.038050</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>91</integer>
+		<key>aw</key>
+		<string>231.035879</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>231Pa</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>231.035879</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>92</integer>
+		<key>aw</key>
+		<string>238.028913</string>
+		<key>atomicicoint</key>
+		<integer>5</integer>		
+		
+		<key>iname1</key>
+		<string>233U</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>233.039628</string>
+		
+		<key>iname2</key>
+		<string>234U</string>
+		<key>ip2</key>
+		<string>0.0055</string>
+		<key>iw2</key>
+		<string>234.040946</string>
+		
+		<key>iname3</key>
+		<string>235U</string>
+		<key>ip3</key>
+		<string>0.72</string>
+		<key>iw3</key>
+		<string>235.043923</string>
+		
+		<key>iname4</key>
+		<string>236U</string>
+		<key>ip4</key>
+		<string>0</string>
+		<key>iw4</key>
+		<string>236.045562</string>
+		
+		<key>iname5</key>
+		<string>238U</string>
+		<key>ip5</key>
+		<string>99.2745</string>
+		<key>iw5</key>
+		<string>236.045562</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>93</integer>
+		<key>aw</key>
+		<string>237.048167</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>237Np</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>237.048167</string>
+		
+		<key>iname2</key>
+		<string>239Np</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>239.052931</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>94</integer>
+		<key>aw</key>
+		<string>244.064198</string>
+		<key>atomicicoint</key>
+		<integer>6</integer>		
+		
+		<key>iname1</key>
+		<string>238Pu</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>238.049553</string>
+		
+		<key>iname2</key>
+		<string>239Pu</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>239.052156</string>
+		
+		<key>iname3</key>
+		<string>240Pu</string>
+		<key>ip3</key>
+		<string>0</string>
+		<key>iw3</key>
+		<string>240.053808</string>
+		
+		<key>iname4</key>
+		<string>241Pu</string>
+		<key>ip4</key>
+		<string>0</string>
+		<key>iw4</key>
+		<string>241.056845</string>
+		
+		<key>iname5</key>
+		<string>242Pu</string>
+		<key>ip5</key>
+		<string>0</string>
+		<key>iw5</key>
+		<string>242.058737</string>
+		
+		<key>iname6</key>
+		<string>244Pu</string>
+		<key>ip6</key>
+		<string>0</string>
+		<key>iw6</key>
+		<string>244.064198</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>95</integer>
+		<key>aw</key>
+		<string>243.061373</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>241Am</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>241.056823</string>
+		
+		<key>iname2</key>
+		<string>243Am</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>243.061373</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>96</integer>
+		<key>aw</key>
+		<string>247.070347</string>
+		<key>atomicicoint</key>
+		<integer>6</integer>		
+		
+		<key>iname1</key>
+		<string>243Cm</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>243.061382</string>
+		
+		<key>iname2</key>
+		<string>244Cm</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>244.062746</string>
+		
+		<key>iname3</key>
+		<string>245Cm</string>
+		<key>ip3</key>
+		<string>0</string>
+		<key>iw3</key>
+		<string>245.065486</string>
+		
+		<key>iname4</key>
+		<string>246Cm</string>
+		<key>ip4</key>
+		<string>0</string>
+		<key>iw4</key>
+		<string>246.067218</string>
+		
+		<key>iname5</key>
+		<string>247Cm</string>
+		<key>ip5</key>
+		<string>0</string>
+		<key>iw5</key>
+		<string>247.070347</string>
+		
+		<key>iname6</key>
+		<string>248Cm</string>
+		<key>ip6</key>
+		<string>0</string>
+		<key>iw6</key>
+		<string>248.072342</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>97</integer>
+		<key>aw</key>
+		<string>247.070299</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>247Bk</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>247.070299</string>
+		
+		<key>iname2</key>
+		<string>249Bk</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>249.074980</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>98</integer>
+		<key>aw</key>
+		<string>251.079580</string>
+		<key>atomicicoint</key>
+		<integer>4</integer>		
+		
+		<key>iname1</key>
+		<string>249Cf</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>249.074847</string>
+		
+		<key>iname2</key>
+		<string>250Cf</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>250.076400</string>
+		
+		<key>iname3</key>
+		<string>251Cf</string>
+		<key>ip3</key>
+		<string>0</string>
+		<key>iw3</key>
+		<string>251.079580</string>
+		
+		<key>iname4</key>
+		<string>252Cf</string>
+		<key>ip4</key>
+		<string>0</string>
+		<key>iw4</key>
+		<string>252.081620</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>99</integer>
+		<key>aw</key>
+		<string>252.082970</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>252Es</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>252.082970</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>100</integer>
+		<key>aw</key>
+		<string>257.095099</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>257Fm</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>257.095099</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>101</integer>
+		<key>aw</key>
+		<string>258.098425</string>
+		<key>atomicicoint</key>
+		<integer>2</integer>		
+		
+		<key>iname1</key>
+		<string>256Md</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>256.094050</string>
+		
+		<key>iname2</key>
+		<string>258Md</string>
+		<key>ip2</key>
+		<string>0</string>
+		<key>iw2</key>
+		<string>258.098425</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>102</integer>
+		<key>aw</key>
+		<string>259.101020</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>259No</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>259.101020</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>103</integer>
+		<key>aw</key>
+		<string>262.109690</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>262Lr</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>262.109690</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>104</integer>
+		<key>aw</key>
+		<string>261.108750</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>261Rf</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>261.108750</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>105</integer>
+		<key>aw</key>
+		<string>262.114150</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>262Db</string>
+		<key>ip1</key>
+		<string>100</string>
+		<key>iw1</key>
+		<string>262.114150</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>106</integer>
+		<key>aw</key>
+		<string>266.121930</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>266Sg</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>266.121930</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>107</integer>
+		<key>aw</key>
+		<string>264.124730</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>264Bh</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>264.124730</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>108</integer>
+		<key>aw</key>
+		<string>[269]</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>277Hs</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>0</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>109</integer>
+		<key>aw</key>
+		<string>268.138820</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string>268Mt</string>
+		<key>ip1</key>
+		<string>0</string>
+		<key>iw1</key>
+		<string>268.138820</string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>110</integer>
+		<key>aw</key>
+		<string>[281]</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string></string>
+		<key>ip1</key>
+		<string></string>
+		<key>iw1</key>
+		<string></string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>111</integer>
+		<key>aw</key>
+		<string>[272]</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string></string>
+		<key>ip1</key>
+		<string></string>
+		<key>iw1</key>
+		<string></string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>112</integer>
+		<key>aw</key>
+		<string>[285]</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string></string>
+		<key>ip1</key>
+		<string></string>
+		<key>iw1</key>
+		<string></string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>113</integer>
+		<key>aw</key>
+		<string>[284]</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string></string>
+		<key>ip1</key>
+		<string></string>
+		<key>iw1</key>
+		<string></string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>114</integer>
+		<key>aw</key>
+		<string>[289]</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string></string>
+		<key>ip1</key>
+		<string></string>
+		<key>iw1</key>
+		<string></string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>115</integer>
+		<key>aw</key>
+		<string>[288]</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string></string>
+		<key>ip1</key>
+		<string></string>
+		<key>iw1</key>
+		<string></string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>116</integer>
+		<key>aw</key>
+		<string>[292]</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string></string>
+		<key>ip1</key>
+		<string></string>
+		<key>iw1</key>
+		<string></string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>117</integer>
+		<key>aw</key>
+		<string>unknown</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string></string>
+		<key>ip1</key>
+		<string></string>
+		<key>iw1</key>
+		<string></string>
+		
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>118</integer>
+		<key>aw</key>
+		<string>unknown</string>
+		<key>atomicicoint</key>
+		<integer>1</integer>		
+		
+		<key>iname1</key>
+		<string></string>
+		<key>ip1</key>
+		<string></string>
+		<key>iw1</key>
+		<string></string>
+		
+	</dict>
+
+</array>
+</plist>

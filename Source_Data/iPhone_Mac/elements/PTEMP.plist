@@ -1,0 +1,1308 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Paul Alan Freshney February 11th 2010 -->
+
+<plist version="1.0">
+<array>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>6</integer>
+		<key>name</key>
+		<string>Carbon</string>
+		<key>group</key>
+		<string>Non-metals</string>
+		<key>data</key>
+		<string>3800K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>74</integer>
+		<key>name</key>
+		<string>Tungsten</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>3695K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>75</integer>
+		<key>name</key>
+		<string>Rhenium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>3459K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>76</integer>
+		<key>name</key>
+		<string>Osmium</string>
+		<key>group</key>
+		<string>Precious metal or Platinum group metal</string>
+		<key>data</key>
+		<string>3306K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>73</integer>
+		<key>name</key>
+		<string>Tantalum</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>3290K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>42</integer>
+		<key>name</key>
+		<string>Molybdenum</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>2896K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>41</integer>
+		<key>name</key>
+		<string>Niobium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>2750K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>77</integer>
+		<key>name</key>
+		<string>Iridium</string>
+		<key>group</key>
+		<string>Precious metal or Platinum group metal</string>
+		<key>data</key>
+		<string>2739K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>44</integer>
+		<key>name</key>
+		<string>Ruthenium</string>
+		<key>group</key>
+		<string>Precious metal or Platinum group metal</string>
+		<key>data</key>
+		<string>2607K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>72</integer>
+		<key>name</key>
+		<string>Hafnium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>2506K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>43</integer>
+		<key>name</key>
+		<string>Technetium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>2430K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>5</integer>
+		<key>name</key>
+		<string>Boron</string>
+		<key>group</key>
+		<string>Metalloids</string>
+		<key>data</key>
+		<string>2349K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>45</integer>
+		<key>name</key>
+		<string>Rhodium</string>
+		<key>group</key>
+		<string>Precious metal or Platinum group metal</string>
+		<key>data</key>
+		<string>2237K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>23</integer>
+		<key>name</key>
+		<string>Vanadium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>2183K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>24</integer>
+		<key>name</key>
+		<string>Chromium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>2180K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>40</integer>
+		<key>name</key>
+		<string>Zirconium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>2128K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>90</integer>
+		<key>name</key>
+		<string>Thorium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>2115K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>78</integer>
+		<key>name</key>
+		<string>Platinum</string>
+		<key>group</key>
+		<string>Precious metal or platinum group metal</string>
+		<key>data</key>
+		<string>2041.4K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>22</integer>
+		<key>name</key>
+		<string>Titanium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>1941K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>71</integer>
+		<key>name</key>
+		<string>Lutetium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1925K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>103</integer>
+		<key>name</key>
+		<string>Lawrencium</string>
+		<key>group</key>
+		<string>Actinoids</string>
+		<key>data</key>
+		<string>1900K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>91</integer>
+		<key>name</key>
+		<string>Protactinium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>1841K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>46</integer>
+		<key>name</key>
+		<string>Palladium</string>
+		<key>group</key>
+		<string>Precious metal or Platinum group metal</string>
+		<key>data</key>
+		<string>1828.05K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>69</integer>
+		<key>name</key>
+		<string>Thulium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1818K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>21</integer>
+		<key>name</key>
+		<string>Scandium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>1814K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>26</integer>
+		<key>name</key>
+		<string>Iron</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>1811K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>100</integer>
+		<key>name</key>
+		<string>Fermium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>1800K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>39</integer>
+		<key>name</key>
+		<string>Yttrium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>1799K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>68</integer>
+		<key>name</key>
+		<string>Erbium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1770K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>27</integer>
+		<key>name</key>
+		<string>Cobalt</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>1768K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>67</integer>
+		<key>name</key>
+		<string>Holmium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1734K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>28</integer>
+		<key>name</key>
+		<string>Nickel</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>1728K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>14</integer>
+		<key>name</key>
+		<string>Silicon</string>
+		<key>group</key>
+		<string>Metalloids</string>
+		<key>data</key>
+		<string>1687K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>66</integer>
+		<key>name</key>
+		<string>Dysprosium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1680K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>65</integer>
+		<key>name</key>
+		<string>Terbium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1629K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>96</integer>
+		<key>name</key>
+		<string>Curium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>1613K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>64</integer>
+		<key>name</key>
+		<string>Gadolinium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1585K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>4</integer>
+		<key>name</key>
+		<string>Beryllium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>data</key>
+		<string>1560K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>25</integer>
+		<key>name</key>
+		<string>Manganese</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>1519K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>95</integer>
+		<key>name</key>
+		<string>Americium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>1449K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>92</integer>
+		<key>name</key>
+		<string>Uranium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>1405.3K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>61</integer>
+		<key>name</key>
+		<string>Promethium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1373K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>29</integer>
+		<key>name</key>
+		<string>Copper</string>
+		<key>group</key>
+		<string>Coinage metal</string>
+		<key>data</key>
+		<string>1357.77K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>62</integer>
+		<key>name</key>
+		<string>Samarium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1345K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>79</integer>
+		<key>name</key>
+		<string>Gold</string>
+		<key>group</key>
+		<string>Coinage metal</string>
+		<key>data</key>
+		<string>1337.33K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>89</integer>
+		<key>name</key>
+		<string>Actinium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>1323K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>60</integer>
+		<key>name</key>
+		<string>Neodymium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1297K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>97</integer>
+		<key>name</key>
+		<string>Berkelium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>1259K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>47</integer>
+		<key>name</key>
+		<string>Silver</string>
+		<key>group</key>
+		<string>Coinage metal</string>
+		<key>data</key>
+		<string>1234.93K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>32</integer>
+		<key>name</key>
+		<string>Germanium</string>
+		<key>group</key>
+		<string>Metalloids</string>
+		<key>data</key>
+		<string>1211.4K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>59</integer>
+		<key>name</key>
+		<string>Praseodymium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1208K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>57</integer>
+		<key>name</key>
+		<string>Lanthanum</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1193K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>98</integer>
+		<key>name</key>
+		<string>Californium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>1173K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>99</integer>
+		<key>name</key>
+		<string>Einsteinium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>1133K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>20</integer>
+		<key>name</key>
+		<string>Calcium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>data</key>
+		<string>1115K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>101</integer>
+		<key>name</key>
+		<string>Mendelevium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>1100K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>102</integer>
+		<key>name</key>
+		<string>Nobelium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>1100K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>63</integer>
+		<key>name</key>
+		<string>Europium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1099K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>70</integer>
+		<key>name</key>
+		<string>Ytterbium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1097K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>33</integer>
+		<key>name</key>
+		<string>Arsenic</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>data</key>
+		<string>1090K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>58</integer>
+		<key>name</key>
+		<string>Cerium</string>
+		<key>group</key>
+		<string>Lanthanoids</string>
+		<key>data</key>
+		<string>1068K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>38</integer>
+		<key>name</key>
+		<string>Strontium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>data</key>
+		<string>1050K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>56</integer>
+		<key>name</key>
+		<string>Barium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>data</key>
+		<string>1000K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>88</integer>
+		<key>name</key>
+		<string>Radium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>data</key>
+		<string>973K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>13</integer>
+		<key>name</key>
+		<string>Aluminium</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>data</key>
+		<string>933.47K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>12</integer>
+		<key>name</key>
+		<string>Magnesium</string>
+		<key>group</key>
+		<string>Alkaline earth metal</string>
+		<key>data</key>
+		<string>923K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>94</integer>
+		<key>name</key>
+		<string>Plutonium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>912.5K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>93</integer>
+		<key>name</key>
+		<string>Neptunium</string>
+		<key>group</key>
+		<string>Actinoid</string>
+		<key>data</key>
+		<string>910K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>51</integer>
+		<key>name</key>
+		<string>Antimony</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>data</key>
+		<string>903.78K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>52</integer>
+		<key>name</key>
+		<string>Tellurium</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>data</key>
+		<string>722.66K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>30</integer>
+		<key>name</key>
+		<string>Zinc</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>692.68K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>82</integer>
+		<key>name</key>
+		<string>Lead</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>data</key>
+		<string>600.61K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>48</integer>
+		<key>name</key>
+		<string>Cadmium</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>594.22K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>81</integer>
+		<key>name</key>
+		<string>Thallium</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>data</key>
+		<string>577K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>85</integer>
+		<key>name</key>
+		<string>Astatine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>data</key>
+		<string>575K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>83</integer>
+		<key>name</key>
+		<string>Bismuth</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>data</key>
+		<string>544.4K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>84</integer>
+		<key>name</key>
+		<string>Polonium</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>data</key>
+		<string>527K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>50</integer>
+		<key>name</key>
+		<string>Tin</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>data</key>
+		<string>505.08K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>34</integer>
+		<key>name</key>
+		<string>Selenium</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>data</key>
+		<string>494K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>3</integer>
+		<key>name</key>
+		<string>Lithium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>data</key>
+		<string>453.69K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>49</integer>
+		<key>name</key>
+		<string>Indium</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>data</key>
+		<string>429.75K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>16</integer>
+		<key>name</key>
+		<string>Sulfur</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>data</key>
+		<string>388.36K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>53</integer>
+		<key>name</key>
+		<string>Iodine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>data</key>
+		<string>386.85K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>11</integer>
+		<key>name</key>
+		<string>Sodium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>data</key>
+		<string>370.87K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>19</integer>
+		<key>name</key>
+		<string>Potassium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>data</key>
+		<string>336.53K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>15</integer>
+		<key>name</key>
+		<string>Phosphorus</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>data</key>
+		<string>317.3K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>37</integer>
+		<key>name</key>
+		<string>Rubidium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>data</key>
+		<string>312.46K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>31</integer>
+		<key>name</key>
+		<string>Gallium</string>
+		<key>group</key>
+		<string>Metals</string>
+		<key>data</key>
+		<string>302.91K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>55</integer>
+		<key>name</key>
+		<string>Caesium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>data</key>
+		<string>301.59K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>87</integer>
+		<key>name</key>
+		<string>Francium</string>
+		<key>group</key>
+		<string>Alkali metal</string>
+		<key>data</key>
+		<string>300K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>35</integer>
+		<key>name</key>
+		<string>Bromine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>data</key>
+		<string>265.8K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>80</integer>
+		<key>name</key>
+		<string>Mercury</string>
+		<key>group</key>
+		<string>Transition metals</string>
+		<key>data</key>
+		<string>234.32K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>86</integer>
+		<key>name</key>
+		<string>Radon</string>
+		<key>group</key>
+		<string>Noble gas</string>
+		<key>data</key>
+		<string>202K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>17</integer>
+		<key>name</key>
+		<string>Chlorine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>data</key>
+		<string>171.6K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>54</integer>
+		<key>name</key>
+		<string>Xenon</string>
+		<key>group</key>
+		<string>Noble gas</string>
+		<key>data</key>
+		<string>161.4K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>36</integer>
+		<key>name</key>
+		<string>Krypton</string>
+		<key>group</key>
+		<string>Noble Gases</string>
+		<key>data</key>
+		<string>115.79K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>18</integer>
+		<key>name</key>
+		<string>Argon</string>
+		<key>group</key>
+		<string>Noble gas</string>
+		<key>data</key>
+		<string>83.80K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>7</integer>
+		<key>name</key>
+		<string>Nitrogen</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>data</key>
+		<string>63.05K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>8</integer>
+		<key>name</key>
+		<string>Oxygen</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>data</key>
+		<string>54.8K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>9</integer>
+		<key>name</key>
+		<string>Fluorine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>data</key>
+		<string>53.53K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>10</integer>
+		<key>name</key>
+		<string>Neon</string>
+		<key>group</key>
+		<string>Noble gas</string>
+		<key>data</key>
+		<string>24.56K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>1</integer>
+		<key>name</key>
+		<string>Hydrogen</string>
+		<key>group</key>
+		<string>Non-metals</string>
+		<key>data</key>
+		<string>14.01K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>Helium</string>
+		<key>group</key>
+		<string>Noble gas</string>
+		<key>data</key>
+		<string>0.95K</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>107</integer>
+		<key>name</key>
+		<string>Bohrium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>112</integer>
+		<key>name</key>
+		<string>Copernicium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>110</integer>
+		<key>name</key>
+		<string>Darmstadtium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>105</integer>
+		<key>name</key>
+		<string>Dubnium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>114</integer>
+		<key>name</key>
+		<string>Flerovium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>108</integer>
+		<key>name</key>
+		<string>Hassium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>116</integer>
+		<key>name</key>
+		<string>Livermorium</string>
+		<key>group</key>
+		<string>Chalcogen</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>109</integer>
+		<key>name</key>
+		<string>Meitnerium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>115</integer>
+		<key>name</key>
+		<string>Moscovium</string>
+		<key>group</key>
+		<string>Pnictogen</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>113</integer>
+		<key>name</key>
+		<string>Nihonium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>118</integer>
+		<key>name</key>
+		<string>Oganesson</string>
+		<key>group</key>
+		<string>Noble Gases</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>111</integer>
+		<key>name</key>
+		<string>Roentgenium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>104</integer>
+		<key>name</key>
+		<string>Rutherfordium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>106</integer>
+		<key>name</key>
+		<string>Seaborgium</string>
+		<key>group</key>
+		<string>Transactinides</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+	<dict>
+		<key>atomicnumber</key>
+		<integer>117</integer>
+		<key>name</key>
+		<string>Tennessine</string>
+		<key>group</key>
+		<string>Halogen</string>
+		<key>data</key>
+		<string>unknown</string>
+	</dict>
+
+</array>
+</plist>
