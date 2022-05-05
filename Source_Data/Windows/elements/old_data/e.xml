@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Einsteinium</name>
+<symbol>Es</symbol>
+<atomicno>99</atomicno>
+<neutrons>153</neutrons>
+<atomicweight>[ 252 ]</atomicweight>
+<casid>7429-92-7</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<density>8.84</density>
+<availability></availability>
+<dwho>Argonne, Los Alamos, U of California</dwho>
+<dwhen>1952</dwhen>
+<dwhere>United States</dwhere>
+<origin>After the scientist Albert Einstein.</origin>
+<boiling>unknown</boiling>
+<melting>1133K</melting>
+<boilingC>?</boilingC>
+<meltingC>860'C</meltingC>
+<sources>Made by bombarding <elink ref="92">uranium</elink> with <glink ref="neutron">neutrons</glink>.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>Einsteinium is a <glink ref="radioactive">radioactive</glink> <glink ref="ree">rare earth metal</glink> named after Albert Einstein. It is of no commercial importance and only a few of its compounds are known.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Erbium</name>
+<symbol>Er</symbol>
+<atomicno>68</atomicno>
+<neutrons>99</neutrons>
+<atomicweight>167.259 (3)</atomicweight>
+<casid>7440-52-0</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>9.066</density>
+<availability></availability>
+<dwho><blink ref="cqm">Carl Mosander</blink></dwho>
+<dwhen>1843</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>From Ytterby, Sweden.</origin>
+<boiling>3141K</boiling>
+<melting>1802K</melting>
+<boilingC>1529'C</boilingC>
+<meltingC>2868'C</meltingC>
+<sources>Found with other heavier rare earth metals, and in the minerals xenotime and euxenite.</sources>
+<uses>For making photographic filters and as a <glink ref="neutron">neutron</glink> absorber. Erbium oxide is used in ceramics to obtain a pink glaze.</uses>
+<images>
+<image name="68"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Europium</name>
+<symbol>Eu</symbol>
+<atomicno>63</atomicno>
+<neutrons>89</neutrons>
+<atomicweight>151.964 (1)</atomicweight>
+<casid>7440-53-1</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>5.244</density>
+<availability></availability>
+<dwho><blink ref="ead">Eugene Demarcay</blink></dwho>
+<dwhen>1901</dwhen>
+<dwhere>France</dwhere>
+<origin>From Europe.</origin>
+<boiling>1870K</boiling>
+<melting>1095K</melting>
+<boilingC>1597'C</boilingC>
+<meltingC>822'C</meltingC>
+<sources>It is never found in nature as a free element. There are many minerals that contain europium, the important of these are bastnasite and monazite.</sources>
+<uses>Used with <elink ref="39">yttrium</elink> oxide to make red phosphors for colour televisions.</uses>
+<notes>
+<ptext>It is about as hard as <elink ref="82">lead</elink> and quite <glink ref="ductile">ductile</glink>.</ptext>
+</notes>
+<images>
+<image name="63a"></image>
+</images>
+</element>
+
+</elementlist>

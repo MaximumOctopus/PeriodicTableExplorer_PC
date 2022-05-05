@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Magnesium</name>
+<symbol>Mg</symbol>
+<atomicno>12</atomicno>
+<neutrons>30</neutrons>
+<atomicweight>24.3050</atomicweight>
+<casid>7439-95-4</casid>
+<groupno>2</groupno>
+<groupname>Alkaline earth metal</groupname>
+<periodno>3</periodno>
+<block>s-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>1.738</density>
+<availability>Magnesium is the eight most abundant element in the Earth's crust, about 2% by weight.</availability>
+<dwho><blink ref="shd">Sir Humphrey Davy</blink></dwho>
+<dwhen>1808</dwhen>
+<dwhere>England</dwhere>
+<origin>From Magnesia ancient city in Asia Minor.</origin>
+<boiling>1363K</boiling>
+<melting>923K</melting>
+<boilingC>1090'C</boilingC>
+<meltingC>650'C</meltingC>
+<sources>Usually obtained by electrolysis of melted magnesium <elink ref="17">chloride</elink> found in sea water. China produces around 60% of the world's magnesium,</sources>
+<uses>Used in alloys to make airplanes, missiles, racing bikes and other things that need light metals. Also used in fireplace bricks, flashbulbs, pigments and filters.</uses>
+<notes>
+<ptext>Magnesium metal and alloys are highly flammable in their pure form when molten, as a powder, or in ribbon form. Burning or molten magnesium metal reacts violently with water. Magnesium powder is an explosive hazard.</ptext>
+</notes>
+<images>
+<image name="12a"></image>
+<image name="12b"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Manganese</name>
+<symbol>Mn</symbol>
+<atomicno>25</atomicno>
+<neutrons>30</neutrons>
+<atomicweight>54.938049</atomicweight>
+<casid>7439-96-5</casid>
+<groupno>7</groupno>
+<groupname>(none)</groupname>
+<periodno>4</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery metallic</colour>
+<classification>Metallic</classification>
+<density>7.21</density>
+<availability></availability>
+<dwho><blink ref="jgg">Johann Gahn</blink></dwho>
+<dwhen>1774</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>Latin: mangnes (magnet); Ital. manganese.</origin>
+<boiling>2234K</boiling>
+<melting>1519K</melting>
+<boilingC>2061'C</boilingC>
+<meltingC>1246'C</meltingC>
+<sources>Most abundant ores are pyrolusite (MnO<sub>2</sub>), psilomelane [(BaH<sub>2</sub>O)2Mn<sub>5</sub>O<sub>10</sub>] and rhodochrosite (MnCO<sub>3</sub>). Manganese is mined in Burkina Faso and Gabon.</sources>
+<uses>Used in steel, batteries, axles, rail switches, safes, plows and ceramics.</uses>
+<images>
+<image name="25"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Meitnerium</name>
+<symbol>Mt</symbol>
+<atomicno>109</atomicno>
+<neutrons>159</neutrons>
+<atomicweight>[268]</atomicweight>
+<casid>54038-01-6</casid>
+<groupno>9</groupno>
+<groupname>(none)</groupname>
+<periodno>7</periodno>
+<block>d-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability></availability>
+<dwho>Physicists at the <blink ref="hirl">Heavy Ion Research Laboratory</blink></dwho>
+<dwhen>1982</dwhen>
+<dwhere>Darmstadt, West Germany</dwhere>
+<origin>Named after Lise Meitner, a Swedish physicist who helped discover <elink ref="91">protactinium</elink> and first split the <glink ref="nucleus">nucleus</glink> of <elink ref="92">uranium</elink>, creating what her team dubbed "fission".</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>First synthetically produced by bombarding <elink ref="83">Bi</elink><sup>209</sup> with accelerated <glink ref="nucleus">nuclei</glink> of <elink ref="26">Fe</elink><sup>58</sup>.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>In August of 1997 the International Union of Pure and Applied Chemistry announced the official naming of this <glink ref="element">element</glink> as Meitnerium.</ptext>
+<ptext>Element 109 was previously known as Unnilennium; from the latin for "one zero nine".</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Mendelevium</name>
+<symbol>Md</symbol>
+<atomicno>101</atomicno>
+<neutrons>157</neutrons>
+<atomicweight>[258]</atomicweight>
+<casid>7440-11-1</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability></availability>
+<dwho><blink ref="gts">G.T.Seaborg</blink>, S.G.Tompson, <blink ref="ag">A. Ghiorso</blink>, K.Street Jr.</dwho>
+<dwhen>1955</dwhen>
+<dwhere>United States</dwhere>
+<origin>After the scientist Dmitri Ivanovitch Mendeleyev, who devised the periodic table.</origin>
+<boiling>unknown</boiling>
+<melting>1100K</melting>
+<boilingC>?</boilingC>
+<meltingC>827'C</meltingC>
+<sources>Purely synthetic <glink ref="element">element</glink>. Made by bombarding <elink ref="99">einsteinium</elink> with <elink ref="2">helium</elink> <glink ref="ion">ions</glink>.</sources>
+<uses>None.</uses>
+</element>
+
+<element>
+<name isotope="y">Mercury</name>
+<symbol>Hg</symbol>
+<atomicno>80</atomicno>
+<atomicweight>200.59</atomicweight>
+<casid>7439-97-6</casid>
+<groupno>12</groupno>
+<groupname>(none)</groupname>
+<periodno>6</periodno>
+<block>d-block</block>
+<state>liquid at 298 K (the heaviest known elemental liquid)</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>(liquid) 13.534</density>
+<availability></availability>
+<dwho>Known to the ancients</dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>From the Greek god Mercury who was the messenger to the gods and was known for his speed; Hg from mercury's Latin name Hydrargyrum, which comes from the Greek word "hydrargyros" ("hydor" for water and "argyros" for silver).</origin>
+<boiling>629.88K</boiling>
+<melting>234.32K</melting>
+<boilingC>356.73'C</boilingC>
+<meltingC>-38.83'C</meltingC>
+<sources>Mercury is rarely found in native form. Most mercury is found in the minerals; cinnabar (the main source), corderoite, livingstonite as well as some others. 50% of the world's mercury comes from Spain and Slovenia, with much of the rest coming from Russia and the USA.</sources>
+<uses>Used in thermometers, barometers, diffusion pumps, coulometers, fluorescent lamps, mercury switches, insectisides, and batteries. Gaseous mercury is used in mercury-vapour lamps.</uses>
+<notes>
+<ptext>Causes neurological and kidney damage and blindness. Also associated with birth defects. Very damaging to aquatic life. It is found in paint, batteries, thermometers, electrical equipment, fluorescent lights and plastics. Also used in <elink ref="79">gold</elink> mining industry. Batteries account for 88% of the mercury content in municipal solid waste</ptext>
+<ptext>Because of mercury's ability to rapidly corrode <elink ref="13">aluminium</elink>, transport by aircraft is restricted.</ptext>
+</notes>
+<images>
+<image name="80"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Molybdenum</name>
+<symbol>Mo</symbol>
+<atomicno>42</atomicno>
+<neutrons>54</neutrons>
+<atomicweight>95.94</atomicweight>
+<casid>7439-98-7</casid>
+<groupno>6</groupno>
+<groupname>(none)</groupname>
+<periodno>5</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>grey metallic</colour>
+<classification>Metallic</classification>
+<density>10.28</density>
+<availability></availability>
+<dwho><blink ref="kws">Karl Wilhelm Scheele</blink></dwho>
+<dwhen>1778</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>Greek: molubdos (lead-like).</origin>
+<boiling>4912K</boiling>
+<melting>2896K</melting>
+<boilingC>4639'C</boilingC>
+<meltingC>2623'C</meltingC>
+<sources>Found in the minerals molybdenite (MoS<sub>2</sub>) and wulfenite (MoO<sub>4</sub>Pb) and as a byproduct of <elink ref="29">copper</elink> mining.</sources>
+<uses>Used in steel, aircraft, missiles, filaments in electric heaters, lubricants and protective coatings in boiler plates.</uses>
+<notes>
+<ptext>Molybdenum has been found to have a role in the biology of all classes of organisms. It is found in two groups of enzymes, the nitrogenases and the molybdopterins.</ptext>
+</notes>
+<images>
+<image name="42a"></image>
+<image name="42b">Powder form</image>
+</images>
+</element>
+
+</elementlist>

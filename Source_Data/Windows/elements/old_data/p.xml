@@ -1,0 +1,323 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Palladium</name>
+<symbol>Pd</symbol>
+<atomicno>46</atomicno>
+<neutrons>60</neutrons>
+<atomicweight>106.42 (1)</atomicweight>
+<casid>7440-05-3</casid>
+<groupno>10</groupno>
+<groupname>Precious metal or Platinum group metal</groupname>
+<periodno>5</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white metallic</colour>
+<classification>Metallic</classification>
+<density>12.023</density>
+<availability></availability>
+<dwho><blink ref="whw">William Wollaston</blink></dwho>
+<dwhen>1803</dwhen>
+<dwhere>England</dwhere>
+<origin>Greek: Pallas goddess of wisdom and after the asteroid discovered in 1803.</origin>
+<boiling>3236K</boiling>
+<melting>1828.05K</melting>
+<boilingC>2963'C</boilingC>
+<meltingC>1554.9'C</meltingC>
+<sources>Obtained with <elink ref="78">platinum</elink>, <elink ref="28">nickel</elink>, <elink ref="29">copper</elink> and <elink ref="80">mercury</elink> ores. Occures primarly in Siberia, the Ural Mountains, Ontario Canada and South Africa.</sources>
+<uses>Used in alloys for telecommunication equipment switching systems and electrical relays, catalyst for reforming cracked petroleum fractions, metallizing ceramics, mixed with <elink ref="79">gold</elink> to make "white gold" for jewellery, aircraft sparkplugs, dentistry, surgical instruments.</uses>
+<notes>
+<ptext>In 2000, The Ford Motor Company created a price bubble in palladium by stockpiling large amounts of the metal, fearing interrupted supplies from Russia. As prices fell in early 2001, Ford lost nearly US$1 billion.</ptext>
+</notes>
+<images>
+<image name="46"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Phosphorus</name>
+<symbol>P</symbol>
+<atomicno>15</atomicno>
+<neutrons>16</neutrons>
+<atomicweight>30.973761</atomicweight>
+<casid>7723-14-0</casid>
+<groupno>15</groupno>
+<groupname>Pnictogen</groupname>
+<periodno>3</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>colourless/red/silvery white</colour>
+<classification>Non-metallic</classification>
+<density>(white) 1.823</density>
+<density>(red) 2.34</density>
+<density>(black) 2.69</density>
+<availability></availability>
+<dwho><blink ref="hb">Hennig Brand</blink></dwho>
+<dwhen>1669</dwhen>
+<dwhere>Germany</dwhere>
+<origin>Greek: phos (light) and phoros (bearer).</origin>
+<boiling>550K</boiling>
+<melting>317.3K</melting>
+<boilingC>277'C</boilingC>
+<meltingC>44.2'C</meltingC>
+<sources>Found most often in phosphate rock, which is partly made of apatite..</sources>
+<uses>Used in the production of fertilizers, fireworks, matches, pesticides, toothpaste and detergents. White phosphrous is used in miltary applications as incendiary bombs and for smoke screens.</uses>
+<notes>
+<ptext>Just 50mg of phosphorus is considered a lethal dose.</ptext>
+<ptext>Phosphorus is a key element in all known forms of life.</ptext>
+</notes>
+<images>
+<image name="15a"></image>
+<image name="15b">Phosphorous turns red with it comes into contact with air</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Platinum</name>
+<symbol>Pt</symbol>
+<atomicno>78</atomicno>
+<neutrons>117</neutrons>
+<atomicweight>195.078</atomicweight>
+<casid>7440-06-4</casid>
+<groupno>10</groupno>
+<groupname>Precious metal or platinum group metal</groupname>
+<periodno>6</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>greyish white</colour>
+<classification>Metallic</classification>
+<density>21.45</density>
+<availability></availability>
+<dwho>Antonio de Ulloa and Don Jorge Juan y Santacilia</dwho>
+<dwhen>c1734</dwhen>
+<dwhere>Peru</dwhere>
+<origin>Spanish: platina (little silver).</origin>
+<boiling>4098K</boiling>
+<melting>2041.4K</melting>
+<boilingC>3825'C</boilingC>
+<meltingC>1768.3'C</meltingC>
+<sources>Produced from ores called native platinum.</sources>
+<uses>Used in jewelry, to make crucibles, special containers, as a catalyst, in dental crowns, as an anti-tumor agent and to make standard weights and measures. It is also combined with cobalt to produce very strong magnets.</uses>
+<notes>
+<ptext>Discovered by astronomer Antonio de Ulloa and Don Jorge Juan y Santacilia during a geographical expedition in Peru that lasted from 1735 to 1745. Ulloa observed the unworkable metal found with gold in New Granada (Colombia). British privateers intercepted Ulloa's ship on the return voyage. Though he was well-treated in England, and even made a member of the Royal Society he was prevented from publishing a reference to the unknown metal until 1748. It is thought that Charles Wood independently isolated the element in 1741.</ptext>
+<ptext>The Italian humanist Julius Caesar Scaliger makes the first European reference to Platinum in 1557, as a description of a mysterious metal found in Central American mines between Darien (Panama) and Mexico.</ptext>
+<ptext>Platinum is considered a precious metal and is traded on the world's commodities exchanges, it's price fluctuates with availability, but is usually around twice that of <elink ref="79">gold</elink>.</ptext>
+</notes>
+<images>
+<image name="78a">A tiny piece from Alaska</image>
+<image name="78b">Platinum foil</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Plutonium</name>
+<symbol>Pu</symbol>
+<atomicno>94</atomicno>
+<neutrons>150</neutrons>
+<atomicweight>[244]</atomicweight>
+<casid>7440-07-5</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>19.816</density>
+<availability></availability>
+<dwho><blink ref="gts">G.T.Seaborg</blink>, J.W.Kennedy, <blink ref="emm">E.M.McMillan</blink>, A.C.Wohl</dwho>
+<dwhen>1940</dwhen>
+<dwhere>United States</dwhere>
+<origin>From planet Pluto.</origin>
+<boiling>3501K</boiling>
+<melting>912.5K</melting>
+<boilingC>3228'C</boilingC>
+<meltingC>639.4'C</meltingC>
+<sources>Found rarely in some <elink ref="92">uranium</elink> ores. Most plutonium is made synthetically by bombarding <elink ref="92">uranium</elink> with <glink ref="neutron">neutrons</glink>.</sources>
+<uses>Used in bombs and reactors.</uses>
+<notes>
+<ptext>All isotopes and compounds of plutonium are toxic and radioactive.</ptext>
+</notes>
+<images>
+<image name="94a">Plutonium-gallium alloy ingot reclaimed from a weapon pit.</image>
+<image name="94b">This is history's first gram-scale sample of plutonium metal ever fabricated (weight 520 milligrams), made at Los Alamos on March 23, 1944.</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Polonium</name>
+<symbol>Po</symbol>
+<atomicno>84</atomicno>
+<neutrons>125</neutrons>
+<atomicweight>[209]</atomicweight>
+<casid>7440-08-6</casid>
+<groupno>16</groupno>
+<groupname>Chalcogen</groupname>
+<periodno>6</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>silvery</colour>
+<classification>Metallic</classification>
+<density>(alpha) 9.196</density>
+<density>(beta) 9.398</density>
+<availability></availability>
+<dwho><blink ref="pc">Pierre</blink> and <blink ref="mc">Marie Curie</blink></dwho>
+<dwhen>1898</dwhen>
+<dwhere>France</dwhere>
+<origin>From Poland, country of Pierre and Marie Curie.</origin>
+<boiling>1235K</boiling>
+<melting>527K</melting>
+<boilingC>962'C</boilingC>
+<meltingC>254'C</meltingC>
+<sources>Occurs in pitchblende from decay of <elink ref="88">radium</elink>.</sources>
+<uses>Used for nuclear batteries, <glink ref="neutron">neutron</glink> source, antistatic agents, film cleaner.</uses>
+<notes>
+<ptext>Polonium has more <glink ref="isotope">isotopes</glink> than any other element, all of which are radioactive. Polonium dissolves readily in dilute acids, but is only slightly soluble in alkalis.</ptext>
+<ptext>Polonium is highly radioactive and toxic. Weight for weight it is about 2.5 x 10<sup>11</sup> times as toxic as hydrocyanic acid (HCN). Polonium has been found in tobacco as a contaminant and in <elink ref="92">uranium</elink> ores.</ptext>
+</notes>
+<images>
+<image name="84"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Potassium</name>
+<symbol>K</symbol>
+<atomicno>19</atomicno>
+<neutrons>20</neutrons>
+<atomicweight>39.0983</atomicweight>
+<casid>7440-09-7</casid>
+<groupno>1</groupno>
+<groupname>Alkali metal</groupname>
+<periodno>4</periodno>
+<block>s-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>0.89</density>
+<availability></availability>
+<dwho><blink ref="shd">Sir Humphrey Davy</blink></dwho>
+<dwhen>1807</dwhen>
+<dwhere>England</dwhere>
+<origin>From potash (pot ash); K from latin: kalium</origin>
+<boiling>1032K</boiling>
+<melting>336.53K</melting>
+<boilingC>759'C</boilingC>
+<meltingC>63.38'C</meltingC>
+<sources>Found in minerals like carnallite and sylvite (KCl). Potassium makes up about 2.40% of the weight of the Earth's crust, it is the seventh most abundant element. The main sources of potash are mined in USA (California, New Mexico and Utah) and Germany., </sources>
+<uses>Used as potash (potassium carbonate) in making glass, soap, lenses and salt substitute. Also as potassium nitrate (KNO<sub>3</sub>, also called saltpeter) it is used to make explosives and to color fireworks in mauve.</uses>
+<notes>
+<ptext>Solid potassium reacts violently with water, and should therefore be kept under a mineral oil such as kerosene and handled with care. Unlike <elink ref="3">lithium</elink> and <elink ref="11">sodium</elink> however, potassium cannot be stored under oil indefinitely. If stored longer than 6 months to a year, dangerous shock-sensitive peroxides can form on the metal and under the lid of the container that can detonate upon opening.</ptext>
+<ptext>Potassium is a necessary mineral in daily nutrition; it assists in muscle contraction and in maintaining fluid and electrolyte balance in body cells.</ptext>
+<ptext>Formerly called kalium hence the symbol 'K'.</ptext>
+</notes>
+<images>
+<image name="19a"></image>
+<image name="19b">A good source of Potassium!</image>
+<image name="19c"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Praseodymium</name>
+<symbol>Pr</symbol>
+<atomicno>59</atomicno>
+<neutrons>82</neutrons>
+<atomicweight></atomicweight>
+<casid>7440-10-0</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white, yellowish tinge</colour>
+<classification>Metallic</classification>
+<density>6.77</density>
+<availability></availability>
+<dwho><blink ref="cabvw">C.F. Aver von Welsbach</blink></dwho>
+<dwhen>1885</dwhen>
+<dwhere>Austria</dwhere>
+<origin>Greek: prasios (green) and didymos (twin); from its green salts.</origin>
+<boiling>3793K</boiling>
+<melting>1208K</melting>
+<boilingC>3520'C</boilingC>
+<meltingC>935'C</meltingC>
+<sources>Can be found in rare earth minerals such as bastnasite and monazite. Obtained from the same salts as <elink ref="60">neodymium</elink>.</sources>
+<uses>Used for coloring glass and ceramic glazes. Also used with <elink ref="60">neodymium</elink> to make lenses for glass maker's goggles because they filter out the yellow light present in glass blowing. It is alloyed with <elink ref="12">magnesium</elink> to create high strength metals.</uses>
+<images>
+<image name="59"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Promethium</name>
+<symbol>Pm</symbol>
+<atomicno>61</atomicno>
+<neutrons>84</neutrons>
+<atomicweight>[145]</atomicweight>
+<casid>7440-12-2</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block </block>
+<state>solid at 298 K</state>
+<colour>metallic</colour>
+<classification>Metallic</classification>
+<density>7.26</density>
+<availability></availability>
+<dwho><blink ref="jam">J.A. Marinsky</blink>, L.E. Glendenin, C.D. Coryell</dwho>
+<dwhen>1945</dwhen>
+<dwhere>United States</dwhere>
+<origin>From Prometheus who stole the fire of the sky and gave it to mankind.</origin>
+<boiling>3273K</boiling>
+<melting>1315K</melting>
+<boilingC>3000'C</boilingC>
+<meltingC>1042'C</meltingC>
+<sources>Does not occur naturally. Found among fission products of <elink ref="92">uranium</elink>, <elink ref="90">thorium</elink>, and <elink ref="94">plutonium</elink>.</sources>
+<uses>Used as a radiation source in thickness gauges, photoelectric cells and hold potential as a heat source for auxilliary power in satellites. In a nuclear battery in which photocells convert the light into electric current, yielding a useful life of about five years using 147-Pm.</uses>
+<notes>
+<ptext>Promethium must be handled with great care because of its high radioactivity.</ptext>
+<ptext>Promethium is also the name of a fictional element in the DC Universe; writer Marv Wolfman claims to have been unaware of the existence of a real substance by that name at the time he wrote the original script featuring the name.</ptext>
+</notes>
+<images>
+<image name="61a"></image>
+<image name="61b"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Protactinium</name>
+<symbol>Pa</symbol>
+<atomicno>91</atomicno>
+<neutrons>122</neutrons>
+<atomicweight>231.03588</atomicweight>
+<casid>7440-13-3</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery metallic</colour>
+<classification>Metallic</classification>
+<density>15.37</density>
+<availability></availability>
+<dwho><blink ref="fs">Fredrich Soddy</blink>, John Cranston, <blink ref="oh">Otto Hahn</blink>, <blink ref="lm">Lise Meitner</blink></dwho>
+<dwhen>1917</dwhen>
+<dwhere>England/France</dwhere>
+<origin>protos (first); its is the parent of <elink ref="89">actinium</elink>, which is formed by radioactive decay.</origin>
+<boiling>4300K</boiling>
+<melting>2113K</melting>
+<boilingC>4300K</boilingC>
+<meltingC>2113K</meltingC>
+<sources>Does not occur in nature. Found among fission products of <elink ref="92">uranium</elink>, <elink ref="90">thorium</elink>, and <elink ref="94">plutonium</elink>.</sources>
+<uses>Because of its scarcity, high radioactivity and toxicity, there are currently no uses for protactinium outside of basic scientific research.</uses>
+<notes>
+<ptext>Protactinium is both toxic and highly radioactive.</ptext>
+<ptext>It is superconductive at temperatures below 1.4 K (-271.74'C).</ptext>
+</notes>
+</element>
+
+</elementlist>

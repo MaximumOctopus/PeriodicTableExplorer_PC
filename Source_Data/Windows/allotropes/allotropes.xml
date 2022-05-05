@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<!DOCTYPE xsl:stylesheet [<!ENTITY nbsp "&#160;"> <!ENTITY degree "&#176;">]>
+
+<allotropelist>
+
+<element media="y" index="005" type="0">
+<an>5</an>
+<name isotope='y'>Boron</name>
+<header>
+	<ptxt>All allotropes of boron have very high melting points, from 2,200-2,300&degree;C.</ptxt>
+</header>
+<allotropes>
+	<allotrope>
+		<name>Amorphous Boron</name>
+		<formula>B</formula>
+		<notes>
+			<ptxt>An amorphous brown powder with a density of 2.350 g/cm<sup>3</sup>.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>alpha-rhombohedral Boron</name>
+		<formula>B<sub>12</sub></formula>
+		<notes>
+			<ptxt>Clear red crystalline structure with a density of 2.46 g/cm<sup>3</sup>.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>beta-rhombohedral Boron</name>
+		<formula>B<sub>12</sub></formula>
+		<notes>
+			<ptxt>An allotrope consisting of black crystals with a metallic appearance. Density is 2.31 g/cm<sup>3</sup>.</ptxt>
+			<ptxt>The most thermodynamically stable allotrope.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>beta-tetragonal Boron</name>
+		<formula>B<sub>12</sub></formula>
+		<notes>
+			<ptxt>Black crystalline structure.</ptxt>
+		</notes>	
+	</allotrope>
+</allotropes>
+</element>
+
+<element media="y" index="006" type="3">
+<an>6</an>
+<name isotope='y'>Carbon</name>
+<allotropes>
+	<allotrope>
+		<name>Diamond</name>
+		<formula>C</formula>
+		<notes>
+			<ptxt>The hardest known natural mineral. Each atom is bonded tetrahedrally to four others, making a 3-dimensional network of puckered six-membered rings of atoms.</ptxt>
+		</notes>
+	</allotrope>
+	<allotrope>
+		<name>Graphite</name>
+		<formula>C</formula>
+		<notes>
+			<ptxt>Named by Abraham Gottlob Werner in 1789, from the Greek word "to draw/write", for its use in pencils) is one of the most common allotropes of carbon.</ptxt>
+			<ptxt>Unlike diamond, graphite is a conductor, and can be used, for instance, as the material in the electrodes of an electrical arc lamp. Graphite holds the distinction of being the most stable form of solid carbon ever discovered.</ptxt>
+			<ptxt>Graphite is able to conduct electricity due to the unpaired fourth <glink ref="electron">electron</glink> in each carbon atom. This unpaired 4th <glink ref="electron">electron</glink> forms delocalised planes above and below the planes of the carbon atoms. These <glink ref="electron">electrons</glink> are free to move, so are able to conduct electricity. However, the electricity is only conducted within the plane of the layers.</ptxt>
+			<ptxt>Graphite powder is used as a dry lubricant. Although it might be thought that this industrially important property is due entirely to the loose interlamellar coupling between sheets in the structure, in fact in a vacuum environment (such as in technologies for use in space), graphite was found to be a very poor lubricant. This fact lead to the discovery that graphite's lubricity is due to adsorbed air and water between the layers, unlike other layered dry lubricants such as molybdenum disulfide. Recent studies suggest that an effect called superlubricity can also account for this effect.</ptxt>
+			<ptxt>When a large number of crystallographic defects bind these planes together, graphite loses its lubrication properties and becomes what is known as pyrolytic carbon, a useful material in blood-contacting implants such as prosthetic heart valves. Natural and crystalline graphites are not often used in pure form as structural materials due to their shear-planes, brittleness and inconsistent mechanical properties.</ptxt>
+			<ptxt>In its pure glassy (isotropic) synthetic forms, pyrolytic graphite and carbon fiber graphite is an extremely strong, heat-resistant (to 3000&degree;C) material, used in reentry shields for missile nosecones, solid rocket engines, high temperature reactors, brake shoes and electric motor brushes.</ptxt>
+		</notes>
+	</allotrope>
+	<allotrope>
+		<name>Amorphous Carbon</name>
+		<formula>C</formula>
+		<notes>
+			<ptxt>Carbon that does not have any crystalline structure. As with all glassy materials, some short-range order can be observed, but there is no long-range pattern of atomic positions.</ptxt>
+			<ptxt>Coal and soot are both informally called amorphous carbon. However, both are products of pyrolysis, which does not produce true amorphous carbon under normal conditions. The coal industry divides coal up into various grades depending on the amount of carbon present in the sample compared to the amount of impurities. The highest grade, anthracite, is about 90 percent carbon and 10% other elements. Bituminous coal is about 75-90 percent carbon, and lignite is the name for coal that is around 55 percent carbon.</ptxt>
+		</notes>
+	</allotrope>
+	<allotrope>
+		<name>Fullerenes</name>
+		<formula>eg Buckminsterfullerene C<sub>60</sub></formula>
+		<notes>
+			<ptxt>The fullerenes are recently-discovered allotropes of carbon named after the scientist and architect Richard Buckminster Fuller, but were discovered in 1985 by a team of scientists from Rice University and the University of Sussex, three of whom were awarded the 1996 Nobel Prize in Chemistry. They are <glink ref="molecule">molecules</glink> composed entirely of carbon, which take the form of a hollow sphere, ellipsoid, or tube. Spherical fullerenes are sometimes called buckyballs, while cylindrical fullerenes are called buckytubes or nanotubes.</ptxt>
+			<ptxt>As of the early twenty-first century, the chemical and physical properties of fullerenes are still under heavy study, in both pure and applied research labs. In April 2003, fullerenes were under study for potential medicinal use -  binding specific antibiotics to the structure to target resistant bacteria and even target certain cancer cells such as melanoma.</ptxt>
+			<ptxt>Fullerenes are similar in structure to graphite, which is composed of a sheet of linked hexagonal rings, but they contain pentagonal (or sometimes heptagonal) rings that prevent the sheet from being planar.</ptxt>
+			<ptxt>Spherical fullerenes are often refered to as buckyballs. The smallest fullerene is the dodecahedron--the unique C<sub>20</sub>.</ptxt>
+			<ptxt>Buckminsterfullerene (C<sub>60</sub>) was named after Richard Buckminster Fuller, a noted architect who popularized the geodesic dome.</ptxt>
+		</notes>
+	</allotrope>
+	<allotrope>
+		<name>Nanotubes (buckytube)</name>
+		<formula>C</formula>
+		<notes>
+			<ptxt>Nanotubes are cylindrical carbon <glink ref="molecule">molecules</glink> with novel properties that make them potentially useful in a wide variety of applications (e.g., nano-electronics, optics, materials applications, etc.). They exhibit extraordinary strength and unique electrical properties, and are efficient conductors of heat. Inorganic nanotubes have also been synthesized.</ptxt>
+			<ptxt>A nanotube (also known as a buckytube) is a member of the fullerene structural family, which also includes buckyballs. Whereas buckyballs are spherical in shape, a nanotube is cylindrical, with at least one end typically capped with a hemisphere of the buckyball structure. Their name is derived from their size, since the diameter of a nanotube is on the order of a few nanometers (approximately 50,000 times smaller than the width of a human hair), while they can be up to several centimeters in length. There are two main types of nanotubes: single-walled nanotubes (SWNTs) and multi-walled nanotubes (MWNTs).</ptxt>
+		</notes>
+	</allotrope>
+	<allotrope>
+		<name>Aggregated diamond nanorods</name>
+		<formula>C</formula>
+		<notes>
+			<ptxt>Aggregated diamond nanorods, or ADNRs, are an allotrope of carbon believed to be the least compressible material known to humankind. They are also 0.3% denser than diamonds.</ptxt>
+		</notes>
+	</allotrope>
+	<allotrope>
+		<name>Carbon nanofoam</name>
+		<formula>C</formula>
+		<notes>
+			<ptxt>Carbon nanofoam was discovered in 1997 by Andrei V. Rode and co-workers at the Australian National University in Canberra. It consists of a low-density cluster-assembly of carbon atoms strung together in a loose three-dimensional web.</ptxt>
+			<ptxt>Each cluster is about 6 nanometers wide and consists of about 4000 carbon atoms linked in graphite-like sheets that are given negative curvature by the inclusion of heptagons among the regular hexagonal pattern. This is the opposite of what happens in the case of buckminsterfullerenes, in which carbon sheets are given positive curvature by the inclusion of pentagons.</ptxt>
+			<ptxt>The large-scale structure of carbon nanofoam is similar to that of an aerogel, but with 1% of the density of previously produced carbon aerogels - only a few times the density of air at sea level. Unlike carbon aerogels, carbon nanofoam is a poor electrical conductor.</ptxt>
+		</notes>
+	</allotrope>
+		<allotrope>
+		<name>Glassy Carbon</name>
+		<formula>C</formula>
+		<notes>
+			<ptxt>Glassy carbon is a class of non-graphitizing carbon which is widely used as an electrode material in electrochemistry, as well as for high temperature crucibles and as a component of some prosthetic devices. It was first produced by workers at the laboratories of The General Electric Company, UK, in the early 1960s, using cellulose as the starting material. A short time later, Japanese workers produced a similar material from phenolic resin. The preparation of glassy carbon involves subjecting the organic precursors to a series of heat treatments at temperatures up to 3000oC. Unlike many non-graphitizing carbons, they are impermeable to gases and are chemically extremely inert, especially those which have been prepared at very high temperatures. It has been demonstrated that the rates of oxidation of certain glassy carbons in oxygen, carbon dioxide or water vapour are lower than those of any other carbon. They are also highly resistant to attack by acids. Thus, while normal graphite is reduced to a powder by a mixture of concentrated sulphuric and nitric acids at room temperature, glassy carbon is unaffected by such treatment, even after several months.</ptxt>
+		</notes>
+	</allotrope>
+	<allotrope>
+		<name>Lonsdaleite</name>
+		<formula>C</formula>
+		<notes>
+			<ptxt>Lonsdaleite is a hexagonal allotrope of the carbon allotrope diamond, believed to form when meteoric graphite falls to Earth. The great heat and stress of the impact transforms the graphite into diamond, but retains graphite's hexagonal crystal lattice.</ptxt>
+			<ptxt>Lonsdaleite was first identified from the Canyon Diablo meteorite at Barringer Crater (also known as Meteor Crater) in Arizona. It was first discovered in 1967. Lonsdaleite occurs as microscopic crystals associated with diamond in the Canyon Diablo meteorite; Kenna meteorite, New Mexico; and Allan Hills (ALH) 77283, Victoria Land, Antarctica meteorite. It has also been reported from the Tunguska impact site, Russia.</ptxt>
+		</notes>
+	</allotrope>
+	<allotrope>
+		<name>Chaoite</name>
+		<formula>C</formula>
+		<notes>
+			<ptxt>Chaoite is a mineral believed to have been formed in meteorite impacts. It has been described as slightly harder than graphite with a reflection colour of grey to white.</ptxt>
+		</notes>
+	</allotrope>									
+</allotropes>
+</element>
+
+<element media="y" index="008" type="3">
+<an>8</an>
+<name isotope='y'>Oxygen</name>
+<allotropes>
+	<allotrope>
+		<name>Dioxygen</name>
+		<formula>O<sub>2</sub></formula>
+		<notes>
+			<ptxt>A gas at room temperature. Dioxygen exists as a diradical (contains two unpaired <glink ref="electron">electrons</glink>) and is the only allotrope of any element with unpaired <glink ref="electron">electrons</glink>.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>Ozone</name>
+		<formula>O<sub>3</sub></formula>
+		<mp>75.95K (-197.2&degree;C)</mp>
+		<bp>161.25K (-111.9&degree;C)</bp>
+		<notes>
+			<ptxt>Ozone was discovered by Christian Friedrich Schonbein in 1840, who named it after the Greek word for smell (ozein), from the peculiar odour in lightning storms. The actual odour from a lightning strike is from <glink ref="electron">electron</glink> that have been freed during the rapid chemical changes that take place, and not ozone.</ptxt>
+			<ptxt>Ozone is a pale blue gas at standard temperature and pressure. It forms a dark blue liquid below -112&degree;C and a dark blue solid below -193&degree;C. Ozone is a powerful oxidizing agent. It is also unstable, decaying to ordinary oxygen (O<sub>2</sub>).</ptxt>
+			<ptxt>It is present in low concentrations throughout the Earth's atmosphere: ground level ozone is an air pollutant with harmful effects on lung function and in the upper atmosphere it prevents damaging ultraviolet light from reaching the Earth's surface. It is also formed from O<sub>2</sub> by electrical discharges such as lightning, and by action of high energy electromagnetic radiation.</ptxt>
+			<ptxt>Some kinds of electrical equipment generate significant levels of ozone. This is especially true of devices using high voltages, such as television sets, laser printers, and photocopiers. </ptxt>
+			<ptxt>Ozone is widely used in disenfecting water, killing bacteria and cleaning and bleaching fabrics.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>Tetraoxygen</name>
+		<formula>O<sub>4</sub></formula>
+		<notes>
+			<ptxt>The most recently discovered allotrope of <elink ref="8">oxygen</elink>.</ptxt>
+			<ptxt>It is a deep red solid and is created by pressurizing O<sub>2</sub> to the order of 20 GPa. Its properties are being studied for use in rocket fuels and similar applications, as it is a much more powerful oxidizer than either O<sub>2</sub> or O<sub>3</sub>.</ptxt>
+		</notes>	
+	</allotrope>
+</allotropes>
+</element>
+
+<element media="y" index="015" type="3">
+<an>15</an>
+<name isotope='y'>Phosphorus</name>
+<header>
+	<ptxt>Red and White phosphorus are the most comment allotropes.</ptxt>
+</header>
+<allotropes>
+	<allotrope>
+		<name>Red</name>
+		<formula>P</formula>
+		<mp></mp>
+		<bp></bp>
+		<notes>
+			<ptxt>It is less reactive than white phosphorus, although it is flammable at 500&degree;C, has high electrical resistivity, is insoluble in most solvents, and the properties of red phosphorus are intermediate between white and black. Red phosphorus is obtained by heating white phosphorus at 240&degree;C with a <elink ref="80">mercury</elink> catalyst.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>White</name>
+		<formula>P<sub>4</sub></formula>
+		<notes>
+			<ptxt>White phosphorus is a colourless to yellow, transparent, crystalline solid which darkens on exposure to light. The yellow colouring results from impurities. It has a waxy appearance, high electrical resistivity, is insoluble in water and alcohol, but is soluble in carbon disulfide, some organic solvents, and oils, and has phosphorescent properties at room temperature. When exposed to air, phosphorus emits white fumes and can spontaneously ignite. Therefore, it should be stored under water. White phosphorus can form compounds with <glink ref="halogens">halogens</glink>, <elink ref="16">sulfur</elink>, metals, nitric acid, and alkali hydroxides.</ptxt>
+			<ptxt>White phosphorus is a deadly poison.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>Black</name>
+		<formula>P</formula>
+		<notes>
+			<ptxt>Black phosphorus is polymorphic, occurring in orthorhombic crystalline form or at higher pressures in the rhombohedral form. The black solid resembles graphite and is obtained by heating white phosphorus under high pressure. It is very stable and insoluble in most solvents.</ptxt>
+		</notes>	
+	</allotrope>
+</allotropes>
+</element>
+
+<element media="y" index="016" type="3">
+<an>16</an>
+<name isotope='y'>Sulfur</name>
+<header>
+	<ptxt>Sulfur (S) is second only to <elink ref="6">carbon</elink> in the number of known allotropes formed. The existence of at least twenty-two sulfur allotropes has been demonstrated.</ptxt>
+	<ptxt>Sulfur forms an extensive series of generally yellow crystalline allotropes, S<sub>n</sub> (where species with n up to 30 have been identified).</ptxt>
+</header>
+<allotropes>
+	<allotrope>
+		<name>Orthorhombic Sulfur</name>
+		<formula>S<sub>8</sub></formula>
+		<notes>
+			<ptxt>The most common form, stable at room temperature and atmospheric pressure. Eight sulfur atoms bond covalently in crownlike rings.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>Cyclohexasulfur or Rhombohedral Sulfur</name>
+		<formula>S<sub>6</sub></formula>
+		<notes>
+			<ptxt>Cyclohexasulfur was first reported in 1891. It is the densest of the sulfur allotropes and forms air-sensitive orange-red crystals containing chair-shaped, six-membered rings.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope> 
+		<name>Amorphous Sulfur</name>
+		<formula>S</formula>
+		<notes>
+			<ptxt>The result of very rapid cooling of very hot sulfur.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>Disulfur</name>
+		<formula>S<sub>2</sub></formula>
+		<notes>
+			<ptxt>The simplest allotrope of sulfur, it is a violet colour. It does not occur naturally at room temperature and pressure. It is commonly generated in the vapour generated from sulfur at temperatures above 700&degree;C.</ptxt>
+			<ptxt>It has been detected by the Hubble Space Telescope in volcanic eruptions on Jupiter's satellite, Io.</ptxt>
+		</notes>	
+	</allotrope>	
+</allotropes>
+</element>
+
+<element media="y" index="033" type="0">
+<an>33</an>
+<name isotope='y'>Arsenic</name>
+<allotropes>
+	<allotrope>
+		<name>Gray (alpha) Arsenic</name>
+		<formula>As<sub>4</sub> up to 800&degree;C, As<sub>2</sub> above 1700&degree;C</formula>
+		<notes>
+			<ptxt>The most stable allotrope of arsenic, with arhombohedric structure. It has a layered microstructure, metallic glow, steel grey colour, it is soft and very brittle. It conducts electricity.</ptxt>
+			<ptxt>At atmospheric pressure it sublimates at 613&degree;C, and at pressure of 36.4 kPa it melts at 817&degree;C.</ptxt>
+			<ptxt>Up to 800&degree;C arsenic vapours are as As<sub>4</sub>, and above 1700&degree;C it is As<sub>2</sub>. With humid air it reacts at room temperature, and if heated in air it burns a blue flame, creating thick fumes of As<sub>2</sub>O<sub>3</sub> with a garlicky smell. At room temperature it directly bonds with <elink ref="9">fluorine</elink> and <elink ref="17">chlorine</elink>, and when heated it bonds with <elink ref="35">bromine</elink>, <elink ref="53">iodine</elink> and <elink ref="16">sulphur</elink>.</ptxt>
+			<ptxt>It does not bond with <elink ref="7">nitrogen</elink>, <elink ref="5">boron</elink>, <elink ref="14">silicon</elink> and <elink ref="6">carbon</elink>. Strong oxidative acids, as concentrated <elink ref="7">nitrogen</elink> acid, oxidize it to arsenic acid, dissolved <elink ref="7">nitrogen</elink> acid doesn't oxidize to arsenate acid. It forms alloys with most metals.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>Yellow (beta) Arsenic</name>
+		<formula>As<sub>6</sub></formula>
+		<notes>
+			<ptxt>An allotrope of arsenic with an hexagonal structure which forms by abrupt cooling of arsine gases (AsH<sub>3</sub>). It is soft as wax and doesn't conduct electricity. It is unstable at room temperature, when affected by light it quickly and easily turns to grey arsenic.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>Amorphous Black Arsenic</name>
+		<formula></formula>
+		<notes>
+			<ptxt>Amorphous black arsenic is produced by sublimation of arsenic without the presence of air. It also forms from the break up of arsenic-hydrogen with heat where it is excreted as vapour by creating a mirror layer (so called "arsenic mirror"). This reaction is used to prove small amounts of arsenic in case of suspicion of poisoning (Marsh test).</ptxt>
+			<ptxt>When heated at 360&degree;C it turns to stable grey arsenic.</ptxt>			   
+		</notes>	
+	</allotrope>	
+</allotropes>
+</element>
+
+<element media="y" index="034" type="3">
+<an>34</an>
+<name isotope='y'>Selenium</name>
+<allotropes>
+	<allotrope>
+		<name>Gray (trigonal) Selenium</name>
+		<formula>Se<sub>n</sub> helical chain polymers</formula>
+		<notes>
+			<ptxt>The most thermodynamically stable and the densest allotrope of selenium, which contains infinite helical chains of selenium atoms. All other forms revert to gray selenium on warming. In keeping with its density, gray selenium is regarded as metallic, and it is the only form of selenium that conducts electricity.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>Rhombohedral Selenium</name>
+		<formula>Se<sub>6</sub></formula>
+		<notes>
+			<ptxt></ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>alpha-selenium</name>
+		<formula>Se<sub>8</sub></formula>
+		<notes>
+			<ptxt>A deep-red monoclinic form of Selenium.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>beta-selenium</name>
+		<formula>Se<sub>8</sub></formula>
+		<notes>
+			<ptxt>A deep-red monoclinic form of Selenium.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>gamma-selenium</name>
+		<formula>Se<sub>8</sub></formula>
+		<notes>
+			<ptxt>A deep-red monoclinic form of Selenium.</ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>Amorphous Red Selenium</name>
+		<formula></formula>
+		<notes>
+			<ptxt></ptxt>
+		</notes>	
+	</allotrope>
+	<allotrope>
+		<name>Black Vitreous Selenium</name>
+		<formula></formula>
+		<notes>
+			<ptxt>The allotrope of selenium used in industry.</ptxt>
+		</notes>	
+	</allotrope>
+</allotropes>
+</element>
+
+<element media="y" index="050" type="5">
+	<an>50</an>
+	<name isotope='y'>Tin</name>
+	<allotropes>
+		<allotrope>
+			<name>Alpha or Grey Tin</name>
+			<formula>Sn</formula>
+			<notes>
+				<ptxt>Tin exists in this form at low temperatures, below 13.2&degree;C. It has a cubic crystal structure similar to <elink ref="14">silicon</elink> and <elink ref="32">germanium</elink>.</ptxt>
+			</notes>	
+		</allotrope>
+		<allotrope>
+			<name>Beta or White Tin</name>
+			<formula>Sn</formula>
+			<notes>
+				<ptxt>Tin exists in this form when heated above 13.2&degree;C. It is metallic and has a tetragonal structure.</ptxt>
+				<ptxt>It slowly changes back to the gray form when cooled, which is called the "tin pest" or "tin disease". However, this transformation is affected by impurities such as <elink ref="13">aluminium</elink> and <elink ref="30">zinc</elink> and can be prevented from occurring through the addition of <elink ref="51">antimony</elink> or <elink ref="83">bismuth</elink>.</ptxt>
+			</notes>	
+		</allotrope>
+	</allotropes>
+</element>
+
+<element media="y" index="070" type="9">
+	<an>70</an>
+	<name isotope='y'>Ytterbium</name>
+	<header>
+		<ptxt>Ytterbium has three allotropes which are called alpha, beta and gamma and whose transformation points are at -13&degree;C and 795&degree;C. The beta form exists at room temperature and has a face-centered crystal structure while the high-temperature gamma form has a body-centered crystal structure.</ptxt>
+	</header>
+</element>
+
+<element media="y" index="92" type="10">
+	<an>92</an>
+	<name isotope='y'>Uranium</name>
+	<allotropes>
+		<allotrope>
+			<name>alpha (orthorhombic) Uranium</name>
+			<formula>U</formula>
+			<notes>
+				<ptxt>Stable up to 940.84K (667.7&degree;C).</ptxt>
+			</notes>
+		</allotrope>
+		<allotrope>
+			<name>beta (tetragonal) Uranium</name>
+			<formula>U</formula>
+			<notes>
+				<ptxt>Stable from 940.84K (667.7&degree;C) to 1047.94K (774.8&degree;C)</ptxt>
+			</notes>
+		</allotrope>
+		<allotrope>
+			<name>gamma (body-centred cubic) Uranium</name>
+			<formula>U</formula>
+			<notes>
+				<ptxt>Stable from 1047.94K (774.8&degree;C) to its <glink ref="mp">melting point</glink>. This is the most malleable and ductile state.</ptxt>
+			</notes>
+		</allotrope>
+	</allotropes>
+</element>
+
+<element media="y" index="094" type="10">
+	<an>94</an>
+	<name isotope='y'>Plutonium</name>
+	<header>
+		<ptxt>It has six allotropes normally and a seventh under pressure, each of which have very similar energy levels but with significantly varying densities, making it very sensitive to changes in temperature, pressure, or chemistry, and allowing for dramatic volume changes following phase transitions.</ptxt>
+		<ptxt>The presence of these many allotropes makes machining plutonium very difficult, as it changes state very readily.</ptxt>
+		<ptxt>In weapons applications, plutonium is often alloyed with another metal (e.g. <elink ref="31">gallium</elink>) to increase phase stability and thereby enhance workability and ease of handling.</ptxt>
+	</header>	
+</element>
+
+</allotropelist>

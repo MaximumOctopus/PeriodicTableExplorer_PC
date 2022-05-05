@@ -1,0 +1,1102 @@
+<?xml version="1.0"?>
+<!DOCTYPE xsl:stylesheet [<!ENTITY nbsp "&#160;"> <!ENTITY degree "&#176;"> <!ENTITY Eacute "&#201;"> <!ENTITY oacute "&#243;"> <!ENTITY auml "&#228;"> <!ENTITY ouml "&#246;"> <!ENTITY uuml "&#252;"> <!ENTITY ccedil "&#231;"> <!ENTITY egrave "&#232;"> <!ENTITY eacute "&#233;"> <!ENTITY ouml "&#246;">]>
+
+<elementbiog>
+
+<biog type="astop">
+	<bentry>A</bentry>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Abelson, Philip Hauge</bentry>
+	<name>Philip Hauge Abelson</name>
+	<birth>1913-2004</birth>
+	<birthbig>April 27th 1913 - August 1st 2004</birthbig>
+	<ab>pha</ab>
+	<ptxt>Abelson, who was born in Tacoma, was educated at Washington State College and at the University of California at Berkeley, where he obtained his PhD in 1939. Apart from the war years at the Naval Research Laboratory in Washington, he spent most of his career at the Carnegie Institution, Washington, serving as the director of the geophysics laboratory from 1953, and as president from 1971 to 1978. He subsequently became the editor of a number of scientific journals including the important periodical Science, which he edited from 1962 to 1985.</ptxt>
+	<ptxt>In 1940 he assisted <blink ref="emm">Edwin McMillan</blink> in creating the first transuranic element, <elink ref="93">neptunium</elink>, by bombardment of <elink ref="92">uranium</elink> with <glink ref="neutron">neutrons</glink> in the Berkeley cyclotron. Abelson next worked on separating the <glink ref="isotope">isotopes</glink> of <elink ref="92">uranium</elink>. It was clear that a nuclear explosion was possible only if sufficient quantities of the rare <glink ref="isotope">isotope</glink> <elink ref="92">uranium-235</elink> (only 7 out of every 1000 uranium atoms) could be obtained. The method Abelson chose was that of thermal diffusion. This involved circulating <elink ref="92">uranium</elink> hexafluoride vapour in a narrow space between a hot and a cold pipe; the lighter <glink ref="isotope">isotope</glink> tended to accumulate nearer the hot surface. Collecting sufficient <elink ref="92">uranium-235</elink> involved Abelson in one of those massive research and engineering projects only possible in war time. In the Philadelphia Navy Yard, he constructed a hundred or so 48-foot (15-meter) precision- engineered pipes through which steam was pumped. From this Abelson was able to obtain <elink ref="92">uranium</elink> enriched to 14 U-235 atoms per 1000.</ptxt>
+	<ptxt>Although this was still too weak a mixture for a bomb, it was sufficiently enriched to use in other separation processes. Consequently a bigger plant, consisting of over 2000 towers, was constructed at Oak Ridge, Tennessee, and provided enriched material for the separation process from which came the fuel for the first atom bomb.</ptxt>
+	<ptxt>After the war Abelson extended the important work of Stanley Miller on the origin of vital biological <glink ref="molecule">molecules</glink>. He found that amino acids could be produced from a variety of gases if <elink ref="6">carbon</elink>, <elink ref="7">nitrogen</elink>, <elink ref="1">hydrogen</elink>, and <elink ref="8">oxygen</elink> were present. He was also able to show (1955) the great stability of amino acids by identifying them in 300-million-year-old fossils and later (1956) identified the presence of fatty acids in rocks.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Arfvedson, Johann August</bentry>
+	<name>Johann August Arfvedson</name>
+	<birth>1792-1841</birth>
+	<birthbig>January 12th 1792 - October 28th 1841</birthbig>
+	<ab>jaa</ab>
+	<ptxt>Johann was a Swedish chemist who was a student of the notable Swedish chemist <blink ref="jjg">J&ouml;ns Jacob Berzelius</blink>. The rare mineral arvedsonite was named after him.</ptxt>
+	<ptxt>He discovered <elink ref="3">Lithium</elink> in 1817. </ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Armbruster, Peter</bentry>
+	<name>Peter Armbruster</name>
+	<birth>1931-</birth>
+	<birthbig>July 25th 1931 - </birthbig>
+	<ab>pa</ab>
+	<ptxt>He was born in Dachau (Bavaria) in 1931. He studied physics at the Technical University of Stuttgart and Munchen, and obtained his Ph.D. in 1961 under H. Maier-Leibniz, Technical University Munchen. His major research fields were fission, interaction of heavy <glink ref="ion">ions</glink> in matter and atomic physics with fission product beams at the Research Center of Julich (1965 - 1970).</ptxt>
+	<ptxt>From 1989 - 1992 he was research Director of the European Institute Laue-Langevin (ILL), Grenoble. He was Senior Scientist at the <blink ref="hirl">Gesellschaft f&uuml;r Schwerionenforschung Darmstadt</blink>, GSI, from 1971 - 1996. He developed recoil separators equipped with new detector systems during most of his scientific career. His main research activities were: synthesis and production of new elements and <glink ref="isotope">isotopes</glink>, studies of reaction mechanisms, studies of characteristic <glink ref="xr">X-rays</glink> produced in ion-atom collisions - among others X-ray emission from transient superheavy collision systems, studies on track formation of heavy ions in solids by <glink ref="neutron">neutron</glink> and <glink ref="xr">X-ray</glink> small angle scattering. He also directed experiments on <glink ref="isotope">isotope</glink> production in fission by relativistic reactions of <sup>238</sup>U. Since 1996 he is involved in a project on incineration of nuclear waste by spallation and fission reactions.</ptxt>
+	<ptxt>He has received many awards for his work, to mention a few: the Max-Born Medal awarded by the Institute of Physics London and the Deutsche Physikalische Gesellschaft in 1988, and the Stern-Gerlach Medal awarded by the Deutsche Physikalische Gesellschaft in 1997.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>B</bentry>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Balard, Antoine-Jerome</bentry>
+	<name>Antoine-Jerome Balard</name>
+	<birth>1802-1876</birth>
+	<birthbig>September 30th 1802 - April 30th 1876</birthbig>
+	<ab>ajb</ab>
+	<ptxt>Balard was born in Montpellier in southern <slink ref="fr">France</slink>, and studied there at the School of Pharmacy. After graduating in 1826, he remained at Montpellier as a demonstrator in chemistry. In 1825, while investigating the salts contained in seawater, he discovered a dark red liquid, which he proved was an element with properties similar to <elink ref="17">chlorine</elink> and <elink ref="53">iodine</elink>. Balard proposed the name 'muride' but the editors of Annales de chimie preferred 'brome' (because of the element's strong odour, from the Greek for 'stink') and the element came to be called <elink ref="35">bromine</elink>. Balard also (1834) discovered dichlorine oxide (Cl<sub>2</sub>O) and chloric(I) acid (HClO).</ptxt>
+	<ptxt>In 1833 he became professor at Montpellier and in 1843 succeeded Louis Thenard at the Sorbonne as professor of chemistry. In 1854 he was appointed professor of general chemistry at the College de France, where he remained until his death.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Berzelius, J&ouml;ns Jacob</bentry>
+	<name>J&ouml;ns Jacob Berzelius</name>
+	<birth>1779-1848</birth>
+	<birthbig>August 20th 1779 - August 7th 1848</birthbig>
+	<ab>jjg</ab>
+	<ptxt>"The day of a man's funeral seems to be a fitting time for one to ask, 'What kind of man was he? How will history portray him? For what will he be remembered?' I met Berzelius for the first time when I worked with him at the health spa. I was impressed with him then and I hope that your chronicle of him will treat him with the dignity and respect which he deserves. If I did not believe that you would do so, this interview would not now be taking place...""From my early conversations with him, I learned that he had been born in Sorgard. There followed an unhappy childhood. His father, who was a teacher, died while he was still young. His mother remarried and died shortly thereafter. At the age of twelve he was sent away to school in Linkoping, where he supported himself with tutoring. He had an inate ability to learn languages and soon became proficient in both German and French. Perhaps it was this command of languages which led him to try to simplify chemical formulas and symbols. He began his medical studies at the age of seventeen but was forced to withdraw when his scholarship was withdrawn, not, however, before learning a good deal of chemistry from A. G. Eckberg, the discoverer of titanium. In his desire to help Jons, his uncle found him an apprenticeship to a pharmacist. This was followed by an apprenticeship to one of the physicans at the Medivi mineral springs. It was here that he learned the quantitative techniques that would be the foundation for his later work."</ptxt>
+	<ptxt>"We became friends at this point, and I have kept track of him since." "He resumed his medical studies and received his PhD. His doctoral work centered on galvano therapy: the use of electricity in the treatment of the sick. From here he became an assistant to the professor of surgery at Stockholm. He began a series of chemical investigations in collaboration with a young mine owner by the name of Witssinger. In 1807, he became professor of chemistry at the Karolinska Medical Institute. Here he did much inorganic analysis and brought to the lab the very rigid standards of experimentation which were to be his hallmark until his death." "I hope by this time that you appreciate that the road to his success was not an easy one as in the case of many others who had the wealth to pursue what they would. His persistence was born of an inner fire and drive to achieve, which allowed him to overcome the many obstacles he encountered."</ptxt>
+	<ptxt>"As I have indicated, he was a driven man and spent most of his life in 'the minute investigations of chemical proportions and, with that, the development of the atomic doctrine he looked upon as his life task'. Sometimes driven men are unhappy men. Not so Jons. The joy which he found in his work can be seen in the quality of his experimentation and most definitely in his teaching. His personal interactions with his students is well documented. To give his students the information which he felt was most correct, he published a textbook which went through several revisions as new materials and theories developed. He even succeeded in introducing chemistry, physics and natural history into the high school curriculum. During this time his meticulous analysis led him to publish several tables of atomic weights. Again these were revised continuously, finally containing over 2000 determinations. The large number came from using the term atomic weight for elements and <glink ref="compound">compounds</glink> alike."</ptxt>
+	<ptxt>"As Boyle might be seen as a man stepping from the tradition of alchemy to that of applied chemistry, so too may Berzelius be seen as a man stepping from the tradition of <blink ref="aldl">Lavoisier</blink> into that of organic chemistry. He moved from the hierachal duality of acids and salts proposed by Stahl and <blink ref="aldl">Lavoisier</blink> to his own duality which saw substances composed of the generic and specific and eventually to one of <glink ref="compound">compounds</glink> being made up of positive and negative portions. Perhaps it was because 'He saw organic substances as generic mixtures which had to be separated into specific species before anything could be done with them' that his success with organic chemistry was less than with inorganic chemistry."</ptxt>
+	<ptxt>"He was great in that he had the ability to arrive at the general by way of the particular; and although there may have been errors of interpretation, or what might be considered errors by us, in his assumptions, his final conclusions were free of error due to the meticulous nature of his work."</ptxt>
+	<ptxt>"Controversies with others will arrive when there is a feeling that error has been made by others and in the records of Berzelilus' work you will find many of them with other chemists such as Dumas, Laurent, and Liebig. As Dumas once observed 'Till now it has been usual to discard a hypothesis as soon as it leads to absurdities, but to some modern investigators this course seems too inconvenient'".</ptxt>
+	<ptxt>"It is always easier to destroy than to build up. It is easier to criticize the ruins rather than to admire the architecture from which the ruins came. During his later life, he saw the structure of his chemistry begin to crumble in parts. Because of this he tended to become depressed and withdrawn. Yet there remains a good deal in the ruins. Turner's advocacy of the adoption of his atomic symbols before the British Academy of Sciences is one such instance."</ptxt>
+	<ptxt>"You are free to look at the rest and make of them what you will. For it will be how you subjectively feel about the man that will determine what you will write. However, it might be well to consider what Rose wrote of him: </ptxt>
+	<ptxt>'The irresistible captivation which Berzelius exercised over those who enjoyed the privilege of a lengthened intercourse with him was only partly due to the lofty genius, whose sparks flashed from all his work, and only partly to the clearness, the marvelous wealth of ideas, and the untiring care and great industry that gave everything with which he had to do the stamp of highest perfection. It was also- and everyone who knew him intimately will agree with this,-it was also those qualities which placed him so high as a man: it was his devotion to others, the noble friendshipwhich he showed to all whom he deemed worthy of it, the great unselfishness and concientiousness, the perfect and just recognition of the services of others,-- in short, it was all those qualities which spring up from an upright and honorable character.'"</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>de Boisbaudran, Paul Emile Lecoq</bentry>
+	<name>Paul Emile Lecoq de Boisbaudran</name>
+	<birth>1838-1912</birth>
+	<birthbig>April 18th 1838 - May 28th 1912</birthbig>
+	<ab>pelb</ab>
+	<ptxt>French discoverer of the elements <elink ref="31">gallium</elink>, <elink ref="62">samarium</elink>, and <elink ref="66">dysprosium</elink>. He also made contributions in the field of spectroscopy, including his experimentation with the rare-earth metals.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Brand, Hennig</bentry>
+	<name>Hennig Brand</name>
+	<birth>1630 - 1692</birth>
+	<birthbig></birthbig>
+	<ab>hb</ab>
+	<ptxt>Hening Brand was a German merchant who discovered <elink ref="15">Phosphorus</elink> in 1669. Being bankrupt, he tried to discover the Philisophers Stone to convert <elink ref="47">silver</elink> to <elink ref="79">gold</elink>. He experimented with distilling human urine , until he finally got a white glowing substance. However he kept his discovery secret, so it wasn't until Robert Boyle rediscovered it 1680 when the new element became public.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Brandt, Georg</bentry>
+	<name>Georg Brandt</name>
+	<birth>c. 1630 - c. 1710</birth>
+	<birthbig>c. 1630 - c. 1710</birthbig>
+	<ab>gb</ab>
+	<ptxt>A Swedish chemist and mineralogist who discovered <elink ref="27">cobalt</elink> in 1737 while trying to prove that <elink ref="83">bismuth</elink> is not the only <glink ref="element">element</glink> that can be used to colour glass blue.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Bunsen, Robert Wilhelm</bentry>
+	<name>Robert Wilhelm Bunsen</name>
+	<birth>1811-1899</birth>
+	<birthbig>March 31st 1811 - August 16th 1899</birthbig>
+	<ab>rwb</ab>
+	<ptxt>When confronted by the vast array of apparatus used in chemistry lab, a student can usually identify with a high degree of confidence one of the more familiar pieces of equipment, the Bunsen burner. While this essential piece of laboratory equipment has immortalized the name of Robert Wilhelm Bunsen, it was not invented by him. Bunsen improved the burner's design to aid his endeavors in spectroscopy. Ironically, Bunsen will be remembered by generations of chemistry students for a mere improvement in a burner design, when his other contributions to the field of chemistry are vastly more significant and diverse, covering such areas as organic chemistry, <elink ref="33">arsenic</elink> <glink ref="compound">compounds</glink>, gas measurements and analysis, the galvanic battery, elemental spectroscopy and geology. Bunsen was born on March 31, 1811 in Gottingen, <slink ref="de">Germany</slink>, the youngest of four sons. As his father was a professor of modern languages at the university, an academic environment would surround him from birth. After schooling in the city of Holzminden, Bunsen studied chemistry at Gottingen. Receiving his doctorate at age 19, Bunsen set off on extensive travels, partially underwritten by the government, that took him through Germany and Paris and eventually to Vienna from 1830 to 1833. During this time, Bunsen visited Henschel's machinery manufacturing plant and saw the "new small steam engine." In Berlin, he saw the mineralogical collections of Weiss and had contact with Runge, the discoverer of aniline. Continuing on his journeys, Bunsen met with Liebig in Giessen and with Mitscherlich in Bonn for a geological trip through the Eifel mountains. In Paris and Vienna, Bunsen visited the Sevres porcelain works and met with the outstanding chemists of the times. These travels allowed Bunsen the opportunity to establish a network of contacts that would stay with him throughout his illustrious career.</ptxt>
+	<ptxt>Upon his return to Germany, Bunsen became a lecturer at Gottingen and began his experimental studies of the insolubility of metal salts of arsenious acid. His discovery of the use of iron oxide hydrate as a precipitating agent is still the best known antidote against arsenic poisoning to this day. This was his only venture in organic/physiological chemistry.</ptxt>
+	<ptxt>In 1836, Bunsen was nominated to succeed W&ouml;hler at Kassel. He taught there for two years before accepting a position at the University of Marsburg which was the site of his important and dangerous studies of cacodyl derivatives. This research was his only work in pure organic chemistry and made him immediately famous within the scientific community. Cacodyl (from the Greek kakodhs - "stinking") was also known as alkarsine or "Cadet's liquid," a product made from <elink ref="33">arsenic</elink> distilled with <elink ref="19">potassium</elink> acetate. The chemical composition of this liquid was unknown, but it and its <glink ref="compound">compounds</glink> were known to be poisonous, highly flammable and had an extremely nauseating odour even in minute quantities. Bunsen himself described one of these <glink ref="compound">compounds</glink>: "the smell of this body produces instantaneous tingling of the hands and feet, and even giddiness and insensibility... It is remarkable that when one is exposed to the smell of these <glink ref="compound">compounds</glink> the tongue becomes covered with a black coating, even when no further evil effects are noticeable." Bunsen's daring experiments showed that cacodyl was an oxide of arsenic that contained a methyl radical (a group of atoms acting as one species). These results significantly furthered the earlier work by <blink ref="jlgl">Gay-Lussac</blink>, who had isolated the radical cyan in 1815, and that of Liebig and W&ouml;hler who published "One the radical of benzoic acid" in 1832. Typical of his research life, however, Bunsen seemed content to explore subjects of interest in his lab, but remained outside the fray that surrounded the often "violent" discussions of theoretical subjects. Although Bunsen's work brought him quick and wide acclaim, he nearly killed himself from arsenic poisoning and it also cost him the sight of one eye - an explosion of the compound sent a sliver of glass into his eye. Recovery was slow and painful.</ptxt>
+	<ptxt>While at Marsburg, Bunsen studied blast furnaces and demonstrated that over half the heat was lost in the charcoal-burning German furnaces. In British furnaces, over 80% was lost. Bunsen and a collaborator, Lyon Playfair, suggested techniques that could recycle gases through the furnace and retrieve valuable escaping by-products such as ammonia. Other work during this period concentrated on technological experiments such as the generation of galvanic currents in batteries. In 1841, instead of the expensive platinum electrode used in Grove's battery, Bunsen made a carbon electrode. This led to large scale use of the "Bunsen battery" in the production of arc-light and in electroplating.</ptxt>
+	<ptxt>One of the more memorable episodes during Bunsen's tenure at Marsburg was a geological trip to Iceland sponsored by the Danish government following the eruption of Mount Hekla in 1845. Indulging his lifelong interest in geology, Bunsen collected gases emitted from volcanic vents and performed extensive chemical analyses of volcanic rock. In addition to sampling lava gases, Bunsen investigated the theory of geyser action. The popular belief of his time was that the water from geysers was volcanic in origin. Bunsen took rocks from the area and boiled them in rain water. He found that the resulting solution was quite similar to geyser water. He conducted temperature studies on the water in the geyser tube at different depths and discovered that the water was indeed hot enough to boil. Due to pressure differentials caused by the moving column of water, boiling occurs in the middle of the tube and throws the mass of water above it into the sky above. In true investigative spirit Bunsen experimented with an artificial geyser in the lab:</ptxt>
+	<ptxt>"To confirm his theory, Bunsen made an artificial geyser, consisting of a basin of water having a long tube extending below it. He heated the tube at the bottom andat about the middlepoint. As the water at the middle reached its boiling point, all of the phenomena of geyser action were beautifully shown, including the preliminary thundering. That was in 1846. From that day to this Bunsen's theory of geyser action has been generally accepted by geologists." In 1852 Bunsen succeeded Leopold Gmelin at Heidelberg. His stature was such that he attracted students and chemists from all over the world to study in his laboratory. Again, Bunsen ignored the current trend in organic chemistry which was fast overtaking the experimental world. Instead, Bunsen improved his earlier work on batteries: using chromic acid instead of nitric acid, he was able to produce pure metals such as <elink ref="24">chromium</elink>, <elink ref="12">magnesium</elink>, <elink ref="13">aluminum</elink>, <elink ref="25">manganese</elink>, <elink ref="11">sodium</elink>, <elink ref="56">barium</elink>, <elink ref="20">calcium</elink> and <elink ref="3">lithium</elink> by electrolysis. Bunsen devised a sensitive ice calorimeter that measured the volume rather than the mass of the ice melted. This allowed him to measure the metals' specific heat to find their true atomic weights. During this period, he also pressed magnesium into wire; the element came into general use as an outstanding illuminating agent. A former student of Bunsen's believes that it was this "splendid light" from the combustion of magnesium that led Bunsen to devote considerable attention to photochemical studies. A ten year collaboration with Sir Henry Roscoe began in 1852. They took equal volumes of gaseous <elink ref="1">hydrogen</elink> and chlorine and studied the formation of HCl, which occurs in specific relationship to the amount of light received. Their results showed that the light radiated from the sun per minute was equivalent to the chemical energy of 25 x 10<sup>12</sup> mi<sup>3</sup> of a <elink ref="1">hydrogen</elink>-<elink ref="17">chlorine</elink> mixture forming HCl.</ptxt>
+	<ptxt>In 1859, Bunsen suddenly discontinued his work with Roscoe, telling him: </ptxt>
+	<ptxt>At present <blink ref="grk">Kirchhoff</blink> and I are engaged in a common work which doesn't let us sleep...<blink ref="grk">Kirchhoff</blink> has made a wonderful, entirely unexpected discovery in finding the cause of the dark lines in the solar spectrum....thus a means has been found to determine the composition of the sun and fixed stars with the same accuracy as we determine sulfuric acid, chlorine, etc., with our chemical <glink ref="reagent">reagents</glink>. Substances on the earth can be determined by this method just as easily as on the sun, so that, for example, I have been able to detect <elink ref="3">lithium</elink> in twenty grams of sea water." <blink ref="grk">Gustav Kirchhoff</blink>, a young Prussian physicist, had the brilliant insight to use a prism to separate the light into its constituent rays, instead of looking through coloured glass to distinguish between similarly coloured flames. Thus the fledgling science of spectroscopy, which would develop into a vital tool for chemical analysis, was born. In order to study the resultant spectra, however, a high temperature, nonluminous flame was necessary. An article published by Bunsen and <blink ref="grk">Kirchhoff</blink> in 1860 states: </ptxt>
+	<ptxt>"The lines show up the more distinctly the higher the temperature and the lower the luminescence of the flame itself. The gas burner described by one of us has a flame of very high temperature and little luminescence and is, therefore, particularly suitable for experiments on the bright lines that are characteristic for these substances."  The burner described was quickly dubbed the "Bunsen burner," although the apparatus is not of his design. The concept to premix the gas and air prior to combustion in order to yield the necessary high temperature, nonluminous flame belongs to Bunsen. Credit for the actual design and manufacture of the burner goes to Peter Desaga, a technician at the University of Heidelburg. Within five years of the development of the burner, Bunsen and <blink ref="grk">Kirchhoff</blink> were deeply involved with spectroscopy, inventing yet another instrument: the Bunsen-Kirchhoff spectroscope. This vital instrument of chemical analysis can trace its ancestry to such simple components as a "prism, a cigar box, and two ends of otherwise unusable old telescopes." From such humble beginnings came the instrument which proved to be of tremendous importance in chemical analysis and the discovery of new elements.</ptxt>
+	<ptxt>In addition to yielding a unique spectrum for each element, the spectroscope had the advantage of definite identification while only using a minimal amount of sample, on the range of nanograms to micrograms for elements like <elink ref="11">sodium</elink> and <elink ref="56">barium</elink> respectively. Using the techniques they devised, Bunsen and <blink ref="grk">Kirchhoff</blink> announced the discovery of <elink ref="55">caesium</elink> (Latin caesium, "sky blue") in the following passage:</ptxt>
+	<ptxt>"Supported by unambiguous results of the spectral-analytical method, we believe we can state right now that there is a fourth metal in the alkali group besides potassium, sodium, and lithium, and it has a simple characteristic spectrum like lithium; a metal that shows only two lines in our apparatus: a faint blue one, almost coinciding with Srd, and another blue one a little further to the violet end of the spectrum and as strong and as clearly defined as the lithium line."  Some of Bunsen's enthusiasm is readily apparent in a letter to Roscoe dated November 6, 1869: "I have been very fortunate with my new metal...I shall name it <elink ref="55">caesium</elink> because of its beautiful blue spectral line. Next Sunday I expect to find time to make the first determination of its atomic weight." In 1861, only a few months following their caesium discovery, Bunsen and <blink ref="grk">Kirchhoff</blink> announced the discovery of yet another new alkali metal. Two hitherto undiscovered violet spectral lines in an alkali of the mineral lepidolite were attributed to a new element, <elink ref="37">rubidium</elink> (Latin rubidus, "darkest red colour"). Bunsen and <blink ref="grk">Kirchhoff's</blink> combined genius quickly paved the way for others to claim elemental discoveries. The spectroscope served as a springboard by which five new elements were discovered. These included <elink ref="81">thallium</elink> (<blink ref="swc">Crookes</blink>, 1861), <elink ref="49">indium</elink> (Reich and Richter, 1863), <elink ref="31">gallium</elink> (<blink ref="pelb">Lecoq de Boisbaudran</blink>, 1875), <elink ref="21">scandium</elink> (<blink ref="ln">Nilson</blink>, 1879) and <elink ref="32">germanium</elink> (<blink ref="caw">Winkler</blink>1886). Fittingly, Bunsen's original vision of analyzing the composition of the stars was realized in 1868 when <elink ref="2">helium</elink> was discovered in the solar spectrum.</ptxt>
+	<ptxt>Throughout his professional life, Bunsen's personal life centered around his laboratory and his students. Never marrying, Bunsen often took on the introductory courses that were shunned by other colleagues. During the one hundred hours of lectures presented each semester, Bunsen emphasized experimentation and tabulated summaries and patiently introduced students to the world of analytical chemistry. Bunsen's habit was to assign a scientific task to his students and then to work with a student only as long as required to reach some measure of independence. Many principal players in the history of chemistry can trace their chemical roots back to Bunsen's laboratory. Two of his more famous students were <blink ref="dim">Dmitri Mendeleev</blink> and Lothar Meyer.</ptxt>
+	<ptxt>According to accounts, Bunsen was one of the more modest of giants:</ptxt>
+	<ptxt>He never said: 'I have discovered,' or 'I found...' He was characterized by extraordinary, distinguished modesty. That does not mean that he was not conscious of his own value. He knew how to use it at the right time and in the right company; he even had a considerable degree of very sound egotism." The scientific world held Bunsen in high esteem for much of his long professional life. In 1842 he was elected to the Chemical Society of London and the Academie des Sciences in 1853. He was named a foreign fellow of the Royal Society of London in 1858, receiving its Copley Medal in 1860. Bunsen and <blink ref="grk">Kirchhoff</blink> were recipients of the first Davy Medal in 1877. The Albert Medal was awarded in 1898 in recognition of Bunsen's many scientific contributions to industry. Of these honors, Bunsen once remarked, "Such things had value for me only because they pleased my mother; she is now dead." Upon his retirement at the age of 78, Bunsen left the chemical work behind, returned to his first love of geology, keeping up with the latest developments in the field and corresponding with his old friends such as Roscoe, <blink ref="grk">Kirchhoff</blink> and Helmholtz. Bunsen died August 16, 1899 after a peaceful three day sleep, leaving behind a glowing legacy of discoveries and technological advances that allowed the world of chemistry to burn brightly.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Bussy, Antoine Alexandre Brutus</bentry>
+	<name>Antoine Alexandre Brutus Bussy</name>
+	<birth>1794-1882</birth>
+	<birthbig>(May 29th 1794 - February 1st 1882</birthbig>
+	<ab>aabb</ab>
+	<ptxt>a French chemist who primarily studied pharmaceuticals.</ptxt>
+	<ptxt>In 1831 he published the 'Memoire sur le Radical metallique de la Magnesie' where he described a method of preparing magnesium by heating <elink ref="12">magnesium</elink> chloride and <elink ref="19">potassium</elink> in a glass tube. When the <elink ref="19">potassium</elink> chloride was washed out, small globules of <elink ref="12">magnesium</elink> remained.</ptxt>
+	<ptxt>Bussy and <blink ref="fw">Friedrich W&ouml;hler</blink> are each credited with independently isolating the element <elink ref="4">beryllium</elink> in August 1828 by reacting <elink ref="19">potassium</elink> and <elink ref="4">beryllium</elink> chloride.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>C</bentry>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Cavendish, Henry</bentry>
+	<name>Henry Cavendish</name>
+	<birth>1731-1810</birth>
+	<birthbig>October 10th 1731 - February 24ht 1810</birthbig>
+	<ab>hc</ab>
+	<ptxt>An English physicist and chemist, born in Nice. He was the son of Lord Charles Cavendish and grandson of the 2nd Duke of Devonshire. He was a recluse, and most of his writings were published posthumously. His great contributions to science resulted from his many accurate experiments in various fields. His conclusions were remarkably original. His chief researches were on heat, in which he determined the specific heats for a number of substances (although these heat constants were not recognized or so called until later); on the composition of air; on the nature and properties of a gas that he isolated and described as "inflammable air" and that <blink ref="aldl">Lavoisier</blink> later named <elink ref="1">hydrogen</elink>; and on the composition of water, which he demonstrated to consist of <elink ref="8">oxygen</elink> and his "inflammable air." In his Electrical Researches (1879) he anticipated some of the discoveries of Coulomb and <blink ref="mf">Faraday</blink>. His experiments to determine the density of the earth led him to state it as 5.48 times that of water. His Scientific Papers were collected in two volumes (Electrical Researches and Chemical and Dynamical) in 1921.</ptxt>
+	<ptxt>Cavendish is also credited with one of the earliest accurate calculations of the mass of the earth. The current best estimate for the Earth's mass is 5.9725 billion trillion tonnes, a difference of only about 1% from Cavendish's measurements.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Cleve, Per Teodor</bentry>
+	<name>Per Teodor Cleve</name>
+	<birth>1840-1905</birth>
+	<birthbig>February 10th 1840 - June 18th 1905</birthbig>
+	<ab>ptc</ab>
+	<ptxt>Cleve, who was born in the Swedish capital Stockholm, became assistant professor of chemistry at the University of Uppsala in 1868 and was later made professor of general and agricultural chemistry there. He is mainly remembered for his work on the <glink ref="ree">rare earth elements</glink>.</ptxt>
+	<ptxt>In 1874 Cleve concluded that didymium was in fact two <glink ref="element">elements</glink>; this was proved in 1885 and the two elements named <elink ref="60">neodymium</elink> and <elink ref="59">praseodymium</elink>. In 1879 he showed that the element <elink ref="21">scandium</elink>, newly discovered by the Swedish chemist <blink ref="ln">Lars Nilson</blink> (1840-1899), was in fact the eka-boron predicted by <blink ref="dim">Dmitri Mendeleev</blink> in his <glink ref="pt">periodic table</glink>. In the same year, working with a sample of erbia from which he had removed all traces of scandia and ytterbia, Cleve found two new earths, which he named <elink ref="67">holmium</elink>, after Stockholm, and <elink ref="69">thulium</elink>, after the old name for Scandinavia. <elink ref="67">holmium</elink> in fact turned out to be a mixture for, in 1886, <blink ref="pelb">Lecoq de Boisbaudran</blink> discovered that it also contained the new element <elink ref="66">dysprosium</elink>.</ptxt>
+	<ptxt>Cleve is also remembered as the teacher of Svante Arrhenius.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Corson, Dale R.</bentry>
+	<name>Dale R. Corson</name>
+	<birth>1914-</birth>
+	<birthbig>1914 - </birthbig>
+	<ab>drc</ab>
+	<ptxt>He was the eighth president of Cornell University. He received his bachelors from College of Emporia, Masters from the University of Kansas and his Ph.D. from University of California, Berkeley in 1938. Corson came to Cornell University in 1946 as an assistant professor of physics and helped to design the campus synchrotron. He was later promoted to professor in 1956, was named chairman of the physics department, and went on to become dean of the College of Engineering in 1959.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Coster, Dirk</bentry>
+	<name>Dirk Coster</name>
+	<birth>1889-1950</birth>
+	<birthbig>October 5th 1889 - February 12th 1950</birthbig>
+	<ab>dc</ab>
+	<ptxt>A Dutch physicist. He held the post of Professor of Physics and Metrology at Copenhagen University. In 1923 he discovered <elink ref="72">hafnium</elink> along with <blink ref="gcdh">George Charles de Hevesey</blink>, by means of X-ray spectroscopic analysis of zirconium ore. The discovery took place in Copenhagen, Denmark.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Courtois, Bernard </bentry>
+	<name>Bernard Courtois</name>
+	<birth>1777-1838</birth>
+	<birthbig>February 12th 1777 - September 27th 1838</birthbig>
+	<ab>bc</ab>
+	<ptxt>Courtois was the son of a saltpeter manufacturer from Dijon in <slink ref="fr">France</slink> and as a small boy he worked in the plant showing an alert interest. He was later apprenticed to a pharmacist and subsequently studied at the Ecole Polytechnique under Antoine Fourcroy. During his military service as a pharmacist he became the first to isolate morphine in its pure form from opium.</ptxt>
+	<ptxt>Meanwhile his father's saltpeter business had been running into difficulties because the product could be manufactured more cheaply in India, and Courtois returned to help his father. Saltpeter was obtained from the seaweed washed ashore in Normandy; the ashes (known as 'varec') were leached for <elink ref="11">sodium</elink> and <elink ref="19">potassium</elink> salts. Courtois noticed that the <elink ref="29">copper</elink> vats in which the lye was stored were becoming corroded by some unknown substance. By chance, in 1811, during the process of extracting the salts, he added excess concentrated <elink ref="16">sulfuric</elink> acid to the lye (the solution obtained by leaching) and was astonished to see a vapour of a superb violet colour that condensed on cold surfaces to form brilliant crystalline plates. Courtois suspected that this was a new element but lacked the confidence and the laboratory equipment to establish this and asked Charles Bernard Desormes (1777-1862), the discoverer in 1801 of <elink ref="6">carbon</elink> dioxide, to continue his researches. His discovery was announced in 1813, and <blink ref="jlgl">Joseph-Louis Gay-Lussac</blink> and <blink ref="shd">Humphry Davy</blink>oon verified that it was an element, <blink ref="jlgl">Gay-Lussac</blink> naming it <elink ref="53">iodine</elink> (from the Greek for 'violet').</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Crawford, Adair</bentry>
+	<name>Adair Crawford</name>
+	<birth>1748-1795</birth>
+	<birthbig>1748 - 1795</birthbig>
+	<ab>ac</ab>
+	<ptxt>A Scots-Irish chemist, was responsible for discovering the element <elink ref="38">strontium</elink> in 1790 along with William Cruikshank. <blink ref="shd">Humphrey Davy</blink> later isolated pure strontium metal. He was a pioneer of calorimetry, who influenced Alessandro Volta.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Cronstedt, Baron Axel Fredrik</bentry>
+	<name>Baron Axel Fredrik Cronstedt</name>
+	<birth>1722-1765</birth>
+	<birthbig>1722 - 1765</birthbig>
+	<ab>bafc</ab>
+	<ptxt>Swedish mineralogist and chemist. In 1751 he discovered in niccolite an impure form of <elink ref="28">nickel</elink>, reported it as a newly discovered element, and proposed the name <elink ref="28">nickel</elink> for it. He was one of the first to recognize the importance of the chemical constituents of minerals and rocks and to use the blowpipe in the study of minerals. He wrote An Essay towards "a System of Mineralogy" (1758; tr., 2d ed. 1788).</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Crookes, Sir William</bentry>
+	<name>Sir William Crookes</name>
+	<birth>1832-1919</birth>
+	<birthbig>June 17th 1832 - April 4th 1919</birthbig>
+	<ab>swc</ab>
+	<ptxt>Crookes studied at the Royal College of Chemistry in his native city of London, under August von Hofmann (1848). After working at the Radcliffe Observatory, Oxford, and the Chester College of Science, he returned to London in 1856, where, having inherited a large fortune, he edited Chemical News and spent his time on research.</ptxt>
+	<ptxt>Following the invention of the spectroscope by <blink ref="rwb">Robert Bunsen</blink> and <blink ref="grk">Gustav Kirchhoff</blink>, Crookes discovered the element <elink ref="81">thallium</elink> (1861) by means of its spectrum. In investigating the properties and molecular weight of <elink ref="81">thallium</elink>, he noticed unusual effects in the vacuum balance that he was using. This led him to investigate effects at low pressure and eventually to invent the instrument known as the Crookes radiometer (1875). This device is a small evacuated glass bulb containing an arrangement of four light metal vanes. Alternate sides of the vanes are polished and blackened. When radiant heat falls on the instrument, the vanes rotate. The effect depends on the low pressure of gas in the bulb; <glink ref="molecule">molecules</glink> leaving the dark (hotter) surfaces have greater momentum than those leaving the bright (cooler) surfaces. Although the instrument had little practical use, it was important evidence for the kinetic theory of gases.</ptxt>
+	<ptxt>Crookes went on to investigate electrical discharges in gases at low pressure, producing an improved vacuum tube (the Crookes tube). He also investigated cathode rays and <glink ref="radioactivity">radioactivity</glink>. Crookes glass is a type of glass invented to protect the eyes of industrial workers from intense <glink ref="radiation">radiation</glink>.</ptxt>
+	<ptxt>From about 1870, Crookes became interested in spiritualism and became one of the leading investigators of psychic phenomena.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Curie, Marie</bentry>
+	<name>Marie Curie (Marya Sklodowska)</name>
+	<birth>1867-1934</birth>
+	<birthbig>November 7th 1867 - July 4th 1934</birthbig>
+	<ab>mc</ab>
+	<ptxt>She married the physicist <blink ref="pc">Pierre Curie</blink> (1859-1906) in 1895 and soon began work on seeking radioactive elements other than <elink ref="92">uranium</elink> in pitchblende (to account for its unexpectedly high <glink ref="radioactivity">radioactivity</glink>). By 1898 she had discovered <elink ref="88">radium</elink> and <elink ref="84">polonium</elink>, although it took her four years to purify them. In 1903 the Curies shared the Nobel Prize for physics with Henri Becquerel, who had discovered <glink ref="radioactivity">radioactivity</glink>.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Curie, Pierre</bentry>
+	<name>Pierre Curie</name>
+	<birth>1859-1906</birth>
+	<birthbig>(May 15th 1859 - April 19th 1906</birthbig>
+	<ab>pc</ab>
+	<ptxt>Pierre Curie was the son of a Paris physician. He was educated at the Sorbonne where he became an assistant in 1878. In 1882 he was made laboratory chief at the School of Industrial Physics and Chemistry where he remained until he was appointed professor of physics at the Sorbonne in 1904. In 1895 he married <blink ref="mc">Marie Sklodowska</blink>, with whom he conducted research into the <glink ref="radioactivity">radioactivity</glink> of <elink ref="88">radium</elink> and with whom he shared the Nobel Prize for physics in 1903.</ptxt>
+	<ptxt>His scientific career falls naturally into two periods, the time before the discovery of radioactivity by Henri Becquerel, when he worked on magnetism and crystallography, and the time after when he collaborated with his wife <blink ref="mc">Marie Curie</blink> on this new phenomenon.</ptxt>
+	<ptxt>In 1880 with his brother Jacques he had discovered piezoelectricity. 'Piezo' comes from the Greek for 'to press' and refers to the fact that certain crystals when mechanically deformed will develop opposite charges on opposite faces. The converse will also happen; i.e. an electric charge applied to a crystal will produce a deformation. The brothers used the effect to construct an electrometer to measure small electric currents. <blink ref="mc">Marie Curie</blink> later used the instrument to investigate whether <glink ref="radiation">radiation</glink> from substances other than <elink ref="92">uranium</elink> would cause conductivity in air. Pierre Curie's second major discovery was in the effect of temperature on the magnetic properties of substances, which he was studying for his doctorate. In 1895 he showed that at a certain temperature specific to a substance it will lose its ferromagnetic properties; this critical temperature is now known as the Curie point.</ptxt>
+	<ptxt>Shortly after this discovery he began to work intensively with his wife on the new phenomenon of radioactivity. Two new elements, <elink ref="88">radium</elink> and <elink ref="84">polonium</elink>, were discovered in 1898. The rays these elements produced were investigated and enormous efforts were made to produce a sample of pure <elink ref="88">radium</elink>.</ptxt>
+	<ptxt>He received little recognition in his own country. He was initially passed over for the chairs of physical chemistry and mineralogy in the Sorbonne and was defeated when he applied for membership of the Academie in 1902. He was however later admitted in 1905. The only reason he seems eventually to have been given a chair (in 1904) was that he had been offered a post in Geneva and was seriously thinking of leaving <slink ref="fr">France</slink>. Partly this may have been because his political sympathies were very much to the left and because he was unwilling to participate in the science policies of the Third Republic.</ptxt>
+	<ptxt>Pierre Curie was possibly one of the first to suffer from <glink ref="radiation">radiation</glink> sickness. No attempts were made in the early days to restrict the levels of <glink ref="radiation">radiation</glink> received. He died accidentally in 1906 in rather strange circumstances - he slipped while crossing a Paris street, fell under a passing horse cab, and was kicked to death. The unit of activity of a radioactive substance, the curie, was named for him in 1910.</ptxt>
+	<ptxt>The Curies' daughter <blink ref="ijc">Irene Joliot-Curie</blink> carried on research in radioactivity and also received the Nobel Prize for work done with her husband Frederic.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>D</bentry>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Dalton, John</bentry>
+	<name>John Dalton</name>
+	<birth>1766-1844</birth>
+	<birthbig>September 6th 1766 - July 27th 1844</birthbig>
+	<ab>jd</ab>
+	<ptxt>John Dalton was an English chemist, meteorologist and physicist. He is best known for his pioneering work in the development of modern atomic theory, and his research into colour blindness.</ptxt>
+	<ptxt>In 1800 he became a secretary of the Manchester Literary and Philosophical Society, and in the following year he orally presented an important series of papers, entitled "Experimental Essays" on the constitution of mixed gases; on the pressure of steam and other vapours at different temperatures, both in a vacuum and in air; on evaporation; and on the thermal expansion of gases. These four essays were published in the Memoirs of the Lit snd Phil in 1802.</ptxt>
+	<ptxt>The most important of all Dalton's investigations are those concerned with the atomic theory in chemistry, with which his name is inseparably associated.</ptxt>
+	<ptxt>In his first published table of relative atomic weights six elements appear in this table, namely <elink ref="1">hydrogen</elink>, <elink ref="8">oxygen</elink>, <elink>nitrogen</elink>, <elink ref="6">carbon</elink>, <elink ref="16">sulfur</elink>, and <elink ref="15">phosphorus</elink>, with the atom of hydrogen conventionally assumed to weigh 1. Dalton provided no indication in this first paper how he had arrived at these numbers. However, in his laboratory notebook under the date 6 September 1803 there appears a list in which he sets out the relative weights of the atoms of a number of elements, derived from analysis of water, ammonia, carbon dioxide, etc. by chemists of the time.</ptxt>
+	<ptxt>Despite the uncertainty at the heart of Dalton's atomic theory, the principles of the theory survived. To be sure, the conviction that atoms cannot be subdivided, created, or destroyed into smaller particles when they are combined , separated, or rearranged in chemical reactions is inconsistent with the existence of nuclear fusion and nuclear fission, but such processes are nuclear reactions and not chemical reactions. In addition, the idea that all atoms of a given element are identical in their physical and chemical properties is not precisely true, as we now know that different isotopes of an element have slightly varying weights. However, Dalton had created a theory of immense power and importance. Indeed, Dalton's innovation was fully as important for the future of the science as Antoine Laurent Lavoisier's oxygen-based chemistry had been.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Davy, Sir Humphry</bentry>
+	<name>Sir Humphry Davy</name>
+	<birth>1778-1829</birth>
+	<birthbig>December 17th 1778 - May 29th 1829</birthbig>
+	<ab>shd</ab>
+	<ptxt>Davy was born on December 17, 1778 in Penzance, Cornwall, <slink ref="gb">England</slink>. He received his education in Penzance and in Truro. His father died in 1794, and Davy, in an effort to help support his family, became an apprentice to a surgeon-apothecary, J. Binghan Borlase. After reading <blink ref="aldl">Antoine Lavoisier's</blink> Traite Elementaire , Davy in 1797 became interested in chemistry. When Davy was released from his indenture as a apprentice, he became superintendent of the Medical Pneumatic Institution of Bristol. This organization was devoted to the study of the medical value of various gases, and it was here that Davy first made his reputation. He studied the <elink ref="8">oxides</elink> of <elink ref="7">nitrogen</elink> and discovered the physiological effects of nitrous oxide, which became known as laughing gas. He "breathed 16 quarts of the gas in seven minutes" and became "completely intoxicated" with it. It would be forty-five years later before nitrous oxide would be used as a anesthetic by dentists. From a notebook that he kept at this time are analytical results that document the discovery of nitrous oxide and that illustrate the law of multiple proportions:</ptxt>
+	<ptxt>"When two elements combine and form more than one <glink ref="compound">compound</glink>, the masses of one element that react with a fixed mass of the other are in the ratio of small whole numbers."</ptxt>
+	<ptxt>In 1799, Davy did an experiment which showed that when two pieces of ice (or other substance with a low <glink ref="mp">melting point</glink>) were rubbed together they could be melted without any other addition of heat. This experiment provided evidence that helped to disprove the caloric theory of heat.</ptxt>
+	<ptxt>In 1802, Thomas Wedgwood in cooperation with Sir Humphry Davy published a paper entitled "An Account of a Method of Copying Paintings on Glass, and Making Profiles, by the Agency of Light upon Nitrates of <elink ref="47">Silver</elink>". The pictures made by this process were very temporary. As soon as the negatives were removed the pictures turned black.</ptxt>
+	<ptxt>Davy was knighted in 1812. Three days after being knighted, he married a rich widow, Jan Apreece. Davy along with his wife and his assistant, <blink ref="mf">Michael Faraday</blink>, toured Europe from 1813 to 1815. Upon their return to <slink ref="gb">England</slink>, Davy invented his miner's safety helmet. The lamp of this safety helmet would burn safely and emit light even when there was an explosive mixture of methane and air present. Davy did not patent the lamp. This error lead to later false claims by locomotive engineer George Stephenson that it was he that invented the miner's safety helmet, not Davy.</ptxt>
+	<ptxt>In 1825, <blink ref="hco">Hans Christian Oersted</blink> first successfully isolated <elink ref="13">aluminium</elink> in a pure form. Sir Humphry Davy had previously been unsuccessful at such attempts. It was Davy who named the element "aluminum", the name used in the United States. The rest of the world uses the term "<elink ref="13">aluminium</elink>".</ptxt>
+	<ptxt>Among Davy's other accomplishments are the introduction of a chemical approach to agriculture and the tanning and mineralogy industries. He designed an Arc Lamp and invented a process that could be used to desalinate sea water. He also designed a method whereby <elink ref="29">copper</elink>-clad ships could be protected by having <elink ref="30">zinc</elink> plates connected to them.</ptxt>
+	<ptxt>In 1827, Davy became seriously ill. The illness was later attributed to his inhalation of many gases over the years. In 1829 he made his home in Rome. While in Rome, he had a heart attack and he later died on May 29, 1829 in Geneva, Switzerland. </ptxt>
+	<ptxt>Davy's qualitative work was excellent but this could not always be said for his quantitative work. He was quick to make decisions and easily distracted. In his life time he went after many honors and won many of them. He had great perception, was good in the laboratory, but was very erratic at times.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Debierne, Andre Louis</bentry>
+	<name>Andre Louis Debierne</name>
+	<birth>1874-1949</birth>
+	<birthbig>July 14th 1874 - August 31st 1949</birthbig>
+	<ab>ald</ab>
+	<ptxt>Born in Paris, <slink ref="fr">France</slink>, Debierne was educated at the Ecole de Physique et Chemie. After graduation he worked at the Sorbonne and as an assistant to <blink ref="pc">Pierre</blink> and <blink ref="mc">Marie Curie</blink>, finally succeeding the latter as director of the Radium Institute. On his retirement in 1949 he in turn was succeeded by <blink ref="mc">Marie Curie's</blink> daughter, <blink ref="ijc">Irene Joliot-Curie</blink>.</ptxt>
+	<ptxt>Debierne was principally a radiochemist; his first triumph came in 1900 with the discovery of a new radioactive element, <elink ref="89">actinium</elink>, which he isolated while working with pitchblende. In 1905 he went on to show that <elink ref="89">actinium</elink>, like <elink ref="88">radium</elink>, formed <elink ref="2">helium</elink>. This was of some significance in helping Ernest Rutherford to appreciate that some radioactive elements decay by emitting an alpha particle (or, as it turned out to be, the nucleus of a <elink ref="2">helium</elink> atom). In 1910, in collaboration with <blink ref="mc">Marie Curie</blink>, he isolated pure metallic <elink ref="88">radium</elink>.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Demarcay, Eugene-Antole</bentry>
+	<name>Eugene-Antole Demarcay</name>
+	<birth>1852-1904</birth>
+	<birthbig>January 1st 1852 - December 1904</birthbig>
+	<ab>ead</ab>
+	<ptxt>A French chemist, and spectrum specialist.</ptxt>
+	<ptxt>In 1896, he suspected samples of the recently discovered element <elink ref="62">samarium</elink> were contaminated with an unknown element and he isolated <elink ref="63">europium</elink> in 1901.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Dempster, Arthur Jeffrey</bentry>
+	<name>Arthur Jeffrey Dempster</name>
+	<birth>1886-1950</birth>
+	<birthbig>August 14th 1886 - March 11th 1950</birthbig>
+	<ab>ajd</ab>
+	<ptxt>A Canadian-American physicist best known for his work in mass spectrometry and his discovery of the <elink ref="92">uranium</elink> <glink ref="isotope">isotope</glink> <sup>235</sup>U.</ptxt>
+	<ptxt>In 1918, Dempster developed the first modern mass spectrometer, a scientific aparatus allowing physicists to identify <glink ref="compound">compounds</glink> by the mass of elements in a sample, and determine the isotopic composition of elements in a sample. Dempster's mass spectrometer was over 100 times more accurate than previous versions, and established the basic theory and design of mass spectrometers that is still used to this day. Dempster's research over his career centered around the mass spectrometer and its applications, leading in 1935 to his discovery of the <elink ref="92">uranium</elink> <glink ref="isotope">isotope</glink> <sup>235</sup>U. This isotope's ability to cause a rapidly expanding fission nuclear chain reaction allowed the development of the atom bomb and nuclear power.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Dorn, Friedrich Ernst</bentry>
+	<name>Friedrich Ernst Dorn</name>
+	<birth>1848-1916</birth>
+	<birthbig>July 27th 1848 - December 16th 1916</birthbig>
+	<ab>fed</ab>
+	<ptxt>He was a German physicist who discovered <elink ref="86">radon</elink> in 1900.</ptxt>
+	<ptxt>He was studying the natural radioactive decay of <elink ref="88">radium</elink>, trying to put together details about what was happening to the mass when he detected the presence of a radioactive gas. He initially called the gas "radium emanation".</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>E</bentry>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Ekeberg, Anders Gustaf</bentry>
+	<name>Anders Gustaf Ekeberg</name>
+	<birth>1767-1813</birth>
+	<birthbig>January 16th 1767 - February 11th 1813</birthbig>
+	<ab>age</ab>
+	<ptxt>Ekeberg was a Swedish chemist who is best known for discovering <elink ref="73">tantalum</elink> in 1802.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Elhuyar, Juan Jose</bentry>
+	<name>Juan Jose Elhuyar</name>
+	<birth>1754-1796</birth>
+	<birthbig>(June 15th 1754 - September 20th 1796</birthbig>
+	<ab>jje</ab>
+	<ptxt>He was the co-discoverer of <elink ref="74">tungsten</elink> with his brother <blink ref="fdeyds">Fausto Elhuyar</blink>.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>F</bentry>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Fahrenheit, (Gabriel) Daniel</bentry>
+	<name>(Gabriel) Daniel Fahrenheit</name>
+	<birth>1686-1736</birth>
+	<birthbig>May 24th 1686 - September 16th 1736</birthbig>
+	<ab>gdf</ab>
+	<ptxt>Possibly owing to a business failure, Fahrenheit emigrated to Amsterdam from his native Danzig (now Gdansk in <slink ref="pl">Poland</slink>) to become a glass blower and instrument maker. He specialized in the making of meteorological instruments, and proceeded to develop a reliable and accurate thermometer. Galileo had invented the thermometer in about 1600, using changes in <glink ref="air">air</glink> volume as an indicator. Since the volume of air also varied considerably with changes in atmospheric pressure liquids of various kinds were quickly substituted. Fahrenheit was the first to use <elink ref="80">mercury</elink> in 1714. He fixed his zero point by using the freezing point of a mixture of ice and salt as this gave him the lowest temperature he could reach. His other fixed point was taken from the temperature of the human body, which he put at 96 degrees. Given these two fixed points the freezing and <glink ref="bp">boiling points</glink> of water then work out at the familiar 32 degrees and 212 degrees. One advantage of the system is that, for most ordinary purposes, negative degrees are rarely needed.</ptxt>
+	<ptxt>Using his thermometer, Fahrenheit measured the <glink ref="bp">boiling point</glink> of various liquids and found that each had a characteristic <glink ref="bp">boiling point</glink>, which changed with changes in atmospheric pressure.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Faraday, Michael</bentry>
+	<name>Michael Faraday</name>
+	<birth>1791-1867</birth>
+	<birthbig>September 22nd 1791 - August 25th 1867</birthbig>
+	<ab>mf</ab>
+	<ptxt>An English chemist and physicist (or natural philosopher, in the terminology of that time) who contributed significantly to the fields of electromagnetism and electrochemistry. He established that magnetism could affect rays of light and that there was an underlying relationship between the two phenomena.</ptxt>
+	<ptxt>Some historians of science refer to him as the best experimentalist in the history of science. It was largely due to his efforts that electricity became viable for use in technology. The SI unit of capacitance, the farad, is named after him, as is the Faraday constant, the charge on a mole of electrons (about 96,485 coulombs). Faraday's law of induction states that a magnetic field changing in time creates a proportional electromotive force.</ptxt>
+	<ptxt>Michael Faraday was born in Newington Butts, near present-day Elephant and Castle in South London, <slink ref="gb">England</slink>. His family was poor; his father, James Faraday, was a Yorkshire blacksmith who suffered ill-health throughout his life. Therefore, Faraday had to educate himself. At fourteen he became apprenticed to a local bookbinder and seller George Riebau and, during his seven-year apprenticeship, read many books, developing an interest in science and specifically electricity. In particular, he was inspired by the book Conversations in Chemistry by Jane Marcet.</ptxt>
+	<ptxt>At the age of twenty, in 1812, at the end of his apprenticeship, Faraday attended lectures by the eminent English chemist and physicist Humphry Davy of the Royal Institution and Royal Society, and John Tatum, founder of the City Philosophical Society. The tickets were given to Faraday by William Dance (one of the founders of the Royal Philharmonic Society). Afterwards, Faraday sent Davy a sample of his notes taken during the lectures. Davy's reply was immediate, kind and favorable. When Davy damaged his eyesight in an accident with nitrogen trichloride, he decided to employ Faraday as a secretary. When John Payne, one of the Royal Institution's assistants, was sacked, the now Sir Humphry Davy was asked to find a replacement, and he appointed Faraday as Chemical Assistant at the Royal Institution on 1 March 1813.</ptxt>
+	<ptxt>Faraday worked extensively in the field of chemistry, discovering chemical substances such as benzene (which he called bicarburet of hydrogen), inventing the system of oxidation numbers, and liquefying gases such as chlorine. He prepared the first clathrate hydrate. Faraday also discovered the laws of electrolysis and popularized terminology such as anode, cathode, electrode, and ion, terms largely created by William Whewell. For these accomplishments, many modern chemists regard Faraday as one of the finest experimental scientists in history.</ptxt>
+	<ptxt>His greatest work was with electricity. The first experiment which he recorded was the construction of a voltaic pile with seven halfpence pieces, stacked together with seven disks of sheet zinc, and six pieces of paper moistened with salt water. In his work on static electricity, Faraday demonstrated that the charge only resided on the exterior of a charged conductor, and exterior charge had no influence on anything enclosed within a conductor. This is because the exterior charges redistribute such that the interior fields due to them cancel. This shielding effect is used in what is now known as a Faraday cage.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Fermi, Enrico</bentry>
+	<name>Enrico Fermi</name>
+	<birth>1901-1954</birth>
+	<birthbig>(September 29th 1901 - November 28th 1954</birthbig>
+	<ab>ef</ab>
+	<ptxt>American physicist, born in Italy. He studied at Pisa, Gottingen, and Leiden, and taught physics at the universities of Florence and Rome. He contributed to the early theory of beta decay and the neutrino and to quantum statistics. For his experiments with <glink ref="neutron">neutrons</glink> he was awarded the 1938 Nobel Prize in Physics. Fermi's wife, Laura, was Jewish, and the family did not return to Fascist Italy after the journey to Stockholm to receive the Nobel award, but continued on to the United States. Fermi was professor of physics at Columbia Univ. (1939-45) and at the Univ. of Chicago (1946-54). He created the first self-sustaining chain reaction in <elink ref="92">uranium</elink> at Chicago in 1942 and worked on the atomic bomb at Los Alamos. Later he contributed to the development of the <elink ref="1">hydrogen</elink> bomb and served on the General Advisory Committee of the Atomic Energy Commission, which named him to receive its first special award ($25,000) shortly before his death. Fermi was outstanding as an experimenter, theorist, and teacher. He wrote Elementary Particles (1951).</ptxt>
+	<ptxt>In 1954 the chemical element <elink ref="100">fermium</elink> of atomic number 100 was named for him. Publication of his Collected Papers (ed. by Edoardo Amaldi et al.) was begun in 1962. 1 See L. Fermi, Atoms in the Family (1954, repr. 1988); biography by <blink ref="es">E. Segre</blink> (1970).</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>G</bentry>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Gadolin, Johan</bentry>
+	<name>Johan Gadolin</name>
+	<birth>1760-1852</birth>
+	<birthbig>(June 5th 1760 - August 15th 1852</birthbig>
+	<ab>jg</ab>
+	<ptxt>Gadolin was born the son of an astronomer and physicist in Abo, now Turku in Finland. He studied under Torbern Bergman at Uppsala and taught at Abo from 1785, becoming professor of chemistry from 1797 until 1822.</ptxt>
+	<ptxt>In 1794 Gadolin examined a black mineral from Ytterby, a quarry in Sweden. The rocks from this quarry were found to contain a dozen or so new elements. Gadolin isolated the first lanthanoid element from it in the form of its oxide and named it yttria. The element was named <elink ref="64">gadolinium</elink> after him in 1886 by <blink ref="pelb">Lecoq de Boisbaudran</blink>. Gadolin also worked on specific heat and published a set of standard tables.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Gahn, Johan Gottlieb</bentry>
+	<name>Johan Gottlieb Gahn</name>
+	<birth>1745-1818</birth>
+	<birthbig>1745 - 1818</birthbig>
+	<ab>jgg</ab>
+	<ptxt>He was a Swedish chemist who discovered <elink ref="25">manganese</elink> in 1774.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Gay-Lussac, Joseph Louis</bentry>
+	<name>Joseph Louis Gay-Lussac</name>
+	<birth>1778-1850</birth>
+	<birthbig>December 6th 1778 - May 9th 1850</birthbig>
+	<ab>jlgl</ab>
+	<ptxt>Joseph Louis Gay-Lussac, by virtue of his skill and diligence as an experimentalist, and by his demonstration of the power of the scientific method, deserves recognition as a great scientist. Born on December 6, 1778, Joseph was the eldest of five children. His father, Antoine Gay, was a lawyer who, to distinguish himself from other people in the Limoges region with the last name of Gay, used the surname Gay-Lussac from the name of some family property near St Leonard. The French Revolution affected many of what were to become the French scientific elite. Gay-Lussac was sent to Paris at the age of fourteen when his father was arrested. After having had private lessons and attending a boarding school, the Ecole Polytechnique and the civil engineering school, Gay-Lussac became an assistant to Berthollet who was himself a co-worker of <blink ref="aldl">Lavoisier</blink>. Gay-Lussac thus got the chance to become part of the group of famous men who spent time at Berthollet's country house near Arcueil. Here among the Arcueil Society he received his training in chemical research.</ptxt>
+	<ptxt>With the encouragement of Berthollet and LaPlace, Gay-Lussac at the age of 24 conducted his first major research in the winter of 1801-1802. He settled some conflicting evidence about the expansion properties of different gases. By excluding water vapour from the apparatus and by making sure that the gases themselves were free of moisture, he obtained results that were more accurate than had been obtained previously by others. He concluded that equal volumes of all gases expand equally with the same increase in temperature. While Jacques Charles discovered this volume-temperature relationship fifteen years earlier, he had not published it. Unlike Gay-Lussac, Charles did not measure the coefficient of expansion. Also, because of the presence of water in the apparatus and the gases themselves, Charles obtained results that indicated unequal expansion for the gases that were water soluble.</ptxt>
+	<ptxt>Gay-Lussac, like his mentor Berthollet, was interested in how chemical reactions take place. Working with the mathematical physicist, LaPlace, Gay-Lussac made quantitative measurements on capillary action. The goal was to support LaPlace 's belief in his Newtonian theory of chemical affinity. In 1814 this theoretical bent continued as Gay-Lussac and LaPlace sought to determine if chemistry could be reduced to applied mathematics. The approach was to ask whether the conditions of chemical reactions could be reduced simply to, as LaPlace had suggested, considerations of heat.</ptxt>
+	<ptxt>As with his mentor before him, Gay-Lussac was consulted by industry and supported by the government. "Napoleonic science sharpened the appetites of young men by holding up the prospects of recognition and reward". Gay-Lussac and Thenard, the laboratory boy turned professor, isolated the element boron nine days before <blink ref="shd">Davy's</blink>roup did (but <blink ref="shd">Davy</blink>as the first to publish.) Gay-Lussac led his group into the isolation of plant alkaloids for potential medical use and he was instrumental in developing the industrial production of oxalic acid from the fusion of sawdust with alkali. His most important contribution to industry was, in 1827, the refinement of the lead chamber process for the production of sulfuric acid, the industrial chemical produced in largest volume in the world.</ptxt>
+	<ptxt>While Gay-Lussac was a great theoretical scientist, he was also respected by his colleagues for his careful, elegant, experimental work. Wanting to know why and how something happened was important to Gay-Lussac, but he preferred knowing much about a limited subject rather than proposing broad new theories which might be wrong . He devised many new types of apparatus such as the portable barometer, an improved pipette and burette and, when working at the Mint, a new apparatus for quickly and accurately estimating the purity of <elink ref="47">silver</elink> which was the only legal measure in <slink ref="fr">France</slink> until 1881. His work on <elink ref="53">iodine</elink> is considered a model of chemical research. His precise measurement of the thermal expansion of gases mentioned above was used by Lord Kelvin in the development of the absolute temperature scale and Third Law of Thermodynamics and by Clausius in the development of the Second Law. He and Thenard improved existing methods of elemental analysis and developed volumetric procedures for measuring acids and alkalis. His quantification of the effect of light on the reaction of <elink ref="17">chlorine</elink> with <elink ref="1">hydrogen</elink> elevated photochemistry from mere artifice into a theoretical science which culminated, fifty years after his death, in the quantum theory. An example of his dedication to meticulous experimenting is his decision to undertake a balloon flight to a record setting height of 23,000 feet to test an hypotheses on earth's magnetic field and the composition of the air.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Ghiorso, Albert</bentry>
+	<name>Albert Ghiorso</name>
+	<birth>1915-</birth>
+	<birthbig>July 15th 1915</birthbig>
+	<ab>ag</ab>
+	<ptxt>An American nuclear scientist who helped discover several chemical elements on the periodic table.</ptxt>
+	<ptxt>He was born in Vallejo, California and grew up in Alameda, California. As a teenager, he built radio circuitry and earned a reputation for reaching radio frequency distances that outdid the military.</ptxt>
+	<ptxt>He received his bachelor's degree in electrical engineering from the University of California, Berkeley in 1937. After graduation, he worked for a company that produced emergency communication devices, and invented the world's first commercial Geiger counter, which evolved into his participation in the Manhattan Project.</ptxt>
+	<ptxt>He was introduced to <blink ref="gts">Glenn T. Seaborg</blink> through a mutual friendship between their wives who also worked as secretaries at the Berkeley Radiation Laboratory.</ptxt>
+	<ptxt>Seaborg and Ghiorso's collaboration was most fruitful in the early days of the cyclotron, when its reuslts were hard to identify and detect. Their work resulted in many elements being discovered at UC Berkeley, and Ghiorso is credited with having co-discovered the following elements:</ptxt>
+	<ptxt><elink ref="95">Americium</elink> around 1945, <elink ref="96">Curium</elink> in 1944, <elink ref="97">Berkelium</elink> in 1949, <elink ref="98">Californium</elink> in 1950, <elink ref="99">Einsteinium</elink> in 1952, <elink ref="100">Fermium</elink> in 1953, <elink ref="101">Mendelevium</elink> in 1955, <elink ref="102">Nobelium</elink> in 1958-59, <elink ref="103">Lawrencium</elink> in 1961, <elink ref="104">Rutherfordium</elink> in 1969, <elink ref="105">Hahnium</elink> in 1970 and <elink ref="106">Seaborgium</elink> in 1974.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Gregor, William</bentry>
+	<name>William Gregor</name>
+	<birth>1761-1817</birth>
+	<birthbig>December 25th 1761 - June 11th 1817</birthbig>
+	<ab>wg</ab>
+	<ptxt>Born in Trewarthenick, Gregor was educated at Cambridge University. Although elected a fellow of his college he decided instead to pursue a career in the Church and became rector of Creed, Cornwall, in 1793.</ptxt>
+	<ptxt>In 1791 he found a strange black sand in Manaccan (then spelled Menacchan), Cornwall. This contained <elink ref="26">iron</elink> and <elink ref="25">manganese</elink> plus an additional substance that Gregor could not identify. He called it menacchanine and succeeded in extracting its reddish-brown oxide, which, when dissolved in <glink ref="acid">acid</glink>, formed a yellow solution. <blink ref="mhk">Martin Klaproth</blink> isolated the same <elink ref="8">oxide</elink> from a different source in 1795 and demonstrated that it was a new element, naming it <elink ref="22">titanium</elink>.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>H</bentry>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Hahn, Otto</bentry>
+	<name>Otto Hahn</name>
+	<birth>1879-1968</birth>
+	<birthbig>March 8th 1879 - July 28ht 1968</birthbig>
+	<ab>oh</ab>
+	<ptxt>German chemist, who studied in London (with <blink ref="swr">William Ramsay</blink>) and Canada (with Ernest Rutherford) before returning to Germany in 1907.</ptxt>
+	<ptxt>In 1917, together with <blink ref="lm">Lise Meitner</blink>, he discovered <elink ref="91">protactinium</elink>. In the late 1930s he collaborated with Fritz Strassmann (1902- ) and in 1938 bombarded <elink ref="92">uranium</elink> with slow <glink ref="neutron">neutrons</glink>. Among the products was <elink ref="56">barium</elink>, but it was <blink ref="lm">Meitner</blink> (now in Sweden) who the next year interpreted the process as nuclear fission. In 1944 Hahn received the Nobel Prize for chemistry.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Hatchett, Charles</bentry>
+	<name>Charles Hatchett</name>
+	<birth>1765-1847</birth>
+	<birthbig>January 2nd 1765 - March 10th 1847</birthbig>
+	<ab>ch</ab>
+	<ptxt>An English chemist who discovered the element <elink ref="41">niobium</elink>.</ptxt>
+	<ptxt>In 1801 while working for the British Museum in London he analyzed a piece of columbite in the museum's collection. Columbite turned out to be a very complex mineral, but Hachett discovered that it contained a "new earth" which implied the existence of a new element. Hatchett called this element columbium (Cb). On November 26th of that year he announced his discovery of columbium before the Royal Society.</ptxt>
+	<ptxt>The element was later rediscovered and renamed as current <elink ref="41">niobium</elink> (the current name). Later in life he quit his job as a chemist in order to devote his full time to making money by working at his family's coach fabrication business.</ptxt>
+	<ptxt>The Institute of Materials (London) has been awarding the Charles Hatchett Award yearly to noted chemists since 1979. The award is given to the "author of the best paper on the science and technology of niobium and its alloys."</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>de Hevesy, George Charles</bentry>
+	<name>George Charles de Hevesy</name>
+	<birth>1885-1966</birth>
+	<birthbig>August 1st 1885 - July 5th 1966</birthbig>
+	<ab>gcdh</ab>
+	<ptxt>An Hungarian chemist who was important in the development of the tracer method where radioactive tracers are used to study chemical processes, e.g., the metabolism of animals. For this he was awarded the Nobel Prize in Chemistry in 1943.</ptxt>
+	<ptxt>When the Nazis invaded Denmark he dissolved the gold Nobel Prizes of Max von Laue and James Franck into <glink ref="aquaregia">aqua regia</glink> and placed this <glink ref="reagent">reagent</glink> on a shelf in his laboratory at the Niels Bohr Institute. After the war, he returned to find the solution undisturbed and precipitated the <elink ref="79">gold</elink> out of the acid. The Nobel Society then recast the Nobel Prizes using the original <elink ref="79">gold</elink>.</ptxt>
+	<ptxt>in 1923 he was a co-discoverer of <elink ref="72">Hafnium</elink>, with <blink ref="dc">Dirk Coster</blink>.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>von Hisinger, Wilhelm</bentry>
+	<name>Wilhelm von Hisinger</name>
+	<birth>1766-1852</birth>
+	<birthbig>1766 - 1852</birthbig>
+	<ab>wvh</ab>
+	<ptxt>A Swedish geologist who discovered <elink ref="58">Cerium</elink> in 1803.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>I</bentry>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>International Union of Pure and Applied Chemistry</bentry>
+	<name>International Union of Pure and Applied Chemistry</name>
+	<birth>1919-</birth>
+	<birthbig>1919 - </birthbig>
+	<ab>iupac</ab>
+	<ptxt>The International Union of Pure and Applied Chemistry (IUPAC) is an international federation of National Adhering Organizations that represents chemists in individual countries. It is a member of the International Council for Science (ICSU). The international headquarters of IUPAC is in Z&uuml;rich, Switzerland. The administrative office, known as the "IUPAC Secretariat", is in Research Triangle Park, North Carolina, United States.</ptxt>
+	<ptxt>IUPAC was established in 1919 as the successor of the International Congress of Applied Chemistry for the advancement of chemistry. Its members, the National Adhering Organizations, can be national chemistry societies, national academies of sciences, or other bodies representing chemists. There are fifty-four National Adhering Organizations and three Associate National Adhering Organizations. IUPAC's Inter-divisional Committee on Nomenclature and Symbols (IUPAC nomenclature) is the recognized world authority in developing standards for the naming of the chemical elements and compounds. Since its creation, IUPAC has been run by many different committees with different responsibilities. These committees run different projects which include standardizing nomenclature, finding ways to bring chemistry to the world, and publishing works.</ptxt>
+	<ptxt>IUPAC is best known for its works standardising nomenclature in chemistry and other fields of science, but IUPAC has publications in many fields including chemistry, biology and physics. Some important work IUPAC has done in these fields includes standardizing nucleotide base sequence code names; publishing books for environmental scientists, chemists, and physicists; and improving education in science. IUPAC is also known for standardizing the atomic weights of the elements through one of its oldest standing committees, the Commission on Isotopic Abundances and Atomic Weights.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Institute for Heavy Ion Research (GSI)</bentry>
+	<name>Institute for Heavy Ion Research (GSI)</name>
+	<birth>1969-</birth>
+	<birthbig>1969 - </birthbig>
+	<ab>hirl</ab>
+	<ptxt>The Gesellschaft f&uuml;r Schwerionenforschung GmbH (GSI, Institute for Heavy Ion Research) in the Wixhausen section of Darmstadt, <slink ref="de">Germany</slink> is a federally funded heavy <glink ref="ion">ion</glink> research center.</ptxt>
+	<ptxt>The laboratory performs basic and applied research in physics and related natural science disciplines. Main fields of study include plasma physics, atomic physics, nuclear structure research and medical research.</ptxt>
+	<ptxt>The lab has discovered the following elements; <elink ref="109">Meitnerium</elink> (1982), <elink ref="108">Hassium</elink> (1984), <elink ref="110">Darmstadtium</elink> (1994), <elink ref="111">Roentgenium</elink> (1994), <elink ref="112">Copernicium (Ununbium)</elink> and <elink ref="107">Bohrium</elink> (1996).</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>J</bentry>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Janssen, Pierre Jules C&eacute;sar</bentry>
+	<name>Pierre Jules C&eacute;sar Janssen</name>
+	<birth>1824-1907</birth>
+	<birthbig>February 22nd 1824 - December 23rd 1907</birthbig>
+	<ab>pjcj</ab>
+	<ptxt>He was French astronomer who, along with the English scientist Joseph Norman Lockyer, is credited with discovering the gas <elink ref="2">helium</elink>. Janssen was born in Paris and studied mathematics and physics at the faculty of sciences.</ptxt>
+	<ptxt>In 1868 he discovered a method of observing solar prominences without an eclipse. On August 18th of that same year, while observing an eclipse of the Sun in India, he noticed a bright yellow line with a wavelength of 587.49 nm in the spectrum of the chromosphere of the Sun. This was the first observation of this particular spectral line, and one possible source for it was an element not yet discovered on the earth. Janssen was at first ridiculed since no element had ever been detected in space before being found on Earth.</ptxt>
+	<ptxt>On October 20th the same year, Joseph Norman Lockyer also observed the same yellow line in the solar spectrum and concluded that it was caused by an unknown element, after unsuccessfully testing to see if it were some new type of hydrogen. This was the first time a chemical element was discovered on an extraterrestrial world before being found on the Earth. Lockyer and the English chemist Edward Frankland named the element with the Greek word for the Sun, helios.</ptxt>
+	<ptxt>At the great Indian eclipse of 1868, Janssen also demonstrated the gaseous nature of the red prominences, and devised a method of observing them under ordinary daylight conditions. One main purpose of his spectroscopic inquiries was to answer the question whether the Sun contains oxygen or not. An indispensable preliminary was the virtual elimination of oxygen-absorption in the Earth's atmosphere, and his bold project of establishing an observatory on the top of Mont Blanc was prompted by a perception of the advantages to be gained by reducing the thickness of air through which observations have to be made. This observatory, the foundations of which were fixed in the snow that appears to cover the summit to a depth of ten metres, was built in September 1893, and Janssen, in spite of his sixty-nine years, made the ascent and spent four days taking observations.</ptxt>
+	<ptxt>In 1875, Janssen was appointed director of the new astrophysical observatory established by the French government at Meudon, and set on foot there in 1876 the remarkable series of solar photographs collected in his great "Atlas de photographies solaires" (1904). The first volume of the "Annales de l'observatoire de Meudon" was published by him in 1896.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Joliot-Curie, Irene</bentry>
+	<name>Irene Joliot-Curie</name>
+	<birth>1897-1956</birth>
+	<birthbig>September 12th 1897 - March 17th 1956</birthbig>
+	<ab>ijc</ab>
+	<ptxt>Irene Joliot-Curie nee Curie, was a French scientist, the daughter of <blink ref="mc">Marie Sklodowska-Curie</blink> and <blink ref="pc">Pierre Curie</blink> and the wife of Frederic Joliot-Curie. Jointly with her husband, Irene was awarded the Nobel Prize for chemistry in 1935 for their discovery of artificial radioactivity. This made the Curies the family with most Nobel laureates to date. Both children of the Joliot-Curies, Helene and Pierre, are also esteemed scientists.</ptxt>
+	<ptxt>Irene was born in Paris. After a year of traditional education, which began when she was 6 years old, her parents realised her obvious mathematical talent and decided that Irene's academic abilities needed a more challenging environment. Marie joined forces with a number of eminent French scholars, including the prominent French physicist Paul Langevin to form "The Co-operative", a private gathering of some of the most distinguished academics in <slink ref="fr">France</slink>. Each contributed to educating one another's children in their respective homes. The curriculum of The Co-operative was varied and included not only the principles of science and scientific research but such diverse subjects as Chinese and sculpture and with great emphasis placed on self expression and play.</ptxt>
+	<ptxt>This interesting arrangement lasted for two years after which Irene re-entered a more orthodox learning environment at the College Sevigne in central Paris from 1912 to 1914 and then onto the the Faculty of Science at the Sorbonne, to complete her Baccalaureat.</ptxt>
+	<ptxt>Her studies at the Faculty of Science were interrupted by World War I.</ptxt>
+	<ptxt>Initially Irene was taken by her mother to Brittany but a year later when Irene turned 18, she was re-united with her mother running the 20 mobile field hospitals that Marie had established. The hospitals were equipped with primitive X-ray equipment made possible by the Curies' radiochemical research. This technology greatly assisted doctors to locate shrapnel in wounded soldiers but it was crude and led to both Marie and Irene, who were serving as a nurse radiographers, being exposed to large doses of radiation themselves.</ptxt>
+	<ptxt>After the War Irene returned to Paris to study at The Radium Institute that had been built by her parents, completed in 1914 but empty during the war. Her doctoral thesis was concerned with the alpha rays of polonium, the second element discovered by her parents and named after Marie's country of birth, <slink ref="pl">Poland</slink>. Irene became Doctor of Science in 1925.</ptxt>
+	<ptxt>During World War II Irene contracted tuberculosis and was forced to spend the next few years convalescing in Switzerland. Concern for her own health together with the anguish of leaving her husband and children in occupied <slink ref="fr">France</slink> was hard to bear and she did make several dangerous visits back to France, enduring detention by German troops at the Swiss border on more than one occasion. Finally, in 1944 Irene judged it too dangerous for her family to remain in France and she took her children back to Switzerland.</ptxt>
+	<ptxt>The years of working so closely with such deadly materials finally caught up with Irene and, like her mother, she was diagnosed with leukaemia. She had been accidentally exposed to <elink ref="84">polonium</elink> when a sealed capsule of the element exploded on her laboratory bench. Treatment with antibiotics and a series of operations did relieve her suffering temporarily but her condition continued to deteriorate. Despite this Irene continued to work and in 1955 drew up plans for new physics laboratories at the Universitie d'Orsay, South of Paris.</ptxt>
+	<ptxt>In 1956, after a final convalescent period in the French Alps Irene was admitted to the Curie hospital in Paris where she died on March 17th at the age of 59 from leukemia.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>K</bentry>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Kennedy, Joseph W.</bentry>
+	<name>Joseph W. Kennedy</name>
+	<birth>1916-1957</birth>
+	<birthbig>May 30th 1916 - May 5th 1957</birthbig>
+	<ab>jwk</ab>
+	<ptxt>An American scientist credited with being a co-discoverer of <elink ref="94">plutonium</elink> along with <blink ref="gts">Glenn T. Seaborg</blink>, Edwin McMillan, and <blink ref="acw">Arthur Wahl</blink>.</ptxt>
+	<ptxt>He was born in Nacogdoches, Texas, and attended Stephen F. Austin State Teachers College, the University of Kansas, and received his PhD at the University of California, Berkeley.</ptxt>
+	<ptxt>In 1943, he arrived at the Los Alamos National Laboratory, and aided in the discovery, purification, and handling of <elink ref="94">plutonium</elink>. Shortly afterward he became a professor at Washington University in St. Louis. He died after a battle with cancer, only two years after Seaborg, McMillan, Wahl, and he received a prize of US$400,000 for their scientific work.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Kirchhoff, Gustav Robert</bentry>
+	<name>Gustav Robert Kirchhoff</name>
+	<birth>1824-1887</birth>
+	<birthbig>March 12th 1824 - October 17th 1887</birthbig>
+	<ab>grk</ab>
+	<ptxt>German physicist, who was appointed professor at Heidelberg University in 1854. There, working with <blink ref="rwb">Robert Bunsen</blink>, he invented the technique of spectroscopy. Using this technique, Kirchhoff and <blink ref="rwb">Bunsen</blink> discovered the elements caesium and rubidium in 1861. Kirchoff, working alone, also discovered several elements in the sun, by investigating the solar spectrum. He is also known for his work on thermal <glink ref="radiation">radiation</glink> and on networks of electrical wires (see Kirchhoff's laws).</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Klaproth, Martin Heinrich</bentry>
+	<name>Martin Heinrich Klaproth</name>
+	<birth>1743-1817</birth>
+	<birthbig>December 1st 1743 - January 1st 1817</birthbig>
+	<ab>mhk</ab>
+	<ptxt>Born in Wernigerode, <slink ref="de">Germany</slink>, Klaproth was apprenticed as an apothecary. After working in Hannover and Danzig he moved to Berlin where he set up his own business. In 1792 he became lecturer in chemistry at the Berlin Artillery School and in 1810 he became the first professor of chemistry at the University of Berlin.</ptxt>
+	<ptxt>His main fame as a chemist rests on his discovery of several new elements. In 1789 he discovered <elink ref="40">zirconium</elink>, named from zircon, the mineral from which it was isolated. In the same year he extracted <elink ref="92">uranium</elink> from pitchblende and named it for the newly discovered planet, Uranus. He also rediscovered <elink ref="22">titanium</elink> in 1795, about four years after its original discovery, and discovered <elink ref="24">chromium</elink> in 1798. Klaproth used the Latin tellus (earth) in his naming of <elink ref="52">tellurium</elink> (1798), which had been discovered by the Austrian geologist Franz Joseph Muller (1740-1825) in 1782. In 1803 he discovered <elink ref="58">cerium</elink> <elink ref="8">oxide</elink>, named for the newly discovered asteroid, Ceres.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Klaus, Karl</bentry>
+	<name>Karl Klaus</name>
+	<birth>1796-1864</birth>
+	<birthbig>January 22nd 1796 - March 24th 1864</birthbig>
+	<ab>kk</ab>
+	<ptxt>A Russian chemist, professor at Kazan State University, and discoverer of <elink ref="44">ruthenium</elink>.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>L</bentry>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>de Lavoisier, Antoine-Laurent</bentry>
+	<name>Antoine-Laurent de Lavoisier</name>
+	<birth>1743-1794</birth>
+	<birthbig>August 26th 1743 - May 8th 1794</birthbig>
+	<ab>aldl</ab>
+	<ptxt>French nobleman prominent in the histories of chemistry, finance, biology, and economics.</ptxt>
+	<ptxt>The "father of modern chemistry," he stated the first version of the Law of conservation of matter, recognized and named oxygen (1778), disproved the phlogiston theory, introduced the Metric system, invented the first periodic table including 33 elements, and helped to reform chemical nomenclature. He was also an investor and administrator of the "Ferme Generale," a private tax collection company; chairman of the board of the Discount Bank (later the Banque de France); and a powerful member of a number of other aristocratic administrative councils.</ptxt>
+	<ptxt>Due to his prominence in the pre-revolutionary government in <slink ref="fr">France</slink>, he was beheaded at the height of the French Revolution. One and a half years following his death, in 1794, Lavoisier was exonerated by the French government.</ptxt>
+	<ptxt>Born to a wealthy family in Paris, Antoine Laurent Lavoisier inherited a large fortune when his mother died. He attended the College Mazarin from 1754 to 1761, studying chemistry, botany, astronomy, and mathematics. His education was filled with the ideals of the French Enlightenment of the time, and he felt fascination for Maquois's dictionary. His devotion and passion for chemistry was largely influenced by Etienne Condillac, a prominent French scholar of the 18th century. His first chemical publication appeared in 1764. In 1767 he worked on a geological survey of Alsace-Lorraine. He was elected a member of the French Academy of Sciences, France's most elite scientific society, at the age of 25 in 1768 for an essay on street lighting and in recognition for his earlier research. In 1769 he worked on the first geological map of France.</ptxt>
+	<ptxt>In 1771, he married 13-year-old Marie-Anne Pierette Paulze, the daughter of a co-owner of the Ferme. With time, she proved to be a scientific colleague to her husband. She translated documents from English for him, including Richard Kirwan's "Essay on Phlogiston" and <blink ref="jp">Joseph Priestley's</blink> research. She created many sketches and carved engravings of the laboratory instruments used by Lavoisier and his colleagues. She also edited and published Lavoisier's memoirs and hosted many parties during which eminent scientists would discuss new chemical theories. As a result of her close work with her husband, it is difficult to separate her individual contributions from his, but it is correctly assumed that much of the work accredited to him bears her fingerprints.</ptxt>
+	<ptxt>Lavoisier's experiments were among the first truly quantitative chemical experiments ever performed; that is, he carefully weighed the reactants and products involved, a crucial step in the advancement of chemistry. He showed that, although matter can change its state in a chemical reaction, the quantity of matter is the same at the end as at the beginning of every chemical reaction. He burnt <elink ref="15">phosphorus</elink> and <elink ref="16">sulfur</elink> in air, and proved that the products weighed more than the original. Nevertheless, the weight gained was lost from the air. These experiments provided evidence for the law of the conservation of matter, or in other words, the law of conservation of mass.</ptxt>
+	<ptxt>Some of Lavoisier's most important experiments examined the nature of combustion, or burning. Through these experiments, he demonstrated that burning is a process that involves the combination of a substance with <elink ref="8">oxygen</elink>. He also demonstrated the role of <elink ref="8">oxygen</elink> in metal rusting, as well as its role in animal and plant respiration: working with Pierre-Simon Laplace, Lavoisier conducted experiments that showed that respiration was essentially a slow combustion of organic material using inhaled <elink ref="8">oxygen</elink>. Lavoisier's explanation of combustion replaced the phlogiston theory, which postulates that materials release a substance called phlogiston when they burn.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>M</bentry>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Marggraf, Andreas Sigismund</bentry>
+	<name>Andreas Sigismund Marggraf</name>
+	<birth>1709-1782</birth>
+	<birthbig>March 3rd 1709 - August 7th 1782</birthbig>
+	<ab>asm</ab>
+	<ptxt>A German chemist and pioneer of analytical chemistry. He discovered the formic and phosphoric <glink ref="acid">acids</glink>, and in 1746 he isolated <elink ref="30">zinc</elink> by heating calamine and <elink ref="6">carbon</elink>. In 1747 he announced his discovery of sugar in the beet, from which his student Franz Achard later extracted it in its pure form.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>de Marignac, Jean Charles Galissard</bentry>
+	<name>Jean Charles Galissard de Marignac</name>
+	<birth>1817-1894</birth>
+	<birthbig>April 24th 1817 - April 15th 1894</birthbig>
+	<ab>jcgn</ab>
+	<ptxt>Marignac, who was born in Geneva, Switzerland, was educated in Paris at the Ecole Polytechnique and the School of Mines. He worked in Justus von Liebig's laboratory in Giessen for a year and at the Sevres porcelain factory before his appointment to the chair of chemistry at Geneva (1841). He also became professor of mineralogy in 1845 and held the two posts until his retirement in 1878.</ptxt>
+	<ptxt>He was known as a careful analyst who carried out many accurate determinations of atomic weights. He was an enthusiastic supporter of Prout's hypothesis that all elements have an <glink ref="am">atomic weight</glink> that is an integral multiple of the <elink ref="1">hydrogen</elink> <glink ref="atom">atom</glink> and defended it from the criticism that refined measurements show it to be false (e.g., <elink ref="17">chlorine</elink> has an atomic weight of 35.4) by claiming it to be sufficiently accurate for the practical calculations of chemistry.</ptxt>
+	<ptxt>Marignac discovered silicotungstic acid in 1862 and was the first to isolate <elink ref="70">ytterbium</elink> (1878). He also codiscovered <elink ref="64">gadolinium</elink> (1880).</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Marinsky, Jacob A.</bentry>
+	<name>Jacob A. Marinsky</name>
+	<birth>1918-2005</birth>
+	<birthbig>1918 - September 1st 2005</birthbig>
+	<ab>jam</ab>
+	<ptxt>He was a chemist and writer who was the co-discoverer of the element <elink ref="61">promethium</elink> in 1944. He was born in Buffalo, New York. At the time of his death, he was professor emeritus at University at Buffalo.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>McMillan, Edwin Mattison</bentry>
+	<name>Edwin Mattison McMillan</name>
+	<birth>1907-1991</birth>
+	<birthbig>(September 18th 1907 - September 7th 1991</birthbig>
+	<ab>emm</ab>
+	<ptxt>American physicist, born in Redondo Beach, California, graduated from the California Institute of Technology, 1928, Ph.D. Princeton, 1932. On the faculty of the Univiversity of California since 1932, he was appointed professor of physics in 1946 and director of the Lawrence <glink ref="radiation">Radiation</glink> Laboratory (now the Lawrence Berkeley Laboratory) in 1958. With <blink ref="pha">P. H. Abelson</blink> he discovered <elink ref="93">neptunium</elink> (element 93) and with <blink ref="gts">Glenn Seaborg</blink> and others, <elink ref="94">plutonium</elink> (element 94). For his work on the chemistry of the transuranium elements he shared the 1951 Nobel Prize in Chemistry with <blink ref="gts">Seaborg</blink>. He also contributed to microwave radar and sonar, and to the design of particle accelerators. He worked (1942-45) on the atomic bomb at Los Alamos.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Meitner, Lise</bentry>
+	<name>Lise Meitner</name>
+	<birth>1878-1968</birth>
+	<birthbig>November 7th (or 17th) 1878 - October 27th 1968</birthbig>
+	<ab>lm</ab>
+	<ptxt>Meitner, the daughter of a lawyer, was born in Vienna and entered the university there in 1901. She studied science under Ludwig Boltzmann and obtained her doctorate in 1906. From Vienna she went to Berlin to attend lectures by Max Planck on theoretical physics. Here she began to study the new phenomenon of radioactivity in collaboration with <blink ref="oh">Otto Hahn</blink>, beginning a partnership that was to last thirty years.</ptxt>
+	<ptxt>At Berlin she met with remarkable difficulties caused by prejudice against women in academic life. She was forced to work in an old carpentry shop and forbidden, by Emil Fischer, to enter laboratories in which males were working. In 1914, at the outbreak of World War I, she became a nurse in the Austrian army, continuing work with <blink ref="oh">Hahn</blink> during their periods of leave. In 1918 they announced the discovery of the radioactive element <elink ref="91">protactinium</elink>.</ptxt>
+	<ptxt>After the war Meitner returned to Berlin as head of the department of <glink ref="radiation">radiation</glink> physics at the Kaiser Wilhelm Institute. Here she investigated the relationship between the <glink ref="gr">gamma</glink> and beta rays emitted by radioactive material. In 1935 she began, with <blink ref="oh">Hahn</blink>, work on the transformation of <elink ref="92">uranium</elink> <glink ref="nucleus">nuclei</glink> under <glink ref="neutron">neutron</glink> bombardment. Confusing results had been obtained earlier by <blink ref="ef">Enrico Fermi</blink>.</ptxt>
+	<ptxt>But by this time she was beginning to fear a different sort of prejudice. Following Hitler's annexation of Austria in 1938 she was no longer safe from persecution and, like many Jewish scientists, left <slink ref="de">Germany</slink>. With the help of Dutch colleagues she found refuge in Sweden, obtaining a post at the Nobel Institute in Stockholm. <blink ref="oh">Hahn</blink>, with Fritz Strassman, continued the <elink ref="92">uranium</elink> work and published, in 1939, results showing that nuclei were present that were much lighter than <elink ref="92">uranium</elink>. Shortly afterward Lise Meitner, with Otto Frisch (her nephew), published an explanation interpreting these results as fission of the <elink ref="92">uranium</elink> <glink ref="nucleus">nuclei</glink>. The <glink ref="nucleus">nucleus</glink> of <elink ref="92">uranium</elink> absorbs a <glink ref="neutron">neutron</glink>, and the resulting unstable <glink ref="nucleus">nucleus</glink> then breaks into two fragments of roughly equal size. In this induced fission, two or three <glink ref="neutron">neutrons</glink> are ejected. For this she received a share in the 1966 <blink ref="ef">Enrico Fermi</blink> Prize of the Atomic Energy Commission.</ptxt>
+	<ptxt>Lise Meitner became a Swedish citizen in 1949 and continued work on nuclear physics. In 1960 she retired to Cambridge, <slink ref="gb">England</slink>. In 1997 the International Union of Pure and Applied Chemistry approved the name <elink ref="109">meitnerium</elink> for element 109.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Mendeleyev, Dmitriy Ivanovich</bentry>
+	<name>Dmitriy Ivanovich Mendeleyev</name>
+	<birth>1834-1907</birth>
+	<birthbig>February 8th 1834 - February 2nd 1907</birthbig>
+	<ab>dim</ab>
+	<ptxt>Dmitriy was a Russian chemist. He is credited as being the primary creator of the Periodic Table of elements. Unlike other contributors to the table, Mendeleev predicted the properties of <glink ref="element">elements</glink> yet to be discovered.</ptxt>
+	<ptxt>Mendeleev was born in Tobolsk, Siberia, to Ivan Pavlovich Mendeleev and Maria Dmitrievna Mendeleeva (nee Kornilieva). A prominent Mendeleev biographer has concluded that he was the 13th surviving child of 17 total, but the exact number differs among sources. As a child, he was fascinated by the glass which was created at the factory his mother owned, and for a time, the young Mendeleev worked there. At the age of 13, after the death of his father and the destruction of his mother's factory by fire, Mendeleev attended the Gymnasium in Tobolsk.</ptxt>
+	<ptxt>In 1849, the now poor Mendeleev family relocated to St. Petersburg, where he entered the Main Pedagogical Institute in 1850. After he graduated, an illness that was diagnosed as tuberculosis caused him to move to the Crimean Peninsula on the northern coast of the Black Sea in 1855, where he became chief science master of the local gymnasium. He returned with fully restored health to St. Petersburg in 1857.</ptxt>
+	<ptxt>Between 1859 and 1861, he worked on the capillarity of liquids and the workings of the spectroscope in Heidelberg. In 1862, he married Feozva Nikitichna Leshcheva. Mendeleev became Professor of Chemistry at the Saint Petersburg Technological Institute and the University of St. Petersburg in 1863, achieved tenure in 1867, and by 1871 had transformed St. Petersburg into an internationally recognized center for chemistry research. In 1865 he became Doctor of Science for his dissertation "On the Combinations of Water with Alcohol". In 1876, he became obsessed with Anna Ivanovna Popova and began courting her; in 1881 he proposed to her and threatened suicide if she refused. His divorce from Leshcheva was finalized one month after he had married Popova in early 1882. Even after the divorce, Mendeleev was technically a bigamist; the Russian Orthodox Church required at least 7 years before lawful re-marriage. His divorce and the surrounding controversy contributed to his failure to be admitted to the Russian Academy of Sciences (despite his international fame by that time). His daughter from his second marriage, Lyubov, became the wife of the famous Russian poet Alexander Blok. His other children were son Volodya and daughter Olga, from his first marriage to Feozva, and son Ivan and a pair of twins from Anna.</ptxt>
+	<ptxt>Though Mendeleev was widely honored by scientific organizations all over Europe, including the Copley Medal from the Royal Society of London he resigned from St. Petersburg University on August 17, 1890.</ptxt>
+	<ptxt>In 1893, he was appointed Director of the Bureau of Weights and Measures. It was in this role that he was directed to formulate new state standards for the production of vodka. His fascination with molecular weights led him to conclude that to be in perfect molecular balance, vodka should be produced in the ratio of one molecule of ethyl alcohol diluted with two molecules of water, giving a dilution by volume of approximately 38% alcohol to 62% water. As a result of his work, in 1894 new standards for vodka were introduced into Russian law and all vodka had to be produced at 40% alcohol by volume.</ptxt>
+	<ptxt>Mendeleev also investigated the composition of oil fields, and helped to found the first oil refinery in Russia.</ptxt>
+	<ptxt>Mendeleev died in 1907 in St. Petersburg, Russia from influenza. Mendeleev crater on the Moon, as well as element number 101, the radioactive <elink ref="101">mendelevium</elink>, are named after him.</ptxt>
+	<ptxt>On March 6, 1869, Mendeleev made a formal presentation to the Russian Chemical Society, entitled The Dependence Between the Properties of the Atomic Weights of the Elements, which described elements according to both weight and valence</ptxt>
+	<ptxt>Only a few months after Mendeleev published his <glink ref="pt">periodic table</glink> of all known elements (and predicted several new elements to complete the table), Meyer published a virtually identical table. Some people consider Meyer and Mendeleev the co-creators of the periodic table, although most agree that Mendeleev's accurate prediction of the qualities of what he called eka-silicon (<elink ref="32">germanium</elink>), eka-aluminium (<elink ref="31">gallium</elink>), and eka-boron (<elink ref="21">scandium</elink>) qualifies him for deserving the majority of the credit.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Moissan, Ferdinand Frederic Henri</bentry>
+	<name>Ferdinand Frederic Henri Moissan</name>
+	<birth>1852-1907</birth>
+	<birthbig>September 28th 1852 - February 20th 1907</birthbig>
+	<ab>ffhm</ab>
+	<ptxt>Moissan came from a poor background in Paris, <slink ref="fr">France</slink>. He was the son of a railroad worker and was apprenticed to a pharmacist before studying chemistry under Edmond Fremy at the Museum National d'Histoire Naturelle, Paris (1872). From 1880 he worked at the Ecole Superieure de Pharmacie, being elected to the chair of toxicology in 1886 and the chair of inorganic chemistry in 1889. In the next year he became professor of chemistry at the University of Paris.</ptxt>
+	<ptxt>Moissan began studying <elink ref="9">fluorine</elink> <glink ref="compound">compounds</glink> in 1884 and in 1886 succeeded in isolating <elink ref="9">fluorine</elink> gas by electrolyzing a solution of <elink ref="19">potassium</elink> <elink ref="9">fluoride</elink> in hydrofluoric acid, the whole process being contained in <elink ref="78">platinum</elink>. He received the Nobel Prize for chemistry for this work in 1906.</ptxt>
+	<ptxt>He also worked on synthetic diamonds. He was impressed by the discovery of tiny <elink ref="6">diamonds</elink> in some meteorites and concluded from this that if the conditions undergone by these in space could be reproduced in the laboratory it would be possible to convert <elink ref="6">carbon</elink> into diamond. He therefore put <elink ref="26">iron</elink> and <elink ref="6">carbon</elink> into a crucible, heated it in an electric furnace, and while white hot cooled it rapidly by plunging it into liquid. In theory, he felt that the cooling should exert sufficient pressure on the <elink ref="6">carbon</elink> to turn it into diamond. He claimed to have succeeded in producing artificial diamonds but there was a suggestion that one of his assistants had smuggled tiny diamonds into the mixture at the beginning of the experiment. Moissan did, however, use his electric furnace for important work in preparing metal <elink ref="7">nitrides</elink>, <elink ref="5">borides</elink>, and <elink ref="6">carbides</elink>, and in extracting a number of less common metallic elements, such as <elink ref="42">molybdenum</elink>, <elink ref="73">tantalum</elink>, and <elink ref="41">niobium</elink>.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Mosander, Carl Gustav</bentry>
+	<name>Carl Gustav Mosander</name>
+	<birth>1797-1858</birth>
+	<birthbig>September 10th 1797 - October 15th 1858</birthbig>
+	<ab>cqm</ab>
+	<ptxt>Born at Kalmar in Sweden, Mosander started his career as a physician and became <blink ref="jjg">J&ouml;ns Berzelius's</blink> assistant after a time in the army. He became curator of minerals at the Royal Academy of Science in Stockholm before succeeding <blink ref="jjg">Berzelius</blink> as secretary. In 1832 he became professor of chemistry and mineralogy at the Karolinska Institute, Stockholm.</ptxt>
+	<ptxt>Mosander worked chiefly on the lanthanoid elements. These had been known since the discovery of yttrium by <blink ref="jg">Johan Gadolin</blink> in 1794 and <elink ref="58">cerium</elink> by <blink ref="mhk">Martin Klaproth</blink> in 1803. He began by examining the earth from which <elink ref="58">cerium</elink> had been isolated, ceria. From this he derived in 1839 the oxide of a new element, which he called <elink ref="57">lanthanum</elink>, from the Greek meaning 'to be hidden'. In 1843 he announced the discovery of three new rare-earth elements - <elink ref="68">erbium</elink>, terbium, and didymium. As it happened, didymium was not elementary, being shown in 1885 by <blink ref="cabvw">Karl Auer von Welsbach</blink> to consist of two elements - <elink ref="59">praseodymium</elink> and <elink ref="60">neodymium</elink>.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>M&uuml;nzenberg, Gottfried</bentry>
+	<name>Gottfried M&uuml;nzenberg</name>
+	<birth>1940-</birth>
+	<birthbig>March 17th 1940 - </birthbig>
+	<ab>gm</ab>
+	<ptxt>He studied physics at Justus-Liebig-Universitat in Giessen and Leopold-Franzens-Universitat Innsbruck and completed his studies with a Ph.D. at the University of Giessen, <slink ref="de">Germany</slink>, in 1971. 1976 he moved to the department of nuclear chemistry at <blink ref="hirl">GSI</blink> in Darmstadt, <slink ref="de">Germany</slink>, which was headed by Peter Armbruster. He played a leading role in the construction of SHIP, the 'Separator of Heavy Ion Reaction Products'. He was the driving force in the discovery of the cold heavy ion fusion and the discovery of the elements <elink ref="107">Bohrium</elink>, <elink ref="108">Meitnerium</elink>, <elink ref="109">Hassium</elink>, <elink ref="110">Darmstadtium</elink>, <elink ref="111">Roentgenium</elink> and <elink ref="112">Eka-Mercury (Copernicium [Ununbium])</elink>. In 1984 he became head of the new <blink ref="hirl">GSI</blink> project, the fragment separator, a project which opened new research topics, such as interactions of relativistic heavy ions with matter, production and separation of exotic nuclear beams and structure of exotic nuclei. He directed the Nuclear Structure and Nuclear Chemistry department of the <blink ref="hirl">GSI</blink> and was professor of physics at the University of Mainz until he retired in March 2005.</ptxt>
+	<ptxt>Gottfried M&uuml;nzenberg was born into a family of protestant ministers (father Pastor Heinz and mother Helene M&uuml;nzenberg). All his life he is deeply concerned about the philosophical and theological implications of physics.</ptxt>
+	<ptxt>Among the rewards he received should be mentioned the Rontgen-Prize of the University of Giessen in 1983 and (together with Sigurd Hofmann) the Otto-Hahn-Prize of the city of Frankfurt/Main in 1996.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>N</bentry>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Nilson, Lars</bentry>
+	<name>Lars Nilson</name>
+	<birth>1840-1899</birth>
+	<birthbig>1840-1899</birthbig>
+	<ab>ln</ab>
+	<ptxt>Swedish chemist, most famous for discovering <elink ref="21">Scandium</elink> in 1879.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Noddack, Ida Eva Tacke</bentry>
+	<name>Ida Eva Tacke Noddack</name>
+	<birth>1896-1978</birth>
+	<birthbig>February 25th 1896 - 1978</birthbig>
+	<ab>ietn</ab>
+	<ptxt>Ida Noddack Tacke was one of the first women in <slink ref="de">Germany</slink> to study chemistry. She attained a doctorate in 1919 at the technical university of Berlin "On higher aliphatic fatty acid anhydrides" and worked afterwards in the field being the first woman in the industry in Germany. She and her husband looked for the then still unknown elements 43 and 75 at the Physical Institute for Realm. In 1925, they published a paper (Zwei neue Elemente der Mangangruppe, Chemischer Teil) claiming to have done so, and called the new elements Rhenium and Masurium. Only the discovery of the rhenium was confirmed. They were unable to isolate any element 43 and their results were not reproducible. Their choice of the term Masurium was also considered unacceptably nationalistic and may have contributed to a poor reputation amongst scientists of the day.</ptxt>
+	<ptxt>A German chemist and physicist. With her husband <blink ref="wn">Walter Noddack</blink> she discovered element 75, <elink ref="75">Rhenium</elink>. She correctly criticized Enrico Fermi's chemical proofs in his 1934 <glink ref="neutron">neutron</glink> bombardment experiments, from which he postulated that transuranic elements. might have been produced, and was widely accepted for a few years. Her paper, "On Element 93" suggested a number of possibilities, centering around Fermi's failure to chemically eliminate all lighter than <elink ref="92">uranium</elink> elements in his proofs, rather than only down to <elink ref="82">lead</elink>. The paper is considered historically significant today not simply because she correctly pointed out the flaw in Fermi's chemical proof but because she suggested the possibility that "it is conceivable that the nucleus breaks up into several large fragments, which would of course be isotopes of known elements but would not be neighbors of the irradiated element." </ptxt>
+	<ptxt>In so doing she presaged what would become known a few years later as nuclear fission. However Noddack offered no theoretical basis for this possibility, which defied the understanding at the time, and her suggestion that the nucleus breaks into several large fragments is not what occurs in nuclear fission. The paper was generally ignored. Later experiments along a similar line to Fermi's, by Irene Joliot-Curie, and Pavel Savitch in 1938 raised what they called "interpretational difficulties" when the supposed transuranics exhibited the properties of rare earths rather than those of adjacent elements. Ultimately in 1939 Otto Hahn and Fritz Strassmann, working in consultation with long term colleague <blink ref="lm">Lise Meitner</blink> (who had been forced to flee Germany) provided chemical proof that the previously presumed transuranic elements were <glink ref="isotope">isotopes</glink> of <elink ref="56">barium</elink>. It remained for Meitner and her nephew Otto Frisch utilizing Fritz Kalckar and Neils Bohr's liquid drop hypothesis (first proposed by George Gamow in 1935) to provide a theoretical model and mathematical proof of what they dubbed nuclear fission ( Frisch also experimentally verified the fission reaction by means of a cloud chamber, confirming the massive energy release).</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Noddack, Walter</bentry>
+	<name>Walter Noddack</name>
+	<birth>1893-1960</birth>
+	<birthbig>August 17th 1893 - December 7th 1960</birthbig>
+	<ab>wn</ab>
+	<ptxt>Noddack was born in Berlin and educated at the university there, obtaining his doctorate in 1920. He worked first at the Physikalische Technische Reichsanstadt, the German national physical laboratory, until 1935, and then held chairs in physical chemistry at Freiburg and Strasbourg until, in 1946, he moved to Bamberg. Noddack taught chemistry at the local Hochschule there before serving (1955-60) as the director of the Bamberg Institute of Geochemistry.</ptxt>
+	<ptxt>In 1926, in collaboration with his wife Ida Tacke, Noddack discovered the element <elink ref="75">rhenium</elink>. They thought that they had found element 43, which they named 'masurium'. In fact this element was correctly identified in 1937 by <blink ref="es">Emilio Segre</blink>, who named it <elink ref="43">technetium</elink>.</ptxt>
+	<ptxt>Noddack is also remembered for arguing for a concept he called <i>allgegenwartskonzentration</i> or, literally, omnipresent concentration. This idea, somewhat reminiscent of the early Greek philosopher Anaxagoras, assumed that every mineral actually contained every element. The reason they could not all be detected was, of course, because they existed in too small quantities.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>O</bentry>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Oersted, Hans Christian</bentry>
+	<name>Hans Christian Oersted</name>
+	<birth>1777-1851</birth>
+	<birthbig>August 14th 1777 - March 9th 18</birthbig>
+	<ab>hco</ab>
+	<ptxt>Oersted was born at Rudkjobing in Denmark and studied at Copenhagen University, where he received a PhD in 1799 for a thesis defending Kantian philosophy. To complete his scientific training he then traveled through Europe visiting the numerous physicists working on aspects of electricity. On his return to Denmark he started giving public lectures, which were so successful that, in 1806, he was offered a professorship at Copenhagen. Here he became well known as a great teacher and did much to raise the level of Danish science to that of the rest of Europe.</ptxt>
+	<ptxt>It was while lecturing that he actually first observed electromagnetism (although for years he had believed in its existence) by showing that a needle was deflected when brought close to a wire through which a current was flowing. By the summer of 1820 he had confirmed the existence of a circular magnetic field around the wire and published his results. They produced an enormous flurry of new activity in the scientific world, which up to that time had accepted Coulomb's opinion that electricity and magnetism were completely independent forces.</ptxt>
+	<ptxt>In 1825, Oersted made a significant contribution to chemistry by producing metallic <elink ref="13">aluminium</elink> for the first time.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>P</bentry>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Perey, Marguerite Catherine</bentry>
+	<name>Marguerite Catherine Perey</name>
+	<birth>1909-1975</birth>
+	<birthbig>October 19th 1909 - May 13th 1975</birthbig>
+	<ab>mcp</ab>
+	<ptxt>A French physicist, discovered an element with atomic number 87 which she named <elink ref="87">francium</elink> in 1939 purifying <elink ref="57">lanthanum</elink> that contained <elink ref="89">actinium</elink>. Researchers had been looking for this element for years. </ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Priestley, Joseph</bentry>
+	<name>Joseph Priestley</name>
+	<birth>1733-1804</birth>
+	<birthbig>March 13th 1733 - February 6th 1804</birthbig>
+	<ab>jp</ab>
+	<ptxt>An English theologian and scientist. He prepared for the Presbyterian ministry and served several churches in <slink ref="gb">England</slink> as pastor but gradually rejected orthodox Calvinism and adopted Unitarian views. His Essay on Government (1768) suggested the idea of "the greatest happiness of the greatest number" to Jeremy Bentham. In 1769 he founded the Theological Repository for critical discussion. In his History of Electricity (1767), he explained the rings (known as Priestley's rings) formed by a discharge upon a metallic surface. His improvements in the manipulation of gases enabled him to investigate the properties of gases and to discover new ones, including sulfur dioxide, ammonia, and what Priestly called "dephlogisticated air," the gas that <blink ref="aldl">Lavoisier</blink> named <elink ref="8">oxygen</elink> and made the basis of experiments that were the foundation of modern chemistry. Priestley himself failed to realize the importance of his discovery of <elink ref="8">oxygen</elink>. His Examination of Scottish Philosophy appeared in 1774; his History of the Corruptions of Christianity, published in 1782, was officially burned in 1785; and his History of Early Opinions concerning Jesus Christ appeared in 1786. In 1790 he wrote two volumes of a General History of the Christian Church to the Fall of the Western Empire, and four volumes of the later history of the church appeared between 1802 and 1803. In the meantime he pursued his scientific and philosophical studies; opposed orthodox doctrines, the government's colonial policy, and slave trade; advocated the repeal of the Test Act and Corporation Act; and carried on a seven-year controversy (1783-90) with the Rev. Samuel Horsley. His sympathy with the aims of the French Revolution aroused popular prejudice against him, which led in 1791 to the wrecking of his house and the destroying of his library and scientific apparatus. Priestley emigrated to the United States in 1794 and lived at Northumberland, Pa., for the remainder of his life. He continued his chemical experimentation and engaged in a controversy on the phlogiston theory with leading American chemists. His Theological and Miscellaneous Works, in 25 volumes, edited by J. T. Rutt, were published between 1817 and 1832.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>R</bentry>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Ramsay, Sir William</bentry>
+	<name>Sir William Ramsay</name>
+	<birth>1852-1916</birth>
+	<birthbig>(October 2nd 1852 - July 23rd 1916</birthbig>
+	<ab>swr</ab>
+	<ptxt>A Scottish chemist. He was professor of chemistry at University College, Bristol (1880-87), and at University College, London (1887-1912). In his early experiments he showed that the alkaloids are related to pyridine, which he synthesized (1876) from acetylene and prussic acid. He then turned to inorganic and physical chemistry. Investigating the <glink ref="noble">inert gases</glink> of the atmosphere, he discovered <elink ref="2">helium</elink>; with Rayleigh he discovered <elink ref="18">argon</elink>, and with <blink ref="mt">M. W. Travers</blink>, <elink ref="36">krypton</elink>, <elink ref="10">neon</elink>, and <elink ref="54">xenon</elink>. He also carried on research on <elink ref="88">radium</elink> emanation. In 1902 he was knighted, for his work on gases he received the 1904 Nobel Prize in Chemistry. His writings include System of Inorganic Chemistry (1891) and Essays Biographical and Chemical (1908).</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Rayleigh, John William Strutt</bentry>
+	<name>John William Strutt Rayleigh</name>
+	<birth>1842-1919</birth>
+	<birthbig>November 12th 1842 - June 30th 1919</birthbig>
+	<ab>jwsr</ab>
+	<ptxt>Rayleigh, born at Witham in Essex, succeeded to his father's title in 1873. He graduated in mathematics from Cambridge University in 1865 and remained at Cambridge until his marriage, in 1871, to Evelyn Balfour, sister of the statesman Lord Balfour. In the following year poor health, which had also disrupted his schooling as a child, necessitated a break from academic life and recuperation in a warmer climate. During this convalescence, which was spent traveling up the Nile in a houseboat, Rayleigh wrote The Theory of Sound, which remains a classic in writings on acoustics.</ptxt>
+	<ptxt>On his return to <slink ref="gb">England</slink>, Rayleigh built a laboratory next to his family home. Apart from the period 1879-84, when he succeeded James Clerk Maxwell as Cavendish Professor of Experimental Physics at Cambridge, Rayleigh carried out most of his work in this private laboratory. Of his early work the best known is his equation to account for the blue colour of the sky, which (confirming John Tyndall's theory) concerned light scattering by small particles in the atmosphere. The amount of scattering depends on the wavelength of the light, and this causes the blue colour. From this theory came the scattering law, an important concept in studies of wave propagation. Rayleigh also did a vast amount of work on other problems in physics, particularly in optics and acoustics.</ptxt>
+	<ptxt>While serving as Cavendish Professor, Rayleigh concerned himself with the precise measuring of electrical standards. He invented the Rayleigh potentiometer for precise measurement of potential difference. He extended this precision to the determination of the density of gases, and made the seemingly strange observation that <elink ref="7">nitrogen</elink> from air is always slightly denser than <elink ref="7">nitrogen</elink> obtained from a chemical compound. This led to his collaboration with <blink ref="swr">William Ramsay</blink> that resulted in the discovery of <elink ref="18">argon</elink>. Rayleigh received the Nobel Prize for physics for this work in 1904; in the same year <blink ref="swr">Ramsay</blink> was awarded the chemistry prize.</ptxt>
+	<ptxt>Craters on Mars and the Moon are named in his honor as well as a type of surface wave known as a Rayleigh wave. The asteroid 22740 Rayleigh was named in his honour on 1 June 2007.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Reich, Ferdinand</bentry>
+	<name>Ferdinand Reich</name>
+	<birth>1799-1882</birth>
+	<birthbig>February 19th 1799 - April 27th 1882</birthbig>
+	<ab>fr</ab>
+	<ptxt>Reich, who was born at Bernburg in <slink ref="de">Germany</slink>, studied at the University of Gottingen and taught at the Freiberg Mining Academy. In 1863 he obtained a yellow precipitate from some local <elink ref="30">zinc</elink> ores. Convinced that it contained a new element he asked his assistant Hieronymus Richter to examine it spectroscopically (he himself was colour blind). Richter found a new line in the dark blue region that confirmed Reich's original conviction; the new element was named '<elink ref="49">indium</elink>' after the bright indigo line characteristic of its spectrum.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>von Reichenstein, Franz-Joseph Muller Freiherr</bentry>
+	<name>Franz-Joseph Muller Freiherr von Reichenstein</name>
+	<birth>1782-1825</birth>
+	<birthbig>July 1st 1740 (or October 4th 1742) - October 12th 1825</birthbig>
+	<ab>fjmfvr</ab>
+	<ptxt>He discovered <elink ref="52">tellurium</elink> in 1782.</ptxt>
+	<ptxt>He was born on the July 1, 1740 Nagyszeben (now, Sibiu) Transylvania, or 4 October 1742 in Poysdorf, (Lower Austria), and died on the October 12, 1825 in Vienna.</ptxt>
+	<ptxt>He studied philosophy in Vienna but became a specialist in mineralogy.</ptxt>
+	<ptxt>In 1778 he discovered an occurrence of Tourmaline in the Zillertal.</ptxt>
+	<ptxt>In 1782 or 1783, as the main overseer of mines in Romania, he analyzed a bluish gold ore from Transylvania known as 'German Gold'. He extracted a metal believing it to be <elink ref="51">antimony</elink>. Soon he verified that it was an unknown chemical <glink ref="element">element</glink>, however did not continue the research in relation to this new element.</ptxt>
+	<ptxt>In 1798, the German chemist <blink ref="mhk">Martin Heinrich Klaproth</blink> isolated the new element and it called it <elink ref="52">Tellurium</elink>, but gave the credit of the discovery to the Franz-Joseph.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Richter, Hieronymous Theodor</bentry>
+	<name>Hieronymous Theodor Richter</name>
+	<birth>1824-1898</birth>
+	<birthbig>1824-1898</birthbig>
+	<ab>htr</ab>
+	<ptxt>He was a German chemist who co-discovered <elink ref="49">indium</elink> in 1863 with Ferdinand Reich. He was born 21 November 1824 in Dresden and died 25 September 1898 in Freiberg.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>RIKEN</bentry>
+	<name>RIKEN</name>
+	<birth>1917-</birth>
+	<birthbig>1917-</birthbig>
+	<ab>riken</ab>
+	<ptxt>Riken is a large research institute in Japan. Founded in 1917, it now has about 3000 scientists on seven campuses across Japan, the main one in Wako, just outside Tokyo. Riken is an Independent Administrative Institution whose formal name in Japanese is Rikagaku Kenkyusho, and its full name in Japanese is Kokuritsu Kenkyū Kaihatsu Hōjin Rikagaku Kenkyūsho.</ptxt>
+	<ptxt>Riken conducts research in many areas of science, including physics, chemistry, biology, medical science, engineering, high performance computing and computational science, and ranging from basic research to practical applications.</ptxt>
+	<ptxt>In 1913 the well-known scientist Jokichi Takamine first proposed the establishment of a national science research institute in Japan. This task was taken on by Viscount Shibusawa Eiichi, a prominent businessman, and following a resolution by the Diet in 1915, Riken came into existence in March 1917. In its first incarnation, Riken was a private foundation (zaidan), funded by a combination of industry, the government, and the Imperial Household. It was located in the Komagome district of Tokyo, and its first Director was the mathematician Baron Dairoku Kikuchi.</ptxt>
+	<ptxt>In 1927, Viscount Masatoshi Ōkōchi, the third Director, established the Riken Konzern (a zaibatsu). This was a group of spin-off companies that used Riken's scientific achievements for commercial ends and returned the profits to Riken. At its peak in 1939 the Konzern comprised about 121 factories and 63 companies, including Riken Kankoshi, which is now Ricoh.</ptxt>
+	<ptxt>During World War II the Japanese army's atomic bomb program was conducted at Riken. In April 1945 the US bombed Riken's laboratories in Komagome, and in November, after the end of the war, Allied soldiers destroyed its two cyclotrons.</ptxt>
+	<ptxt>After the war, the Allies dissolved Riken as a private foundation, and it was brought back to life as a company called Kagaku Kenkyusho, or Kaken. In 1958 the Diet passed the Riken Law, whereby the institute returned to its original name and entered its third incarnation, as a public corporation tokushu, funded by the government. In 1963 it relocated to a large site in Wako in Saitama Prefecture, just outside Tokyo.</ptxt>
+	<ptxt>In October 2003 Riken's status changed again, to Independent Administrative Institution. As such, Riken is still publicly funded, and it is periodically evaluated by the government, but it has a higher degree of autonomy than before.</ptxt>
+	<ptxt>Riken is regarded as the flagship research institute in Japan. It conducts basic and applied experimental research in a wide range of science and technology fields including physics, chemistry, medical science, biology and engineering.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Rutherford, Daniel</bentry>
+	<name>Daniel Rutherford</name>
+	<birth>1749-1819</birth>
+	<birthbig>November 3rd 1749 - November 15th 1819</birthbig>
+	<ab>dr</ab>
+	<ptxt>A Scientist, born in Edinburgh, Rutherford was educated at the University of Edinburgh. As a student he discovered the gas <elink ref="7">Nitrogen</elink> (1772) and described <elink ref="8">oxygen</elink> or Vital Air (1778). In 1786, he was appointed to the Regius Chair of Botany in Edinburgh and as Keeper of the Botanic Gardens (1786), following the death of Professor John Hope (1725-86). Rutherford in turn held these posts until his own death. Rutherford was a maternal uncle of Sir Walter Scott (1771 - 1832).</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>S</bentry>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Scaliger, Julius Caesar</bentry>
+	<name>Julius Caesar Scaliger</name>
+	<birth>1484-1558</birth>
+	<birthbig>April 23rd 1484 - October 21st 1558</birthbig>
+	<ab>jcs</ab>
+	<ptxt>an Italian scholar and physician spending a large part of his career in <slink ref="fr">France</slink>. He employed the techniques and discoveries of Renaissance humanism to defend Aristotelianism against the new learning. In spite of his arrogant and contentious disposition, his contemporary reputation was high, judging him so distinguished by his learning and talents that, according to Jacques August de Thou, none of the ancients could be placed above him, and the age in which he lived could not show his equal.</ptxt>
+	<ptxt>So distinguished by his learning and talents that, according to Jacques August de Thou, none of the ancients could be placed above him and the age in which he lived could not show his equal. He was, according to his own account, a scion of the house of La Scala, for a hundred and fifty years princes of Verona, and was born in 1484 at the castle of La Rocca on the Lake Garda.</ptxt>
+	<ptxt>When he was twelve, his kinsman the emperor Maximilian placed him among his pages. He remained for seventeen years in the service of the emperor, distinguishing himself as a soldier and as a captain. But he was unmindful neither of letters, in which he had the most eminent scholars of the day as his instructors, nor of art, which he studied with considerable success under Albrecht Durer.</ptxt>
+	<ptxt>In 1512 at the battle of Ravenna, where his father and elder brother were killed, he displayed prodigies of valour, and received the highest honours of chivalry from his imperial cousin, who conferred upon him with his own hands the spurs, the collar and the eagle of gold. But this was the only reward he obtained.</ptxt>
+	<ptxt>He left the service of Maximilian, and after a brief employment by another kinsman, the duke of Ferrara, he decided to quit the military life, and in 1514 entered as a student at the university of Bologna. He determined to take holy orders, in the expectation that he would become cardinal, and then pope, when he would wrest from the Venetians his principality of Verona, of which the republic had despoiled his ancestors. But, though he soon gave up this design, he remained at the university until 1519.</ptxt>
+	<ptxt>The next six years he passed at the castle of Vico Nuovo, in Piedmont, as a guest of the family of La Rovere, at first dividing his time between military expeditions in the summer, and study, chiefly of medicine and natural history, in the winter, until a severe attack of rheumatic gout brought his military career to a close.</ptxt>
+	<ptxt>Henceforth his life was wholly devoted to study. In 1525 he accompanied MA de la Rovere, bishop of Agen, to that city as his physician. Such is the outline of his own account of his early life. It was not until some time after his death that the enemies of his son first alleged that he was not of the family of La Scala, but was the son of Benedetto Bordone, an illuminator or schoolmaster of Verona; that he was educated at Padua, where he took the degree of M.D.; and that his story of his life and adventures before arriving at Agen was a tissue of fables. It certainly is supported by no other evidence than his own statements, some of which are inconsistent with well-ascertained facts (see below).</ptxt>
+	<ptxt>The remaining thirty-two years of his life were passed almost wholly at Agen, in the full light of contemporary history. They were without adventure, almost without incident, but it was in them that he achieved so much distincton that at his death in 1558 he had the highest scientific and literary reputation of any man in Europe. A few days after his arrival at Agen he fell in love with a charming orphan of thirteen, Andiette de Roques Lobejac. Her friends objected to her marriage with an unknown adventurer, but in 1528 he had obtained so much success as a physician that the objections of her family were overcome, and at forty-five he married Andiette, who was then sixteen. The marriage proved a complete success; it was followed by twenty-nine years of almost uninterrupted happiness, and by the birth of fifteen children who included Joseph Justus Scaliger.</ptxt>
+	<ptxt>A charge of heresy in 1538, of which he was acquitted by his friendly judges, one of whom was his friend Arnoul Le Ferron, was almost the only event of interest during these years, except the publication of his books, and the quarrels and criticisms to which they gave rise. In 1531 he printed his first oration against Erasmus, in defence of Cicero and the Ciceronians. It is a piece of vigorous invective, displaying, like all his subsequent writings, an astonishing command of Latin, and much brilliant rhetoric, but full of vulgar abuse, and completely missing the point of the Ciceronianus of Erasmus.</ptxt>
+	<ptxt>The writer's indignation at finding it treated with silent contempt by the great scholar, who thought it was the work of a personal enemy--Meander--caused him to write a second oration, more violent, more abusive, with more self-glorification, but with less real merit than the first. The orations were followed by a prodigious quantity of Latin verse, which appeared in successive volumes in 1533, 1534, 1539, 1546 and 1547; of these, a friendly critic, Mark Pattison, is obliged to approve the judgment of Huet, who says, "par ses poesies brutes et informes Scaliger a deshonore le Parnasse"; yet their numerous editions show that they commended themselves not only to his contemporaries, but to succeeding scholars. A brief tract on comic metres (De comicis dimensionibus) and a work De causis linguae Latinae--the earliest Latin grammar on scientific principles and following a scientific method--were his only other purely literary works published in his lifetime.</ptxt>
+	<ptxt>His Poetice appeared in 1561 after his death. With many paradoxes, with many criticisms which are below contempt, and many indecent displays of personal animosity--especially in his reference to Etienne Dolet, over whose death he gloated with brutal malignity--it yet contains acute criticism, and showed for the first time what such a treatise ought to be, and how it ought to be written.</ptxt>
+	<ptxt>But it is as a philosopher and a man of science that JC Scaliger ought to be judged. Classical studies he regarded as an agreeable relaxation from severer pursuits. Whatever the truth or fable of the first forty years of his life, he had certainly been a close and accurate observer, and had made himself acquainted with many curious and little-known phenomena, which he had stored up in a most tenacious memory.</ptxt>
+	<ptxt>His scientific writings are all in the form of commentaries, and it was not until his seventieth year that (with the exception of a brief tract on the De insomniis of Hippocrates) he felt that any of them were sufficiently complete to be given to the world. In 1556 he printed his Dialogue on the De plantis attributed to Aristotle, and in 1557 his Exercitatioies on the work of Jerome Cardan, De subtilitate. His other scientific works, commentaries on Theophrastus' De causis plantarum and Aristotle's History of Animals, he left in a more or less unfinished state, and they were not printed until after his death. They are all marked by arrogant dogmatism, violence of language, a constant tendency to self-glorification, strangely combined with extensive real knowledge, with acute reasoning, with an observation of facts and details almost unparalleled. But he is only the naturalist of his own time.</ptxt>
+	<ptxt>That he anticipated in any manner the inductive philosophy cannot be contended; his botanical studies did not lead him, like his contemporary Konrad von Gesner, to any idea of a natural system of classification, and he rejected with the utmost arrogance and violence of language the discoveries of Copernicus. In metaphysics and in natural history Aristotle was a law to him, and in medicine Galen, but he was not a slave to the text or the details of either. He has thoroughly mastered their principles, and is able to see when his masters are not true to themselves. He corrects Aristotle by himself.</ptxt>
+	<ptxt>He is in that stage of learning when the attempt is made to harmonize the written word with the actual facts of nature, and the result is that his works have no real scientific value. Their interest is only historical. His Exercitationes upon the De subtilitate of Cardan (1551) is the book by which Scaliger is best known as a philosopher. Its numerous editions bear witness to its popularity, and until the final fall of Aristotle's physics it continued a popular textbook. We are astonished at the encyclopaedic wealth of knowledge which the Exercitationes display, at the vigour of the author's style, at the accuracy of his observations, but are obliged to agree with Gabriel Naude that he has committed more faults than he has discovered in Cardan, and with Charles Nisard that his object seems to be to deny all that Cardan affirms and to affirm all that Cardan denies. Yet Leibniz and Sir William Hamilton recognize him as the best modern exponent of the physics and metaphysics of Aristotle. He died at Agen on October 21, 1558.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Scheele, Karl Wilhelm</bentry>
+	<name>Karl Wilhelm Scheele</name>
+	<birth>1742-1786</birth>
+	<birthbig>December 9th 1742 - May 21st 1786</birthbig>
+	<ab>kws</ab>
+	<ptxt>Scheele, who came from a poor background in Straslund (now in <slink ref="de">Germany</slink>), received little schooling and was apprenticed to an apothecary in Goteborg when he was 14 years old. In 1770 he moved to Uppsala to practice as an apothecary. He met and impressed Torbern Bergman, the professor of chemistry there, and was elected to the Stockholm Royal Academy of Sciences in 1775. Also in 1775 he moved to Koping where he established his own pharmacy.</ptxt>
+	<ptxt>In 1777 Scheele published his only book, Chemical Observations and Experiments on Air and Fire. In this work he stated that the atmosphere is composed of two gases, one supporting combustion, which he named 'fire air' (<elink ref="8">oxygen</elink>), and the other preventing it, which he named 'vitiated air' (<elink ref="7">nitrogen</elink>). He was successful in obtaining <elink ref="8">oxygen</elink> in about 1772, two years before <blink ref="jp">Joseph Priestley</blink>. He also discovered <elink ref="17">chlorine</elink>, <elink ref="25">manganese</elink>, <elink ref="56">barium</elink> oxide, glycerol, <elink ref="14">silicon</elink> tetrafluoride, and a long list of acids, both organic and inorganic, including citric, prussic, and tartaric acids. One further piece of work that had unexpectedly important consequences was his demonstration of the effects of light on <elink ref="47">silver</elink> salts.</ptxt>
+	<ptxt>Despite receiving many lucrative offers from <slink ref="de">Germany</slink> and <slink ref="gb">England</slink>, Scheele remained at Koping for the rest of his life devoting himself to his chemical researches. Although his work must have suffered from his isolation, and he lost priority in many discoveries owing to delay in publication, he is still frequently referred to as the greatest experimental chemist of the 18th century.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Schroder, Johann</bentry>
+	<name>Johann Schroder</name>
+	<birth>1600-1664</birth>
+	<birthbig>1600-1664</birthbig>
+	<ab>js</ab>
+	<ptxt>A German physician and pharmacologist who was the first person to recognise that <elink ref="33">arsenic</elink> was an element. In 1649, he produced the elemental form of arsenic by heating its oxide, and published two methods for its preparation.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Seaborg, Glenn Theodore</bentry>
+	<name>Glenn Theodore Seaborg</name>
+	<birth>1912-1999</birth>
+	<birthbig>(April 19th 1912 - February 25th 1999</birthbig>
+	<ab>gts</ab>
+	<ptxt>American chemist, born in Ishpeming, Mich., graduated from the Univiversity of California at Los Angeles, 1934, Ph.D. Univiversity of California at Berkeley, 1937. In 1939, he began teaching at Berkeley, where he became professor of chemistry (1945) and chancellor of the university (1958). During World War II, he was associated with the Univ. of Chicago, where he worked on the development of the atomic bomb. After the war, Seaborg was named head of the nuclear chemistry division of the Lawrence Berkeley Laboratory, later becoming director and then director emeritus of the laboratory. He served as chairman of the U.S. Atomic Energy Commission from 1961 to 1971. Seaborg codiscovered the elements <elink ref="94">plutonium</elink> (and its <glink ref="isotope">isotope</glink> <sup>239</sup>Pu), <elink ref="95">americium</elink>, <elink ref="96">curium</elink>, <elink ref="97">berkelium</elink>, <elink ref="98">californium</elink>, <elink ref="99">einsteinium</elink>, <elink ref="100">fermium</elink>, <elink ref="101">mendelevium</elink>, and <elink ref="102">nobelium</elink>.</ptxt>
+	<ptxt>For discoveries concerning the chemistry of transuranium elements, he shared with <blink ref="emm">Edwin M. McMillan</blink> the 1951 Nobel Prize in Chemistry. For his discoveries of the transuranium elements and for his "leadership in the development of nuclear chemistry and atomic energy," Seaborg received the 1959 <blink ref="ef">Enrico Fermi</blink> award. In 1997, the element with the <glink ref="an">atomic number</glink> 106 was named <elink ref="106">seaborgium</elink> in his honour, marking the first time an <glink ref="element">element</glink> was named for a living person. His writings include Nuclear Properties of the Heavy Elements (1964), Nuclear Milestones (1972), The Elements Beyond Uranium (1990), A Chemist in the White House: From the Manhattan Project to the End of the Cold War (1998), and The Transuranium People: The Inside Story (1999).</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Sefstr&uuml;m, Nils Gabriel</bentry>
+	<name>Nils Gabriel Sefstr&uuml;m</name>
+	<birth>1787-1845</birth>
+	<birthbig>June 2nd 1787 - November 30th 1845</birthbig>
+	<ab>ngs</ab>
+	<ptxt>A Swedish chemist, Sefstrom, was a student of <blink ref="jjg">Berzelius</blink> and when studying the brittleness of steel, in 1830 he discovered a new chemical element, which he gave the name <elink ref="23">vanadium</elink>.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Segre, Emilio Gino</bentry>
+	<name>Emilio Gino Segre</name>
+	<birth>1905-1989</birth>
+	<birthbig>February 1st 1905 - April 22nd 1989</birthbig>
+	<ab>es</ab>
+	<ptxt>An Italian physicist and Nobel laureate in physics, who with Owen Chamberlain, discovered antiprotons, a sub-atomic antiparticle.</ptxt>
+	<ptxt>Segre was born in Tivoli, near Rome, and enrolled in the University of Rome La Sapienza as an engineering student. He switched to physics in 1927 and earned his doctorate in 1928, having studied under Enrico Fermi.</ptxt>
+	<ptxt>After a stint in the Italian Army from 1928 to 1929, he worked with Otto Stern in Hamburg and Pieter Zeeman in Amsterdam as a Rockefeller Foundation fellow in 1930. Segre was appointed assistant professor of physics at the University of Rome in 1932 and served until 1936. From 1936 to 1938 he was Director of the Physics Laboratory at the University of Palermo. After a visit to Ernest O. Lawrence's Berkeley Radiation Laboratory, he was sent a <elink ref="42">molybdenum</elink> strip from the laboratory's cyclotron deflector in 1937 which was emitting anomalous forms of radioactivity. After careful chemical and theoretical analysis, Segre was able to prove that some of the radiation was being produced by a previously unknown element, dubbed <elink ref="43">technetium</elink>, and was the first artificially synthesized chemical element which does not occur in nature.</ptxt>
+	<ptxt>While Segre was on a summer visit to California in 1938, Mussolini's fascist government passed anti-Semitic laws barring Jews from university positions. As a Jew, Segre was now rendered an indefinite emigre. At the Berkeley Radiation Lab, Lawrence offered him a job as a Research Assistant -- a relatively lowly position for someone who had discovered an element -- for US$300 a month. However, in Segre's recollection, when Lawrence learned that Segre was legally trapped in California, he reduced his salary to US$116 a month which many, including Segre, saw as exploiting the situation. Segre also found work as a lecturer of the physics department at the University of California, Berkeley.</ptxt>
+	<ptxt>While at Berkeley, he helped discover the element <elink ref="85">astatine</elink> and the isotope <elink ref="94">plutonium-239</elink>.</ptxt>
+	<ptxt>From 1943 to 1946 he worked at the Los Alamos National Laboratory as a group leader for the Manhattan Project. In 1944, he became a naturalized citizen of the United States. He taught at Columbia University, University of Illinois and University of Rio de Janeiro. On his return to Berkeley in 1946, he became a professor of physics and of the history of science, serving until 1972. In 1974 he returned to the University of Rome as a professor of nuclear physics.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Soddy, Frederick</bentry>
+	<name>Frederick Soddy</name>
+	<birth>1877-1956</birth>
+	<birthbig>September 2nd 1877 - September 22nd 1956</birthbig>
+	<ab>fs</ab>
+	<ptxt>An English radiochemist. He worked under Lord Rutherford at McGill Univ. and with <blink ref="swr">Sir William Ramsay</blink> at the Univ. of London. After serving (1910-14) as lecturer in physical chemistry and radioactivity at the Univ. of Glasgow, he was professor of chemistry at the Univ. of Aberdeen (1914-19) and at Oxford (1919-36). He was especially noted for his research in <glink ref="radioactivity">radioactivity</glink>. With others he discovered a relationship between radioactive elements and the parent <glink ref="compound">compound</glink>, which led to his theory of <glink ref="isotope">isotopes</glink>; for this work he won the 1921 Nobel Prize in Chemistry. His scientific books have become classics and include The Interpretation of Radium (1909, rev. ed. 1922), Matter and Energy (1912), The Chemistry of the Radio-Elements (2 parts, 1911-14), and Atomic Transmutation (1953). An advocate of technocracy and of the social credit movement, he wrote several books setting forth his political and economic views.</ptxt>
+	<ptxt>In 1914 he was appointed to a chair at the University of Aberdeen, where he worked on research related to World War I.</ptxt>
+	<ptxt>In 1919 he moved to Oxford University as Dr Lee's Professor of Chemistry, where, in the period up till 1936, he reorganized the laboratories and the syllabus in chemistry.</ptxt>
+	<ptxt>He received the 1921 Nobel Prize in chemistry for his research in radioactive decay and particularly for his formulation of the theory of isotopes.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Soret, Jacques-Louis</bentry>
+	<name>Jacques-Louis Soret</name>
+	<birth>1827-1890</birth>
+	<birthbig>June 30th 1827 - May 13th 1890</birthbig>
+	<ab>jls</ab>
+	<ptxt>He was a Swiss chemist who co-discovered <elink ref="67">holmium</elink> in 1878 with Marc Delafontaine and independently in 1879 with <blink ref="ptc">Per Teodor Cleve</blink>.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Stromeyer, Friedrich</bentry>
+	<name>Friedrich Stromeyer</name>
+	<birth>1776-1835</birth>
+	<birthbig>1776-1835</birthbig>
+	<ab>fs2</ab>
+	<ptxt>German born chemist. He studied mineralogy at Gottingen (where he went on to become professor of chemistry) and Paris. He discovered the element <elink ref="48">Cadmium</elink>.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>de Suvisa, Fausto de Elhuyar y</bentry>
+	<name>Fausto de Elhuyar y de Suvisa</name>
+	<birth>1755-1833</birth>
+	<birthbig>October 11th 1755 - February 6th 1833</birthbig>
+	<ab>fdeyds</ab>
+	<ptxt>He was Spanish chemist, and the joint discoverer of <elink ref="74">tungsten</elink> with his brother <blink ref="jje">Juan Jose Elhuyar</blink> in 1783.</ptxt>
+	<ptxt>He was born in Logrono, and died in Madrid.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>T</bentry>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Tennant, Smithson</bentry>
+	<name>Smithson Tennant</name>
+	<birth>1761-1815</birth>
+	<birthbig>November 30th 1761 - February 22nd 1815</birthbig>
+	<ab>st</ab>
+	<ptxt>English chemist. In 1796 he proved, by burning a diamond, that the diamond consists solely of <elink ref="6">carbon</elink>. In 1804 he announced his discovery of <elink ref="76">osmium</elink> and <elink ref="77">iridium</elink>.</ptxt>
+	<ptxt>Tennant was born in Selby in Yorkshire. He began to study medicine at Edinburgh in 1781, but in a few months moved to Cambridge, where he devoted himself to botany and chemistry. He graduated M.D. at Cambridge in 1790, and about the same time purchased an estate near Cheddar, where he carried out agricultural experiments. He was appointed professor of chemistry at Cambridge in 1813, but lived to deliver only one course of lectures, being killed near Boulogne-sur-Mer by the fall of a bridge over which he was riding.</ptxt>
+	<ptxt>The mineral Tennantite is named after him.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Thenard, Louis Jacques</bentry>
+	<name>Louis Jacques Thenard</name>
+	<birth>1777-1857</birth>
+	<birthbig>May 4th 1777 - June 21st 1857</birthbig>
+	<ab>ljt</ab>
+	<ptxt>His father, a poor peasant, managed to have him educated at the academy of Sens, and sent him at the age of sixteen to study pharmacy in Paris. There he attended the lectures of Antoine Francois Fourcroy and <blink ref="lnv">Louis Nicolas Vauquelin</blink>, and succeeded in gaining admission, in a humble capacity, to the latter's laboratory. But his progress was so rapid that in two or three years he was able to take his master's place at the lecture-table, and Fourcroy and <blink ref="lnv">Vauquelin</blink> were so satisfied with his performance that they procured for him a school appointment in 1797 as teacher of chemistry, and in 1798 one as repetiteur at the Ecole Polytechnique.</ptxt>
+	<ptxt>In 1804 <blink ref="lnv">Vauquelin</blink> resigned his professorship at the College de France and successfully used his influence to obtain the appointment for Thenard, who six years later, after Fourcroy's death, was further elected to the chairs of chemistry at the Ecole Polytechnique and the Faculte des Sciences. He also succeeded Fourcroy as member of the Academy. In 1825 he received the title of baron from Charles X, and in 1832 Louis Philippe made him a peer of <slink ref="fr">France</slink>. From 1827 to 1830 he represented the departement of Yonne in the chamber of deputies, and as vice-president of the conseil superieur de l'instruction publique, he exercised a great influence on scientific education in France. He died in Paris on the 21st of June 1857. A statue was erected to his memory at Sens in 1861, and in 1865 the name of his native village was changed to La Louptiere-Thenard.</ptxt>
+	<ptxt>Above all things Thenard was a teacher; as he himself said, the professor, the assistants, the laboratory - everything must be sacrificed to the students. Like most great teachers he published a textbook, and his Traite de chimie elementaire, theorique et pratique (4 vols., Paris, 181316), which served as a standard for a quarter of a century, perhaps did even more for the advance of chemistry than his numerous original discoveries.</ptxt>
+	<ptxt>Soon after his appointment as repetiteur at the Ecole Polytechnique he began a lifelong friendship with <blink ref="jlgl">Joseph Louis Gay-Lussac</blink>, and the two carried out many researches together. Careful analysis led him to dispute some of Claude Louis Berthollet's theoretical views regarding the composition of the metallic oxides, and he also showed Berthollet's "zoonic acid" to be impure acetic acid (1802). In response, Berthollet invited him to become a member of the Societe d'Arcueil.</ptxt>
+	<ptxt>His first original paper (1799) was on the <glink ref="compound">compounds</glink> of <elink ref="33">arsenic</elink> and <elink ref="51">antimony</elink> with <elink ref="8">oxygen</elink> and <elink ref="16">sulphur</elink>. In 1807, he began important research into ethers. His researches on sebacic acid (1802) and on bile (1807) deserve mention as well, as does his discovery of <elink ref="1">hydrogen</elink> peroxide (1818). In 1799 he developed the pigment known as Thenard's blue in response to a request by Jean-Antoine-Claude Chaptal for a cheap colouring matter.</ptxt>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Travers, Morris</bentry>
+	<name>Morris Travers</name>
+	<birth>1872-1961</birth>
+	<birthbig>1872-1961</birthbig>
+	<ab>mt</ab>
+	<ptxt>Morris Travers was an English chemist who discovered <elink ref="54">xenon</elink>, <elink ref="10">neon</elink> and <elink ref="36">krypton</elink> with <blink ref="swr">Sir William Ramsay</blink>.</ptxt>
+	<ptxt>In 1920 he became involved with high-temperature furnaces and fuel technology, including the gasification of coal.</ptxt>
+	<ptxt>Travers helped <blink ref="swr">Ramsay</blink> to determine the properties of the newly discovered gases <elink ref="18">argon</elink> and <elink ref="2">helium</elink>. They also heated minerals and meteorites in the search for further gases, but found none. Then in 1898 they obtained a large quantity of liquid air and subjected it to fractional distillation. Spectral analysis of the least volatile fraction revealed the presence of <elink ref="36">krypton</elink>. They examined the <elink ref="18">argon</elink> fraction for a constituent of lower <glink ref="bp">boiling point</glink>, and discovered <elink ref="10">neon</elink>. Finally <elink ref="54">xenon</elink>, occurring as an even less volatile companion to <elink ref="36">krypton</elink>, was identified spectroscopically. Travers continued his researches in cryogenics and made the first accurate temperature measurements of liquid gases. He also helped to build several experimental liquid air plants in Europe.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>U</bentry>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Urbain, Georges</bentry>
+	<name>Georges Urbain</name>
+	<birth>1872-1938</birth>
+	<birthbig>April 12th 1872 - November 5th 1938</birthbig>
+	<ab>gu</ab>
+	<ptxt>Georges was born in <slink ref="fr">France</slink> and discovered <elink ref="71">Lutetuim</elink> in 1907.</ptxt>
+	<ptxt>In 1878, the Swiss chemist <blink ref="jcgn">Jean Charles de Marignac</blink> separated a new substance from the rare earth elements and named it <elink ref="70">ytterbium</elink>. In 1907 and 1908, however, the French chemist Georges Urbain and the Austrian chemist <blink ref="cabvw">Carl Auer von Welsbach</blink> independently separated <blink ref="jcgn">Marignac's</blink> <elink ref="70">ytterbium</elink> into two elements, which are now called <elink ref="70">ytterbium</elink> and <elink ref="71">lutetium</elink>.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>V</bentry>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Vauquelin, Louis Nicolas</bentry>
+	<name>Louis Nicolas Vauquelin</name>
+	<birth>1763-1829</birth>
+	<birthbig>May 16th 1763 - November 14th 1829</birthbig>
+	<ab>lnv</ab>
+	<ptxt>The son of a farm laborer from Saint-Andre d'Hebertot in <slink ref="fr">France</slink>, Vauquelin began work as an apprentice to a Rouen apothecary. He became a laboratory assistant to Antoine-Francois Fourcroy (1783-91), with whom he later collaborated. Vauquelin became a member of the French Academy of Sciences in 1791 and professor of chemistry in the School of Mines in 1795. In 1799 he wrote Manuel de l'essayeur (An Assayer's Manual), which led to his being appointed assayer to the mint in 1802 and professor of chemistry at the University of Paris in 1809.</ptxt>
+	<ptxt>Vauquelin is best known for his discovery of the elements <elink ref="24">chromium</elink> and <elink ref="4">beryllium</elink>. In 1798, while working with a red <elink ref="82">lead</elink> mineral from Siberia known as crocolite, he isolated the new element <elink ref="24">chromium</elink> - so called because its <glink ref="compound">compounds</glink> are very highly coloured. <blink ref="mhk">Martin Klaproth</blink> made a similar discovery shortly afterward. In the same year Vauquelin also isolated a new element in the mineral beryl. It was initially called glucinum because of the sweetness of its <glink ref="compound">compounds</glink>, but later given its modern name of <elink ref="3">beryllium</elink>. He was the first to isolate an amino acid: asparagine from asparagus.</ptxt>
+</biog>
+
+<biog type="astop">
+	<bentry>W</bentry>
+</biog>
+
+<biog type="entry" image="n">
+	<bentry>Wahl, Arthur C.</bentry>
+	<name>Arthur C. Wahl</name>
+	<birth>1917-2006</birth>
+	<birthbig>September 8th 1917 - March 6th 2006</birthbig>
+	<ab>acw</ab>
+	<ptxt>An American physicist who, as a graduate student in February 1941, was the first to isolate <elink ref="94">plutonium</elink> in a laboratory. He also worked on the Manhattan Project.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>von Welsbach, Carl Auer Baron</bentry>
+	<name>Carl Auer Baron von Welsbach</name>
+	<birth>1858-1929</birth>
+	<birthbig>September 1st 1858 - August 4th 1929</birthbig>
+	<ab>cabvw</ab>
+	<ptxt>An Austrian chemist, he discovered the <glink ref="ree">rare earth elements</glink> <elink ref="60">neodymium</elink> and <elink ref="59">praseodymium</elink> (1885) and <elink ref="71">lutetium</elink> (c. 1908, independently of the French chemist <blink ref="gu">Georges Urbain</blink>). He is known also for the invention of the Welsbach mantle.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Winkler, Clemens Alexander</bentry>
+	<name>Clemens Alexander Winkler</name>
+	<birth>1838-1904</birth>
+	<birthbig>December 26th 1838 - October 1904</birthbig>
+	<ab>caw</ab>
+	<ptxt>Winkler was born at Freiberg in <slink ref="de">Germany</slink> and studied at the School of Mines there. He was later appointed to the chair of chemical technology and analytical chemistry at Freiberg in 1871.</ptxt>
+	<ptxt>In 1885 a new ore - argyrodite - was discovered in the local mines. Winkler, who had a considerable reputation as an analyst, was asked to examine it and to his surprise the results of his analysis consistently came out too low. He discovered that this was due to the presence of a new <glink ref="element">element</glink>, which, after several months' search, he isolated and named <elink ref="32">germanium</elink> after his fatherland. The properties of <elink ref="32">germanium</elink> matched those of the eka-silicon whose existence had been predicted in 1871 by <blink ref="dim">Dmitri Mendeleev</blink>. Winkler's discovery completed the detection of the three new elements predicted by <blink ref="dim">Mendeleev</blink> nearly 20 years before.</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>W&ouml;hler, Friedrich</bentry>
+	<name>Friedrich W&ouml;hler</name>
+	<birth>1800-1882</birth>
+	<birthbig>July 31st 1800 - September 23rd 1882</birthbig>
+	<ab>fw</ab>
+	<ptxt>German physician and chemist, who became a professor of chemistry at Gottingen.</ptxt>
+	<ptxt>In 1828 he made his best-known discovery, the synthesis of urea (an organic compound) from ammonium cyanate (an inorganic salt). This finally disproved the assertion that organic substances can be formed only in living things. W&ouml;hler also isolated <elink ref="13">aluminium</elink> (1827), <elink ref="4">beryllium</elink> (1828), and <elink ref="39">yttrium</elink> (1828).</ptxt>
+</biog>
+
+<biog type="entry" image="y">
+	<bentry>Wollaston, William Hyde</bentry>
+	<name>William Hyde Wollaston</name>
+	<birth>1766-1828</birth>
+	<birthbig>August 6th 1766 - December 2nd 1828</birthbig>
+	<ab>whw</ab>
+	<ptxt>Wollaston, the son of a clergyman from East Dereham in Norfolk, was educated at Cambridge University, <slink ref="gb">England</slink>, where he graduated in 1788. He practiced as a physician before moving to London (1801) to devote himself to science, working in a variety of fields, including chemistry, physics, and astronomy, and making several important discoveries, both theoretical and practical.</ptxt>
+	<ptxt>Wollaston made himself financially independent by inventing, in 1804, a process to produce pure malleable <elink ref="78">platinum</elink>, which could be welded and made into vessels. He is reported to have made about 30,000 pounds from his discovery, as he kept the process secret until shortly before his death, allowing no one to enter his laboratory. Working with <elink ref="78">platinum</elink> ore, he also isolated two new <glink ref="element">elements</glink>: <elink ref="46">palladium</elink> (1804), named for the recently discovered asteroid Pallas, and <elink ref="45">rhodium</elink> (1805), named for the rose colour of its <glink ref="compound">compounds</glink>. In 1810 he discovered the second amino acid, cystine, in a bladder stone.</ptxt>
+	<ptxt>In optics Wollaston developed the reflecting goniometer (1809), an instrument for the measurement of angles between the faces of a crystal. He also patented the camera lucida in 1807. In this device an adjustable prism reflects light from the object to be drawn and light from the paper into the draftsman's eye. This produces the illusion of the image on the paper, allowing him to trace it. Wollaston was a friend of Thomas Young and a supporter of the wave theory of light. One opportunity he missed occurred when, in 1802, he observed the dark lines in the solar spectrum but failed to grasp their importance, taking them simply to be the natural boundaries of colours. He missed a similar chance in 1820 when he failed to pursue the full implications of <blink ref="hco">Hans Oersted's</blink> 1820 demonstration that an electric current could cause a deflection in a compass needle. Although he performed some experiments it was left to <blink ref="mf">Michael Faraday</blink> in 1821 to discover and analyze electromagnetic rotation. Wollaston was successful in showing that frictional and galvanic electricity were identical in 1801. In 1814 he proposed the term 'chemical equivalents'.</ptxt>
+</biog>
+
+</elementbiog>

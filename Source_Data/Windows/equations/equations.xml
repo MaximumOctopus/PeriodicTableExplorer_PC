@@ -1,0 +1,328 @@
+<?xml version="1.0"?>
+<!DOCTYPE xsl:stylesheet [<!ENTITY nbsp "&#160;"> <!ENTITY Delta "&#916;"> <!ENTITY degree "&#176;">]>
+
+<!--
+<equation>
+	<name></name>
+	<ab></ab>
+	<data>
+		<ptxt></ptxt>
+	</data>
+</equation>
+
+Paul Alan Freshney 2008 [ ]
+-->
+
+<equations>
+
+<equation>
+	<name>Acid dissociation constant</name>
+	<othername>also known as the acid ionisation constant.</othername>
+	<ab>aid</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>K<sub>a</sub></b> is the Acid dissociation constant,</ptxt>
+		<ptxt><space/><b>[H<sup>+</sup>]</b> is the concentration of hydronium <glink ref="ion">ion</glink>,</ptxt>
+		<ptxt><space/><b>[A<sup>-</sup>]</b> is the concentration of the conjugate base,</ptxt>		
+		<ptxt><space/><b>[HA]</b> is the concentraion of the acid.</ptxt>
+		<ptxt></ptxt>
+		<ptxt>When an acid, HA, dissolves in water, some molecules of the acid 'dissociate' to form hydronium ions and the conjugate base, (A-), of the acid.</ptxt>
+		<ptxt></ptxt>
+		<ptxt>Values of Ka vary over many orders of magnitude, so it is common to take the negative logarithm to base ten of the value.</ptxt>
+		<ptxt><image ref="pkad"/></ptxt>
+		<ptxt>It is easier to compare the strengths of different acids by comparing pKa values as they vary over a much smaller range.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Avogadro's law</name>
+	<ab>al</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>V</b> is the volume of the gas,</ptxt>
+		<ptxt><space/><b>n</b> is the number of moles of the gas,</ptxt>
+		<ptxt><space/><b>k</b> is the proportionality constant.</ptxt>
+		<ptxt></ptxt>
+		<ptxt>The most important consequence of Avogadro's law is the following: The ideal gas constant has the same value for all gases. This means that the constant;</ptxt>
+		<ptxt><image ref="al2"/></ptxt>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>p</b> is the pressure of the gas,</ptxt>
+		<ptxt><space/><b>T</b> is the temperature of the gas.</ptxt>
+		<ptxt></ptxt>
+		<ptxt>has the same value for all gases, independent of the size or mass of the gas molecules. This statement is nontrivial, and it embodies Avogadro's ingenious insight into the nature of ideal gases.</ptxt>
+		<ptxt>One mole of an ideal gas occupies 22.4 liters (dm<sup>3</sup>) at STP, and occupies 24.45 litres at SATP (Standard Ambient Temperature and Pressure = 25 degrees C and 1 atm/101.3kPa). This volume is often referred to as the molar volume of an ideal gas. Real gases may deviate from this value.</ptxt>
+		<ptxt>Avogadro's law, together with the <qlink ref="cgl">combined gas law</qlink>, forms the <qlink ref="ige">ideal gas law</qlink>.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Base ionisation constant</name>
+	<ab>bic</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>K<sub>b</sub></b> is the Acid dissociation constant,</ptxt>
+		<ptxt><space/><b>[OH<sup>-</sup>]</b> is the concentration of hydroxide <glink ref="ion">ion</glink>,</ptxt>
+		<ptxt><space/><b>[HB<sup>+</sup>]</b> is the concentration of the acid conjugate to the base,</ptxt>		
+		<ptxt><space/><b>[B]</b> is the concentraion of the base.</ptxt>
+		<ptxt></ptxt>
+		<ptxt>When an acid, HA, dissolves in water, some molecules of the acid 'dissociate' to form hydronium ions and the conjugate base, (A<sup>-</sup>), of the acid.</ptxt>
+		<ptxt></ptxt>
+		<ptxt>Values of Kb vary over many orders of magnitude, so it is common to take the negative logarithm to base ten of the value.</ptxt>
+		<ptxt><image ref="pkbd"/></ptxt>
+		<ptxt>It is easier to compare the strengths of different acids by comparing pKb values as they vary over a much smaller range.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Boyle's Law</name>
+	<othername>sometimes referred to as the Boyle-Mariotte law</othername>
+	<ab>ac</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>P</b> is the pressure of the system,</ptxt>
+		<ptxt><space/><b>V</b> is the volume of the gas,</ptxt>
+		<ptxt><space/><b>k</b> a constant (representative of the pressure and volume of the system).</ptxt>
+		<ptxt></ptxt>
+		<ptxt>So long as temperature remains constant at the same value the same amount of energy given to the system persists throughout its operation and therefore, theoretically, the value of k will remain constant.</ptxt>
+		<ptxt>Forcing the volume V of the fixed quantity of gas to increase, keeping the gas at the initially measured temperature, the pressure P must decrease proportionally. Conversely, reducing the volume of the gas increases the pressure.</ptxt>
+		<ptxt></ptxt>
+		<ptxt>Boyle's law is commonly used to predict the result of introducing a change, in volume and pressure only, to the initial state of a fixed quantity of gas. The "before" and "after" volumes and pressures of the fixed amount of gas, where the "before" and "after" temperatures are the same (heating or cooling will be required to meet this condition), are related by the equation:</ptxt>
+		<ptxt><image ref="bl2" /></ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Charles' Law</name>
+	<ab>cl</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>k</b> is a constant,</ptxt>
+		<ptxt><space/><b>V</b> is the volume of the gas,</ptxt>
+		<ptxt><space/><b>t</b> is the temperature of the gas (measured in Kelvin),</ptxt>
+		<ptxt></ptxt>
+		<ptxt>At constant pressure, the volume of a given mass of an ideal gas increases or decreases by the same factor as its temperature (in Kelvin) increases or decreases.</ptxt>
+		<ptxt></ptxt>
+		<ptxt>Theoretically as a gas reaches absolute zero (0 K) the volume will also reach zero.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Combined Gas Law</name>
+	<ab>cgl</ab>
+	<statement>"The ratio between the pressure-volume constant and the temperature of a system remains constant."</statement>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>P</b> is the pressure,</ptxt>
+		<ptxt><space/><b>V</b> is the volume of the gas,</ptxt>
+		<ptxt><space/><b>T</b> is the absolute temperature,</ptxt>
+		<ptxt><space/><b>k</b> is a constant (with units of energy divided by temperature). </ptxt>
+		<ptxt></ptxt>
+		<ptxt>For comparing the same substance under two different sets of conditions, the law can be written as:</ptxt>
+		<ptxt><image ref="cgl2"/></ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Density</name>
+	<ab>density</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>D</b> the density of the object</ptxt>
+		<ptxt><space/><b>m</b> is the mass of the object,</ptxt>
+		<ptxt><space/><b>V</b> is the volume of the object.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Electric current</name>
+	<ab>ec</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>I</b> the current in amperes,</ptxt>
+		<ptxt><space/><b>q</b> is the electric charge in coulombs (ampere seconds),</ptxt>
+		<ptxt><space/><b>t</b> is time in seconds.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Graham's Law</name>
+	<othername>also known as Graham's law of effusion</othername>
+	<ab>gle</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>r<sub>1</sub></b> is the rate of effusion of the first gas,</ptxt>
+		<ptxt><space/><b>r<sub>2</sub></b> is the rate of effusion of the second gas,</ptxt>
+		<ptxt><space/><b>M<sub>1</sub></b> is the molar mass of the first gas,</ptxt>
+		<ptxt><space/><b>M<sub>2</sub></b> is the molar mass of the second gas.</ptxt>
+		<ptxt></ptxt>
+		<ptxt>Graham's law states that the rate of diffusion of a gas is inversely proportional to the square root of its molecular weight. Thus, if the molecular weight of one gas is four times that of another, it would diffuse through a porous plug or escape through a small pinhole in a vessel at half the rate of the other.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Henry's Law</name>
+	<ab>hl</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>e</b> is approx. 2.7182818, the base of the natural logarithm,</ptxt>
+		<ptxt><space/><b>p</b> is the partial pressure of the solute above the solution,</ptxt>
+		<ptxt><space/><b>c</b> is the concentration of the solute in the solution,</ptxt>
+		<ptxt><space/><b>k</b> is Henry's Law constant,</ptxt>
+		<ptxt></ptxt>
+		<ptxt>Taking the natural logarithm of the formula, gives us the more commonly used formula: p = kc</ptxt>
+		<ptxt></ptxt>
+		<ptxt>Note that the Henry's Law constant, k, varies with the solvent and the temperature.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Ideal gas law</name>
+	<ab>ige</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>P</b> is the absolute pressure of the gas,</ptxt>
+		<ptxt><space/><b>V</b> is the volume of the gas,</ptxt>
+		<ptxt><space/><b>n</b> is the number of moles of gas,</ptxt>
+		<ptxt><space/><b>R</b> is the <i>universal gas constant</i>,</ptxt>
+		<ptxt><space/><b>T</b> is the absolute temperature.</ptxt>
+		<ptxt></ptxt>
+		<ptxt>The ideal gas law mathematically follows from a statistical mechanical treatment of primitive identical particles (point particles without internal structure) which do not interact, but exchange momentum (and hence kinetic energy) in elastic collisions.</ptxt>
+		<ptxt></ptxt>
+		<ptxt>The ideal gas law is most accurate for monoatomic gases at high temperatures and low pressures.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Molar heat capacity</name>
+	<ab>mhccp</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>q</b> is the heat energy put in or taken out,</ptxt>
+		<ptxt><space/><b>n</b> is the number of moles,</ptxt>
+		<ptxt><space/><b>c</b> is the specific heat capacity,</ptxt>
+		<ptxt><space/><b>&Delta;T</b> is the difference in temperature.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Number of moles</name>
+	<ab>nom</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>n</b> is the number of moles,</ptxt>
+		<ptxt><space/><b>m</b> is the mass of the element,</ptxt>
+		<ptxt><space/><b>M</b> is the molar mass of the element.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Osmotic pressure</name>
+	<ab>op</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>i</b> is the van 't Hoff factor,</ptxt>
+		<ptxt><space/><b>M</b> is the molarity,</ptxt>
+		<ptxt><space/><b>R</b> is the gas constant,</ptxt>
+		<ptxt><space/><b>T</b> is the absolute temperature.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>pH defined</name>
+	<ab>phd</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>[H<sup>+</sup>]</b> is the concentration of hydrogen ions.</ptxt>		
+	</data>
+</equation>
+
+<equation>
+	<name>Reaction quotient</name>
+	<ab>rq</ab>
+	<data>
+		<ptxt>For a general equilibrium reaction; kA + mB ... <img ref="rarrow" /> cC + pD ...</ptxt>
+		<ptxt></ptxt>
+		<ptxt>Where;</ptxt>		
+		<ptxt><space/><b>{A<sub>i</sub>}</b> is the instantaneous activity of the species A,</ptxt>
+		<ptxt><space/><b>{B<sub>i</sub>}</b> is the instantaneous activity of the species B,</ptxt>
+		<ptxt><space/><b>{C<sub>i</sub>}</b> is the instantaneous activity of the species C,</ptxt>
+		<ptxt><space/><b>{D<sub>i</sub>}</b> is the instantaneous activity of the species D.</ptxt>
+		<ptxt><space/><b>k, m, n, and p</b> are the stoichiometric coefficients for the reaction.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Root mean square (RMS) velocity of gas molecules</name>
+	<ab>rmsvgm</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>v<sub>rms</sub></b> is the root mean square speed,</ptxt>
+		<ptxt><space/><b>k</b> is the Boltzmann constant,</ptxt>
+		<ptxt><space/><b>T</b> is the temperature in Kelvin,</ptxt>
+		<ptxt><space/><b>m</b> is the mass of the gas,</ptxt>
+		<ptxt><space/><b>R</b> is the molar gas constant,</ptxt>
+		<ptxt><space/><b>M</b> is the molar mass of the gas.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Specific heat capacity to heat equation</name>
+	<ab>shche</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>q</b> is the heat energy put in or taken out,</ptxt>
+		<ptxt><space/><b>m</b> is the mass of the substance,</ptxt>
+		<ptxt><space/><b>c</b> is the specific heat capacity,</ptxt>
+		<ptxt><space/><b>&Delta;T</b> is the difference in temperature.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Temperature in kelvin from degrees celsius conversion</name>
+	<ab>tc2k</ab>
+	<data>
+		<ptxt></ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Total gas pressure as sum of partial pressures</name>
+	<ab>tgpspp</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>P<sub>total</sub></b> is the total pressure of the gas mixture,</ptxt>
+		<ptxt><space/><b>P<sub>A</sub></b> is the partial pressure of gas A,</ptxt>
+		<ptxt><space/><b>P<sub>B</sub></b> is the partial pressure of gas B,</ptxt>
+		<ptxt><space/><b>P<sub>C</sub></b> is the partial pressure of gas C.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>Van der Waals equation</name>
+	<ab>vdwe</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>p</b> is the pressure of the fluid,</ptxt>
+		<ptxt><space/><b>V</b> is the total volume of the container containing the fluid,</ptxt>
+		<ptxt><space/><b>a</b> is a measure of the attraction between the particles,</ptxt>
+		<ptxt><space/><b>b</b> is the volume excluded by a mole of particles,</ptxt>
+		<ptxt><space/><b>n</b> is the number of moles,</ptxt>
+		<ptxt><space/><b>R</b> is the gas constant.</ptxt>
+	</data>
+</equation>
+
+<equation>
+	<name>van't Hoff equation</name>
+	<ab>vhe</ab>
+	<data>
+		<ptxt>Where;</ptxt>
+		<ptxt><space/><b>K<sub>1</sub></b> is the equilibrium constant at T<sub>1</sub>,</ptxt>
+		<ptxt><space/><b>K<sub>2</sub></b> is the equilibrium constant at T<sub>2</sub>,</ptxt>
+		<ptxt><space/><b>T<sub>1</sub></b> is absolute temperature,</ptxt>
+		<ptxt><space/><b>T<sub>2</sub></b> is absolute temperature,</ptxt>
+		<ptxt><space/><b>R</b> is the gas constant.</ptxt>
+		<ptxt><space/><b>&Delta;H&degree;</b> is the standard enthalpy change.</ptxt>
+	</data>
+</equation>
+
+</equations>

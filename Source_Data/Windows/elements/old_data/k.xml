@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Krypton</name>
+<symbol>Kr</symbol>
+<atomicno>36</atomicno>
+<neutrons>48</neutrons>
+<atomicweight>83.798</atomicweight>
+<casid>7439-90-9</casid>
+<groupno>18</groupno>
+<groupname>Noble Gases</groupname>
+<periodno>4</periodno>
+<block>p-block</block>
+<state>Gas</state>
+<colour>Colourless</colour>
+<classification>Non-metallic</classification>
+<availability>Krypton is present in the air at about 1 ppm.</availability>
+<densityg>3.749</densityg>
+<dwho><blink ref="swh">Sir William Ramsey</blink>, <blink ref="mt">M.W. Travers</blink></dwho>
+<dwhen>1898</dwhen>
+<dwhere>Great Britain</dwhere>
+<origin>Greek: kryptos (hidden).</origin>
+<boiling>119.93K</boiling>
+<melting>115.78K</melting>
+<boilingC>-153.22'C</boilingC>
+<meltingC>-157.36'C</meltingC>
+<sources>Forms 1 millionth of the atmosphere. Obtained from production of liquid air.</sources>
+<uses>Used in fluorescent bulbs, flashbulbs, UV lasers and as a wavelength standard.</uses>
+<images>
+<notes>
+<ptext>Recently at the University of Helsinki in Finland some scientists made HKrCN and HKrCCH (krypton hydride-cyanide and hydrokryptoacetylene); they are stable up to 40'K.</ptext>
+</notes>
+<image name="36a"></image>
+<image name="36b"></image>
+</images>
+</element>
+
+</elementlist>

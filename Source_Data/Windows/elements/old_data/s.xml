@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Samarium</name>
+<symbol>Sm</symbol>
+<atomicno>62</atomicno>
+<neutrons>88</neutrons>
+<atomicweight>150.36</atomicweight>
+<casid>7440-19-9</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>7.52</density>
+<availability></availability>
+<dwho><blink ref="pelb">Paul emile Lecoq de Boisbaudran</blink></dwho>
+<dwhen>1879</dwhen>
+<dwhere>France</dwhere>
+<origin>From the mineral samarskite, named after a Russian mine official, Colonel Samarski.</origin>
+<boiling>2067K</boiling>
+<melting>1345K</melting>
+<boilingC>1794'C</boilingC>
+<meltingC>1072'C</meltingC>
+<sources>Never found free in nature. Samarium is found in many minerals, including bastnasite, monazite and samarskite.</sources>
+<uses>Used in <elink ref="6">carbon-arc</elink> lighting, permanent magnets, lasers, alloys, headphones and as an absorber in nuclear reactors. Samarium oxide is used in optical glass to absorb infrared.</uses>
+<images>
+<image name="62"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Scandium</name>
+<symbol>Sc</symbol>
+<atomicno>21</atomicno>
+<neutrons>24</neutrons>
+<atomicweight>44.955910</atomicweight>
+<casid>7440-20-2</casid>
+<groupno>3</groupno>
+<groupname>(none)</groupname>
+<periodno>4</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>2.985</density>
+<availability></availability>
+<dwho><blink ref="ln">Lars Nilson</blink></dwho>
+<dwhen>1879</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>From Scandinavia</origin>
+<boiling>3109K</boiling>
+<melting>1814K</melting>
+<boilingC>2836</boilingC>
+<meltingC>1541'C</meltingC>
+<sources>Occurs mainly in the minerals thortveitile, thortvetite, gadolinte and euxenite, located in Scandinavia and Madagascar. Trace amounts can be found in over 800 minerals. Also in some <elink ref="50">tin</elink> and <elink ref="74">tungsten</elink> ores.</sources>
+<uses>Used in high-intensity lights, lightbulbs, leak detectors, space industry materials (alloys) and seed germinating agents.</uses>
+<notes>
+<ptext>Scandium metal power is combustible and presents a fire hazard.</ptext>
+</notes>
+<images>
+<image name="21"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Seaborgium</name>
+<symbol>Sg</symbol>
+<atomicno>106</atomicno>
+<neutrons>160</neutrons>
+<atomicweight>[ 266 ]</atomicweight>
+<casid>54038-81-2</casid>
+<groupno>6</groupno>
+<groupname>(none)</groupname>
+<periodno>7</periodno>
+<block>d-block</block>
+<state>Metallic</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification></classification>
+<availability></availability>
+<dwho>members of the Joint Institute for Nuclear Research, workers of the Lawrence Berkeley and Livermore Laboratories</dwho>
+<dwhen>1974</dwhen>
+<dwhere>Dubna, USSR / Berkeley California</dwhere>
+<origin>For Glenn Seaborg, part of the Dubna group that first synthesized this element.</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>Seaborgium is a synthetic element that is not present in the environment at all.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>In August of 1997 the International Union of Pure and Applied Chemistry announced the official naming of this element as Seaborgium.</ptext>
+<ptext>Element 106 was previously known as Unnilhexium; from the latin for "one zero six".</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Selenium</name>
+<symbol>Se</symbol>
+<atomicno>34</atomicno>
+<neutrons>45</neutrons>
+<atomicweight>78.96</atomicweight>
+<casid>7782-49-2</casid>
+<groupno>16</groupno>
+<groupname>Chalcogen</groupname>
+<periodno>4</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>grey, metallic lustre</colour>
+<classification>Non-metallic</classification>
+<density>(gray) 4.81</density>
+<density>(alpha) 4.39</density>
+<density>(vitreous) 4.28</density>
+<availability></availability>
+<dwho><blink ref="jjg">Jons Berzelius</blink></dwho>
+<dwhen>1817</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>Greek: Selene (Moon)</origin>
+<boiling>958K</boiling>
+<melting>494K</melting>
+<boilingC>685'C</boilingC>
+<meltingC>221'C</meltingC>
+<sources>Obtained from <elink ref="82">lead</elink>, <elink ref="47">silver</elink>, <elink ref="29">copper</elink> and <elink ref="28">nickel</elink> refining. </sources>
+<uses>Used in photoelectric cells, TV cameras, as a semiconductor in solar batteries, light meters, copy machines, anti-dandruff shampoo and rectifiers. Also colours glass red.</uses>
+<notes>
+<ptext>Conducts electricity when struck by light. The element selenium is non-toxic, but many of its compounds are extremely toxic and behave in the same way as <elink ref="33">arsenic</elink>.</ptext>
+<ptext>Selenium is found in humans, but in trace amounts.</ptext>
+<ptext>Some clinical studies have shown that selenium may help cut the risk of certain cancers.</ptext>
+</notes>
+<images>
+<image name="34"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Silicon</name>
+<symbol>Si</symbol>
+<atomicno>14</atomicno>
+<neutrons>14</neutrons>
+<atomicweight>28.0855</atomicweight>
+<casid>7440-21-3</casid>
+<groupno>14</groupno>
+<groupname>(none)</groupname>
+<periodno>3</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>dark grey with a bluish tinge</colour>
+<classification>Semi-metallic</classification>
+<density>2.33</density>
+<availability></availability>
+<dwho><blink ref="jjg">Jons Berzelius</blink></dwho>
+<dwhen>1823</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>Greek: thallos (young shoot) from a bright-green line in its spectrum.</origin>
+<boiling>3538K</boiling>
+<melting>1687K</melting>
+<boilingC>3265'C</boilingC>
+<meltingC>1414'C</meltingC>
+<sources>Silicon is the second most abundant element and comprises 25.7% of the earth's crust (<elink ref="8">oxygen</elink> is first). Makes up major portion of clay, granite, feldspar, mica, asbestos, quartz (SiO<sub>2</sub>), and sand.</sources>
+<uses>Used in glass as silicon dioxide (SiO<sub>2</sub>). It is used as a semiconductor to make microchips for electronics (like your computer). Silicon is also used in solar cells, tools, cement, LCDs, grease and oils.</uses>
+<notes>
+<ptext>Silicon <elink ref="6">carbide</elink> (SiC) is one of the hardest substances known.</ptext>
+<ptext>A serious lung disease known as silicosis often occurred in miners, stonecutters, and others who were engaged in work where siliceous dust was inhaled in great quantities.</ptext>
+</notes>
+<images>
+<image name="14a"></image>
+<image name="14b">Man-made silicon crystals</image>
+<image name="14c">Silicon as it is found in the ground</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Silver</name>
+<symbol>Ag</symbol>
+<atomicno>47</atomicno>
+<neutrons>61</neutrons>
+<atomicweight>107.8682</atomicweight>
+<casid>7440-22-4</casid>
+<groupno>11</groupno>
+<groupname>Coinage metal</groupname>
+<periodno>5</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silver</colour>
+<classification>Metallic</classification>
+<density>10.49</density>
+<availability></availability>
+<dwho>Known to the ancients.</dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>Latin argentum (silver). Silver from old english seolfor for silver.</origin>
+<boiling>2435K</boiling>
+<melting>1234.93K</melting>
+<boilingC>2162'C</boilingC>
+<meltingC>961.78'C</meltingC>
+<sources>Found in ores called argentite (AgS), light ruby silver (Ag<sub>3</sub>AsS<sub>3</sub>), dark ruby silver (Ag<sub>3</sub>SbS<sub>3</sub>) and brittle silver. The main sources of silver are in Canada, Mexico (the largest producer), Peru, Australia and the USA.</sources>
+<uses>Used in alloys for jewellery, in many compounds, coins, photographic film and paper electronics, solder, mirrors and batteries.</uses>
+<notes>
+<ptext>Silver has been used for thousands of years for ornaments and utensils, for trade, and as the basis for many monetary systems. Its value as a precious metal was long considered second only to <elink ref="79">gold</elink>. In Ancient Egypt and Medieval Europe, it was often more valuable than <elink ref="79">gold</elink>.</ptext>
+<ptext>Sterling silver is 92.5% silver.</ptext>
+</notes>
+<images>
+<image name="47a">Silver ore</image>
+<image name="47b">Silver bar</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Sodium</name>
+<symbol>Na</symbol>
+<atomicno>11</atomicno>
+<neutrons>12</neutrons>
+<atomicweight>22.989770</atomicweight>
+<casid>7440-23-5</casid>
+<groupno>1</groupno>
+<groupname>Alkali metal</groupname>
+<periodno>3</periodno>
+<block>s-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>0.968</density>
+<availability></availability>
+<dwho><blink ref="shd">Sir Humphrey Davy</blink></dwho>
+<dwhen>1807</dwhen>
+<dwhere>England</dwhere>
+<origin>From soda; Na from Latin natrium.</origin>
+<boiling>1156K</boiling>
+<melting>379.87K</melting>
+<boilingC>883'C</boilingC>
+<meltingC>97.27'C</meltingC>
+<sources>Obtained by electrolysis of melted sodium <elink ref="17">chloride</elink> (salt), borax and cryolite.</sources>
+<uses>Used in medicine, agriculture and photography. Liquid sodium is sometimes used to cool nuclear reactors. Also used in street lights, soap, batteries, table salt (NaCl), and glass.</uses>
+<notes>
+<ptext>Sodium comes from the English word "soda" and from mideval Latin sodanum which means headache remedy. Sodium is the sixth most abundant element on earth comprising 2.6% of the earth's crust. It is the most abundant of the <glink ref="alkalimetal">alkali metals</glink>. It never exists in nature, but is prepared by electrolysis of absolutely dry fused sodium chloride. Sodium chloride is common table salt which is important in animal nutrition. Other important forms of sodium are soda ash(Na<sub>2</sub>CO<sub>3</sub>), baking soda (NaHCO<sub>3</sub>), Chili saltpeter (NaNO<sub>3</sub>) which is sodium nitrate. In nature sodium is found in soda niter, cryolite, amphibole and zeolite.</ptext>
+<ptext>Sodium is highly reactive (burns with a yellow flame), it reacts violently with water. Sodium floats on water.</ptext>
+</notes>
+<images>
+<image name="11"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Strontium</name>
+<symbol>Sr</symbol>
+<atomicno>38</atomicno>
+<neutrons>50</neutrons>
+<atomicweight>87.62</atomicweight>
+<casid>7440-24-6</casid>
+<groupno>2</groupno>
+<groupname>Alkaline earth metal</groupname>
+<periodno>5</periodno>
+<block>s-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>2.64</density>
+<availability></availability>
+<dwho><blink ref="ac">A. Crawford</blink></dwho>
+<dwhen>1790</dwhen>
+<dwhere>Scotland</dwhere>
+<origin>From Strontian a small Scottish town.</origin>
+<boiling>1655K</boiling>
+<melting>1050K</melting>
+<boilingC>1382'C</boilingC>
+<meltingC>777'C</meltingC>
+<sources>Found in minerals celestite and strontianite.</sources>
+<uses>Used in flares and fireworks for its crimson colour. Also used in nuclear batteries in buoys, some toothpastes, magnets, zinc refining and phosphorescent paint.</uses>
+<notes>
+<ptext>Strontium was first isolated by <blink ref="shd">Sir Humphry Davy</blink> in 1808.</ptext>
+<ptext>In its pure form strontium is extremely reactive with air and spontaneously combusts, it is therefore considered to be a fire hazard.</ptext>
+</notes>
+<images>
+<image name="38a"></image>
+<image name="38b">Strontium burning with a brilliant crimson colour</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Sulfur</name>
+<symbol>S</symbol>
+<atomicno>16</atomicno>
+<neutrons>16</neutrons>
+<atomicweight>32.065</atomicweight>
+<casid>7704-34-9</casid>
+<groupno>16</groupno>
+<groupname>Chalcogen</groupname>
+<periodno>3</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>lemon yellow</colour>
+<classification>Non-metallic</classification>
+<density>(alpha) 2.08</density>
+<density>(beta) 1.96</density>
+<density>(gamma) 1.92</density>
+<availability></availability>
+<dwho>Known to the ancients.</dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>Latin: sulfur (brimstone).</origin>
+<boiling>717.8K</boiling>
+<melting>388.36K</melting>
+<boilingC>444.6'C</boilingC>
+<meltingC>115.21'C</meltingC>
+<sources>Found in pure form (near hot springs and in volcanic regions) and in ores like cinnabar, galena, alunite, barite, sphalerite and stibnite.</sources>
+<uses>Used in matches, gunpowder, detergents, fireworks, batteries, fungicides, vulcanization of rubber, medicines, permanent wave lotion and pesticides. Its most important use is probably that of sulfuric acid (H<sub>2</sub>SO<sub>4</sub>).</uses>
+<notes>
+<ptext>The distinctive colours of Jupiter's volcanic moon, Io, are from various forms of molten, solid and gaseous sulfur. Sulfur has also been found in many types of meteorite.</ptext>
+<ptext>Hydrogen Sulfide (H<sub>2</sub>S), is well known for its smell of rotten eggs!</ptext>
+</notes>
+<images>
+<image name="16a"></image>
+<image name="16b"></image>
+</images>
+</element>
+
+</elementlist>

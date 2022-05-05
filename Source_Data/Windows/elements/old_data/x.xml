@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Xenon</name>
+<symbol>Xe</symbol>
+<atomicno>54</atomicno>
+<neutrons>77</neutrons>
+<atomicweight>131.293 (6)</atomicweight>
+<casid>7440-63-3</casid>
+<groupno>18</groupno>
+<groupname>Noble gas</groupname>
+<periodno>5</periodno>
+<block>p-block</block>
+<state>gas at 298 K</state>
+<colour>colourless</colour>
+<classification>Non-metallic</classification>
+<densityg>5.894</densityg>
+<availability>Xenon is a "noble" or "inert" gas present in the atmosphere to a small extent (1 part in 20 million).</availability>
+<dwho><blink ref="swr">Sir William Ramsey</blink>, <blink ref="mt">M.W. Travers</blink></dwho>
+<dwhen>1898</dwhen>
+<dwhere>Great Britain</dwhere>
+<origin>Greek: xenon (stranger).</origin>
+<boiling>165.03K</boiling>
+<melting>161.4K</melting>
+<boilingC>-108.12'C</boilingC>
+<meltingC>-111.7'C</meltingC>
+<sources>Obtained from the small quantities in liquid air.</sources>
+<uses>Used in electronic flashes, projection lamps, UV lamps, and other powerful lamps. Also used in bubble chambers and paint testers.</uses>
+<notes>
+<ptext>Recently at the University of Helsinki in Finland some scientists have made HXeOH and HXeCCH (xenon hydride-hydroxide and hydroxenoacetylene), they are stable up to 40K.</ptext>
+<ptext>Xenon is non-toxic, but many of its compounds are toxic due to their strong oxidative properties.</ptext>
+<ptext>Because xenon is heavier than air, the speed of sound in xenon is slower than that in air, and when inhaled, lowers the resonant frequencies of the vocal tract. This produces a characteristic lowered voice pitch, analogous to the high-pitched voice caused by inhalation of <elink ref="2">helium</elink>. The inhalation of xenon is more dangerous than that inhalation of <elink ref="2">helium</elink>. Inhalation can cause mild-to-moderate, short-lasting effects, including a pounding sensation associated with light and sound.</ptext>
+</notes>
+<images>
+<image name="54a"></image>
+<image name="54b"></image>
+</images>
+</element>
+
+</elementlist>

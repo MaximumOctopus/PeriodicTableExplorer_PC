@@ -1,0 +1,388 @@
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Molarity Calculator</title>
+	
+	
+<script language="JavaScript">
+<!--Copyright (1996) GraphPad Software Inc. All rights reserved-->
+
+
+var Demo = false;
+
+function FormatAnswer(value,unit,ndec){
+ var factor=Math.pow(10,ndec)
+ if (value < 1e-9)
+   {return( Math.round((value/1e-12)*factor)/factor + "  pico" + unit);}
+else  if (value < 1e-6)
+   {return( Math.round((value/1e-9)*factor)/factor + "  nano" + unit);}
+else if (value < 1e-3)
+   {return( Math.round((value/1e-6)*factor)/factor + "  micro" + unit);}
+else if (value < 1)
+   {return( Math.round((value/1e-3)*factor)/factor + "  milli" + unit);}
+else   {return(Math.round((value)*factor)/factor + " " + unit);} 
+}
+
+function ClearResult(form)
+  {form.Results.value=''}
+ 
+ function CalcMass(form)
+{
+   var conc =parseFloat(form.conc.value);
+   form.conc.value =conc;
+   var units=parseInt(form.units.value);
+   var molar=conc * Math.pow(10,units);
+   var MW = parseFloat(form.MW.value);
+   form.MW.value = MW;
+   var volume= parseFloat(form.volume.value);
+   form.volume.value=volume;
+   var Vunits=parseInt(form.Vunits.value);
+   var liters=volume * Math.pow(10,Vunits);
+   var moles=liters*molar;
+   var grams=moles*MW;
+   
+   
+       var factor=Math.pow(10,4);
+  if (grams < 1e-3)
+   {var mass= Math.round((grams/1e-6)*factor)/factor;    var munits=-6;}
+else if (grams < 1)
+   {var mass= Math.round((grams/1e-3)*factor)/factor;     var munits=-3;}
+else   {var mass=Math.round((grams)*factor)/factor;      var munits=0;} 
+   
+   document.volume.MW.value=MW;
+   document.volume.conc.value=form.conc.value;
+   document.volume.Cunits.value=units;
+   document.volume.grams.value=mass;
+   document.volume.units.value=munits;
+      
+   document.molarity.MW.value=MW;
+   document.molarity.Vunits.value=Vunits;
+   document.molarity.volume.value=form.volume.value;
+   document.molarity.grams.value=mass;
+   document.molarity.units.value=munits;
+   
+
+
+   
+ 
+   if (Demo) {var answer = "Not registered."}
+    else {var answer = FormatAnswer(grams,"grams",4)}
+   form.Results.value=answer;
+}
+ 
+	
+
+function CalcVolume(form)
+{
+   var mass =parseFloat(form.grams.value);
+   form.grams.value =mass;
+   var units=parseInt(form.units.value);
+   var grams=mass * Math.pow(10,units);
+   var MW = parseFloat(form.MW.value);
+   form.MW.value = MW;
+   var conc= parseFloat(form.conc.value);
+   form.conc.value=conc;
+   var Cunits=parseInt(form.Cunits.value);
+   var molar=conc * Math.pow(10,Cunits);
+   var moles=grams/MW;
+   var liters=moles/molar;
+   
+    document.molarity.MW.value=MW;
+   document.molarity.grams.value=form.grams.value;
+   document.molarity.units.value=form.units.value;
+   
+   
+   if (Demo) {var answer = "Not registered."}
+     else {var answer = FormatAnswer(liters,"liter",4)}
+   form.Results.value=answer;
+}	
+
+function CalcMolarity(form)
+{
+    var mass =parseFloat(form.grams.value);
+   form.grams.value =mass;
+   var units=parseInt(form.units.value);
+   var mass=mass * Math.pow(10,units);
+   var MW = parseFloat(form.MW.value);
+   form.MW.value = MW;
+   var volume= parseFloat(form.volume.value);
+   form.volume.value=volume;
+   var Vunits=parseInt(form.Vunits.value);
+   var liters=volume * Math.pow(10,Vunits);
+   var moles=mass/MW;
+   var molar=moles/liters;
+   if (Demo) {var answer = "Not registered."}
+     else {var answer = FormatAnswer(molar,"molar",4)}
+   
+   form.Results.value=answer;
+   
+   
+}
+
+function Dilute(form)
+{
+   var dconc =parseFloat(form.DesiredConc.value);
+   form.DesiredConc.value =dconc;
+   var dunits=parseInt(form.dunits.value); 
+   var dmolar=dconc * Math.pow(10,dunits);
+	
+   var sconc =parseFloat(form.StockConc.value);
+   form.StockConc.value =sconc;
+   var sunits=parseInt(form.sunits.value);
+   var smolar=sconc * Math.pow(10,sunits);
+
+   var volume= parseFloat(form.volume.value);
+   form.volume.value=volume;
+   var Vunits=parseInt(form.Vunits.value);
+   var liters=volume * Math.pow(10,Vunits);
+   
+   var LitersNeeded= dmolar/smolar * liters;
+ 
+   if (Demo) {var answer = "Not registered."}
+       else 
+   if (dmolar > smolar) {var answer = "Impossible."}
+    	else
+   {var answer = FormatAnswer(LitersNeeded,"liter",4)}
+   form.Results.value=answer;
+}
+		
+	
+</script>	
+	
+</head>
+<BODY bgcolor="White" >
+
+
+
+
+<link rel="stylesheet" href="SMW.css">
+ 
+	<TABLE width="574">
+		<TR valign="TOP">
+			<td colspan="6" align="left">
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td><a href="../welcome.htm"><img src="hdrA.jpg" alt="GraphPad Software. Data analysis and biostatistics resources." border="0"></a></td>
+						<td><a href="../prism/"><img src="hdrB.jpg" alt="Prism is a powerful combination of basic biostatistics, curve fitting and scientific graphing in one comprehensive program." border="0"></a></td>
+						<td><a href="../instat/"><img src="hdrC.jpg" alt="InStat is a less cumbersome alternative to typical heavy-duty statistical programs. With InStat, even a statistical novice can analyze data in just a few minutes." border="0"></a></td>
+						<td><a href="../StatMate/"><img src="hdrD.jpg" alt="StatMate leads you step by step through power and sample size analyses." border="0"></a></td>
+						<td><a href="../demos/"><img src="hdrE.jpg" alt="Try our software free for 30 days" border="0"></a></td>
+					</tr>
+					<tr>
+						<td colspan="5"><a href="index.cfm"><img src="QClogo.jpg" alt="" border="0"></a></td>
+					</tr>
+				</table>
+			</td>
+		</TR>
+		
+			
+			  
+			      
+					  <tr> 
+					   <td align="center"><a href="index.cfm" style="color: Teal;"><font color="Teal">1. Select category</font></a></td>
+					   
+					   <td align="center"><font color="Teal">2. Choose calculator</font></td>
+					   
+				<td align="center"><b><font color="Teal">3. Choices and results</font></b></td>
+			</tr>	
+						
+											
+		
+	            
+    
+</table>
+
+<div  style="margin-left: 35px;"> 
+
+
+ 
+<h2>Molarity Calculator</h2>
+<table width="700" cellspacing="5" cellpadding="5">
+
+<NOSCRIPT> 
+<tr><td>
+NOTE:  Because your browser does NOT support JavaScript -- probably because
+      JavaScript is disabled in an Options or
+        Preferences dialog -- the calculators
+        below won't work.
+</NOSCRIPT>
+ </td></tr>
+
+
+ 
+  
+<tr>
+ <td colspan="5"><hr align="Center" width="650" size="1" color="Blue"></td>
+</tr>
+
+
+<form action="" name="mass" id="mass">
+<tr> 
+  <td><h3>Mass from volume & concentration</h3></td>
+ <td>
+ Concentration:&nbsp;&nbsp;<input type="Text" name="conc"  size="8" maxlength="19" ONFOCUS="ClearResult(this.form)">
+<select name="units" size="1" ONFOCUS="ClearResult(this.form)">
+            <option value = "-15">femtomolar</option>
+ 			<option value = "-12">picomolar</option>
+			<option value = "-9">nanomolar</option>
+			<option value="-6">micromolar</option>
+			<option value="-3" Selected>millimolar</option>
+			<option value="0">molar</option>
+</select>
+<br>
+
+ Formula Weight:&nbsp;&nbsp;<input type="Text" name="MW"  ONFOCUS="ClearResult(this.form)" size="9" maxlength="20">
+ <br>
+Volume:&nbsp;&nbsp;<input type="Text" name="volume" ONFOCUS="ClearResult(this.form)" size="8" maxlength="19">
+     <select name="Vunits" size="1"  ONFOCUS="ClearResult(this.form)">
+          	<option value="-6">microliter</option>
+			<option value="-3" Selected>milliliter</option>
+			<option value="0">liter</option>
+		</select>
+<p>
+<input type="button"  OnClick="CalcMass(this.form)" value="Mass =">&nbsp;&nbsp;&nbsp;<input type="text" name="Results" size="20" maxlength="20">
+</td>
+ </tr>
+ </form>
+ 
+ 
+<tr>
+ <td colspan="5"><hr align="Center" width="650" size="1" color="Blue"></td>
+</tr>
+
+<form name="volume" id="volume">
+<tr> 
+  <td><h3>Volume from mass & concentration</h3></td>
+  <td>
+  Mass:&nbsp;&nbsp;<input type="Text" name="grams" size="8" maxlength="19" ONFOCUS="ClearResult(this.form)">
+  	<select name="units" size="1" ONFOCUS="ClearResult(this.form)">
+			<option value="-6">micrograms</option>
+			<option value="-3" Selected>milligrams</option>
+			<option value="0">grams</option>
+			<option value="3">kilograms</option>
+   </select>
+   <br>
+  Formula Weight:&nbsp;&nbsp;<input type="Text" name="MW"  ONFOCUS="ClearResult(this.form)" size="9" maxlength="20">
+  <br>
+ Concentration:&nbsp;&nbsp;<input type="Text" name="conc" size="8" maxlength="19" ONFOCUS="ClearResult(this.form)">
+
+<select name="Cunits" size="1" ONFOCUS="ClearResult(this.form)">
+            <option value = "-15">femtomolar</option>
+ 			<option value = "-12">picomolar</option>
+			<option value = "-9">nanomolar</option>
+			<option value="-6">micromolar</option>
+			<option value="-3" Selected>millimolar</option>
+			<option value="0">molar</option>
+			</select>
+<p>
+<input type="button" OnClick="CalcVolume(this.form)" value="Volume =">&nbsp;&nbsp;&nbsp;<input type="text" name="Results" size="20" maxlength="20">
+</td>
+ </tr>
+ </form>
+ 
+
+
+
+ 
+  
+ <tr>
+ <td colspan="5"><hr align="Center" width="650" size="1" color="Blue"></td>
+</tr>
+
+<form name="molarity" id="molarity">
+<tr> 
+  <td><h3>Molarity from mass & volume</h3></td>
+  <td>
+  Mass:&nbsp;&nbsp;<input type="Text" name="grams" size="8" maxlength="19">
+  	<select name="units" size="1"  ONFOCUS="ClearResult(this.form)">
+			<option value="-6">micrograms</option>
+			<option value="-3" Selected>milligrams</option>
+			<option value="0">grams</option>
+			<option value="3">kilograms</option>
+   </select>
+   <br>
+ Formula Weight:&nbsp;&nbsp;<input type="Text" name="MW"  ONFOCUS="ClearResult(this.form)" size="9" maxlength="20">
+ <br>
+ Volume:&nbsp;&nbsp;<input type="Text" name="volume"  ONFOCUS="ClearResult(this.form)" validate="float" required="Yes" size="8" maxlength="19">
+
+<select name="Vunits" size="1"  ONFOCUS="ClearResult(this.form)">
+          	<option value="-6">microliter</option>
+			<option value="-3" Selected>milliliter</option>
+			<option value="0">liter</option>
+			</select>
+<p>
+<input type="button" OnClick="CalcMolarity(this.form)" name="Molarity" value="Molarity =">&nbsp;&nbsp;&nbsp;<input type="text" name="Results" size="20" maxlength="20">
+</td>
+ </tr>
+ </form>
+ 
+ <tr>
+ <td colspan="5"><hr align="Center" width="650" size="1" color="Blue"></td>
+</tr>
+ 
+
+ 
+<tr> 
+  <td><h3>Dilute a stock solution</h3></td>
+ <td> 
+ <form>
+
+ Stock concentration:&nbsp;&nbsp;<input type="Text" name="StockConc"  size="8" maxlength="19" ONFOCUS="ClearResult(this.form)">
+<select name="sunits" size="1" ONFOCUS="ClearResult(this.form)">
+            <option value = "-15">femtomolar</option>
+ 			<option value = "-12">picomolar</option>
+			<option value = "-9">nanomolar</option>
+			<option value="-6">micromolar</option>
+			<option value="-3" Selected>millimolar</option>
+			<option value="0">molar</option>
+</select>
+<br>
+Desired concentration:&nbsp;&nbsp;<input type="Text" name="DesiredConc"  size="8" maxlength="19" ONFOCUS="ClearResult(this.form)">
+<select name="dunits" size="1" ONFOCUS="ClearResult(this.form)">
+            <option value = "-15">femtomolar</option>
+ 			<option value = "-12">picomolar</option>
+			<option value = "-9">nanomolar</option>
+			<option value="-6">micromolar</option>
+			<option value="-3" Selected>millimolar</option>
+			<option value="0">molar</option>
+</select>
+
+ <br>
+Desired volume:&nbsp;&nbsp;<input type="Text" name="volume" ONFOCUS="ClearResult(this.form)" size="8" maxlength="19">
+     <select name="Vunits" size="1"  ONFOCUS="ClearResult(this.form)">
+          	<option value="-6">microliter</option>
+			<option value="-3" Selected>milliliter</option>
+			<option value="0">liter</option>
+		</select>
+<p>
+<input type="button"  OnClick="Dilute(this.form)" value="Required volume =">&nbsp;&nbsp;&nbsp;<input type="text" name="Results" size="20" maxlength="20">
+</td>
+ </tr>
+ </form>
+ 
+&nbsp;
+<p>
+
+
+
+
+
+
+
+
+<body leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+	
+	<table>
+		<tr>
+			<td align="center"><img src="footer.jpg" border="0" width="792" height="41"></td>
+		</tr>
+	</table>
+</body>
+
+
+
+
+
+</body>
+</html> 

@@ -1,0 +1,193 @@
+ <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+	<title>Convert between moles and grams</title>
+	
+	
+<script language="JavaScript">
+<!--Copyright (1996) GraphPad Software Inc. All rights reserved-->
+
+var Demo = false;
+
+
+function FormatAnswer(value,unit,ndec){
+ var factor=Math.pow(10,ndec)
+ if (value < 1e-9)
+   {return( Math.round((value/1e-12)*factor)/factor + "  pico" + unit);}
+else  if (value < 1e-6)
+   {return( Math.round((value/1e-9)*factor)/factor + "  nano" + unit);}
+else if (value < 1e-3)
+   {return( Math.round((value/1e-6)*factor)/factor + "  micro" + unit);}
+else if (value < 1)
+   {return( Math.round((value/1e-3)*factor)/factor + "  milli" + unit);}
+else   {return(Math.round((value)*factor)/factor + " " + unit);} 
+}
+
+function ClearResult(form)
+  {form.Results.value=''}
+  
+function CalcMoles(form)
+{
+   var mass =parseFloat(form.grams.value);
+   form.grams.value =mass;
+   var units=parseInt(form.units.value);
+   var mass=mass * Math.pow(10,units);
+   var MW = parseFloat(form.MW.value);
+   form.MW.value = MW;
+   var Moles=mass/MW;
+  
+   if (Demo) {var answer = "Not registered."}
+     else { var answer=FormatAnswer(Moles,"moles",4)}
+   form.Results.value=answer;
+}	
+
+function CalcGrams(form)
+{
+   var moles =parseFloat(form.moles.value);
+   form.moles.value =moles;
+   var units=parseInt(form.units.value);
+   var moles=moles * Math.pow(10,units);
+   var MW = parseFloat(form.MW.value);
+   form.MW.value = MW;
+   var mass=moles*MW;
+   if (Demo) {var answer = "Not registered."}
+     else {var answer = FormatAnswer(mass,"grams",4)}
+   form.Results.value=answer;
+}	
+		
+	
+</script>	
+	
+</head>
+<BODY bgcolor="White" >
+
+
+
+
+<link rel="stylesheet" href="SMW.css">
+ 
+	<TABLE width="574">
+		<TR valign="TOP">
+			<td colspan="6" align="left">
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td><a href="../welcome.htm"><img src="hdrA.jpg" alt="GraphPad Software. Data analysis and biostatistics resources." border="0"></a></td>
+						<td><a href="../prism/"><img src="hdrB.jpg" alt="Prism is a powerful combination of basic biostatistics, curve fitting and scientific graphing in one comprehensive program." border="0"></a></td>
+						<td><a href="../instat/"><img src="hdrC.jpg" alt="InStat is a less cumbersome alternative to typical heavy-duty statistical programs. With InStat, even a statistical novice can analyze data in just a few minutes." border="0"></a></td>
+						<td><a href="../StatMate/"><img src="hdrD.jpg" alt="StatMate leads you step by step through power and sample size analyses." border="0"></a></td>
+						<td><a href="../demos/"><img src="hdrE.jpg" alt="Try our software free for 30 days" border="0"></a></td>
+					</tr>
+					<tr>
+						<td colspan="5"><a href="index.cfm"><img src="QClogo.jpg" alt="" border="0"></a></td>
+					</tr>
+				</table>
+			</td>
+		</TR>
+		
+			
+			  
+			      
+					  <tr> 
+					   <td align="center"><a href="index.cfm" style="color: Teal;"><font color="Teal">1. Select category</font></a></td>
+					   
+					   <td align="center"><a href="ChemMenu.cfm" style="color: Teal;"><font color="Teal">2. Choose calculator</font></a></td>
+					   
+				<td align="center"><b><font color="Teal">3. Choices and results</font></b></td>
+			</tr>	
+						
+											
+		
+	            
+    
+</table>
+
+<div  style="margin-left: 35px;"> 
+
+
+ 
+<h2>Convert between moles and grams</h2>
+<table width="700" cellspacing="5" cellpadding="5">
+
+<NOSCRIPT> 
+<tr><td>
+NOTE:  Because your browser does NOT support JavaScript -- probably because
+      JavaScript is disabled in an Options or
+        Preferences dialog -- the calculators
+        below won't work.
+</NOSCRIPT>
+ </td></tr>
+
+<form>
+<tr> <td ><h3>Moles from grams</h3></td>
+
+<td>Mass:&nbsp;&nbsp;<input type="Text" name="grams" size="8" maxlength="19">
+
+ 	<select name="units" size="1" ONFOCUS="ClearResult(this.form)">
+			<option value="-6">micrograms</option>
+			<option value="-3" Selected>milligrams</option>
+			<option value="0">grams</option>
+			<option value="3">kilograms</option>
+	</select>
+<br>
+Formula Weight: &nbsp;&nbsp;<input type="Text" name="MW" ONFOCUS="ClearResult(this.form)"  size="9" maxlength="20">
+<p>
+<input type="button" name="MolesFromGrams" value="Moles =" onClick="CalcMoles(this.form)">&nbsp;&nbsp;<input type="text" name="Results" size="20" maxlength="20">
+</td>
+</tr>
+
+ </form>
+
+<tr>
+ <td colspan="5"><hr align="Center" width="650" size="1" color="Blue"></td>
+</tr>
+
+
+<form>
+ <tr>
+ <td><h3>Grams from moles</h3> </td>
+<td>
+Moles: &nbsp;&nbsp;<input type="Text" name="moles" size="8" maxlength="19">
+ <select name="units" size="1" ONFOCUS="ClearResult(this.form)">
+            <option value = "-15">femtomoles</option>
+ 			<option value = "-12">picomoles</option>
+			<option value = "-9">nanomoles</option>
+			<option value="-6">micromoles</option>
+			<option value="-3" Selected>millimoles</option>
+			<option value="0">moles</option>
+			</select>
+  <br>			
+ Formula Weight:&nbsp;&nbsp;<input type="Text" name="MW"  ONFOCUS="ClearResult(this.form)" size="9" maxlength="20">
+ <p>
+ <input type="button" OnClick="CalcGrams(this.form)" value="Grams =">&nbsp;&nbsp;&nbsp;<input type="text" name="Results" size="20" maxlength="20">
+ </td>
+ </tr>
+ </form>
+
+
+ 
+&nbsp;
+<p>
+
+
+
+
+
+
+
+
+<body leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+	
+	<table>
+		<tr>
+			<td align="center"><img src="footer.jpg" border="0" width="792" height="41"></td>
+		</tr>
+	</table>
+</body>
+
+
+
+
+
+</body>
+</html> 

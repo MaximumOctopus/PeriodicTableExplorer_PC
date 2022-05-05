@@ -1,0 +1,380 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Cadmium</name>
+<symbol>Cd</symbol>
+<atomicno>48</atomicno>
+<neutrons>64</neutrons>
+<atomicweight>112.411</atomicweight>
+<casid>7440-43-9</casid>
+<groupno>12</groupno>
+<groupname>(none)</groupname>
+<periodno>5</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery grey metallic</colour>
+<classification>Metallic</classification>
+<density>8.65</density>
+<availability></availability>
+<dwho><blink ref="fs2">Fredrich Stromeyer</blink></dwho>
+<dwhen>1817</dwhen>
+<dwhere>Germany</dwhere>
+<origin>Greek: kadmeia (ancient name for calamine (ZnCO<sub>3</sub>)); Latin: cadmia.</origin>
+<boiling>1038K</boiling>
+<melting>594.18K</melting>
+<boilingC>767'C</boilingC>
+<meltingC>321.07'C</meltingC>
+<sources>Obtained as a by product of <elink ref="30">zinc</elink> refining.</sources>
+<uses>Used in <elink ref="28">nickel</elink>-cadmium batteries (about 75% of all cadmium is used in batteries), nuclear reactor regulator, and red/yellow pigments.</uses>
+<notes>
+<ptext>Cadmium is extremely poisonous, even in low concentrations.</ptext>
+</notes>
+<images>
+<image name="48a"></image>
+<image name="48b"></image>
+<image name="48c">A selection of NiCd batteries</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Calcium</name>
+<symbol>Ca</symbol>
+<atomicno>20</atomicno>
+<neutrons>20</neutrons>
+<atomicweight>40.078</atomicweight>
+<casid>7440-70-2</casid>
+<groupno>2</groupno>
+<groupname>Alkaline earth metal</groupname>
+<periodno>4</periodno>
+<block>s-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>1.55</density>
+<availability></availability>
+<dwho><blink ref="shd">Sir Humphrey Davy</blink></dwho>
+<dwhen>1808</dwhen>
+<dwhere>England</dwhere>
+<origin>Latin: calx, calcis (lime).</origin>
+<boiling>1757K</boiling>
+<melting>1115K</melting>
+<boilingC>1484'C</boilingC>
+<meltingC>842'C</meltingC>
+<sources>Obtained from minerals like chalk, limestone and marble. Very abundant. Makes up 3.5% of crust (making it the fifth most abundant <glink ref="element">element</glink>). Occurs only in compounds.</sources>
+<uses>Used for dehydrating oils, decarburization and desulfurization of iron and its alloys, getter in vacuum tubes. Also used as an alloying agent for <elink ref="13">aluminum</elink>, <elink ref="29">copper</elink> and <elink ref="82">lead</elink>, a reducing agent for beryllium and used in fertilizer, concrete and plaster of paris. Calcium is an essential component shells, bones, teeth and plant structures.</uses>
+<notes>
+<ptext>Calcium was prepared as lime by the Romans under the name calyx in the 1st century A.D., but the metal was not discovered until 1808. <blink ref="jjg">Berzelius</blink> and Pontin prepared calcium amalgam by electrolizing lime in <elink ref="80">mercury</elink>. <blink ref="shd">Davy</blink> was then successful in isolating the impure metal. Why did it take so long? Calcium is the fifth most abundant metalic <glink ref="element">element</glink> in the earth's crust, but is never found in the <glink ref="element">elemental</glink> form because it is so reactive. It is found in limestone (CaCO<sub>3</sub>) gypsum (CaSO<sub>4</sub>.2H<sub>2</sub>O) and fluorite (CaF<sub>2</sub>). Pure calcium is a shiny soft metal that will react violently with water to produce <elink ref="1">hydrogen</elink>.</ptext>
+</notes>
+<images>
+<image name="20"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Californium</name>
+<symbol>Cf</symbol>
+<atomicno>98</atomicno>
+<neutrons>153</neutrons>
+<atomicweight>[251]</atomicweight>
+<casid>7440-71-3</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability></availability>
+<dwho><blink ref="gts">G.T.Seaborg</blink>, S.G.Tompson, <blink ref="ag">A. Ghiorso</blink>, K.Street Jr.</dwho>
+<dwhen>1950</dwhen>
+<dwhere>United States</dwhere>
+<origin>After the state and University of California.</origin>
+<boiling>unknown</boiling>
+<melting>1173K</melting>
+<boilingC>?</boilingC>
+<meltingC>900'C</meltingC>
+<sources>Made by bombarding <elink ref="96">curium</elink> with <elink ref="2">helium</elink> <glink ref="ion">ions</glink>.</sources>
+<uses>Californium is available only in very small quanities so its uses are limited, however, it is used in nuclear research as a source of fission fragments. It is also useful as a <elink ref="neutron">neutron</elink> source for activation analysis to detect <elink ref="79">gold</elink> or <elink ref="47">silver</elink>. It can also be used in moisture gauges in oil wells.</uses>
+</element>
+
+<element>
+<name isotope="y">Carbon</name>
+<symbol>C</symbol>
+<atomicno>6</atomicno>
+<neutrons>6</neutrons>
+<atomicweight>12.0107</atomicweight>
+<casid>7440-44-0</casid>
+<groupno>14</groupno>
+<groupname>(none)</groupname>
+<periodno>2</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>graphite is black, diamond is colourless</colour>
+<classification>Non-metallic</classification>
+<density>(graphite) 2.267</density>
+<density>(diamond) 3.513</density>
+<availability></availability>
+<dwho>known to the ancients</dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>Latin: carbo.</origin>
+<boiling>5100K</boiling>
+<melting>3773K</melting>
+<boilingC>4827'C</boilingC>
+<meltingC>3500'C</meltingC>
+<sources>Made by burning organic compounds with insufficient <elink ref="8">oxygen</elink>.</sources>
+<uses>As carbon's major properties very widely depending upon its form, carbon's uses also very greatly. Carbon-14 which is radioactive is used in "carbon dating" (telling how old something is by determining the amount of Carbon-14 present in the item being tested as compared to a standard value for a similar object which is new). Other uses include pencils, diamonds, steel, controls nuclear reactions, tire colorant, plastics, paint pigments, lubricants and much more.</uses>
+<notes>
+<ptext>Carbon has many allotropes each having very different physical properties from the other. Graphite (pencil lead) for instance is one of the softest forms of carbon, while diamonds are the hardest.</ptext>
+<ptext>Carbon compounds are named according to the number of carbons present in the basic chain, the presence of single, double or triple bonds, whether or not the carbon chain forms a cyclic structure and the <glink ref="element">element</glink> or ions that substitute for <elink ref="1">hydrogens</elink> in the chain. A carbon compound with one carbon atom is a methyl-, two is an ethyl- , three is a propyl-, four bytyl-, five penta, six hexa-, etc. Single a bonded hydrocarbon (hydrogen-carbon structure) is an alkane, double bond is an alkene and a triple bond is an alkyne.</ptext>
+<ptext>With more than eighteen million compounds of carbon registered with the Chemical Abstract Registry (CAS), there is much to say about carbon. So much in fact that there is an entire field of chemistry called organic chemistry that is devoted to these compounds. One could get a Ph.D. in organic chemistry and still feel that one had barely gotten their feet wet.</ptext>
+</notes>
+<images>
+<image name="6a">Carbon powder</image>
+<image name="6b">A diamond in a rock</image>
+<image name="6c">A cut diamond</image>
+<image name="6d">Graphite</image>
+<image name="6e">Carbon fibre</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Cerium</name>
+<symbol>Ce</symbol>
+<atomicno>58</atomicno>
+<neutrons>82</neutrons>
+<atomicweight>140.116</atomicweight>
+<casid>7440-45-1</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>6.770</density>
+<availability></availability>
+<dwho>W. von Hisinger, <blink ref="jjg">J. Berzelius</blink>, <blink ref="mhk">M. Klaproth</blink></dwho>
+<dwhen>1803</dwhen>
+<dwhere>Sweden/Germany</dwhere>
+<origin>From the asteroid Ceres discovered in 1801.</origin>
+<boiling>3699K</boiling>
+<melting>1071K</melting>
+<boilingC>3443'C</boilingC>
+<meltingC>795'C</meltingC>
+<sources>Most abundant rare earth metal. Found in many minerals like monazite.</sources>
+<uses>Used in alloys to make them heat-resistant.</uses>
+<notes>
+<ptext>Cerium is the most abundant of the <glink ref="ree">rare earth elements</glink>, making up about 0.0046% of the Earth's crust by weight.</ptext>
+<ptext>Only <elink ref="63">europium</elink> is more reactive than cerium among <glink ref="ree">rare earth elements</glink>.</ptext>
+</notes>
+<images>
+<image name="58"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Caesium</name>
+<symbol>Cs</symbol>
+<atomicno>55</atomicno>
+<neutrons>78</neutrons>
+<atomicweight>132.90545</atomicweight>
+<casid>7440-46-2</casid>
+<groupno>1</groupno>
+<groupname>Alkali metal</groupname>
+<periodno>6</periodno>
+<block>s-block</block>
+<state>solid at 298 K (but melts only slightly above this temperature)</state>
+<colour>silvery gold</colour>
+<classification>Metallic</classification>
+<density>1.93</density>
+<availability></availability>
+<dwho><blink ref="grk">Gustov Kirchoff</blink>, <blink ref="rwb">Robert Bunsen</blink></dwho>
+<dwhen>1860</dwhen>
+<dwhere>Germany</dwhere>
+<origin>Latin: caesius (sky blue); its salts turn flames blue.</origin>
+<boiling>944K</boiling>
+<melting>301.55K</melting>
+<boilingC>671'C</boilingC>
+<meltingC>28.44'C</meltingC>
+<sources>Found in pollucite and as trace in lepidolite.</sources>
+<uses>Used as a 'getter' to remove air traces in vacuum tubes. Since it ionizes readily, it is used as an ion rocket motor propellant. Also used in photoelectric cells, atomic clocks, infared lamps.</uses>
+<notes>
+<ptext>Also know as cesium in the United States.</ptext>
+<ptext>Along with <elink ref="31">gallium</elink>, <elink ref="87">francium</elink> and <elink ref="80">mercury</elink>, caesium is among the only metals that are liquid at or near room temperature. Caesium reacts explosively in cold water and also reacts with ice at temperatures above -116'C.</ptext>
+<ptext>Caesium has at least 39 known <glink ref="isotope">isotopes</glink> which is more than any other <glink ref="element">element</glink>, except <elink ref="87">francium</elink>. Although only one of these is naturally occuring and stable, Cs-133.</ptext>
+<ptext>Caesium is considered highly toxic.</ptext>
+</notes>
+<images>
+<image name="55"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Chlorine</name>
+<symbol>Cl</symbol>
+<atomicno>17</atomicno>
+<neutrons>18</neutrons>
+<atomicweight>35.453</atomicweight>
+<casid>7782-50-5</casid>
+<groupno>17</groupno>
+<groupname>Halogen</groupname>
+<periodno>3</periodno>
+<block>p-block</block>
+<state>gas at 298 K</state>
+<colour>yellowish green</colour>
+<classification>Non-metallic</classification>
+<densityg>3.2</densityg>
+<availability></availability>
+<dwho><blink ref="kws">Karl Wilhelm Scheele</blink></dwho>
+<dwhen>1774</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>Greek: khloros (green).</origin>
+<boiling>239.1K</boiling>
+<melting>172.16K</melting>
+<boilingC>-34.04'C</boilingC>
+<meltingC>-101.5'C</meltingC>
+<sources>Never found in free form in nature. Salt (<elink ref="11">sodium</elink> chloride, NaCl) is its most common compound.</sources>
+<uses>Used in water purification, bleaches and in other compounds such as chloro fluorocarbons (CFC). As little as 3.5 ppm (parts per million) can be detected as an odour, and 1000 ppm is likely to be fatal after a few deep breaths.</uses>
+<images>
+<notes>
+<ptext>Chlorine gas was first used as weapon against human beings in World War I on April 22nd, 1915.</ptext>
+</notes>
+<image name="17"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Chromium</name>
+<symbol>Cr</symbol>
+<atomicno>24</atomicno>
+<neutrons>28</neutrons>
+<atomicweight>51.9961</atomicweight>
+<casid>7440-47-3 </casid>
+<groupno>6</groupno>
+<groupname>(none)</groupname>
+<periodno>4</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery metallic</colour>
+<classification>Metallic</classification>
+<density>7.15</density>
+<availability></availability>
+<dwho><blink ref="lnv">Louis Vauquelin</blink></dwho>
+<dwhen>1797</dwhen>
+<dwhere>France</dwhere>
+<origin>Greek: chroma (color).</origin>
+<boiling>2945K</boiling>
+<melting>2130K</melting>
+<boilingC>2671'C</boilingC>
+<meltingC>1907'C</meltingC>
+<sources>Does not occur free in nature. Chromite [Fe,Mg(CrO<sub>4</sub>)] is its most important mineral.</sources>
+<uses>Used to make stainless steel. Also used in plating for car parts, tools, knives, camouflage paint, stereos, video tapes and lasers. It gives rubies and emeralds their colour.</uses>
+<images>
+<image name="24">Chromium from China</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Cobalt</name>
+<symbol>Co</symbol>
+<atomicno>27</atomicno>
+<neutrons>32</neutrons>
+<atomicweight>58.933200</atomicweight>
+<casid>7440-48-4</casid>
+<groupno>9</groupno>
+<groupname>(none)</groupname>
+<periodno>4</periodno>
+<block></block>
+<state>solid at 298 K</state>
+<colour>lustrous, metallic, greyish tinge</colour>
+<classification>Metallic</classification>
+<density>8.90</density>
+<availability></availability>
+<dwho><blink ref="gb">George Brandt</blink></dwho>
+<dwhen>1737</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>German: kobalt or kobold (evil spirit); Greek: cobalos (mines).</origin>
+<boiling>3143K</boiling>
+<melting>1768K</melting>
+<boilingC>2927'C</boilingC>
+<meltingC>1495'C</meltingC>
+<sources>Occurs in compounds with <elink ref="33">arsenic</elink>, <elink ref="8">oxygen</elink> and <elink ref="16">sulfur</elink> as in cobaltine (CoAsS) and linneite (Co<sub>3</sub>S<sub>4</sub>).</sources>
+<uses>Used in many hard alloys; for magnets, ceramics and special glasses. Also used in permanent magnets, razor blades and catalitic converters. Cobalt-60 is used in cancer therapy.</uses>
+<notes>
+<ptext>Powdered cobalt in metal form is a fire hazard. Cobalt compounds should be handled with care due to cobalt's slight toxicity.</ptext>
+<ptext>Cobalt in small amounts is essential to many living organisms, including humans. Having 0.13 to 0.30 mg/kg of cobalt in soils markedly improves the health of grazing animals. Cobalt is a central component of the vitamin cobalamin, or vitamin B-12.</ptext>
+</notes>
+<images>
+<image name="27"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Copper</name>
+<symbol>Cu</symbol>
+<atomicno>29</atomicno>
+<neutrons>35</neutrons>
+<atomicweight>63.546</atomicweight>
+<casid>7440-50-8</casid>
+<groupno>11</groupno>
+<groupname>Coinage metal</groupname>
+<periodno>4</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>copper, metallic</colour>
+<classification>Metallic</classification>
+<density>8.96</density>
+<availability></availability>
+<dwho>Known to the ancients.</dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>Latin: cyprium (island of Cyprus famed for its copper mines).</origin>
+<boiling>2840K</boiling>
+<melting>1357.6K</melting>
+<boilingC>2562'C</boilingC>
+<meltingC>1084.62'C</meltingC>
+<sources>Pure copper occurs rarely in nature. Usually copper found in such minerals as azurite, malachite and bornite and in sulfides as in chalcopyrite (CuFeS<sub>2</sub>), coveline (CuS), chalcosine (Cu<sub>2</sub>S) or oxides like cuprite (Cu<sub>2</sub>O). Copper is obtained by smelting, leaching and by electrolysis.</sources>
+<uses>Most often used as an electrical conductor. Its alloys are used in jewellery, bronze sculptures and for coins. The skin of the Statue of Liberty is made of copper (81.3 tonnes).</uses>
+<notes>
+<ptext>Copper is a very interesting <glink ref="element">element</glink>. It is one of the transition <glink ref="element">elements</glink> that actually uses electrons from one of the inner orbitals in chemical reactions. In addition, it has more than one oxidation state. Like many of the transition elements, copper has a colored ion. Copper typically forms a bluish green solution. Copper (Cu) has two valences Cu I (cuprous) has one valence electron and Cu II (cupric) has two valence electrons. Copper was one of the earliest known metals, having reportedly been mined for over 5000 years. In nature it has two isotopes, 63 (69.09%), which has 29 <glink ref="electron">electrons</glink> and <glink ref="proton">protons</glink> and 34 <glink ref="neutron">neutrons</glink>, and 65 (30.91%), which has 29 <glink ref="electron">electrons</glink> and <glink ref="proton">protons</glink> and 36 <glink ref="neutron">neutrons</glink>. Brass and bronze are alloys of copper.</ptext>
+<ptext>When powdered, the metal is a fire hazard. All copper compounds are toxic.</ptext>
+</notes>
+<images>
+<image name="29a"></image>
+<image name="29b">Copper from Arizona</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Curium</name>
+<symbol>Cm</symbol>
+<atomicno>96</atomicno>
+<neutrons>151</neutrons>
+<atomicweight>[247]</atomicweight>
+<casid>7440-51-9</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silver</colour>
+<classification>Metallic</classification>
+<density>13.51</density>
+<availability></availability>
+<dwho><blink ref="gts">G.T.Seaborg</blink>, R.A.James, <blink ref="ag">A. Ghiorso</blink></dwho>
+<dwhen>1944</dwhen>
+<dwhere>United States</dwhere>
+<origin>In honor of Pierre and Marie Curie.</origin>
+<boiling>3383K</boiling>
+<melting>1613K</melting>
+<boilingC>3110'C</boilingC>
+<meltingC>1340'C</meltingC>
+<sources>Made by bombarding <elink ref="94">plutonium</elink> with <elink ref="2">helium</elink> <glink ref="ion">ions</glink>. So radioactive it glows in the dark.</sources>
+<uses>As curium is only available in extremely limited quanities, it has few uses, however, it was used on a Mars mission as an alpha particle source for the Alpha Proton X-Ray Spectrometer.</uses>
+</element>
+
+</elementlist>

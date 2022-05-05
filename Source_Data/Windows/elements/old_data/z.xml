@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Zinc</name>
+<symbol>Zn</symbol>
+<atomicno>30</atomicno>
+<neutrons>35</neutrons>
+<atomicweight>65.409 (4)</atomicweight>
+<casid>7440-66-6</casid>
+<groupno>12</groupno>
+<groupname></groupname>
+<periodno>4</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>bluish pale grey</colour>
+<classification>Metallic</classification>
+<density>7.14</density>
+<dwho><blink ref="asm">Andreas Marggraf</blink></dwho>
+<dwhen>1764</dwhen>
+<dwhere>Germany</dwhere>
+<origin>German: zin (German for tin).</origin>
+<boiling>1180k</boiling>
+<melting>692.68k</melting>
+<boilingC>907'C</boilingC>
+<meltingC>419.53'C</meltingC>
+<sources>Found in the minerals zinc blende (sphalerite) (ZnS), calamine, franklinite, smithsonite (ZnCO<sub>3</sub>), willemite, and zincite (ZnO). The largest producers are Australia, Canada, Peru and the USA.</sources>
+<uses>Used to coat other metals (galvanizing) to protect them from rusting. Used in alloys such as brass, bronze, nickel. Also in solder, cosmetics and pigments.</uses>
+<availability>Zinc is available in many forms including dust, foil, granules, powder, pieces, nanosize activated powder, shot, and a mossy form.</availability>
+<notes>
+<ptext>Zinc is an essential element, necessary for sustaining all life. It is estimated that 3000 of the hundreds of thousands of proteins in the human body contain zinc.</ptext>
+</notes>
+<images>
+<image name="30"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Zirconium</name>
+<symbol>Zr</symbol>
+<atomicno>40</atomicno>
+<neutrons>51</neutrons>
+<atomicweight>91.224 (2)</atomicweight>
+<casid>7440-67-7</casid>
+<groupno>4</groupno>
+<groupname></groupname>
+<periodno>5</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>6.52</density>
+<dwho><blink ref="mhk">Martin Klaproth</blink></dwho>
+<dwhen>1789</dwhen>
+<dwhere>Germany</dwhere>
+<origin>From the mineral zircon</origin>
+<boiling>4682K</boiling>
+<melting>2125K</melting>
+<boilingC>4409'C</boilingC>
+<meltingC>1852'C</meltingC>
+<sources>Zirconium is never found in nature as a free metal. Found in many minerals such as zircon and baddeleyite.</sources>
+<uses>Used in alloys such as zircaloy which is used in nuclear applications since it does not readily absorb neutrons. Also used in catalytic converters, percussion caps and furnace bricks. Baddeleyite is used in lab crucibles. Zirconium nitride has been used more recently as an alternative to <elink ref="22">titanium</elink> nitride for coating drill bits. Both coatings are supposed to keep the bit sharper and cooler during cutting.</uses>
+<availability>Zirconium is available in many forms including foil, nanosized activated powder, powder, rod, sponge, bar, sheet, and wire.</availability>
+<notes>
+<ptext>This element has been detected in the sun and meteorites. Lunar rock samples brought back from several Apollo program missions to the moon have a very high zirconium oxide content relative to terrestrial rocks.</ptext>
+<ptext>Compounds containing zirconium are not noted for toxicity. The metal dust can ignite in air and should be regarded as a major fire and explosion hazard.</ptext>
+</notes>
+<images>
+<image name="40"></image>
+</images>
+</element>
+
+</elementlist>

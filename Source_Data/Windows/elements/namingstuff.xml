@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+
+<elements>
+
+<element>
+	<an>1</an>
+	<name allotrope="n">Hydrogen</name>	
+</element>
+
+<element>
+	<an>2</an>
+	<name allotrope="n">Helium</name>
+</element>
+
+<element>
+	<an>3</an>
+	<name allotrope="n">Lithium</name>	
+</element>
+
+<element>
+	<an>4</an>
+	<name allotrope="n">Beryllium</name>	
+</element>
+
+<element>
+	<an>5</an>
+	<name allotrope="y">Boron</name>	
+</element>
+
+<element>
+	<an>6</an>
+	<name allotrope="n">Carbon</name>	
+</element>
+
+<element>
+	<an>7</an>
+	<name allotrope="n">Nitrogen</name>	
+</element>
+
+<element>
+	<an>8</an>
+	<name allotrope="n">Oxygen</name>	
+</element>
+
+<element>
+	<an>9</an>
+	<name allotrope="n">Fluorine</name>	
+</element>
+
+<!-- 10 Neon        - NONE -->
+
+<element>
+	<an>11</an>
+	<name allotrope="n">Sodium</name>	
+</element>
+
+<element>
+	<an>12</an>
+	<name allotrope="n">Magnesium</name>	
+</element>
+
+<element>
+	<an>13</an>
+	<name allotrope="n">Aluminium</name>	
+
+</element>
+
+<element>
+	<an>14</an>
+	<name allotrope="n">Silicon</name>	
+
+</element>
+
+<element>
+	<an>15</an>
+	<name allotrope="y">Phosphorus</name>	
+
+</element>
+
+<element>
+	<an>16</an>
+	<name allotrope="y">Sulfur</name>	
+
+</element>
+
+<element>
+	<an>17</an>
+	<name allotrope="n">Chlorine</name>	
+
+</element>
+
+<!-- 18 Argon      - NONE -->
+
+<element>
+	<an>19</an>
+	<name allotrope="n">Potassium</name>	
+
+</element>
+
+<element>
+	<an>20</an>
+	<name allotrope="n">Calcium</name>	
+
+</element>
+
+<element>
+	<an>21</an>
+	<name allotrope="n">Scandium</name>	
+
+</element>
+
+<element>
+	<an>22</an>
+	<name allotrope="n">Titanium</name>	
+</element>
+
+<element>
+	<an>23</an>
+	<name allotrope="n">Vanadium</name>	
+</element>
+
+<element>
+	<an>24</an>
+	<name allotrope="n">Chromium</name>	
+</element>
+
+<element>
+	<an>25</an>
+	<name allotrope="n">Manganese</name>	
+</element>
+
+<element>
+	<an>26</an>
+	<name allotrope="n">Iron</name>	
+</element>
+
+<element>
+	<an>27</an>
+	<name allotrope="n">Cobalt</name>	
+</element>
+
+<element>
+	<an>28</an>
+	<name allotrope="n">Nickel</name>	
+</element>
+
+<element>
+	<an>29</an>
+	<name allotrope="n">Coppper</name>	
+</element>
+
+<element>
+	<an>30</an>
+	<name allotrope="n">Zinc</name>	
+</element>
+
+<element>
+	<an>31</an>
+	<name allotrope="n">Gallium</name>	
+</element>
+
+<element>
+	<an>32</an>
+	<name allotrope="n">Germanium</name>	
+</element>
+
+<element>
+	<an>33</an>
+	<name allotrope="n">Arsenic</name>	
+</element>
+
+<element>
+	<an>34</an>
+	<name allotrope="n">Selenium</name>	
+</element>
+
+<element>
+	<an>35</an>
+	<name allotrope="n">Bromine</name>	
+</element>
+
+<!-- 36 Krypton     - NONE -->
+
+<!-- 37 Rubidium   - NONE -->
+
+<element>
+	<an>38</an>
+	<name allotrope="n">Strontium</name>	
+</element>
+
+<element>
+	<an>39</an>
+	<name allotrope="n">Yttrium</name>	
+</element>
+
+<element>
+	<an>40</an>
+	<name allotrope="n">Zirconium</name>	
+</element>
+
+<element>
+	<an>41</an>
+	<name allotrope="n">Niobium</name>	
+</element>
+
+<element>
+	<an>42</an>
+	<name allotrope="n">Molybdenum</name>
+</element>
+
+<!-- 43 Technetium - NONE -->
+
+<!-- 44 Ruthenium  - NONE -->
+
+<!-- 45 Rhodium    - NONE -->
+
+<!-- 46 Palladium  - NONE -->
+
+<element>
+	<an>47</an>
+	<name allotrope="n">Silver</name>
+</element>
+
+<element>
+	<an>48</an>
+	<name allotrope="n">Cadmium</name>	
+</element>		
+
+<element>
+	<an>49</an>
+	<name allotrope="n">Indium</name>	
+</element>
+
+<element>
+	<an>50</an>
+	<name allotrope="n">Tin</name>	
+</element>
+
+<element>
+	<an>51</an>
+	<name allotrope="n">Antimony</name>	
+</element>
+
+<element>
+	<an>52</an>
+	<name allotrope="n">Tellurium</name>	
+</element>
+
+<element>
+	<an>53</an>
+	<name allotrope="n">Iodine</name>	
+</element>
+
+<!-- 54 Xenon      - NONE -->
+
+<!-- 55 Cesium     - NONE -->
+
+<element>
+	<an>56</an>
+	<name allotrope="n">Barium</name>	
+</element>
+
+<element>
+	<an>57</an>
+	<name allotrope="n">Lanthanum</name>	
+</element>
+
+<element>
+	<an>58</an>
+	<name allotrope="n">Cerium</name>	
+</element>
+
+<!-- 59 Praseodymium  - NONE -->
+
+<element>
+	<an>60</an>
+	<name allotrope="n">Neodymium</name>	
+</element>
+
+<!-- 61 Promethium   - NONE -->
+
+<element>
+	<an>62</an>
+	<name allotrope="n">Samarium</name>	
+</element>
+
+<!-- 63 Europium   - NONE -->
+
+<element>
+	<an>64</an>
+	<name allotrope="n">Gallium</name>	
+</element>
+
+<!-- 65 Terbiun     - NONE -->
+
+<!-- 66 Dysprosium  - NONE -->
+
+<!-- 67 Holmium     - NONE -->
+
+<element>
+	<an>68</an>
+	<name allotrope="n">Erbium</name>	
+</element>
+
+<!-- 69 Thulium    - NONE -->
+
+<element>
+	<an>70</an>
+	<name allotrope="n">Ytterbium</name>	
+</element>
+
+<!-- 71 Lutetium   - NONE -->
+
+<!-- 72 Hafnium   - NONE -->
+
+<element>
+	<an>73</an>
+	<name allotrope="n">Tantalum</name>	
+</element>
+
+<element>
+	<an>74</an>
+	<name allotrope="n">Tungsten</name>	
+</element>
+
+<!-- 75 Rhenium   - NONE -->
+
+<!-- 76 Osmium    - NONE -->
+
+<!-- 77 Iridium   - NONE -->
+
+<element>
+	<an>78</an>
+	<name allotrope="n">Platinum</name>	
+</element>
+
+<!-- 79 Gold      - NONE -->
+
+<element>
+	<an>80</an>
+	<name allotrope="n">Mercury</name>	
+</element>
+
+<!-- 81 Thallium    - NONE -->
+
+<element>
+	<an>82</an>
+	<name allotrope="n">Lead</name>	
+</element>
+
+<element>
+	<an>83</an>
+	<name allotrope="n">Bismuth</name>	
+</element>
+
+<!-- 84 Polonium       - NONE -->
+
+<!-- 85 Astatine       - NONE -->
+
+<!-- 86 Radon          - NONE -->
+
+<!-- 87 Francium       - NONE -->
+
+<!-- 88 Radium (?)     - NONE -->
+
+<!-- 89 Actinium       - NONE -->
+
+<element>
+	<an>90</an>
+	<name allotrope="n">Thorium</name>	
+</element>
+
+<!-- 91 Protactinium   - NONE -->
+
+<element>
+	<an>92</an>
+	<name allotrope="y">Uranium</name>	
+</element>
+
+<!-- 93 Neptunium      - NONE -->
+
+<!-- 94 Plutonium      - NONE -->
+
+<!-- 95 Americium      - NONE -->
+
+<!-- 96 Curium         - NONE -->
+
+<!-- 97 Berkelium      - NONE -->
+
+<!-- 98 Californium    - NONE -->
+
+<!-- 99 Einsteinium    - NONE -->
+
+<!-- 100 Fermium       - NONE -->
+
+<!-- 101 Mendelevium   - NONE -->
+
+<!-- 102 Nobelium      - NONE -->
+
+<!-- 103 Lawrencium    - NONE -->
+
+<!-- 104 Rutherfordium - NONE -->
+
+<!-- 105 Dubnium       - NONE -->
+
+<!-- 106 Seaborgium    - NONE -->
+
+<!-- 107 Bohrium       - NONE -->
+
+<!-- 108 Hassium       - NONE -->
+
+<!-- 109 Meitnerium    - NONE -->
+
+<!-- 110 Darmstadtium  - NONE -->
+
+<!-- 111 Roentgenium   - NONE -->
+
+<!-- 112 Copernicium   - NONE -->
+
+<!-- 113 Ununtrium     - NONE -->
+
+<!-- 114 Ununquadium   - NONE -->
+
+<!-- 115 Ununpentium   - NONE -->
+
+<!-- 116 Ununhexium    - NONE -->
+
+<!-- 117 Ununseptium   - NONE -->
+
+<!-- 118 Ununoctium    - NONE -->
+
+</elements>

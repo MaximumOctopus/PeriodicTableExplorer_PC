@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Indium</name>
+<symbol>In</symbol>
+<atomicno>49</atomicno>
+<neutrons>66</neutrons>
+<atomicweight>114.818 (3)</atomicweight>
+<casid>7440-74-6</casid>
+<groupno>13</groupno>
+<groupname></groupname>
+<periodno>5</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>Silvery lustrous grey</colour>
+<classification>Metallic</classification>
+<density>7.31</density>
+<availability>Indium is available in several forms including bar, foil, pieces, powder, nanosized activated powder, rod, shot, sheet, and wire.</availability>
+<dwho><blink ref="fr">Ferdinand Reich</blink>, <blink ref="htr">H. Richter</blink></dwho>
+<dwhen>1863</dwhen>
+<dwhere>Germany</dwhere>
+<origin>From the indigo blue it shows in a spectroscope.</origin>
+<boiling>2345K</boiling>
+<melting>429.75K</melting>
+<boilingC>2072'C</boilingC>
+<meltingC>156.60'C</meltingC>
+<sources>Found in certain <elink ref="30">zinc</elink> ores.</sources>
+<uses>Used to coat high speed bearings, in solar cells, mirrors, regulators in nuclear power, photo cells, the production of LCDs (this accounts for the majority of world-wide usage), transistors and blood and lung research.</uses>
+<images>
+<image name="49"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Iodine</name>
+<symbol>I</symbol>
+<atomicno>53</atomicno>
+<neutrons>74</neutrons>
+<atomicweight>126.90447 (3)</atomicweight>
+<casid>7553-56-2</casid>
+<groupno>17</groupno>
+<groupname>Halogen</groupname>
+<periodno>5</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>Violet-dark grey, lustrous</colour>
+<classification>Non-metallic</classification>
+<density>4.933</density>
+<availability></availability>
+<dwho><blink ref="bc">Bernard Courtois</blink></dwho>
+<dwhen>1804</dwhen>
+<dwhere>France</dwhere>
+<origin>Greek: iodes (violet).</origin>
+<boiling>457.4K</boiling>
+<melting>386.85K</melting>
+<boilingC>184.3'C</boilingC>
+<meltingC>113.7'C</meltingC>
+<sources>Occurs on land and in the sea in <elink ref="11">sodium</elink> and <elink ref="19">potassium</elink> compounds.</sources>
+<uses>Required in small amounts by humans. Once used as an antiseptic, but no longer due to its poisonous nature. <elink ref="47">Silver</elink> iodide is used in photography. <elink ref="74">Tungsten</elink> iodide is used to stabilise the filaments in light bulbs.</uses>
+<images>
+<image name="53"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Iridium</name>
+<symbol>Ir</symbol>
+<atomicno>77</atomicno>
+<neutrons>115</neutrons>
+<atomicweight>192.217 (3)</atomicweight>
+<casid>7439-88-5</casid>
+<groupno>9</groupno>
+<groupname>Precious metal or Platinum group metal</groupname>
+<periodno>6</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>22.65</density>
+<availability>Iridium is available in many forms including foil, sheet, wire, "evaporation slugs", powder, and sponge.</availability>
+<dwho><blink ref="st">Smithson Tenant</blink>, A.F.Fourcory, <blink ref="lnv">L.N.Vauquelin</blink>, H.V.Collet-Descoltils</dwho>
+<dwhen>1804</dwhen>
+<dwhere>England/France</dwhere>
+<origin>Latin: iris, iridis (rainbow).</origin>
+<boiling>4701K</boiling>
+<melting>2719K</melting>
+<boilingC>4428'C</boilingC>
+<meltingC>2446'C</meltingC>
+<sources>Found in gravel deposits with <elink ref="78">platinum</elink>. Naturally ocurring iridium alloys include iridiosmium and osmiridium, both of which are mixtures of iridium and <elink ref="76">osmium</elink>. Although rare on Earth, iridium is common in meteorites.</sources>
+<uses>Used with <elink ref="76">osmium</elink> to tip <elink ref="47">gold</elink> pen points, to make crucible and special containers (that require high temperature resistance). Used to make alloys used for standard weights and measures, and heat-resistant alloys. Also used incancer irradiation, hypodermic needles, helicopter spark plugs and as hardening agent for <elink ref="78">platinum</elink>.</uses>
+<notes>
+<ptext>Iridium metal is generally non-toxic, but it's compounds should be regarded as highly toxic.</ptext>
+</notes>
+<images>
+<image name="77"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Iron</name>
+<symbol>Fe</symbol>
+<atomicno>26</atomicno>
+<neutrons>30</neutrons>
+<atomicweight>55.845 (2)</atomicweight>
+<casid>7439-89-6</casid>
+<groupno>8</groupno>
+<groupname></groupname>
+<periodno>4</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>lustrous, metallic, greyish tinge</colour>
+<classification>Metallic</classification>
+<density>7.86</density>
+<availability>Iron is available in many forms including foil, chips, sheet, wire, granules, nanosized activated powder, powder, and rod. Small and large samples of iron foil, sheet and wire (also Iron alloy in foil form and stainless steel alloys in foil, sheet, wire, wire straight cut lengths, insulated wire, mesh, rod, tube and powder form).</availability>
+<dwho>Known to the ancients.</dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>Latin: ferrum (iron).</origin>
+<boiling>3034K</boiling>
+<melting>1811K</melting>
+<boilingC>2861'C</boilingC>
+<meltingC>1538'C</meltingC>
+<sources>Obtained from iron ores.</sources>
+<uses>Used in steel and other alloys which are used in countless products. It is essential for animals as it is the chief constituent of hemoglobin which carries <elink ref="8">oxygen</elink> in blood vessels.</uses>
+<notes>
+<ptext>Iron is the most abundant metal on Earth and is believed to the tenth most abundant element in the entire universe.</ptext>
+<ptext>With the exception of a few bacteria, iron is essential to all living organisms.</ptext>
+</notes>
+<images>
+<image name="26">Wire, foil and powder</image>
+</images>
+</element>
+
+</elementlist>

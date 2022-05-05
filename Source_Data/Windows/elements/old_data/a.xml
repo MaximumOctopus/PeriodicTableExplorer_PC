@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Actinium</name>
+<symbol>Ac</symbol>
+<atomicno>89</atomicno>
+<neutrons>138</neutrons>
+<atomicradius></atomicradius>
+<atomicweight>[227]</atomicweight>
+<casid>7440-34-8</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery</colour>
+<classification>Metallic</classification>
+<density>10</density>
+<dwho><blink ref="ald">Andre Debierne</blink></dwho>
+<dwhen>1899</dwhen>
+<dwhere>France</dwhere>
+<origin>Greek: aktinos (ray).</origin>
+<boiling>3743K</boiling>
+<melting>1323K</melting>
+<boilingC>3198'C</boilingC>
+<meltingC>1050'C</meltingC>
+<sources>Extremely rare, found in all uranium ores. Usually obtained by treating <elink ref="88">radium</elink> with <glink ref="neutron">neutrons</glink> in a reactor.</sources>
+<uses>Used as a source of <glink ref="neutron">neutrons</glink> and for thermoelectric power.</uses>
+<notes>
+<ptext>Due to its intense radioactivity, Actinium glows in the dark with an eerie blue light.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Aluminium</name>
+<symbol>Al</symbol>
+<atomicno>13</atomicno>
+<neutrons>14</neutrons>
+<atomicradius></atomicradius>
+<atomicweight>26.981538 (2)</atomicweight>
+<casid>7429-90-5</casid>
+<groupno>13</groupno>
+<groupname></groupname>
+<periodno>3</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>silvery</colour>
+<classification>Metallic</classification>
+<density>2.70</density>
+<dwho><blink ref="hco">Hans Christian Oersted</blink></dwho>
+<dwhen>1825</dwhen>
+<dwhere>Denmark</dwhere>
+<origin>Latin: alumen (alun).</origin>
+<boiling>2792K</boiling>
+<melting>933.47K</melting>
+<boilingC>2519'C</boilingC>
+<meltingC>660.32'C</meltingC>
+<sources>Most plentiful metal in earth's crust (7.5% - 8.1%), but virtually never occurs in free form, so rare that it was once considered a precious metal more valuable than gold! Obtained by electrolysis from bauxite (Al<sub>2</sub>O<sub>2</sub>).</sources>
+<uses>Kitchen utensils, building decorations, electrical transmission (not nearly as conductive as <elink ref="29">copper</elink>, but cheaper). Alloys containing <elink ref="29">copper</elink>, <elink ref="12">magnesium</elink>, <elink ref="14">silicon</elink>, <elink ref="25">manganese</elink> and other metals are much stronger and more durable than aluminium, making aluminium useful in the manufacture of aircraft and rockets.</uses>
+<notes>
+<ptext>While aluminium was discovered by <blink ref="hco">Hans Christian Oersted</blink>, Denmark, 1825 (impure form); most credit <blink ref="fw">Wohler</blink> with isolating it in1827. Actually the ancient Greeks and Romans used alum (aluminium <elink ref="16">sulfate</elink> with <elink ref="19">potassium</elink>) in medicine and in dying. de Morveau recognized the base in alum in 1761 and proposed it be called alumine. Lavoisier thought that alum was an oxide of this undiscovered metal. In 1807 <blink ref="shd">Davy</blink> proposed the name alumium for this undiscovered metal, but it wasn't until 1827 that <blink ref="fw">Wohler</blink> actually isolated aluminium, though an impure form was isolated by <blink ref="hco">Oersted</blink> two years earlier. The new metal was called aluminum. Two years later it was changed to aluminium to conform with the "ium" in most other elements. American Chemical Society changed the spelling back to aluminum in 1925, which we American's still use. In England and elsewhere in the world they still spell it aluminium. So if you hear someone say "al-u-min'-i-um foil" instead of aluminum foil, you'll know where it came from.</ptext>
+<ptext>It is the second most malleable metal (<elink ref="79">gold</elink> being first) and the sixth most <glink ref="ductile">ductile</glink>.</ptext>
+</notes>
+<images>
+<image name="13a">A Bauxite quarry</image>
+<image name="13b">Aluminium foil</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Americium</name>
+<symbol>Am</symbol>
+<atomicno>95</atomicno>
+<neutrons>148</neutrons>
+<atomicweight>[ 243 ]</atomicweight>
+<casid>7440-35-9</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>12</density>
+<dwho><blink ref="gts">G. T. Seaborg</blink>, R. A. James, L. O. Morgan, <blink ref="ag">A. Ghiorso</blink></dwho>
+<dwhen>1945</dwhen>
+<dwhere>United States</dwhere>
+<origin>From America by analogy with europium.</origin>
+<boiling>2880K</boiling>
+<melting>1449K</melting>
+<boilingC>2607'C</boilingC>
+<meltingC>1176'C</meltingC>
+<sources>Produced by bombarding <elink ref="94">plutonium</elink> with <glink ref="neutron">neutrons</glink>.</sources>
+<uses>Americium-241 is currently used in smoke detectors.</uses>
+<images>
+<image name="95a">A small amount of Americium</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Antimony</name>
+<symbol>Sb</symbol>
+<atomicno>51</atomicno>
+<neutrons>71</neutrons>
+<atomicweight>121.760 (1)</atomicweight>
+<casid>7440-36-0</casid>
+<groupno>15</groupno>
+<groupname>Pnictogen</groupname>
+<periodno>5</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>silvery lustrous grey</colour>
+<classification>Semi-metallic</classification>
+<density>6.697</density>
+<dwho>Known to the ancients.</dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>Greek: anti (opposed) monos (solitude).</origin>
+<boiling>1860K</boiling>
+<melting>903.78K</melting>
+<boilingC>1587'C</boilingC>
+<meltingC>630.63'C</meltingC>
+<sources>Found in stibnite (Sb<sub>2</sub>S<sub>3</sub>) and in valentinite (Sb<sub>2</sub>O<sub>3</sub>). The majority of Antimony comes from China. Even though this element is not abundant, it is found in over 100 mineral species.</sources>
+<uses>Used to harden <elink ref="82">lead</elink> alloys. Also used in solder, bearings, lead batteries, mascara, infrared detectors, diodes, plastics and chemicals.</uses>
+<images>
+<image name="51a">Antimony form the Tom Moore Mine in California</image>
+<image name="51b">Antimony powder</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Argon</name>
+<symbol>Ar</symbol>
+<atomicno>18</atomicno>
+<neutrons>22</neutrons>
+<atomicweight>39.948 (1)</atomicweight>
+<casid>7440-37-1</casid>
+<groupno>18</groupno>
+<groupname>Noble gas</groupname>
+<periodno>3</periodno>
+<block>p-block</block>
+<state>gas at 298 K</state>
+<colour>colourless</colour>
+<classification>Non-metallic</classification>
+<densityg>1.784</densityg>
+<dwho><blink ref="swr">Sir William Ramsay</blink>, <blink ref="jwsr">Baron Rayleigh</blink></dwho>
+<dwhen>1894</dwhen>
+<dwhere>Scotland</dwhere>
+<origin>Greek: Argos (inactive).</origin>
+<boiling>87.3K</boiling>
+<melting>83.80K</melting>
+<boilingC>-185.85'C</boilingC>
+<meltingC>-189.35'C</meltingC>
+<sources>Argon makes up 1% of the air and is isolated by removing <elink ref="7">nitrogen</elink>, <elink ref="8">oxygen</elink>, <elink ref="6">carbon</elink> dioxide and water from air. Argon is constantly being formed from the radioactive decay of radioactive <elink ref="19">potassium-40</elink>.</sources>
+<uses>Argon is used for lighting. It may also be used to provide an inert atmosphere for certain projects when explosion or other forms of oxidation may pose a problem. Also used in "Geiger" counters, which measure <glink ref="radiation">radiation</glink> levels.</uses>
+<notes>
+<ptext>No chemical compounds of argon have been confirmed.</ptext>
+</notes>
+<images>
+<image name="18a"></image>
+<image name="18b"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Arsenic</name>
+<symbol>As</symbol>
+<atomicno>33</atomicno>
+<neutrons>42</neutrons>
+<atomicweight>74.92160 (2)</atomicweight>
+<casid>7440-38-2</casid>
+<groupno>15</groupno>
+<groupname>Pnictogen</groupname>
+<periodno>4</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>metallic grey</colour>
+<classification>Semi-metallic</classification>
+<density>5.727</density>
+<dwho>Albertus Magna</dwho>
+<dwhen>1250</dwhen>
+<dwhere>Unknown</dwhere>
+<origin>Greek: arsenikos (male); Latin: arsenicum.</origin>
+<boiling>887K</boiling>
+<melting>1090K</melting>
+<boilingC>614'C</boilingC>
+<meltingC>817'C</meltingC>
+<sources>Found in mispickel (arsenopyrite).</sources>
+<uses>Used as a deadly poison, in shotgun pellets, metal for mirrors, glass, lasers, light-emitting diodes (LEDs) and in semiconductors.</uses>
+<notes>
+<ptext>Arsenic is a carcinogen, associated with lung cancer when inhaled. Contact with skin can result in skin cancer. Also damage to intestines and liver. Toxic when ingested. It is found in pesticides and wood preservatives. It is naturally occurring in many household products.</ptext>
+<ptext>In Victorian times, arsenic was mixed with vinegar and chalk and then eaten by women to improve the complexion of their faces, making their skin more fair to show they did not work in the fields. Arsenic was also rubbed into the faces and arms of women to improve their complexion.</ptext>
+</notes>
+<images>
+<image name="33"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Astatine</name>
+<symbol>At</symbol>
+<atomicno>85</atomicno>
+<neutrons>125</neutrons>
+<atomicweight>[ 210 ]</atomicweight>
+<casid>7440-68-8</casid>
+<groupno>17</groupno>
+<groupname>Halogen</groupname>
+<periodno>6</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>metallic</colour>
+<classification>Semi-metallic</classification>
+<dwho><blink ref="drc">D.R.Corson</blink>, K.R.MacKenzie, <blink ref="es">E.Segre</blink></dwho>
+<dwhen>1940</dwhen>
+<dwhere>United States</dwhere>
+<origin>Greek: astatos (unstable).</origin>
+<boiling>610K</boiling>
+<melting>575K</melting>
+<boilingC>337'C</boilingC>
+<meltingC>302'C</meltingC>
+<sources>Does not occur in nature. Produced by bombarding <elink ref="83">bismuth</elink> with alpha particles. The longest-lived isotope, <sup>210</sup>At, has a <glink ref="hl">half-life</glink> of only 8.3 hours. There are about 20 <glink ref="isotope">isotopes</glink> known, all of which are radioactive. Astatine is a <glink ref="halogens">halogen</glink> and possibly accumulates in the thyroid like <elink ref="53">iodine</elink>.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>Astatine is in "The Guinness Book of Records" as the rarest element Earth, stating that "Only around 25 g of the element astatine occurs naturally in the Earth's crust."</ptext>
+</notes>
+<images>
+<image name="85">This sample of Uranite contains a vanishingly small amount of Astatine</image>
+</images>
+</element>
+
+</elementlist>

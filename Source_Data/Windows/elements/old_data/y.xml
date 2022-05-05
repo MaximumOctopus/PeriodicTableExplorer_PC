@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Ytterbium</name>
+<symbol>Yb</symbol>
+<atomicno>70</atomicno>
+<neutrons>103</neutrons>
+<atomicweight>173.04 (3)</atomicweight>
+<casid>7440-64-4</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>6.90</density>
+<dwho><blink ref="jcgn">Jean de Marignac</blink></dwho>
+<dwhen>1878</dwhen>
+<dwhere>Switzerland</dwhere>
+<origin>From Ytterby, Sweden.</origin>
+<boiling>1467K</boiling>
+<melting>1097K</melting>
+<boilingC>1194'C</boilingC>
+<meltingC>824'C</meltingC>
+<sources>Found in minerals such as yttria, monazite, gadolinite, and xenotime.</sources>
+<uses>Used in metallurgical and chemical experiments.</uses>
+<notes>
+<ptext>The chemical and physical properties of ytterbium could not be determined until 1953 when the first nearly pure ytterbium was produced</ptext>
+<ptext>Although it was thought that all ytterbium compounds were highly toxic, initial studies have shown that the danger is limited. Ytterbium compounds are known to cause skin and eye irritations, and may also be <glink ref="teratogenic">teratogenic</glink>. Metallic ytterbium dust poses a fire and explosion hazard.</ptext>
+</notes>
+<images>
+<image name="70"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Yttrium</name>
+<symbol>Y</symbol>
+<atomicno>39</atomicno>
+<neutrons>50</neutrons>
+<atomicweight>88.90585 (2)</atomicweight>
+<casid>7440-65-5</casid>
+<groupno>3</groupno>
+<groupname></groupname>
+<periodno>5</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>4.472</density>
+<dwho><blink ref="jg">Johann Gadolin</blink></dwho>
+<dwhen>1794</dwhen>
+<dwhere>Finland</dwhere>
+<origin>From the town of Ytterby, Sweden.</origin>
+<boiling>3611K</boiling>
+<melting>1799K</melting>
+<boilingC>3338'C</boilingC>
+<meltingC>1529'C</meltingC>
+<sources>This element is found in almost all rare earth minerals (including monazite, xenotime, and yttria) and in uranium ores but is never found in nature as a free element.</sources>
+<uses>Combined with <elink ref="63">europium</elink> to make red phosphors for colour TV's. Yttrium oxide and <elink ref="26">iron</elink> oxide combine to form a crystal garnet used in radars. It is also used to increase the strength of <elink ref="13">aluminium</elink> and <elink ref="12">magnesium</elink> alloys. Also used in lasers, camera lenses and fireproof bricks. Yttrium <elink ref="13">aluminium</elink> garnet (YAG) has a hardness of 8.5 and is a simulated diamond.</uses>
+<notes>
+<ptext>Lunar rock samples from the Apollo program have a relatively high yttrium content.</ptext>
+<ptext>Although most people will never come in to contact with compounds containing this element it worth knowing that they are highly toxic.</ptext>
+</notes>
+<images>
+<image name="39a"></image>
+</images>
+</element>
+
+</elementlist>

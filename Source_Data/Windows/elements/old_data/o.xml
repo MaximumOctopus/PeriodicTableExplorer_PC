@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Osmium</name>
+<symbol>Os</symbol>
+<atomicno>76</atomicno>
+<neutrons>114</neutrons>
+<atomicweight>190.23 (3)</atomicweight>
+<casid>7440-04-2</casid>
+<groupno>8</groupno>
+<groupname>Precious metal or Platinum group metal</groupname>
+<periodno>6</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>bluish grey</colour>
+<classification>Metallic</classification>
+<density>22.61</density>
+<availability></availability>
+<dwho><blink ref="st">Smithson Tenant</blink></dwho>
+<dwhen>1804</dwhen>
+<dwhere>England</dwhere>
+<origin>Greek: osme (odor). A metal with pungent smell.</origin>
+<boiling>5285K</boiling>
+<melting>3306K</melting>
+<boilingC>5012'C</boilingC>
+<meltingC>3033'C</meltingC>
+<sources>Obtained from the same ores as <elink ref="78">platinum</elink>.</sources>
+<uses>Used to tip gold pen points, instrument pivots (such as compass needles and clock bearings), to make electric light filaments. Used for high temperature alloys and pressure bearings.</uses>
+<notes>
+<ptext>One cubic metre of osmium would weigh about 22.65 tonnes!</ptext>
+</notes>
+<images>
+<image name="76"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Oxygen</name>
+<symbol>O</symbol>
+<atomicno>8</atomicno>
+<neutrons>8</neutrons>
+<atomicweight>15.9994 (3)</atomicweight>
+<casid>7782-44-7</casid>
+<groupno>16</groupno>
+<groupname>Chalcogen</groupname>
+<periodno>2</periodno>
+<block>p-block</block>
+<state>gas at 298 K</state>
+<colour>colourless as a gas, liquid is pale blue</colour>
+<classification>Non-metallic</classification>
+<densityg>1.429</densityg>
+<availability></availability>
+<dwho><blink ref="jp">Joseph Priestley</blink>, <blink ref="kws">Karl Wilhelm Scheele</blink></dwho>
+<dwhen>1774</dwhen>
+<dwhere>England/Sweden</dwhere>
+<origin>Greek: oxus (acid) and gennan (generate).</origin>
+<boiling>90.20K</boiling>
+<melting>54.36K</melting>
+<boilingC>-182.95'C</boilingC>
+<meltingC>-218.79'C</meltingC>
+<sources>Obtained primarily from by liquification and then fractional distillation of the air.</sources>
+<uses>Used in steel making, production of methanol (CH<sub>3</sub>OH), welding, water purification, cement and rocket propulsion. It is also required for supporting life and combustion.</uses>
+<notes>
+<ptxt>Certain derivatives of oxygen, such as ozone (O<sub>3</sub>), singlet oxygen, hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>), hydroxyl radicals and superoxide (O<sub>2</sub><sup>-</sup>), are highly toxic.</ptxt>
+<ptxt>Liquid and solid O<sub>2</sub> are both a light blue colour. Ozone (O<sub>3</sub>) is a deeper blue colour.</ptxt>
+<ptxt>Oxygen is the second most common element on Earth, composing around 46% of the mass of Earth's crust and 28% of the mass of Earth as a whole, and is the third most common element in the universe. Forms almost 21% of atmosphere.</ptxt>
+</notes>
+<images>
+<image name="8"></image>
+</images>
+</element>
+
+</elementlist>

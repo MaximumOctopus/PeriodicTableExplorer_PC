@@ -1,0 +1,947 @@
+
+
+
+		<row>
+			<c><elink ref="89">Actinium</elink></c>
+			<c>Ac</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="13">Aluminium</elink></c>
+			<c>Al</c>
+			<c>245</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="95">Americium</elink></c>
+			<c>Am</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="51">Antimony</elink></c>
+			<c>Sb</c>
+			<c>294</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="18">Argon</elink></c>
+			<c>Ar</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="33">Arsenic</elink></c>
+			<c>As</c>
+			<c>1440</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="85">Astatine</elink></c>
+			<c>At</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="56">Barium</elink></c>
+			<c>Ba</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="97">Berkelium</elink></c>
+			<c>Bk</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="4">Beryllium</elink></c>
+			<c>Be</c>
+			<c>600</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="83">Bismuth</elink></c>
+			<c>Bi</c>
+			<c>94.2</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="107">Bohrium</elink></c>
+			<c>Bh</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="5">Boron</elink></c>
+			<c>B</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="35">Bromine</elink></c>
+			<c>Br</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="48">Cadmium</elink></c>
+			<c>Cd</c>
+			<c>203</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="20">Calcium</elink></c>
+			<c>Ca</c>
+			<c>167</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="98">Californium</elink></c>
+			<c>Cf</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="6">Carbon</elink></c>
+			<c>C</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="58">Cerium</elink></c>
+			<c>Ce</c>
+			<c>412</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="55">Caesium</elink></c>
+			<c>Cs</c>
+			<c>0.14</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="17">Chlorine</elink></c>
+			<c>Cl</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="24">Chromium</elink></c>
+			<c>Cr</c>
+			<c>1120</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="27">Cobalt</elink></c>
+			<c>Co</c>
+			<c>700</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="29">Copper</elink></c>
+			<c>Cu</c>
+			<c>874</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="96">Curium</elink></c>
+			<c>Cm</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="110">Darmstadtium</elink></c>
+			<c>Ds</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="105">Dubnium</elink></c>
+			<c>Db</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="66">Dysprosium</elink></c>
+			<c>Dy</c>
+			<c>500</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="99">Einsteinium</elink></c>
+			<c>Es</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="68">Erbium</elink></c>
+			<c>Er</c>
+			<c>814</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="63">Europium</elink></c>
+			<c>Eu</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="100">Fermium</elink></c>
+			<c>Fm</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="9">Fluorine</elink></c>
+			<c>F</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="87">Francium</elink></c>
+			<c>Fr</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="64">Gadolinium</elink></c>
+			<c>Gd</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="31">Gallium</elink></c>
+			<c>Ga</c>
+			<c>60</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="32">Germanium</elink></c>
+			<c>Ge</c>
+			<c></c>
+		</row>
+
+ 
+
+		<row>
+			<c><elink ref="79">Gold</elink></c>
+			<c>Au</c>
+			<c>2450</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="72">Hafnium</elink></c>
+			<c>Hf</c>
+			<c>1700</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="108">Hassium</elink></c>
+			<c>Hs</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="2">Helium</elink></c>
+			<c>He</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="67">Holmium</elink></c>
+			<c>Ho</c>
+			<c>746</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="1">Hydrogen</elink></c>
+			<c>H</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="49">Indium</elink></c>
+			<c>In</c>
+			<c>8.83</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="53">Iodine</elink></c>
+			<c>I</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="77">Iridium</elink></c>
+			<c>Ir</c>
+			<c>1670</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="26">Iron</elink></c>
+			<c>Fe</c>
+			<c>490</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="36">Krypton</elink></c>
+			<c>Kr</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="57">Lanthanum</elink></c>
+			<c>La</c>
+			<c>363</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="103">Lawrencium</elink></c>
+			<c>Lr</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="82">Lead</elink></c>
+			<c>Pb</c>
+			<c>38.3</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="3">Lithium</elink></c>
+			<c>Li</c>
+			<c></c>
+		</row>
+
+
+
+
+		<row>
+			<c><elink ref="71">Lutetium</elink></c>
+			<c>Lu</c>
+			<c>893</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="12">Magnesium</elink></c>
+			<c>Mg</c>
+			<c>260</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="25">Manganese</elink></c>
+			<c>Mn</c>
+			<c>196</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="109">Meitnerium</elink></c>
+			<c>Mt</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="101">Mendelevium</elink></c>
+			<c>Md</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="80">Mercury</elink></c>
+			<c>Hg</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="42">Molybdenum</elink></c>
+			<c>Mo</c>
+			<c>1500</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="60">Neodymium</elink></c>
+			<c>Nd</c>
+			<c>265</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="10">Neon</elink></c>
+			<c>Ne</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="93">Neptunium</elink></c>
+			<c>Np</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="28">Nickel</elink></c>
+			<c>Ni</c>
+			<c>700</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="41">Niobium</elink></c>
+			<c>Nb</c>
+			<c>736</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="7">Nitrogen</elink></c>
+			<c>N</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="102">Nobelium</elink></c>
+			<c>No</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="76">Osmium</elink></c>
+			<c>Os</c>
+			<c>3920</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="8">Oxygen</elink></c>
+			<c>O</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="46">Palladium</elink></c>
+			<c>Pd</c>
+			<c>37.3</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="15">Phosphorus</elink></c>
+			<c>P</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="78">Platinum</elink></c>
+			<c>Pt</c>
+			<c>392</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="94">Plutonium</elink></c>
+			<c>Pu</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="84">Polonium</elink></c>
+			<c>Po</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="19">Potassium</elink></c>
+			<c>K</c>
+			<c>0.363</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="59">Praseodymium</elink></c>
+			<c>Pr</c>
+			<c>481</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="61">Promethium</elink></c>
+			<c>Pm</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="91">Protactinium</elink></c>
+			<c>Pa</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="88">Radium</elink></c>
+			<c>Ra</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="86">Radon</elink></c>
+			<c>Rn</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="75">Rhenium</elink></c>
+			<c>Re</c>
+			<c>1320</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="45">Rhodium</elink></c>
+			<c>Rh</c>
+			<c>1100</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="111">Roentgenium</elink></c>
+			<c>Rg</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="37">Rubidium</elink></c>
+			<c>Rb</c>
+			<c>0.216</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="44">Ruthenium</elink></c>
+			<c>Ru</c>
+			<c>2160</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="104">Rutherfordium</elink></c>
+			<c>Rf</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="62">Samarium</elink></c>
+			<c>Sm</c>
+			<c>441</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="21">Scandium</elink></c>
+			<c>Sc</c>
+			<c>750</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="106">Seaborgium</elink></c>
+			<c>Sg</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="34">Selenium</elink></c>
+			<c>Se</c>
+			<c>736</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="14">Silicon</elink></c>
+			<c>Si</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="47">Silver</elink></c>
+			<c>Ag</c>
+			<c>24.5</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="11">Sodium</elink></c>
+			<c>Na</c>
+			<c>0.69</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="38">Strontium</elink></c>
+			<c>Sr</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="16">Sulfur</elink></c>
+			<c>S</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="73">Tantalum</elink></c>
+			<c>Ta</c>
+			<c>800</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="43">Technetium</elink></c>
+			<c>Tc</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="52">Tellurium</elink></c>
+			<c>Te</c>
+			<c>180</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="65">Terbium</elink></c>
+			<c>Tb</c>
+			<c>677</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="81">Thallium</elink></c>
+			<c>Tl</c>
+			<c>26.4</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="90">Thorium</elink></c>
+			<c>Th</c>
+			<c>400</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="69">Thulium</elink></c>
+			<c>Tm</c>
+			<c>471</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="50">Tin</elink></c>
+			<c>Sn</c>
+			<c>51</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="22">Titanium</elink></c>
+			<c>Ti</c>
+			<c>716</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="74">Tungsten</elink></c>
+			<c>W</c>
+			<c>2570</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="112">Copernicium</elink></c>
+			<c>Cp</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="116">Ununhexium</elink></c>
+			<c>Uuh</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="118">Ununoctium</elink></c>
+			<c>Uuo</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="115">Ununpentium</elink></c>
+			<c>Uup</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="114">Ununquadium</elink></c>
+			<c>Uuq</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="117">Ununseptium</elink></c>
+			<c>Uus</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="113">Ununtrium</elink></c>
+			<c>Uut</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="92">Uranium</elink></c>
+			<c>U</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="23">Vanadium</elink></c>
+			<c>V</c>
+			<c>628</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="54">Xenon</elink></c>
+			<c>Xe</c>
+			<c></c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="70">Ytterbium</elink></c>
+			<c>Yb</c>
+			<c>343</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="39">Yttrium</elink></c>
+			<c>Y</c>
+			<c>589</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="30">Zinc</elink></c>
+			<c>Zn</c>
+			<c>412</c>
+		</row>
+
+
+
+		<row>
+			<c><elink ref="40">Zirconium</elink></c>
+			<c>Zr</c>
+			<c>650</c>
+		</row>
+
+

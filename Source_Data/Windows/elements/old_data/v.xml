@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Vanadium</name>
+<symbol>V</symbol>
+<atomicno>23</atomicno>
+<neutrons>28</neutrons>
+<atomicweight>50.9415 (1)</atomicweight>
+<casid>7440-62-2</casid>
+<groupno>5</groupno>
+<groupname></groupname>
+<periodno>4</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery grey metallic</colour>
+<classification>Metallic</classification>
+<density>6.0</density>
+<availability>Vanadium is available in several forms including foil, granules, powder, rod, and turnings.</availability>
+<dwho><blink ref="ngs">Nils Sefstrom</blink></dwho>
+<dwhen>1830</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>From Vanadis the Scandinavian goddess.</origin>
+<boiling>3680K</boiling>
+<melting>2183K</melting>
+<boilingC>3407'C</boilingC>
+<meltingC>1910'C</meltingC>
+<sources>Vanadium is never found unbound in nature but it does occur in about 65 different minerals among which are patronite (VS<sub>4</sub>), vanadinite [Pb<sub>5</sub>(VO<sub>4</sub>)<sub>3</sub>Cl], and carnotite [K<sub>2</sub>(UO<sub>2</sub>)<sub>2</sub>(VO<sub>4</sub>)<sub>2</sub>.3H<sub>2</sub>O]. Vanadium is also present in bauxite, and in <elink ref="6">carbon</elink> containing deposits such as crude oil, coal, oil shale and tar sands. The spectra of vanadium has also been detected in light from the sun and some other stars.</sources>
+<uses>It is mixed with other metals to make very strong and durable alloys which are used in construction materials, tools, springs and jet engines. <elink ref="23">Vanadium</elink> pentoxide (V<sub>2</sub>O<sub>5</sub>) is used as a catalyst in manufacturing sulfuric acid , dye and color-fixer.</uses>
+<notes>
+<ptext>Powdered metallic vanadium is a fire hazard, and all vanadium compounds are highly toxic. Vanadium compounds may cause lung cancer if inhaled.</ptext>
+</notes>
+<images>
+<image name="23"></image>
+</images>
+</element>
+
+</elementlist>

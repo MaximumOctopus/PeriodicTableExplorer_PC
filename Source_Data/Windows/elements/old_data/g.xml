@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Gadolinium</name>
+<symbol>Gd</symbol>
+<atomicno>64</atomicno>
+<neutrons>93</neutrons>
+<atomicweight>157.25</atomicweight>
+<casid>7440-54-2</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>7.90</density>
+<availability></availability>
+<dwho><blink ref="jcgn">Jean de Marignac</blink></dwho>
+<dwhen>1880</dwhen>
+<dwhere>Switzerland</dwhere>
+<origin></origin>
+<boiling>3546K</boiling>
+<melting>1585K</melting>
+<boilingC>3273'C</boilingC>
+<meltingC>1312'C</meltingC>
+<sources>Gadolinium is never found in nature in elemental form. It is obtained from many rare minerals such as bastnasite, monazite and trace amounts in gadolinite.</sources>
+<uses>Phosphors in colour TV tubes and in the manufacture of compact discs and computer memory.</uses>
+<notes>
+<ptext>Gadolinium becomes superconductive below a critical temperature of 1.083 K (-272.067'C). Strongly magnetic at room temperature.</ptext>
+</notes>
+<images>
+<image name="64"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Gallium</name>
+<symbol>Ga</symbol>
+<atomicno>31</atomicno>
+<neutrons>39</neutrons>
+<atomicweight>69.723</atomicweight>
+<casid>7440-55-3</casid>
+<groupno>13</groupno>
+<groupname>(none)</groupname>
+<periodno>4</periodno>
+<block>p-block</block>
+<state>solid at 298 K (but melts only slightly above this temperature)</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>5.91</density>
+<availability></availability>
+<dwho><blink ref="pelb">Paul emile Lecoq de Boisbaudran</blink></dwho>
+<dwhen>1875</dwhen>
+<dwhere>France</dwhere>
+<origin>Paul named the element after his native land of France and, in a multilingual pun, after himself, as 'Lecoq' = the rooster, and Latin for rooster is "gallus".</origin>
+<boiling>2477K</boiling>
+<melting>302.9146K</melting>
+<boilingC>2204'C</boilingC>
+<meltingC>29.7646'C</meltingC>
+<sources>Found throughout the crust in minerals like bauxite, germanite and coal, but does not exist in pure form in nature.</sources>
+<uses>Used in semiconductor production, quartz thermometers, laser diodes, used to locate tumors and for creating mirrors.</uses>
+<notes>
+<ptext>Gallium, along with <elink ref="55">caesium</elink> and <elink ref="80">mercury</elink>, is one of the few metals that are liquid at (or near) room temperature.</ptext>
+</notes>
+<images>
+<image name="31"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Germanium</name>
+<symbol>Ge</symbol>
+<atomicno>32</atomicno>
+<neutrons>41</neutrons>
+<atomicweight>72.64</atomicweight>
+<casid>7440-56-4</casid>
+<groupno>14</groupno>
+<groupname>(none)</groupname>
+<periodno>4</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>greyish white</colour>
+<classification>Semi-metallic</classification>
+<density>5.323</density>
+<availability></availability>
+<dwho><blink ref="caw">Clemens Winkler</blink></dwho>
+<dwhen>1886</dwhen>
+<dwhere>Germany</dwhere>
+<origin>Latin: Germania (Germany).</origin>
+<boiling>3103K</boiling>
+<melting>1210.4K</melting>
+<boilingC>3103K</boilingC>
+<meltingC>1210.4K</meltingC>
+<sources>Obtained from refining <elink ref="29">copper</elink>, <elink ref="30">zinc</elink> and <elink ref="82">lead</elink>. It can be found in argyrodite, coal, germanite, zinc ores as well as other minerals.</sources>
+<uses>Widely used in semiconductors, infrared prisms (for night vision goggles), reflectors in projectors, wide angle lenses and dentistry.</uses>
+<notes>
+<ptext>Its occurrance is 0.0007% of the earth's crust. In the elemental form it is a lustrous white, brittle metaloid. When crystalized it has a diamond cubic structure. It is a poor conductor and is used in electronics in rectifying devices and transistors. It is also used in dental alloys. There are several compounds which contain germanium. "Germaine" or germanium hydride is a colorless gas GeH<sub>4</sub> prepared by the action of <elink ref="3">lithium</elink> <elink ref="13">aluminum</elink> <elink ref="1">hydride</elink> on germanium halide in an ether solution. Germaine is a hazardous substance UN2192 which is classified as a poisonous gas (2.3). It is also a flammable gas (2.1). Other compounds include : Germanium dichloride GeCl<sub>2</sub>, Germanium dioxide GeO<sub>2</sub>, Germanium tetrachloride GeCl<sub>4</sub> this is very irritating to eyes and membranes.</ptext>
+</notes>
+<images>
+<image name="32"></image>
+</images>
+</element>
+ 
+<element>
+<name isotope="y">Gold</name>
+<symbol>Au</symbol>
+<atomicno>79</atomicno>
+<neutrons>118</neutrons>
+<atomicweight>196.96655</atomicweight>
+<casid>7440-57-5</casid>
+<groupno>11</groupno>
+<groupname>Coinage metal</groupname>
+<periodno>6</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>gold (!)</colour>
+<classification>Metallic</classification>
+<density>19.3</density>
+<availability></availability>
+<dwho>Known to the ancients.</dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>Gold from old English word geolo (yellow); Au from Latin: aurum (gold).</origin>
+<boiling>3129K</boiling>
+<melting>1337.33K</melting>
+<boilingC>2856'C</boilingC>
+<meltingC>1064.18'C</meltingC>
+<sources>Found in veins in the crust, with <elink ref="29">copper</elink> ore and natively.</sources>
+<uses>Very malleable. Used in electronics, jewellery dental crowns and coins.</uses>
+<notes>
+<ptext>Supposedly around half of the world's supply of gold is stored in the United States Treasury Department's gold depository in Fort Knox Kentucky, which is considered to be one of the most secure buildings in the world.</ptext>
+<ptext>Because gold is traded like currencies, it has it's own ISO currenty code, XAU (USD = US dollars, GBP = GB Pounds sterling etc.).</ptext>
+</notes>
+<images>
+<image name="79a">Gold ore</image>
+<image name="79b">A Gold bar</image>
+</images>
+</element>
+
+</elementlist>

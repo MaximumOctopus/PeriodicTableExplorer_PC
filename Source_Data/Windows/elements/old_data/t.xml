@@ -1,0 +1,340 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Tantalum</name>
+<symbol>Ta</symbol>
+<atomicno>73</atomicno>
+<neutrons>108</neutrons>
+<atomicweight>180.9479</atomicweight>
+<casid>7440-25-7</casid>
+<groupno>5</groupno>
+<groupname>(none)</groupname>
+<periodno>6</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>grey blue </colour>
+<classification>Metallic</classification>
+<density>16.69</density>
+<availability></availability>
+<dwho><blink ref="age">Anders Ekeberg</blink></dwho>
+<dwhen>1802</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>From king Tantalus of Greek mythology.</origin>
+<boiling>5731K</boiling>
+<melting>3290K</melting>
+<boilingC>5458'C</boilingC>
+<meltingC>3017'C</meltingC>
+<sources>Chiefly occurs in the mineral tantalite and euxenite (as well as samarskite and fergusonite). Always found with <elink ref="41">niobium</elink>. Tantalum ores are mined in Australia, Brazil, Eqypt, Canada, Democratic Republic of Congo, Mozambique, Nigeria, Portugal, Malaysia and Thailand.</sources>
+<uses>Used in metal alloys. Tantalum pentoxide is used in capacitors, condensers, cutting tools, vacuum tube filaments and in camera lenses to increase refracting power. Because it is totally immune to the action of body liquids and is nonirritating it is widely used in making surgical appliances.</uses>
+<images>
+<image name="73"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Technetium</name>
+<symbol>Tc</symbol>
+<atomicno>43</atomicno>
+<neutrons>55</neutrons>
+<atomicweight>[98]</atomicweight>
+<casid>7440-26-8</casid>
+<groupno>7</groupno>
+<groupname>(none)</groupname>
+<periodno>5</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery grey metallic</colour>
+<classification>Metallic</classification>
+<density>11</density>
+<availability></availability>
+<dwho>Carlo Perrier, <blink ref="es">Emillo Segre</blink></dwho>
+<dwhen>1937</dwhen>
+<dwhere>Italy</dwhere>
+<origin>Greek: technetos (artificial).</origin>
+<boiling>4538K</boiling>
+<melting>2430K</melting>
+<boilingC>4265'C</boilingC>
+<meltingC>2157'C</meltingC>
+<sources>Made first by bombarding <elink ref="42">molybdenum</elink> with <ilink ref="1">deuterons</ilink> (heavy <elink ref="1">hydrogen</elink>) in a cyclotron.</sources>
+<uses>Radiation source for medical research. Technetium-99 is used for equipment calibration.</uses>
+<notes>
+<ptext>First artificially created <glink ref="element">element</glink>.</ptext>
+<ptext>All <glink ref="isotope">isotopes</glink> of technetium are <glink ref="radioactivity">radioactive</glink> but the <glink ref="element">element</glink> and its <glink ref="compound">compounds</glink> are extremely rarely found in nature.</ptext>
+</notes>
+<images>
+<image name="43a"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Tellurium</name>
+<symbol>Te</symbol>
+<atomicno>52</atomicno>
+<neutrons>76</neutrons>
+<atomicweight>127.60</atomicweight>
+<casid>13494-80-9</casid>
+<groupno>16</groupno>
+<groupname>Chalcogen</groupname>
+<periodno>5</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>silvery lustrous grey</colour>
+<classification>Semi-metallic</classification>
+<density>6.24</density>
+<availability></availability>
+<dwho><blink ref="fjmfvr">Franz Muller von Reichenstein</blink></dwho>
+<dwhen>1782</dwhen>
+<dwhere>Romania</dwhere>
+<origin>Greek: tellus (the Earth).</origin>
+<boiling>1261K</boiling>
+<melting>722.66K</melting>
+<boilingC>988'C</boilingC>
+<meltingC>7449.51'C</meltingC>
+<sources>Obtained as a by-product of <elink ref="29">copper</elink> and <elink ref="82">lead</elink> refining. Also found in the mineral calaverite. Most tellurium is produced in the USA, Canada, Peru and Japan.</sources>
+<uses>Used to improve the machining quality of metal products and to color glass and ceramics. Also used in thermoelectric devices, vulcanization of rubber, percussion caps, battery plate protectors and electrical resistors.</uses>
+<notes>
+<ptext>Tellurium and tellurium compounds should be considered to be toxic and need to be handled with care.</ptext>
+</notes>
+<images>
+<image name="52"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Terbium</name>
+<symbol>Tb</symbol>
+<atomicno>65</atomicno>
+<neutrons>94</neutrons>
+<atomicweight>158.92534</atomicweight>
+<casid>7440-27-9</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block></block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>8.23</density>
+<availability></availability>
+<dwho><blink ref="cqm">Carl Mosander</blink></dwho>
+<dwhen>1843</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>From Ytterby, Sweden.</origin>
+<boiling>3503K</boiling>
+<melting>1629K</melting>
+<boilingC>3230'C</boilingC>
+<meltingC>1356'C</meltingC>
+<sources>Found with other rare earth metals in minerals such as cerite, gadolinite, monazite, xenotime and euxenite.</sources>
+<uses>Used in alloys, fuel cell stablizer and in lasers. Also used in the production of electronic devices.</uses>
+<images>
+<image name="65"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Thallium</name>
+<symbol>Tl</symbol>
+<atomicno>81</atomicno>
+<neutrons>123</neutrons>
+<atomicweight>204.3833</atomicweight>
+<casid>7440-28-0</casid>
+<groupno>13</groupno>
+<groupname>(none)</groupname>
+<periodno>6</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>11.85</density>
+<availability></availability>
+<dwho><blink ref="swc">Sir William Crookes</blink></dwho>
+<dwhen>1861</dwhen>
+<dwhere>England</dwhere>
+<origin>Greek: thallos (young shoot) from a bright-green line in its spectrum.</origin>
+<boiling>1746K</boiling>
+<melting>577K</melting>
+<boilingC>1473'C</boilingC>
+<meltingC>304'C</meltingC>
+<sources>Found in iron pyrites. Also in the minerals crookesite, hutchinsonite and lorandite.</sources>
+<uses>Its compounds were used in rat and ant poisons. Also for in gamma radioation detecting equipment, detecting infrared radiation and heart muscle research.</uses>
+<notes>
+<ptext>Thallium and its compounds are highly toxic and should be handled with great care. Thallium is a suspected human carcinogen.</ptext>
+</notes>
+<images>
+<image name="81"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Thorium</name>
+<symbol>Th</symbol>
+<atomicno>90</atomicno>
+<neutrons>142</neutrons>
+<atomicweight>232.0381</atomicweight>
+<casid>7440-29-1</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>11.7</density>
+<availability></availability>
+<dwho><blink ref="jjg">Juns Berzelius</blink></dwho>
+<dwhen>1828</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>From the Scandinavian god Thor.</origin>
+<boiling>5061K</boiling>
+<melting>2115K</melting>
+<boilingC>4788'C</boilingC>
+<meltingC>1842'C</meltingC>
+<sources>Found in various minerals like monazite and thorite. Thorium is found in small amounts in most rocks and soils, where it is three times more abundant than <elink ref="92">uranium</elink> and about as common as <elink ref="82">lead</elink>.</sources>
+<uses>Used in making strong alloys, ultraviolet photoelectric cells, mantles in portable gas lights, coating <elink ref="74">tungsten</elink> wire in electronic equipment, . Bombarded with neutrons make <elink ref="92">uranium-233</elink>, a nuclear fuel.</uses>
+<images>
+<image name="90"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Thulium</name>
+<symbol>Tm</symbol>
+<atomicno>69</atomicno>
+<neutrons>100</neutrons>
+<atomicweight>168.93421</atomicweight>
+<casid>7440-30-4</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>9.32</density>
+<availability></availability>
+<dwho><blink ref="ptc">Per Theodor Cleve</blink></dwho>
+<dwhen>1879</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>From Thule ancient name of Scandinavia.</origin>
+<boiling>2223K</boiling>
+<melting>1818K</melting>
+<boilingC>1950'C</boilingC>
+<meltingC>1545'C</meltingC>
+<sources>Found with other rare earths in the minerals; monazite, gadolinite, euxenite, xenotime, and others.</sources>
+<uses>None of thulium's compounds is commercially important. Radioactive thulium is used to power portable x-ray machines, eliminating the need for electrical equipment.</uses>
+<images>
+<image name="69a"></image>
+<image name="69b"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Tin</name>
+<symbol>Sn</symbol>
+<atomicno>50</atomicno>
+<neutrons>69</neutrons>
+<atomicweight>118.710</atomicweight>
+<casid>7440-31-5</casid>
+<groupno>14</groupno>
+<groupname>(none)</groupname>
+<periodno>5</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>silvery lustrous grey</colour>
+<classification>Metallic</classification>
+<density>(white) 7.265</density>
+<density>(grey) 5.769</density>
+<availability></availability>
+<dwho>Known to the ancients.</dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>Symbol Sn from Latin: stannum (tin).</origin>
+<boiling>2875K</boiling>
+<melting>505.08K</melting>
+<boilingC>2602'C</boilingC>
+<meltingC>231.93'C</meltingC>
+<sources>Principally found in the ore cassiterite(SnO<sub>2</sub>) and stannine (Cu<sub>2</sub>FeSnS<sub>4</sub>) in Malaya and Indonesia, Zaire and Nigeria, Bolivia and Thiland. 35 countires throughout the world mine tin. The pure metal is formed by reduction with coal.</sources>
+<uses>Used as a coating for steel cans. Also in solder (33%Sn:67%<elink ref="82">Pb</elink>), bronze (20%Sn:80%<elink ref="29">Cu</elink>), and pewter. Stannous fluoride (SnF<sub>5</sub>), a compound of tin and <elink ref="9">fluorine</elink> is used in some toothpaste. It is also used in the manufacture of super conducting magnets. While tin has many uses in alloys, it has few uses in it's pure <glink ref="element">elemental</glink> form.</uses>
+<notes>
+<ptext>Tin becomes a superconductor below 3.72K.</ptext>
+<ptext>Tin is the <glink ref="element">element</glink> with the greatest number of stable <glink ref="isotope">isotopes</glink> (ten). 18 additional unstable <glink ref="isotope">isotopes</glink> are known.</ptext>
+</notes>
+<images>
+<image name="50"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Titanium</name>
+<symbol>Ti</symbol>
+<atomicno>22</atomicno>
+<neutrons>26</neutrons>
+<atomicweight>47.867</atomicweight>
+<casid>7440-32-6</casid>
+<groupno>4</groupno>
+<groupname>(none)</groupname>
+<periodno>4</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery metallic</colour>
+<classification>Metallic</classification>
+<density>4.506</density>
+<availability></availability>
+<dwho><blink ref="wg">William Gregor</blink></dwho>
+<dwhen>1791</dwhen>
+<dwhere>England</dwhere>
+<origin>Greek: titanos (Titans).</origin>
+<boiling>3560K</boiling>
+<melting>1941K</melting>
+<boilingC>3287'C</boilingC>
+<meltingC>1668'C</meltingC>
+<sources>Usually occurs in the minerals ilmenite (FeTiO<sub>3</sub>) or rutile (TiO<sub>2</sub>). Also in Titaniferous magnetite, titanite (CaTiSiO<sub>5</sub>), and iron ores. The primary deposits of titanium ore are in Australia, Scandinavia, North America and Malaysia.</sources>
+<uses>Since it is strong and resists acids it is used in many alloys. Titanium dioxide (TiO<sub>2</sub>), a white pigment that covers surfaces very well, is used in paint, rubber, paper and many other materials. Also used in heat exchangers, airplane motors, bone pins and other things requiring light weight metals or metals that resist corrosion or high temperatures. Titanium oxide is used extensively in paints.</uses>
+<notes>
+<ptext>Pure titanium is a lustrous white metal, as strong as steel, 45% lighter, 60% heavier than <elink ref="13">aluminium</elink>, and twice as strong as steel.</ptext>
+<ptext>Titanium is Latin and refers to the Titans, the first sons of the earth in Mythology. It was discovered by Gregor in 1791 and named by <blink ref="mhk">Klaproth</blink> four years later. It was nearly a hundred years later (1887) when impure titanium was first prepared by Nilson and Pettersson. About 20 years later Hunter heated Titanium Chloride TiCl<sub>4</sub> with <elink ref="11">sodium</elink> in a steel bomb and isolated 99.6% pure titanium. It is the ninth most abundant <glink ref="element">element</glink> in the earth's crust and is also found in meteorites and in the sun. It is found in the ash of coal, in plants and even in the human body. It occurs in the minerals rutile, ilmenite and sphene.</ptext>
+<ptext>As a compound, it is found as Titanium dioxide TiO<sub>2</sub> in star sapphires and rubies (it is TiO<sub>2</sub> that gives them their asterism). It is also found as titanium chloride (TiCl<sub>4</sub>).</ptext>
+</notes>
+<images>
+<image name="22"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Tungsten</name>
+<symbol>W</symbol>
+<atomicno>74</atomicno>
+<neutrons>110</neutrons>
+<atomicweight>183.84</atomicweight>
+<casid>7440-33-7</casid>
+<groupno>6</groupno>
+<groupname>(none)</groupname>
+<periodno>6</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>greyish white, lustrous</colour>
+<classification>Metallic</classification>
+<density>19.25</density>
+<availability></availability>
+<dwho><blink ref="fdeyds">Fausto</blink> and <blink ref="jje">Juan Jose de Elhuyar</blink></dwho>
+<dwhen>1783</dwhen>
+<dwhere>Spain</dwhere>
+<origin>Swedish: tungs ten (heavy stone): W symbol from its German name wolfram.</origin>
+<boiling>5828K</boiling>
+<melting>3695K</melting>
+<boilingC>5555'C</boilingC>
+<meltingC>3422'C</meltingC>
+<sources>Occurs in the minerals scheelite (CaWO<sub>4</sub>), wolframite [(Fe,Mn)WO<sub>4</sub>], ferberite and huebnerite. China produces about 70% of the world's supply, but important deposits lie in Bolivia, California, Colorado, Portugal, Russia as well as South Korea.</sources>
+<uses>Used widely in the electronics industry. Made into filaments for vacuum tubes and electric lights. Also used in contact points in cars, heat sinks, weights, counterweights, welding electrodes, rocket nozzles and cutting tools. Combined with <elink ref="20">calcium</elink> or <elink ref="12">magnesium</elink> it makes phosphors.</uses>
+<notes>
+<ptext>Some sources give the German chemist <blink ref="kws">Karl Wilhelm Scheele</blink> as the first to isolate the metal, three years before the d'Elhuyar brothers, in 1780.</ptext>
+</notes>
+<images>
+<image name="74"></image>
+</images>
+</element>
+
+</elementlist>

@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Fermium</name>
+<symbol>Fm</symbol>
+<atomicno>100</atomicno>
+<neutrons>157</neutrons>
+<atomicweight>[ 257 ]</atomicweight>
+<casid>7440-72-4</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability></availability>
+<dwho><blink ref="ag">A. Ghiorso</blink>, A: Los Alamos, U of California</dwho>
+<dwhen>1953</dwhen>
+<dwhere>United States</dwhere>
+<origin>After the scientist Enrico Fermi.</origin>
+<boiling>unknown</boiling>
+<melting>1800K</melting>
+<boilingC>?</boilingC>
+<meltingC>1527'C</meltingC>
+<sources>Completely synthetic element. Produced by bombarding lighter transuranium elements with still lighter particles or by neutron capture.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>Fermium's chemical properties are largely unknown. Fermium is a radioactive <glink ref="ree">rare earth metal</glink>. The longest living <glink ref="isotope">isotope</glink> is <sup>257</sup>Fm with a <glink ref="hl">half-life</glink> of 80 days. It is of no commercial importance.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Fluorine</name>
+<symbol>F</symbol>
+<atomicno>9</atomicno>
+<neutrons>10</neutrons>
+<atomicweight>18.9984032 (5)</atomicweight>
+<casid>7782-41-4</casid>
+<groupno>17</groupno>
+<groupname>Halogen</groupname>
+<periodno>2</periodno>
+<block>p-block</block>
+<state>gas at 298 K</state>
+<colour>pale yellow</colour>
+<classification>Non-metallic</classification>
+<densityg>1.7</densityg>
+<availability></availability>
+<dwho><blink ref="ffhm">Henri Moissan</blink></dwho>
+<dwhen>1886</dwhen>
+<dwhere>France</dwhere>
+<origin>Latin: fluo (flow).</origin>
+<boiling>85.03K</boiling>
+<melting>53.53K</melting>
+<boilingC>-188.12'C</boilingC>
+<meltingC>-219.62'C</meltingC>
+<sources>Found in the minerals fluorite and cryolite.</sources>
+<uses>Combines more readily than any other element. Used in refrigerants (refrigeration and air-conditioning) and other chloro fluorocarbons. Also in toothpaste as <elink ref="11">sodium</elink> fluoride (NaF) and <elink ref="50">stannous</elink> fluoride (SnF<sub>2</sub>); also in Teflon.</uses>
+<notes>
+<ptext>Pure fluorine is a corrosive gas, with a pungent odour. Both fluorine and HF must be handled with great care and any contact with skin and eyes should be strictly avoided. Contact with exposed skin may result in the HF molecule rapidly migrating through the skin and flesh into the bone where it reacts with <elink ref="20">calcium</elink> permanently damaging the bone, followed by cardiac arrest brought on by sudden chemical changes within the body.</ptext>
+<ptext>The derivation of elemental fluorine from hydrofluoric acid is exceptionally dangerous, killing or blinding several scientists who attempted early experiments on this halogen. These men came to be referred to as "Fluorine Martyrs."</ptext>
+</notes>
+<images>
+<image name="9"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Francium</name>
+<symbol>Fr</symbol>
+<atomicno>87</atomicno>
+<neutrons>136</neutrons>
+<atomicweight>[ 223 ]</atomicweight>
+<casid>7440-73-5</casid>
+<groupno>1</groupno>
+<groupname>Alkali metal</groupname>
+<periodno>7</periodno>
+<block>s-block</block>
+<state>solid at 298 K</state>
+<colour>Metallic</colour>
+<classification>Metallic</classification>
+<density>1.87</density>
+<availability></availability>
+<dwho><blink ref="mcp">Marguerite Perey</blink></dwho>
+<dwhen>1939</dwhen>
+<dwhere>France</dwhere>
+<origin>From France.</origin>
+<boiling>950K</boiling>
+<melting>300K</melting>
+<boilingC>677'C</boilingC>
+<meltingC>27'C</meltingC>
+<sources>Formed by decay of <elink ref="89">actinium</elink>. Chemical properties similar to <elink ref="55">cesium</elink>. Decays to <elink ref="88">radium</elink> or <elink ref="85">astatine</elink>.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>The longest lived isotope, <sup>223</sup>Fr, a daughter of <sup>227</sup><elink ref="89">Ac</elink>, has a <glink ref="hl">half-life</glink> of 22 minutes. This is the only <glink ref="isotope">isotope</glink> of francium occurring in nature, but at most there is only 20-30 g of the element present in the earth's crust at any one time. No weighable quantity of the element has been prepared or isolated. There are about 20 known isotopes.</ptext>
+</notes>
+<images>
+<image name="87">This sample of uraninite contains some francium because of a steady-state decay chain.</image>
+</images>
+</element>
+
+</elementlist>

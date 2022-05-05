@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+<!-- English Documents; Paul Alan Freshney 2006
+	 www.paulalanfreshney.com/education
+ 	 pt@paulalanfreshney.com
+
+	 I have made these XML master files public domain so that they can be
+     translated and made available to a wider range of people as possible.
+     
+     Please translate the text to any language and email me then so that 
+     I can include them with future releases.
+     
+     Thanks,
+             Paul Alan Freshney, October 16th 2006
+ -->
+
+<documents>
+
+<document>
+	<title>Elements Commonly Found in Living Things</title>
+	<author>Paul Alan Freshney</author>
+	<filename>lifeelements</filename>	
+	<body>
+		<title>Elements needed for Life</title>
+		<ptxt>There are 20 elements that are required in some part or another for life on Earth. They are, in <glink ref="an">atomic number</glink> order;</ptxt>
+		<ptxt><elink ref="1">Hydrogen</elink>, <elink ref="6">Carbon</elink>, <elink ref="7">Nitrogen</elink>, <elink ref="10">Oxygen</elink>, <elink ref="11">Sodium</elink>, <elink ref="12">Magnesium</elink>, <elink ref="15">Phosphorus</elink>, <elink ref="16">Sulfur</elink>, <elink ref="19">Potassium</elink>, <elink ref="20">Calcium</elink>, <elink ref="26">Iron</elink>, <elink ref="29">Copper</elink>, <elink ref="30">Zinc</elink>, <elink ref="53">Iodine</elink>.</ptxt>
+		<ptxt></ptxt>
+	</body>
+</document>
+
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+
+<document>
+	<title>The Alkali (Group 1) Metals</title>
+	<author>Paul Alan Freshney</author>
+	<filename>groupone</filename>
+	<body>
+		<title>Members of Group 1</title>
+		<ptxt>There are six elements in Group 1 of the Periodic Table. In increasing reactivity; <elink ref="3">lithium</elink>, <elink ref="11">sodium</elink>, <elink ref="19">potassium</elink>, <elink ref="37">rubidium</elink>, <elink ref="55">cesium</elink> and <elink ref="73">francium</elink> (which is radioactive and highly unstable). <elink ref="1">Hydrogen</elink> although it appears at the top of group one is not included except for one rare circumstance; under extremely high pressure, such as is found at the core of Jupiter, <elink ref="1">hydrogen</elink> does become metallic and behaves like an alkali metal.</ptxt>
+		<title>Properties</title>
+		<ptxt>The reactivity of group 1 metals increases from the top (lowest <glink ref="an">atomic number</glink>) to the bottom (highest <glink ref="an">atomic number</glink>) of the group, there are simlar trends to be observed with <glink ref="mp">melting points</glink> and density. All members of Group 1 are very reactive, they are never found in elemental form in nature and they have to be stored in oil to prevent them from reacting with <elink ref="8">oxygen</elink> or moisture in the <glink ref="air">air</glink>. When they react with water they produce alkaline solutions.</ptxt>
+		<ptxt>These metals are all easily cut with a knife, they are all shiny, but because of the high reactivity quickly turn dull if directly exposed to air as they oxidize easily. Compared to other metals the Group 1 Metals all have low melting points. Like all other metals they are good conductors of electricity. They all have low densities compared to other metals and will float on water.</ptxt>
+		<title>Reactions</title>
+		<ptxt>The alkali metals react readily with <glink ref="halogens">halogens</glink> to form ionic salts, and with water to form strongly alkaline (basic) hydroxides. These elements all have one <glink ref="electron">electron</glink> in their outermost shell, so the energetically preferred state of achieving a filled electron shell is to lose one <glink ref="electron">electron</glink> to form a singly charged positive <glink ref="ion">ion</glink>.</ptxt>
+		<ptxt>Alkali metals are famous for their vigorous reactions with water, and these reactions become increasingly violent as you move down the groups. The reaction with water is as follows:</ptxt>		
+		<ptxt><img ref="g1reaction" /></ptxt>
+		<ptxt>With potassium as an example;</ptxt>
+		<ptxt><img ref="kh20" /></ptxt>
+		<ptxt></ptxt>
+		<ptxt>When <elink ref="3">lithium</elink> is dropped into water it fizzes and turns into <elink ref="3">lithium</elink> hydroxide (LiOH). Like with all the alkali metal reactions with water, <elink ref="1">hydrogen</elink> gas is also released during this reaction with water.</ptxt>
+		<ptxt>The reaction of <elink ref="11">sodium</elink> with water generates so much heat that it melts the <elink ref="11">sodium</elink>. It moves around on the surface of the water rapidly, and sparks are sometimes observed. This ignites the <elink ref="1">hydrogen</elink> gas which is released during this reaction. The resulting compound is sodium hydroxide (NaOH).</ptxt>
+		<ptxt>The reaction of <elink ref="19">potassium</elink> with water is violent. Extreme precautions are needed, since the molten metal is often ejected from the surface of the water into the air. In this reaction, enough energy is produced to ignite the <elink ref="1">hydrogen</elink>, creating a lilac flame above the <elink ref="19">potassium</elink>. The resulting compound is <elink ref="19">potassium</elink> hydroxide (KOH).</ptxt>
+		<ptxt>The reaction of <elink ref="11">sodium</elink> with <elink ref="17">chlorine</elink> gas produces common table salt (NaCl), the reaction gives a bright yellow flame. This <glink ref="compound">compound</glink> is colourless. Other salts are also produced in reactions with chlorine; lithium chloride (LiCl) and <elink ref="19">potassium</elink> chloride (KCl) are other salts.</ptxt>
+		<title>Uses</title>
+		<ptxt>Because they are so reactive the Group 1 metals have few practical applications.</ptxt>
+	</body>
+</document>
+
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+
+<document>
+	<title>The Alkaline Earth Metals (Group 2)</title>
+	<author>Paul Alan Freshney</author>
+	<filename>grouptwo</filename>
+	<body>
+		<title>The Alkali Earth Metals</title>
+		<ptxt>The series of elements that form Group 2 of the Periodic Table; <elink ref="4">beryllium</elink>, <elink ref="12">magnesium</elink>, <elink ref="20">calcium</elink>, <elink ref="38">strontium</elink>, <elink ref="56">barium</elink> and <elink ref="88">radium</elink> (which is not always considered a membe due to its <glink ref="radioactivity">radioactivity</glink>).</ptxt>
+		<ptxt>The alkaline earth metals are named after their oxides, the alkaline earths, whose old-fashioned names were beryllia (BeO), magnesia (MgO), lime (CaO), strontia (SrO) and baryta (Ba(OH)<sub>2</sub>). These were named alkaline earths because of their intermediate nature between the alkalis (oxides of the alkali metals) and the rare earths (oxides of <glink ref="ree">rare earth metals</glink>).</ptxt>
+		<title>Properties and Reactions</title>		
+		<ptxt>The alkaline earth metals are silvery coloured, soft, low-density metals, which react readily with <doclink ref="halogens">halogens</doclink> to form ionic salts, and with water, though not as rapidly as the alkali metals, to form strongly alkaline (basic) hydroxides. For example, where <elink ref="11">sodium</elink> and <elink ref="19">potassium</elink> react with water at room temperature, <elink ref="12">magnesium</elink> reacts only with steam and <elink ref="20">calcium</elink> with hot water.</ptxt>
+		<ptxt><img ref="aemmg" /></ptxt>
+		<ptxt><elink ref="4">Beryllium</elink> is an exception: It does not react with water or steam, and its halides are covalent.</ptxt>
+		<ptxt>All the alkaline earth metals have two <glink ref="electron">electrons</glink> in their outermost shell, so the energetically preferred state of achieving a filled <glink ref="electron">electron</glink> shell is to lose two <glink ref="electron">electrons</glink> to form doubly charged positive <glink ref="ion">ions</glink>.</ptxt>
+		<title>Uses</title>
+		<ptxt></ptxt>	  
+	</body>
+</document>
+
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+
+<document>
+	<title>The Halogens (Group 17)</title>
+	<author>Paul Alan Freshney</author>
+	<filename>halogens</filename>	
+	<body>
+		<title>Members of the Halogens</title>
+		<ptxt>There are six elements in Group 17 (old-style: VII or VIIA) of the Periodic Table: <elink ref="9">fluorine</elink>, <elink ref="17">chlorine</elink>, <elink ref="35">bromine</elink>, <elink ref="53">iodine</elink>, <elink ref="85">astatine</elink> and the as yet undiscovered <elink ref="117">ununseptium</elink>. The term halogen was coined to mean elements which produce salt in union with a metal. It comes from 18th century scientific French nomenclature based on erring adaptations of Greek roots.</ptxt>
+		<title>Properties</title>
+		<ptxt>These elements are diatomic <glink ref="molecule">molecules</glink> (Fl<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub> etc.) in their natural form. They require one more <glink ref="electron">electron</glink> to fill their outer <glink ref="electron">electron</glink> shells, and so have a tendency to form a singly-charged negative <glink ref="ion">ion</glink>. This negative <glink ref="ion">ion</glink> is referred to as a halide <glink ref="ion">ion</glink>; salts containing these ions are known as halides.</ptxt>
+		<ptxt>Halogens are highly reactive, and as such can be harmful or lethal to biological organisms in sufficient quantities. <elink ref="9">Fluorine</elink> is the most reactive element in existence, even attacking glass, and forming <glink ref="compound">compounds</glink> with the heavier <doclink ref="inertgases">noble gases</doclink>. It is a corrosive, highly toxic gas. <elink ref="17">Chlorine</elink> and <elink ref="53">iodine</elink> are both used as disinfectants for such things as drinking water, swimming pools, fresh wounds, dishes, and surfaces. They kill bacteria and other potentially harmful microorganisms, a process known as sterilization. Their reactive properties are also put to use in bleaching. <elink ref="17">Chlorine</elink> is the active ingredient of most fabric bleaches and is used in the production of most paper products.</ptxt>
+		<ptxt>There are several trends that exist when moving down the group; increasing <glink ref="mp">melting point</glink>, increasing <glink ref="bp">boiling point</glink>, decreasing <glink ref="elecneg">electronegativity</glink> and increasing reactivity.</ptxt>
+		<title>Reactions</title>
+		<ptxt>Halide ions combined with single <elink ref="1">hydrogen</elink> <glink ref="atom">atoms</glink> to form the hydrohalic acids (i.e., HF, HCl, HBr, HI), a series of particularly strong <glink ref="acid">acids</glink>.</ptxt>
+		<title>Uses</title>
+		<ptxt>Chlorine is by far the most abundant of the halogens, and the only one needed in relatively large amounts (as chloride <glink ref="ion">ions</glink>) by humans. For example, <elink ref="17">chloride</elink> <glink ref="ion">ions</glink> play a key role in brain function by mediating the action of the inhibitory transmitter GABA and are also used by the body to produce stomach acid. <elink ref="53">Iodine</elink> is needed in trace amounts for the production of thyroid hormones such as thyroxine. On the other hand, neither <elink ref="9">fluoride</elink> nor bromine are believed to be really essential for humans, although small amounts of <elink ref="9">fluoride</elink> can make tooth enamel resistant to decay.</ptxt>
+	</body>
+</document>
+
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+
+<document>
+	<title>The Noble Gases (Group 18)</title>
+	<author>Paul Alan Freshney</author>
+	<filename>inertgases</filename>
+	<body>
+		<title>The Noble Gases</title>
+		<ptxt>The noble gases were previously referred to as inert gases, but this term is not strictly accurate because several of them do take part in chemical reactions.</ptxt>
+		<ptxt>There are seven Noble gases; <elink ref="2">helium</elink>, <elink ref="10">neon</elink>, <elink ref="18">argon</elink>, <elink ref="36">krypton</elink>, <elink ref="54">xenon</elink>, the radioactive <elink ref="86">radon</elink> and the newly synthesized <elink ref="118">ununoctium</elink>.</ptxt>
+		<title>Properties</title>
+		<ptxt>Under standard conditions, the noble gasses all occur as monatomic gases.</ptxt>
+		<ptxt></ptxt>
+		<title>Reactions</title>
+		<ptxt>Noble gases have full valence <glink ref="electron">electron</glink> shells, valence electrons are the outermost electrons of an <glink ref="atom">atom</glink> and are normally the only electrons which can participate in chemical bonding. According to atomic theory derived from quantum mechanics and experimental trends, <glink ref="atom">atoms</glink> with full valence electron shells are extraordinarily stable and therefore do not form chemical bonds.</ptxt>
+		<ptxt>All of them exihibit an extremely low chemical reactivity, in fact no conventional compounds of <elink ref="2">helium</elink> or <elink ref="10">neon</elink> have yet been prepared. <elink ref="54">Xenon</elink> and <elink ref="36">krypton</elink> are known to show some reactivity in the laboratory. Recently <elink ref="18">argon</elink> <glink ref="compound">compounds</glink> have also been successfully characterised.</ptxt>
+		<ptxt></ptxt>
+		<title>Uses</title>
+		<ptxt></ptxt>	  
+	</body>
+</document>
+
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+
+<document>
+	<title>The Transition Metals (Groups 3 to 12)</title>
+	<author>Paul Alan Freshney</author>
+	<filename>transition</filename>
+	<body>
+		<title>The Transition Metals</title>
+		<ptxt>It commonly refers to any element in the d-block of the periodic table, including <elink ref="30">zinc</elink>, <elink ref="48">cadmium</elink> and <elink ref="80">mercury</elink>. This corresponds to groups 3 to 12 on the <glink ref="pt">periodic table</glink>.</ptxt>
+		<ptxt>The (loosely defined) transition metals are the 40 chemical elements 21 to 30, 39 to 48, 71 to 80, and 103 to 112. The name transition comes from their position in the periodic table of elements. In each of the four periods in which they occur, these elements represent the successive addition of <glink ref="electron">electrons</glink> to the d atomic orbitals of the atoms. In this way, the transition metals represent the transition between group 2 elements and group 13 elements.</ptxt>
+		<title>Properties</title>
+		<ptxt></ptxt>
+		<title>Reactions</title>
+		<ptxt></ptxt>
+		<title>Uses</title>
+		<ptxt></ptxt>	  
+	</body>
+</document>
+
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+<!-- =================================================================================== -->
+
+</documents>

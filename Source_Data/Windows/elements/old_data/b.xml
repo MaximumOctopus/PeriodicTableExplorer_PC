@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Barium</name>
+<symbol>Ba</symbol>
+<atomicno>56</atomicno>
+<neutrons>81</neutrons>
+<atomicweight>137.327 (7)</atomicweight>
+<casid>7440-39-3</casid>
+<groupno>2</groupno>
+<groupname>Alkaline earth metal</groupname>
+<periodno>6</periodno>
+<block>s-block</block>
+<state>solid</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>3.51</density>
+<availability></availability>
+<dwho><blink ref="shd">Sir Humphrey Davy</blink></dwho>
+<dwhen>1808</dwhen>
+<dwhere>England</dwhere>
+<origin>Greek: barys (heavy or dense).</origin>
+<boiling>2171K</boiling>
+<melting>1002K</melting>
+<boilingC>1897'C</boilingC>
+<meltingC>727'C</meltingC>
+<sources>Found in barytine (BaSO<sub>4</sub>) and witherite (BaCO<sub>3</sub>), never found in pure form due to its reactivity.</sources>
+<uses>Used in sparkplugs, vacuum tubes, fireworks, fluorescent lamps.</uses>
+<notes>
+<ptext>All water or acid soluble barium compounds are extremely poisonous.</ptext>
+<ptext>Must be stored under a petroleum-based fluid (such as kerosene) to remain pure.</ptext>
+</notes>
+<images>
+<image name="56a"></image>
+<image name="56b">Barium burns bright green</image>
+<image name="56c">Barium at work in a firework</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Berkelium</name>
+<symbol>Bk</symbol>
+<atomicno>97</atomicno>
+<neutrons>150</neutrons>
+<atomicweight>[ 247 ]</atomicweight>
+<casid>7440-40-6</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>solid</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<density>(alpha) 14.78</density>
+<density>(beta) 13.25</density>
+<availability></availability>
+<dwho><blink ref="gts">G.T.Seaborg</blink>, S.G.Tompson, <blink ref="ag">A. Ghiorso</blink></dwho>
+<dwhen>1949</dwhen>
+<dwhere>United States</dwhere>
+<origin>After Berkeley the home town of the University of California.</origin>
+<boiling>unknown</boiling>
+<melting>1259K</melting>
+<boilingC>unknown</boilingC>
+<meltingC>986'C</meltingC>
+<sources>Some compounds have been made and studied. Made by bombarding americium with alpha particles.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>Berkelium is a radioactive rare earth metal. It is named after the University of California at Berkeley (USA). Apparently, berkelium tends to accumulate in the skeletal system.</ptext>
+<ptext>It is of no commercial importance and only a few of its compounds are known.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Beryllium</name>
+<symbol>Be</symbol>
+<atomicno>4</atomicno>
+<neutrons>5</neutrons>
+<atomicweight>9.012182 (3)</atomicweight>
+<casid>7440-41-7</casid>
+<groupno>2</groupno>
+<groupname>Alkaline earth metal</groupname>
+<periodno>2</periodno>
+<block>s-block</block>
+<state>solid</state>
+<colour>lead grey </colour>
+<classification>Metallic</classification>
+<density>1.85</density>
+<availability></availability>
+<dwho><blink ref="fw">Fredrich Wohler</blink>, <blink ref="aabb">A. A. Bussy</blink></dwho>
+<dwhen>1798</dwhen>
+<dwhere>Germany/France</dwhere>
+<origin>From the mineral beryl.</origin>
+<boiling>3243K</boiling>
+<melting>1551K</melting>
+<boilingC>2469'C</boilingC>
+<meltingC>1287'C</meltingC>
+<sources>Found mostly in minerals like beryl and chrysoberyl.</sources>
+<uses>Its ability to absorb large amounts of heat makes it useful in spacecraft, missiles, aircraft, etc. Emeralds are beryl crystals with <elink ref="24">chromium</elink> traces giving them their green color. Also used in light weight metal alloys, X-ray tube windows, watch springs and sparkless tools.</uses>
+<notes>
+<ptext>Beryllium comes from Greek beryllos, beryl. It has also been called Glucinium or Glucinum from the Greek word glykys which means "sweet." Beryllum is found in beryl, chrysoberyl and phenacite. Aquamarine and emeralds are precious forms of beryl. It has a high <glink ref="mp">melting point</glink> for a light metal and is more elastic than steel. It is used in computer parts, gyroscopes and for construction. Beryllium and its salts are toxic and should be handled with great care. Do not taste it to confirm that it is sweet. Beryllium is a potential occupational carcinogen (lung cancer).</ptext>
+<ptext>Beryllium and its salts are toxic substances and potentially carcinogenic.</ptext>
+<ptext>Beryllium is an essential constituent of about 100 out of about 4000 known minerals.</ptext>
+</notes>
+<images>
+<image name="4"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Bismuth</name>
+<symbol>Bi</symbol>
+<atomicno>83</atomicno>
+<neutrons>126</neutrons>
+<atomicweight>208.98038 (2)</atomicweight>
+<casid>7440-69-9</casid>
+<groupno>15</groupno>
+<groupname>Pnictogen</groupname>
+<periodno>6</periodno>
+<block>p-block</block>
+<state>solid</state>
+<colour>lustrous reddish white</colour>
+<classification>Metallic</classification>
+<density>9.78</density>
+<availability></availability>
+<dwho>Known to the ancients.</dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>German: wissmuth (white mass).</origin>
+<boiling>1873K</boiling>
+<melting>544.7K</melting>
+<boilingC>1564'C</boilingC>
+<meltingC>271.5'C</meltingC>
+<sources>It can be found free in nature and in minerals like bismuthine (Bi<sub>2</sub>O<sub>3</sub>) and in bismuth ochre (Bi<sub>2</sub>O<sub>3</sub>). Canada, Bolivia, Japan, Mexico and Peru are major producers.</sources>
+<uses>Main use is in pharmaceuticals, low <glink ref="mp">melting point</glink> alloys, fuses, sprinklers, glass, ceramics and as a catalyst in rubber production.</uses>
+<notes>
+<ptext>In the early 1990s, research began to evaluate bismuth as a nontoxic replacement for lead in various applications.</ptext>
+</notes>
+<images>
+<image name="83a">Pure Bismuth</image>
+<image name="83b">Nugget of Bismuth from Bolivia</image>
+<image name="83c">A Bismuth crystal grown in a laboratory</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Bohrium</name>
+<symbol>Bh</symbol>
+<atomicno>107</atomicno>
+<neutrons>262</neutrons>
+<atomicweight>[ 264 ]</atomicweight>
+<casid>54037-14-8</casid>
+<groupno>7</groupno>
+<groupname>(none)</groupname>
+<periodno>7</periodno>
+<block>d-block</block>
+<state>presumably a solid</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability></availability>
+<dwho>Soviet scientists at the Joint Institute for Nuclear Research</dwho>
+<dwhen>1976</dwhen>
+<dwhere>Dubna, USSR</dwhere>
+<origin>Named in honor of the Danish physicist Niels Bohr</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>Synthetically by bombarding Bi<sup>204</sup> with heavy nuclei of Cr<sup>54</sup>.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>In 1975 Soviet scientists in Dubna were able to synthesize element 107 which then existed for only 2/1000's of a second. Physicists at the Heavy Ion Research Laboratory in Darmstadt West Germany confirmed this discovery by synthesizing and identifying six <glink ref="nucleus">nuclei</glink> of the element. In August of 1997 the International Union of Pure and Applied Chemistry announced the official naming of this element as Bohrium.</ptext>
+<ptext>Bohrium is a synthetic element that is not occur naturally anywhere.</ptext>
+<ptext>The German discoverers at GSI proposed the name Nielsbohrium (symbol Ns) after Niels Bohr. IUPAC are happy to name an element after Bohr but suggest bohrium (Bh) on the grounds that the first name of a person does not appear in the names of any other element named after a person. This seems to have been accepted by all concerned.</ptext>
+<ptext>Element 107 was previously known as Unnilseptium; from the latin from "one zero seven".</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Boron</name>
+<symbol>B</symbol>
+<atomicno>5</atomicno>
+<neutrons>6</neutrons>
+<atomicweight>10.811 (7)</atomicweight>
+<casid>7440-42-8 </casid>
+<groupno>13</groupno>
+<groupname>(none) </groupname>
+<periodno>2</periodno>
+<block>p-block</block>
+<state>solid</state>
+<colour>black</colour>
+<classification>Semi-metallic</classification>
+<density>2.34</density>
+<availability></availability>
+<dwho><blink ref="shd">H. Davy</blink>, <blink ref="jlgl">J.L. Gay-Lussac</blink>, <blink ref="ljt">L.J. Thenard</blink></dwho>
+<dwhen>1828</dwhen>
+<dwhere>England/France</dwhere>
+<origin>From borax and carbon.</origin>
+<boiling>4200K</boiling>
+<melting>2349K</melting>
+<boilingC>3927'C</boilingC>
+<meltingC>2076'C</meltingC>
+<sources>Obtained from kernite, a kind of borax.</sources>
+<uses>Used with <elink ref="22">titanium</elink> and <elink ref="74">tungsten</elink> to make light weight heat resistant alloys. Also tennis rackets, regulators in nuclear plants, heat resistant glass and eye disinfectant.</uses>
+<notes>
+<ptext>Boron is never found in the elemental form in nature. It was first obtained by <blink ref="ffhm">Moissan</blink> in 1895 by reduction of boric anhydride with <elink ref="12">magnesium</elink> in a thermite-type reaction (Moissan, Ann. Chim Phys 7:6, 296, 1895). This is still used for obtaining large quantities of impure boron. Highly purified crystalline boron is obtained by vapor phase reduction of the compound boron trichloride with hydrogen on electrically heated filaments in a flow system (Stern, Lynds, Journal of Electrochemical Society, 105, 676. 1958).</ptext>
+<ptext>The USA and Turkey are the world's largest producers of boron.</ptext>
+</notes>
+<images>
+<image name="5"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Bromine</name>
+<symbol>Br</symbol>
+<atomicno>35</atomicno>
+<neutrons>45</neutrons>
+<atomicweight>79.904</atomicweight>
+<casid>7726-95-6</casid>
+<groupno>17</groupno>
+<groupname>Halogen</groupname>
+<periodno>4</periodno>
+<block>p-block</block>
+<state>liquid</state>
+<colour>red-brown, metallic lustre when solid</colour>
+<classification>Non-metallic</classification>
+<density>(liquid) 3.1028</density>
+<availability></availability>
+<dwho><blink ref="ajb">Antoine J. Balard</blink></dwho>
+<dwhen>1826</dwhen>
+<dwhere>France</dwhere>
+<origin>Greek: bromos (stench).</origin>
+<boiling>332.25K</boiling>
+<melting>265.9K</melting>
+<boilingC>332.25K</boilingC>
+<meltingC>265.9K</meltingC>
+<sources>Occurs in compounds in sea water.</sources>
+<uses>Used for water purification (swimming pools), manufacture of ethylene dibromide (anti-knocking gasoline), bleaching, organic synthesis, solvent, analytical reagent, fire retardant for plastics, pharmaceuticals, shrink-proofing wool.</uses>
+<notes>
+<ptext>About 500 million kilograms of bromine are produced each year worldwide, with the USA and Israel being the main producers.</ptext>
+<ptext>Elemental bromine is a strong irritant and, in concentrated form, will produce painful blisters on exposed skin and especially mucous membranes. Even low concentrations of bromine vapor (from 10 ppm) can affect breathing, and inhalation of significant amounts of bromine can seriously damage the respiratory system.</ptext>
+</notes>
+<images>
+<image name="35"></image>
+</images>
+</element>
+
+</elementlist>

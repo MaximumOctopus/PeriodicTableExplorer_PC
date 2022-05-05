@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Lanthanum</name>
+<symbol>La</symbol>
+<atomicno>57</atomicno>
+<neutrons>82</neutrons>
+<atomicweight>138.9055 (2)</atomicweight>
+<casid>7439-91-0</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>6.162</density>
+<availability></availability>
+<dwho><blink ref="cqm">Carl Mosander</blink></dwho>
+<dwhen>1839</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>Greek: lanthanein (to lie hidden).</origin>
+<boiling>3737K</boiling>
+<melting>1193K</melting>
+<boilingC>3464'C</boilingC>
+<meltingC>920'C</meltingC>
+<sources>Found with other rare earch elements in monazite and bastnasite.</sources>
+<uses>Because it gives glass refractive properties, it is used in expensive camera lenses. Also used in lighter flints, studio lighting, battery electrodes and catalytic converters. Lanthanum is silvery white, malleable, ductile, and soft enough to be cut with a knife. It is one of the most reactive of the <glink ref="lanthanides">rare-earth metals</glink>. It oxidises rapidly when exposed to air. Cold water attacks lanthanum slowly, and hot water attacks it much more rapidly. The metal reacts directly with elemental <elink ref="6">carbon</elink>, <elink ref="7">nitrogen</elink>, <elink ref="5">boron</elink>, <elink ref="34">selenium</elink>, <elink ref="14">silicon</elink>, <elink ref="15">phosphorus</elink>, <elink ref="16">sulfur</elink>, and with <glink ref="halogens">halogens</glink>. It is a component of misch metal (used for making lighter flints).</uses>
+<notes>
+<ptext>In animals, the injection of lanthanum solutions produces glycaemia, low blood pressure, degeneration of the spleen and hepatic alterations.</ptext>
+</notes>
+<images>
+<image name="57"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Lawrencium</name>
+<symbol>Lr</symbol>
+<atomicno>103</atomicno>
+<neutrons>157</neutrons>
+<atomicweight>[ 262 ]</atomicweight>
+<casid>22537-19-5</casid>
+<groupno>3</groupno>
+<groupname></groupname>
+<periodno>7</periodno>
+<block>d-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability>Lawrencium is a synthetic "rare earth metal" which does not occur in the environment.</availability>
+<dwho><blink ref="ag">A. Ghiorso</blink>, T.Sikkeland, A.E.Larsh, R.M.Latimer</dwho>
+<dwhen>1961</dwhen>
+<dwhere>United States</dwhere>
+<origin>After Ernest O. Lawrence.</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>Purely synthetic element. Produced by bombarding <elink ref="98">californium</elink> with <elink ref="5">boron</elink> ions.</sources>
+<uses>None.</uses>
+</element>
+
+<element>
+<name isotope="y">Lead</name>
+<symbol>Pb</symbol>
+<atomicno>82</atomicno>
+<neutrons>125</neutrons>
+<atomicweight>207.2 (1)</atomicweight>
+<casid>7439-92-1</casid>
+<groupno>14</groupno>
+<groupname></groupname>
+<periodno>6</periodno>
+<block>p-block</block>
+<state>solid at 298 K</state>
+<colour>bluish white</colour>
+<classification>Metallic</classification>
+<density>11.34</density>
+<availability>Lead is available in several forms including foil, granules, ingots, powder, rod, shot, sheet, and wire.</availability>
+<dwho>Known to the ancients.</dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>Latin: plumbum.</origin>
+<boiling>2022K</boiling>
+<melting>600.6K</melting>
+<boilingC>1749'C</boilingC>
+<meltingC>327.46'C</meltingC>
+<sources>Lead occurs rarely in nature. The main lead mineral is galena (which is 86.6% lead). Lead is also found in ore with <elink ref="30">zinc</elink>, <elink ref="47">silver</elink> and (most abundantly) <elink ref="29">copper</elink>.</sources>
+<uses>Used in solder, as a colouring agent in ceramic glazes (red and yellow), shielding against radiation, in batteries and ammunition.</uses>
+<notes>
+<ptext>Lead is extremely toxic, but its effects are accumulative and most often develop after extended exposure. Lead affects the nervous system, causing mental retardation or other nervous disorders. It also affects other organs of the body. People suffering from lead poisoning may exhibit weakness, general disability, nervous disorders and eventual death. Children are most susceptable, partly because they have rapid motabolism and are small and partly because of their habits. They chew on things that might contain lead paint and play on floors and ground that might be contaminated, often putting their fingers in their mouth.</ptext>
+<ptext>Lead is a poisonous metal that can damage nervous connections and cause blood and brain disorders. A classic example of lead poisoning occurred in the early 1900's, but the cause of death was only recently determined. A large number of explorer families traveled to Alaska. The guide who escorted them contacted many different suppliers for provisions. He got a really good deal on canned food that he couldn't refuse. They set out on their journey and were never heard from again. Searchers never found any survivors. Years later someone decided to find out what happened. Bodies were found along with provisions. As it turned out, the cans had been sealed with lead solder. All of the human remains were wery high in lead content. They had, in fact, all died of lead poisoning.</ptext>
+</notes>
+<images>
+<image name="82"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Lithium</name>
+<symbol>Li</symbol>
+<atomicno>3</atomicno>
+<neutrons>4</neutrons>
+<atomicweight>[ 6.941 (2)]</atomicweight>
+<casid>7439-93-2</casid>
+<groupno>1</groupno>
+<groupname>Alkali metal</groupname>
+<periodno>2</periodno>
+<block>s-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white/grey</colour>
+<classification>Metallic</classification>
+<density>0.534</density>
+<availability></availability>
+<dwho><blink ref="jaa">Johann Arfvedson</blink></dwho>
+<dwhen>1817</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>Greek: lithos (stone).</origin>
+<boiling>1615K</boiling>
+<melting>453.69K</melting>
+<boilingC>1342'C</boilingC>
+<meltingC>180.54'C</meltingC>
+<sources>Found in trace amounts in the minerals; spodumene, ambylgonite, lepidolite. Most commercial lithium is recovered from brines sources in Chile. Also obtained by passing electric charge through melted lithium chloride.</sources>
+<uses>Used in batteries, ceramics, glass, lubricants, alloy hardeners, pharmaceuticals, hydrogenating agents, heat transfer liquids, rocket propellants, vitamin A synthesis, nuclear reactor coolant, underwater buoyancy devices and the production of tritium. Deoxidizer in copper and copper alloys.</uses>
+<notes>
+<ptext>Near its melting point, lithium ignites in air. Lithium posses a dangerous fire and explosion risk when exposed to water, acids or oxidizing agents. It reacts exothermally with <elink ref="7">nitrogen</elink> in moist air at high temperatures. In solution lithium is toxic and targets the central nervous system.</ptext>
+</notes>
+<images>
+<image name="3a"></image>
+<image name="3b"></image>
+</images></element>
+
+
+<element>
+<name isotope="y">Lutetium</name>
+<symbol>Lu</symbol>
+<atomicno>71</atomicno>
+<neutrons>104</neutrons>
+<atomicweight>174.967 (1)</atomicweight>
+<casid>7439-94-3</casid>
+<groupno>3</groupno>
+<groupname></groupname>
+<periodno>6</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>9.841</density>
+<availability></availability>
+<dwho><blink ref="gu">Georges Urbain</blink></dwho>
+<dwhen>1907</dwhen>
+<dwhere>France</dwhere>
+<origin>From Lutetia the ancient name of Paris.</origin>
+<boiling>3675K</boiling>
+<melting>1925K</melting>
+<boilingC>3402'C</boilingC>
+<meltingC>1652'C</meltingC>
+<sources>Found with ytterbium in gadolinite and xenotime.</sources>
+<uses>This element is very expensive to obtain in useful quantities and therefore it has very few commercial uses. Used in alloys and can be used as a catalyst in cracking, hydrogenation, polymerization and alkylation.</uses>
+<notes>
+<ptext>Because of the difficulty in producing pure lutetium it is one of the most expensive metals, costing around six times as much per gram as <elink ref="79">gold</elink>.</ptext>
+</notes>
+<images>
+<image name="71"></image>
+</images>
+</element>
+
+</elementlist>

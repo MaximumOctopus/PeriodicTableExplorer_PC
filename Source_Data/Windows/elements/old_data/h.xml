@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Hafnium</name>
+<symbol>Hf</symbol>
+<atomicno>72</atomicno>
+<neutrons>106</neutrons>
+<atomicweight>178.49</atomicweight>
+<casid>7440-58-6</casid>
+<groupno>4</groupno>
+<groupname>(none)</groupname>
+<periodno>6</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>grey steel</colour>
+<classification>Metallic</classification>
+<density>13.31</density>
+<availability></availability>
+<dwho><blink ref="dc">Dirk Coster</blink>, <blink ref="gcdh">George Hevesy</blink></dwho>
+<dwhen>1923</dwhen>
+<dwhere>Denmark</dwhere>
+<origin>From Hafnia, the Latin name of Copenhagen.</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>Hafnium does not exist in nature in elemental form. Obtained from mineral zircon.</sources>
+<uses>Used in gas-filled and incandescent lamps, reactor control rods because of its ability to absorb neutrons also as a gas scavenger in vacuum tubes.</uses>
+<ptext>A man made radioactive element and the first transactinide element.</ptext>
+<images>
+<image name="72"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Hassium</name>
+<symbol>Hs</symbol>
+<atomicno>108</atomicno>
+<neutrons>157</neutrons>
+<atomicweight>[269]</atomicweight>
+<casid>54037-57-9</casid>
+<groupno>8</groupno>
+<groupname>(none)</groupname>
+<periodno>7</periodno>
+<block>d-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability>Hassium, is a synthetic element that is not present in the environment at all.</availability>
+<dwho><blink ref="pa">Peter Armbruster</blink>, Gottfried Munzenber, et al.</dwho>
+<dwhen>1984</dwhen>
+<dwhere><blink ref="hirl">GSI</blink>, Darmstadt, Germany</dwhere>
+<origin>Latin "Hassias" meaning "Hess", the German state.</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>Synthetically prepared element.</sources>
+<uses>None</uses>
+<notes>
+<ptext>In August of 1997 the International Union of Pure and Applied Chemistry announced the official naming of this element as Hassium.</ptext>
+<ptext>Element 108 was previously known as Unniloctium; from the latin for "one zero eight".</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Helium</name>
+<symbol>He</symbol>
+<atomicno>2</atomicno>
+<neutrons>2</neutrons>
+<atomicweight>4.002602</atomicweight>
+<casid>7440-59-7</casid>
+<groupno>18</groupno>
+<groupname>Noble gas</groupname>
+<periodno>1</periodno>
+<block>p-block</block>
+<state>gas at 298 K</state>
+<colour>colourless</colour>
+<classification>Non-metallic</classification>
+<densityg>0.1786</densityg>
+<availability>There is very little helium on earth as nearly all present during and immediately after the earth's formation has long since been lost as it is so light. Just about all the helium remaining on the planet is the result of radioactive decay. While there is some helium in the atmosphere, currently its isolation from that source by liquefaction and separation of air is not normally economic. This is bacause it is easier, and cheaper, to isolate the gas from certain natural gases. Concentrations of helium in natural gas in the USA are as high as 7% and other good sources include natural gas from some sources in Poland. It is isolable from these gases by liquefaction and separation of from the natural gas. This would not normally be carried out in the laboratory and helium is available commercially in cylinders under pressure.</availability>
+<dwho><blink ref="swh">Sir William Ramsey</blink>, Nils Langet, <blink ref="ptc">P T Cleve</blink></dwho>
+<dwhen>1895</dwhen>
+<dwhere>Scotland/Sweden</dwhere>
+<origin>Greek: helios (sun).</origin>
+<boiling>4.215K</boiling>
+<melting>0.95K</melting>
+<boilingC>-268.93'C</boilingC>
+<meltingC>-272.2'C</meltingC>
+<sources>Found in natural gas deposits and in the air (5 parts per billion) Constantly lost to space; replenished by radioactive decay (alpha particles). Helium is the second most abundant element in the universe by mass (25%). Most of the helium supplied around the world comes from the area around Amarillo, Texas.</sources>
+<uses>Used in balloons, deep sea diving and welding. Also used in very low temperature research and nuclear power plant coolant. Future possible uses include use as coolant for nuclear fusion power plants and in superconducting electric systems.</uses>
+<notes>
+<ptext>Helium has the lowest melting and boiling point of any element. Liquid Helium is called a "quantum fluid" as it displays atomic properties on a macroscopic scale. The viscosity of liquid helium is 25 micropoises (water has a viscosity of 10,000 micropoises). As helium is cooled below its transition point, it has an unusual property of superfluidity with a viscosity approaching zero micropoises. In addition, liquid helium has extremely high thermal conductivity.</ptext>
+<ptext>Helium is the second most abundant and second lightest element in the periodic table. It is also the least reactive of all the group 18 (<glink ref="noble">noble gases</glink>) elements.</ptext>
+<ptext>One cubic metre of helium with lift 1kg. Helium is the preferred choice for airships as although it is more expensive it is not flammable and has 92% the lifting power of <elink ref="1">hydrogen</elink>.</ptext>
+<ptext>The voice of a person who has inhaled helium temporarily sounds high-pitched, resembling those of the cartoon characters "Alvin and the Chipmunks". This is because the speed of sound in helium is nearly three times that in air.</ptext>
+</notes>
+<images>
+<image name="2"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Holmium</name>
+<symbol>Ho</symbol>
+<atomicno>67</atomicno>
+<neutrons>98</neutrons>
+<atomicweight>164.93032</atomicweight>
+<casid>7440-60-0</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>8.79</density>
+<availability></availability>
+<dwho><blink ref="jls">J.L. Soret</blink></dwho>
+<dwhen>1878</dwhen>
+<dwhere>Switzerland</dwhere>
+<origin>From Holmia, the Latin name for Stockholm.</origin>
+<boiling>2993K</boiling>
+<melting>1734K</melting>
+<boilingC>2720'C</boilingC>
+<meltingC>1461'C</meltingC>
+<sources>Occurs in gadolinite, monazie and other rare-earth minerals.</sources>
+<uses>As control-rods for nuclear reactors because it readily absorbs neutrons. Forms highly magnetic compounds when combined with <elink ref="39">yttrium</elink>.</uses>
+<images>
+<image name="67"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Hydrogen</name>
+<symbol>H</symbol>
+<atomicno>1</atomicno>
+<neutrons>0</neutrons>
+<atomicweight>1.00794</atomicweight>
+<casid>1333-74-0</casid>
+<groupno>1</groupno>
+<groupname>(none)</groupname>
+<periodno>1</periodno>
+<block>s-block</block>
+<state>gas at 298 K (the lightest gas known)</state>
+<colour>colourless</colour>
+<classification>Non-metallic</classification>
+<density>0.08988</density>
+<availability></availability>
+<dwho><blink ref="hc">Henry Cavendish</blink></dwho>
+<dwhen>1766</dwhen>
+<dwhere>England</dwhere>
+<origin>Greek: hudor (water) and gennan (generate)</origin>
+<boiling>20.268K</boiling>
+<melting>14.01K</melting>
+<boilingC>-252.87'C</boilingC>
+<meltingC>-259.14'C</meltingC>
+<sources>Found chiefly combined with <elink ref="8">oxygen</elink> in the form of water, also found in mines and oil and gas wells. Stars contain a virtually unlimited supply hydrogen and in the universe, hydrogen is the most abundant element (hydrogen makes up 73% of the mass of the visible universe).</sources>
+<uses>Hydrogen's uses include: being used in the production of ammonia, ethanol, hydrogen chloride and hydrogen bromide; the hydrogenation of vegetable oils; hydrocracking, hydroforming and hydrofining of petroleum; atomic-hydrogen welding; instrument-carrying ballons; fuel in rockets; and cryogenic research. Its two heavier <glink ref="isotope">isotopes</glink>, deuterium (D) and tritium (T), are used respectively for nuclear fission and fusion.</uses>
+<notes>
+<ptext>Hydrogen is a tasteless, colorless, odorless and extremely flammable gas, it is also the lightest chemical element.</ptext>
+</notes>
+<images>
+<image name="1">Hydrogen burns with a clean white flame</image>
+</images>
+</element>
+
+</elementlist>

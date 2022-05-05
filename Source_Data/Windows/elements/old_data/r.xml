@@ -1,0 +1,268 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Radium</name>
+<symbol>Ra</symbol>
+<atomicno>88</atomicno>
+<neutrons>138</neutrons>
+<atomicweight>[ 226 ]</atomicweight>
+<casid>7440-14-4</casid>
+<groupno>2</groupno>
+<groupname>Alkaline earth metal</groupname>
+<periodno>7</periodno>
+<block>s-block</block>
+<state>solid</state>
+<colour>metallic</colour>
+<classification>Metallic</classification>
+<density>5.5</density>
+<availability></availability>
+<dwho><blink ref="pc">Pierre</blink> and <blink ref="mc">Marie Curie</blink></dwho>
+<dwhen>1898</dwhen>
+<dwhere>France</dwhere>
+<origin>Latin: radius (ray).</origin>
+<boiling>2010K</boiling>
+<melting>973K</melting>
+<boilingC>1737'C</boilingC>
+<meltingC>700'C</meltingC>
+<sources>Found in <elink ref="92">uranium</elink> ores at 1 part per 3 million parts <elink ref="92">uranium</elink>.</sources>
+<uses>Used in treating cancer because of the gamma rays it gives off.</uses>
+<notes>
+<ptext>Radium is highly radioactive and its decay product, radon gas is also radioactive. Since radium is chemically similar to <elink ref="20">calcium</elink>, it has the potential to cause great harm by replacing it in the bone.</ptext>
+<ptext>Radium is over a million times more reactive than an equivalent mass of <elink ref="92">Uranium</elink>.</ptext>
+</notes>
+<images>
+<image name="88"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Radon</name>
+<symbol>Rn</symbol>
+<atomicno>86</atomicno>
+<neutrons>136</neutrons>
+<atomicweight>[ 222 ]</atomicweight>
+<casid>10043-92-2</casid>
+<groupno>18</groupno>
+<groupname>Noble gas</groupname>
+<periodno>6</periodno>
+<block>p-block</block>
+<state>gas</state>
+<colour>colourless</colour>
+<classification>Non-metallic</classification>
+<availability></availability>
+<dwho>Fredrich Ernst Dorn</dwho>
+<dwhen>1898</dwhen>
+<dwhere>Germany</dwhere>
+<origin>From radium.</origin>
+<boiling>211.3K</boiling>
+<melting>202K</melting>
+<boilingC>-61.6'C</boilingC>
+<meltingC>-72'C</meltingC>
+<sources>Formed from the decay of <elink ref="88">radium</elink> in the earth's crust.</sources>
+<uses>Used to treat some forms of cancer, also used in earthquake prediction.</uses>
+<notes>
+<ptext>On average, there is one atom of radon in 1 x 10<sup>21</sup> molecules of air. Radon can be found in some spring waters and hot springs. The towns of Misasa, Japan, and Bad Kreuznach, Germany boast <elink ref="88">radium</elink>-rich springs which emit radon.</ptext>
+<ptext>Radon is the heaviest <glink ref="noble">noble gas</glink> and one of the heaviest gases at room temperature.</ptext>
+<ptext>Previoulsy known as Emanation. Radon is a health threat in homes built on granite and radon detectors should be used in the basement of homes. High radon levels can often be mitigated by utilizing ventilation. At ordinary temperatures radon is a colourless gas. When cooled below the freezing point, radon exhibits a brilliant phosphorescence which becomes yellow as the temperature is lowered and orange-red at the temperature of liquid air. The main hazard is from inhalation of the element and its decay products which are collected on dust in the air. Radon is present in some spring waters.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Rhenium</name>
+<symbol>Re</symbol>
+<atomicno>75</atomicno>
+<neutrons>111</neutrons>
+<atomicweight>186.207 (1)</atomicweight>
+<casid>7440-15-5</casid>
+<groupno>7</groupno>
+<groupname>(none)</groupname>
+<periodno>6</periodno>
+<block>d-block</block>
+<state>solid</state>
+<colour>greyish white</colour>
+<classification>Metallic</classification>
+<density>21.02</density>
+<availability>Mmany forms including foil, powder, ribbon, rod, and wire.</availability>
+<dwho><blink ref="wn">Walter Noddack</blink>, <blink ref="ietn">Ida Tacke</blink>, Otto Berg</dwho>
+<dwhen>1925</dwhen>
+<dwhere>Germany</dwhere>
+<origin>From the Rhines provinces of Germany.</origin>
+<boiling>5869K</boiling>
+<melting>3459K</melting>
+<boilingC>5596'C</boilingC>
+<meltingC>3186'C</meltingC>
+<sources>Found in small amounts in gadolinite and molybdenite. This element is widely spread through the earth's crust at approximately 0.001 parts per million.</sources>
+<uses>It is added to <elink ref="74">tungsten</elink> and <elink ref="42">molybdenum</elink> alloys and is used in refractory metal components of missiles, electronic filaments, electrical contacts, high-temperature thermocouplers, oven filaments, electrodes, igniters for flash bulbs, jewellery, plating of metals by electrolysis and vapor-phase deposition.</uses>
+<notes>
+<ptext>Rhenium is a metallic element that has a very high tensile strength (80,000psi), high modulus of elasticity, is virtually insoluble in hydrochloric acid and does not oxidize or corrode in saltwater. In addition it has the widest range of valences of any element and it retains its crystalline structure all the way to its melting point. Alloys of rhenium-<elink ref="42">molybdenum</elink> are superconductive at 10K.</ptext>
+<ptext>Rhenium was the last naturally-occuring element to be discovered.</ptext>
+</notes>
+<images>
+<image name="75"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Rhodium</name>
+<symbol>Rh</symbol>
+<atomicno>45</atomicno>
+<neutrons>158</neutrons>
+<atomicweight>102.90550 (2)</atomicweight>
+<casid>7440-16-6</casid>
+<groupno>9</groupno>
+<groupname>Precious metal or Platinum group metal</groupname>
+<periodno>5</periodno>
+<block>d-block</block>
+<state>solid</state>
+<colour>silvery white metallic</colour>
+<classification>Metallic</classification>
+<density>12.41</density>
+<availability></availability>
+<dwho><blink ref="whw">William Wollaston</blink></dwho>
+<dwhen>1803</dwhen>
+<dwhere>England</dwhere>
+<origin>Greek: rhodon (rose). Its salts give a rosy solution.</origin>
+<boiling>3968K</boiling>
+<melting>2237K</melting>
+<boilingC>3695'C</boilingC>
+<meltingC>1964'C</meltingC>
+<sources>Obtained as a by-product of <elink ref="28">nickel</elink> production. Over 80% of the world's rhodium exports comes from South Aftica. The annual production of rhodium is only around 20 tonnes.</sources>
+<uses>Used as a coating to prevent wear on high quality science equipment and with <elink ref="78">platinum</elink> to make thermocouples. Also used in headlight reflectors, thelephone relays, fountain pen points and airplane spark plugs. Sometimes used to give white <elink ref="79">gold</elink> extra shine.</uses>
+<images>
+<image name="45"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Roentgenium</name>
+<symbol>Rg</symbol>
+<atomicno>111</atomicno>
+<neutrons>161</neutrons>
+<atomicweight>[ 272 ]</atomicweight>
+<casid>54386-24-2</casid>
+<groupno>11</groupno>
+<groupname>none.</groupname>
+<periodno>7</periodno>
+<block>d-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>Unknown, but probably metallic and silvery white or grey in appearance. Man made radioactive metal.</colour>
+<classification>Metallic</classification>
+<availability>Roentgenium is not commercially available</availability>
+<dwho><blink ref="hirl">GSI</blink></dwho>
+<dwhen>1994</dwhen>
+<dwhere>Darmstadt, West Germany</dwhere>
+<origin></origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>Only a few atoms of element 111 have ever been made through a nuclear reaction involving fusion of an <glink ref="isotope">isotope</glink> of <elink ref="83">bismuth</elink>, <sup>209</sup>Bi, with one of <elink ref="28">nickel</elink>, <sup>64</sup>Ni. Isolation of an observable quantity has never been achieved, and may well never be.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>The name was accepted as permanent on November 1st 2004.</ptext>
+<ptext>Element 111 was previously known as Unununium; from the latin for "one one one".</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Rubidium</name>
+<symbol>Rb</symbol>
+<atomicno>37</atomicno>
+<neutrons>48</neutrons>
+<atomicweight>85.4678 (3)</atomicweight>
+<casid>7440-17-7</casid>
+<groupno>1</groupno>
+<groupname>Alkali metal</groupname>
+<periodno>5</periodno>
+<block>s-block</block>
+<state>solid</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>1.532</density>
+<availability></availability>
+<dwho><blink ref="rwb">Robert Bunsen</blink>, <blink ref="grk">Gustav Kirchoff</blink></dwho>
+<dwhen>1861</dwhen>
+<dwhere>Germany</dwhere>
+<origin>Latin: rubidus (red); the color its salts impart to flames.</origin>
+<boiling>961K</boiling>
+<melting>312.46K</melting>
+<boilingC>688'C</boilingC>
+<meltingC>39.31'C</meltingC>
+<sources>Occurs abundantly, but so widespread that production is limited. Usually obtained from <elink ref="3">lithium</elink> production. Occurs in the minerals leucite, pollucite and zinnwaldite.</sources>
+<uses>Used in fireworks (to give them a purple colour), atomic clocks, photoelectric cells, vacuum tubes, heart research and as a catalyst.</uses>
+<notes>
+<ptext>Rubidium reacts violently with water and can cause fires.</ptext>
+</notes>
+<images>
+<image name="37a"></image>
+<image name="37b"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Ruthenium</name>
+<symbol>Ru</symbol>
+<atomicno>44</atomicno>
+<neutrons>57</neutrons>
+<atomicweight>101.07 (2)</atomicweight>
+<casid>7440-18-8</casid>
+<groupno>8</groupno>
+<groupname>Precious metal or Platinum group metal</groupname>
+<periodno>5</periodno>
+<block>d-block</block>
+<state>solid</state>
+<colour>silvery white metallic</colour>
+<classification>Metallic</classification>
+<density>12.45</density>
+<availability></availability>
+<dwho><blink ref="kk">Karl Klaus</blink></dwho>
+<dwhen>1844</dwhen>
+<dwhere>Russia</dwhere>
+<origin>From Ruthenia Latin name of Russia.</origin>
+<boiling>4423K</boiling>
+<melting>2607K</melting>
+<boilingC>4150'C</boilingC>
+<meltingC>2334'C</meltingC>
+<sources>Found in the minerals pentlandite and pyroxinite. It is also possible to extract Ruthenium from spent nuclear fuel, which contains an average of 2 kg per metric ton.</sources>
+<uses>Used to harden <elink ref="78">platinum</elink> and <elink ref="46">palladium</elink>. Also used in eye treatments, thickness meters for egg shells, fountain pen points, and electrical contacts. Aircraft magnetos use platinum alloy with 10% ruthenium.</uses>
+<images>
+<image name="44"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Rutherfordium</name>
+<symbol>Rf</symbol>
+<atomicno>104</atomicno>
+<neutrons>157</neutrons>
+<atomicweight>[ 261 ]</atomicweight>
+<casid>53850-36-5</casid>
+<groupno>4</groupno>
+<groupname>(none)</groupname>
+<periodno>7</periodno>
+<block>d-block</block>
+<state>presumably a solid</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability>Rutherfordium is a synthetic element that is not present in the environment at all.</availability>
+<dwho><blink ref="ag">A. Ghiorso</blink>, Nurmia, Harris, K.A.Y. Eskola, and P.L. Eskola</dwho>
+<dwhen>1969</dwhen>
+<dwhere>Berkeley California</dwhere>
+<origin>In honor of Ernest R. Rutherford, a New Zealand physicist.</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>Bombarding <glink ref="94">plutonium</glink> with accelerated 113 to 115 <glink ref="ev">MeV</glink> <elink ref="10">Neon</elink> ions. Also by bombarding a target of Cf<sup>249</sup> with C<sup>12</sup> nuclei of 71 <glink ref="ev">MeV</glink>, and C<sup>13</sup> nuclei of 69 <glink ref="ev">MeV</glink>.</sources>
+<uses>It has no uses.</uses>
+<notes>
+<ptext>Evidence of element 104 was first detected at the Joint Nuclear Research Institute at Dubna (USSR) in 1964 by bombarding <elink ref="94">plutonium</elink> with accelerated 113 to 115 <glink ref="ev">MeV</glink> <elink ref="10">neon</elink> ions. By measuring fission tracks in a special glass with a microscope, the scientists detected an <glink ref="isotope">isotope</glink> that decays by spontaneous fission. The <glink ref="isotope">isotope</glink> was thought to be Rf<sup>260</sup> with a half life of 0.15 to 0.3 seconds. It was not until 1969, however that the group in Berkley were able to chemically separate element 104 and positively identified two possibly three <glink ref="isotope">isotopes</glink> of the element.</ptext>
+<ptext>In August of 1997 the International Union of Pure and Applied Chemistry announced the official naming of this element as Rutherfordium with the atomic symbol of Rf. The IUPAC choose Rutherfordium over the Russians' choice of Kurchatovium, which was in honor of Igor Vasilevich Kurchatov (1903-1960), former Head of Soviet Nuclear Research.</ptext>
+<ptext>Element 104 was previously known as Unnilquadium; from the latin from "one zero four".</ptext>
+</notes>
+</element>
+
+</elementlist>

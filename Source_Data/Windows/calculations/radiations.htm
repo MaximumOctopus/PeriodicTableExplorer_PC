@@ -1,0 +1,427 @@
+ <HTML>
+<HEAD>
+<META NAME="GENERATOR" CONTENT="Microsoft FrontPage 2.0">
+<TITLE>GraphPad Radioactivity Calculator</TITLE>
+
+
+
+<SCRIPT>
+<!--Copyright (1996) GraphPad Software Inc. All rights reserved -->
+
+
+
+var NotDemo;
+
+var Demo = false;
+
+function ClearResult(form)
+  {form.Result.value=''}
+
+
+function Compute1(form)
+{
+   var h =parseFloat(form.hlife.value);
+   form.hlife.value =h
+   var t = parseFloat(form.ndays.value);
+   form.ndays.value = t
+   var k=0.693147/h
+   var f = 1.0*Math.exp(-1.0*k*t);
+   var answer = eval(parseInt(10000*f)/100)+"%";
+    if (Demo) {answer = "Not registered."}
+   form.Result.value=answer;
+   document.conc.decay.value=eval(parseInt(10000*f)/100)+"%"
+
+}
+
+function Compute6(form)
+{
+ var e = parseFloat(form.mCiml.value);
+   form.mCiml.value=e;
+   if (e==0) {form.Result.value="Enter mCi/mmole";return}
+
+ var c = parseFloat(form.Cimmole.value);
+  form.Cimmole.value=c;
+  if (c==0) {form.Result.value="Enter Ci/mmole";return}
+
+ var d = parseFloat(form.decay.value);
+  if (d<1) {d=d*100}
+  form.decay.value=d+"%";
+ var conc=(0.001*e/c)*1e6 * (d*.01)
+ // Molar*micromoles/mole * fractionRemaining  = micromolar
+ document.dilute.StockConc.value=parseInt(1000*conc)/1000
+if (conc<1)
+   {conc=conc*1000;var answer=parseInt(1000*conc)/1000+" nanomolar"}
+   else {var answer=parseInt(1000*conc)/1000+" micromolar"}
+ if (Demo) {answer = "Not registered."}
+   form.Result.value=answer;
+}
+
+
+function Compute7(form)
+{
+ var s = parseFloat(form.StockConc.value);
+  form.StockConc.value=s;
+  if (s==0) {form.Result.value="Enter stock conc.";return}
+ var c = parseFloat(form.NeededConc.value);
+  form.NeededConc.value=c;
+  if (c==0) {form.Result.value="Enter conc. needed";return}
+ var v = parseFloat(form.volume.value);
+  form.volume.value=v;
+  if (v==0) {form.Result.value="Enter volume";return}
+ if (c>1000*s) {form.Result.value="[diluted] > [stock]!";return}
+ var n=(c/s)*v
+  // result in microliter. Two factors of 1000 cancel (uM vs nM, mL vs uL)
+ if (n>1000)
+   {n=n/1000;var answer=parseInt(1000*n)/1000+"mL"}
+   else {var answer=parseInt(1000*n)/1000+" microliter"}
+  if (Demo) {answer = "Not registered."}
+   form.Result.value=answer;
+
+}
+
+
+function Compute2(form)
+{
+ var e = parseFloat(form.Efficiency.value);
+  if (e>100) {e=100}
+  if (e<1) {e=e*100}
+  form.Efficiency.value=e+"%";
+ var c = parseFloat(form.Cimmole.value);
+  form.Cimmole.value=c;
+ if (form.RadUnits.selectedIndex==1) {c=c/37.0 }
+ var f = c*2.22*e/100.;
+ f=parseInt(10*f)/10
+ var answer=f+" cpm/fmol";
+
+  if (Demo) {answer = "Not registered."}
+   form.Result.value=answer;
+ 
+  document.fmolmg.cpmfmol.value=f;
+ document.sitescell.cpmfmol.value=f;
+ document.nM.cpmfmol.value=f;
+
+}
+
+function Compute3(form)
+{
+ var e = parseFloat(form.cpmfmol.value);
+  form.cpmfmol.value=e;
+ if (e==0) {form.Result.value="Enter cpm/fmol";return}
+ var c = parseFloat(form.cpm.value);
+  form.cpm.value=c;
+ var m = parseFloat(form.mg.value);
+  form.mg.value=m;
+ var fmol=c/e
+ if (m==0)
+   {var answer=eval(parseInt(100*fmol)/100)+" fmol"}
+  else   {var answer=eval(parseInt(100*fmol/m)/100)+" fmol/mg"}
+
+   if (Demo) {answer = "Not registered."}
+   form.Result.value=answer;
+
+}
+
+function Compute4(form)
+{
+ var e = parseFloat(form.cpmfmol.value);
+  form.cpmfmol.value=e;
+ if (e==0) {form.Result.value="Enter cpm/fmol";return}
+ var c = parseFloat(form.cpm.value);
+  form.cpm.value=c;
+ var n = parseFloat(form.number.value);
+  form.number.value=n;
+ var sites=(c/e)*6.02e8
+ if (n==0)
+   {var answer=parseInt(sites)+" sites"}
+  else {var answer=parseInt(sites/n)+" sites/cell"}
+  if (Demo) {answer = "Not registered."}
+   form.Result.value=answer;
+
+}
+
+function Compute5(form)
+{
+ var e = parseFloat(form.cpmfmol.value);
+  form.cpmfmol.value=e;
+ if (e==0) {form.Result.value="Enter cpm/fmol";return}
+ var c = parseFloat(form.cpm.value);
+  form.cpm.value=c;
+ var v = parseFloat(form.volume.value);
+  form.volume.value=v;
+ var fmol=(c/e)
+ if (v==0)
+   {form.Result.value=parseInt(fmol)+" fmol"; return}
+ var r=fmol/v
+ if (r<1)
+   {r=r*1000;var answer=parseInt(1000*r)/1000+" pM"}
+   else {var answer=parseInt(1000*r)/1000+" nM"}
+
+  if (Demo) {answer = "Not registered."}
+   form.Result.value=answer;
+}
+
+
+
+</SCRIPT>
+</HEAD>
+
+<BODY bgcolor="White" >
+
+
+
+
+<link rel="stylesheet" href="SMW.css">
+ 
+	<TABLE width="574">
+		<TR valign="TOP">
+			<td colspan="6" align="left">
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tr>
+						<td><a href="../welcome.htm"><img src="hdrA.jpg" alt="GraphPad Software. Data analysis and biostatistics resources." border="0"></a></td>
+						<td><a href="../prism/"><img src="hdrB.jpg" alt="Prism is a powerful combination of basic biostatistics, curve fitting and scientific graphing in one comprehensive program." border="0"></a></td>
+						<td><a href="../instat/"><img src="hdrC.jpg" alt="InStat is a less cumbersome alternative to typical heavy-duty statistical programs. With InStat, even a statistical novice can analyze data in just a few minutes." border="0"></a></td>
+						<td><a href="../StatMate/"><img src="hdrD.jpg" alt="StatMate leads you step by step through power and sample size analyses." border="0"></a></td>
+						<td><a href="../demos/"><img src="hdrE.jpg" alt="Try our software free for 30 days" border="0"></a></td>
+					</tr>
+					<tr>
+						<td colspan="5"><a href="index.cfm"><img src="QClogo.jpg" alt="" border="0"></a></td>
+					</tr>
+				</table>
+			</td>
+		</TR>
+		
+			
+			  
+			      
+					  <tr> 
+					   <td align="center"><a href="index.cfm" style="color: Teal;"><font color="Teal">1. Select category</font></a></td>
+					   
+					   <td align="center"><a href="ChemMenu.cfm" style="color: Teal;"><font color="Teal">2. Choose calculator</font></a></td>
+					   
+				<td align="center"><b><font color="Teal">3. Choices and results</font></b></td>
+			</tr>	
+						
+											
+		
+	            
+    
+</table>
+
+<div  style="margin-left: 35px;"> 
+
+
+ 
+
+<TABLE BORDER="0">
+    <TR>
+        <TD WIDTH="600">
+<h2>Radioactivity calculator</h2>
+<P>Radioactively labeled compounds are commonly used in biological and chemical research.
+Use these calculators to perform the radioactivity calculations commonly used in
+setting up and analyzing biochemical and pharmacological experiments. Note that this page
+has seven independent calculators, and that the results will appear right on this page. 
+<a href="radcalch.cfm">How do these calculations work?</a>.
+<p>
+
+<NOSCRIPT> 
+<p>
+NOTE: The calculations are performed by  JavaScript, which is built in to of Netscape
+and Internet Explorer. Your browser does NOT support JavaScript -- probably because
+        JavaScript (or VBscript) is disabled in an Options or
+        Preferences dialog. Although you can see the calculators
+        below, they won't work.
+</NOSCRIPT> 
+</td>    </TR>
+</TABLE>
+<TABLE BORDER=0 CELLPADDING=5 >
+    <TR>
+        <TD VALIGN="top" WIDTH="175"><h3>Isotope decay</h3> </TD>
+        <TD WIDTH="525"><FORM NAME="Decay">
+            <P>Isotope: <INPUT TYPE="radio" NAME="Isotope"
+            ONCLICK="form.hlife.value=59.6"><SUP>125</SUP>I
+            &nbsp; <INPUT TYPE="radio" NAME="Isotope"
+            ONCLICK="form.hlife.value=14.3;ClearResult(this.form)"><SUP>32</SUP>P
+            &nbsp; <INPUT TYPE="radio" NAME="Isotope"
+            ONCLICK="form.hlife.value=25.3;ClearResult(this.form)"><SUP>33</SUP>P
+            &nbsp; <INPUT TYPE="radio" NAME="Isotope"
+            ONCLICK="form.hlife.value=87.4;ClearResult(this.form)"><SUP>35</SUP>S
+            &nbsp; <INPUT TYPE="radio" NAME="Isotope"
+            ONCLICK="form.hlife.value=4537;ClearResult(this.form)"><SUP>3</SUP>H
+            &nbsp; <INPUT TYPE="radio" NAME="Isotope"
+            ONCLICK="form.hlife.value=''"
+            ;CLEARRESULT(THIS.FORM)">Other <BR>
+            Half life (days): <INPUT TYPE="text" SIZE="12"
+            NAME="hlife"
+            ONFOCUS="ClearResult(this.form);
+{Isotope[5].checked=true}"> <BR>
+            Number of days: <INPUT TYPE="text" SIZE="12"
+            NAME="ndays" ONFOCUS="ClearResult(this.form)"> </P>
+            <P><INPUT TYPE="button" VALUE="Percent Remaining ="
+            ONCLICK="Compute1(this.form)"
+            ONFOCUS="Compute1(this.form)"> <INPUT TYPE="text"
+            SIZE="25" NAME="Result"> </P>
+        </FORM>
+        </TD>
+    </TR>
+</TABLE>
+<br>
+
+<TABLE BORDER="0" CELLPADDING="5" >
+    <TR>
+        <TD VALIGN="top" WIDTH="175"><h3>Concentration of stock</h3><ONT> </TD>
+        <TD WIDTH="525"><FORM NAME="conc">
+            <P>% remaining isotope: <INPUT TYPE="text" SIZE="12"
+            NAME="decay" ONFOCUS="ClearResult(this.form)"> <BR>
+            Original dilution: <INPUT TYPE="text" SIZE="12"
+            NAME="mCiml" ONFOCUS="ClearResult(this.form)">
+           <SELECT NAME="DilutionUnits" SIZE="1"            ONCHANGE="RadUnits.selectedIndex=DilutionUnits.selectedIndex;
+               SpActivity.RadUnits.selectedIndex=DilutionUnits.selectedIndex">
+                <OPTION VALUE= "US" SELECTED>mCi/ml</OPTION>
+                <OPTION VALUE="INT">MBq/ml</OPTION>
+            </SELECT><BR>
+            Original activity: <INPUT TYPE="text" SIZE="12"
+            NAME="Cimmole" ONFOCUS="ClearResult(this.form)">
+           <SELECT NAME="RadUnits" SIZE="1"             ONCHANGE="DilutionUnits.selectedIndex=RadUnits.selectedIndex;
+                 SpActivity.RadUnits.selectedIndex=DilutionUnits.selectedIndex">
+                <OPTION VALUE="US" SELECTED>Ci/mmole</OPTION>
+                <OPTION VALUE="INT">GBq/mmole</OPTION>
+            </SELECT></P>
+            <P><INPUT TYPE="button" VALUE="Stock Concentration ="
+            ONCLICK="Compute6(this.form)"> <INPUT TYPE="text"
+            SIZE="25" NAME="Result"> <BR>
+            Assumes compound was 100% labeled originally (carrier
+            free) </P>
+        </FORM>
+        </TD>
+    </TR>
+</TABLE>
+<br>
+
+<TABLE BORDER="0" CELLPADDING="5">
+    <TR>
+        <TD VALIGN="top" WIDTH="175"><h3>Dilution of stock</h3> </TD>
+        <TD WIDTH="525"><FORM NAME="dilute">
+            <P>Concentration of stock solution (micromolar): <INPUT
+            TYPE="text" SIZE="12" NAME="StockConc"
+            ONFOCUS="ClearResult(this.form)"> <BR>
+            Dilute to this concentration in nM: <INPUT
+            TYPE="text" SIZE="12" NAME="NeededConc"
+            ONFOCUS="ClearResult(this.form)"> <BR>
+            Final dilution volume in ml: <INPUT TYPE="text"
+            SIZE="12" NAME="volume"
+            ONFOCUS="ClearResult(this.form)"> </P>
+            <P><INPUT TYPE="button" VALUE="Stock volume needed ="
+            ONCLICK="Compute7(this.form)"> <INPUT TYPE="text"
+            SIZE="25" NAME="Result"> </P>
+        </FORM>
+        </TD>
+    </TR>
+</TABLE>
+<br>
+
+<TABLE BORDER="0" CELLPADDING="5" >
+    <TR>
+        <TD VALIGN="top" WIDTH="175"><h3>Specific activity (cpm/fmol)</h3></FONT><B> </B></TD>
+        <TD WIDTH="525"><FORM NAME="SpActivity">
+            <P>Specific radioactivity: <INPUT TYPE="text" SIZE="12"
+            NAME="Cimmole" ONFOCUS="ClearResult(this.form)">
+            <SELECT NAME="RadUnits" SIZE="1" ONCHANGE="ClearResult(this.form)">
+                <OPTION VALUE="US" SELECTED>Ci/mmole</OPTION>
+                <OPTION VALUE="INT">GBq/mmole</OPTION>
+            </SELECT></P>
+            Counter efficiency (%): <INPUT TYPE="text" SIZE="12"
+            NAME="Efficiency" ONFOCUS="ClearResult(this.form)">
+						<P><INPUT TYPE="button" VALUE="Specific Activity ="
+            ONCLICK="Compute2(this.form)"> <INPUT TYPE="text"
+            SIZE="25" NAME="Result"> </P>
+					</FORM>
+        </TD>
+    </TR>
+</TABLE>
+
+
+<BR>
+
+<TABLE BORDER="0" CELLPADDING="5" >
+    <TR>
+        <TD VALIGN="top" WIDTH="175"><h3>Cpm to fmol/mg</h3></TD>
+        <TD WIDTH="525"><FORM NAME="fmolmg">
+            <P>cpm/fmole: <INPUT TYPE="text" SIZE="12"
+            NAME="cpmfmol" ONFOCUS="ClearResult(this.form)"> <BR>
+            cpm: <INPUT TYPE="text" SIZE="12" NAME="cpm"
+            ONFOCUS="ClearResult(this.form)"> <BR>
+            mg protein: <INPUT TYPE="text" SIZE="12" NAME="mg"
+            ONFOCUS="ClearResult(this.form)"> </P>
+            <P><INPUT TYPE="button" VALUE="fmol/mg ="
+            ONCLICK="Compute3(this.form)"> <INPUT TYPE="text"
+            SIZE="25" NAME="Result"> </P>
+        </FORM>
+        </TD>
+    </TR>
+</TABLE>
+
+<br>
+
+<TABLE BORDER="0" CELLPADDING="5" >
+    <TR>
+        <TD VALIGN="top" WIDTH="175"><h3>Cpm to sites/cell</h3></TD>
+        <TD WIDTH="525"><FORM NAME="sitescell">
+            <P>cpm/fmol: <INPUT TYPE="text" SIZE="12"
+            NAME="cpmfmol" ONFOCUS="ClearResult(this.form)"> <BR>
+            cpm: <INPUT TYPE="text" SIZE="12" NAME="cpm"
+            ONFOCUS="ClearResult(this.form)"> <BR>
+            cell count: <INPUT TYPE="text" SIZE="12" NAME="number"
+            ONFOCUS="ClearResult(this.form)"> </P>
+            <P><INPUT TYPE="button" VALUE="sites/cell ="
+            ONCLICK="Compute4(this.form)"> <INPUT TYPE="text"
+            SIZE="25" NAME="Result"> </P>
+        </FORM>
+        </TD>
+    </TR>
+</TABLE>
+
+
+<BR>
+
+<TABLE BORDER="0" CELLPADDING="5" >
+    <TR>
+        <TD VALIGN="top" WIDTH="175"><h3>Cpm to nM</h3></TD>
+        <TD WIDTH="525"><FORM NAME="nM">
+            <P>cpm/fmol: <INPUT TYPE="text" SIZE="12"
+            NAME="cpmfmol" ONFOCUS="ClearResult(this.form)"> <BR>
+            cpm: <INPUT TYPE="text" SIZE="12" NAME="cpm"
+            ONFOCUS="ClearResult(this.form)"> <BR>
+            microliters: <INPUT TYPE="text" SIZE="12"
+            NAME="volume" ONFOCUS="ClearResult(this.form)"> </P>
+            <P><INPUT TYPE="button" VALUE="concentration ="
+            ONCLICK="Compute5(this.form)"> <INPUT TYPE="text"
+            SIZE="25" NAME="Result"> </P>
+        </FORM>
+        </TD>
+    </TR>
+</TABLE>
+
+
+<BR>
+
+
+
+
+
+
+<body leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+	
+	<table>
+		<tr>
+			<td align="center"><img src="footer.jpg" border="0" width="792" height="41"></td>
+		</tr>
+	</table>
+</body>
+
+
+
+
+
+
+</BODY>
+</HTML> 

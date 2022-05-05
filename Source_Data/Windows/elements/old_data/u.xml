@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="n">Ununbium</name>
+<symbol>Uub</symbol>
+<atomicno>112</atomicno>
+<atomicweight>[ 285 ]</atomicweight>
+<casid>54084-26-3</casid>
+<groupno>12</groupno>
+<groupname>(none)</groupname>
+<periodno>7</periodno>
+<block>d-block</block>
+<state>presumably a liquid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability>This item is purely synthetic and is not available commercially.</availability>
+<dwho><blink ref="hirl">GSI</blink></dwho>
+<dwhen>Feb 9th 1996</dwhen>
+<dwhere>GSI, Darmstadt, Germany</dwhere>
+<origin>From the latin for "one one two".</origin>
+<boiling>unknown</boiling>
+<melting>unknwon</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>Element 112 was discovered on 9th February 1996 at 22:37 at the GSI in Darmstadt, Germany.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>As only a few atoms of element 112 have ever been made (through a nuclear reaction involving fusing a <elink ref="30">zinc</elink> atom with a <elink ref="82">lead</elink> atom) isolation of an observable quantity has never been achieved, and may well never be. This is because atoms of the element decompose through the emission of <glink ref="ad">a-particles</glink> with a <glink ref="hl">half life</glink> of only about 240 microseconds.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="n">Ununhexium</name>
+<symbol>Uuh</symbol>
+<atomicno>116</atomicno>
+<atomicweight>[ 292 ]</atomicweight>
+<casid>54100-71-9</casid>
+<groupno>16</groupno>
+<groupname>Chalcogen</groupname>
+<periodno>7</periodno>
+<block>p-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability>This item is purely synthetic and is not available commercially.</availability>
+<dwho>Dubna (Joint Institute for Nuclear Research)</dwho>
+<dwhen>2000</dwhen>
+<dwhere>Russia</dwhere>
+<origin>From the latin for "one one six".</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources></sources>
+<uses>None.</uses>
+</element>
+
+<element>
+<name isotope="n">Ununoctium</name>
+<symbol>Uuo</symbol>
+<atomicno>118</atomicno>
+<atomicweight>unknown</atomicweight>
+<casid>54144-19-3</casid>
+<groupno>18</groupno>
+<groupname>Noble Gases</groupname>
+<periodno>7</periodno>
+<block>p-block</block>
+<state>presumably a gas at 298 K</state>
+<colour>unknown, but probably a colourless gas</colour>
+<classification>Non-metallic </classification>
+<availability>This item is purely synthetic and is not available commercially.</availability>
+<dwho>n/a</dwho>
+<dwhen>n/a</dwhen>
+<dwhere>n/a</dwhere>
+<origin>From the latin for "one one eight".</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>None.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>A team of Berkeley Lab scientists that announced in 1999 the observation of what appeared to be Element 118, the heaviest undiscovered transuranic element at the time, have retracted its original paper after several confirmation experiments failed to reproduce the results.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="n">Ununpentium</name>
+<symbol>Uup</symbol>
+<atomicno>115</atomicno>
+<atomicweight>[ 288 ]</atomicweight>
+<casid>54085-64-2</casid>
+<groupno>15</groupno>
+<groupname>Pnictogen</groupname>
+<periodno>7</periodno>
+<block>p-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability>This item is purely synthetic and is not available commercially.</availability>
+<dwho>Dubna (Joint Institute for Nuclear Research)</dwho>
+<dwhen>2004</dwhen>
+<dwhere>Russia</dwhere>
+<origin>From the latin for "one one five".</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources></sources>
+<uses>None.</uses>
+<notes>
+<ptext>Experiments resulting in the formation of element 115 were reported in February 2004 following experiments carried out between 14 July - 10 August 2003 involving scientists at Dubna (Joint Institute for Nuclear Research at the U400 cyclotron with the Dubna gas-filled recoil separator, DGFRS) in Russia in a collaboration also involving scientists at the Lawrence Livermore National Laboratory, USA. Only four nuclei were identified and the claim has not yet been ratified, but the results are now published in a reputable peer-reviewed journal.</ptext>
+<ptext>Currently, the identification of element 115 is yet to be confirmed by IUPAC, but the experiments leading to element 115 are now published in a prestigious peer reviewed journal. As only about four atoms of element 115 have ever been made (through nuclear reactions involving fusing <elink ref="20">calcium</elink> nuclei with <elink ref="95">americium</elink> <glink ref="nucleus">nuclei</glink>) isolation of an observable quantity has never been achieved, and may well never be.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="n">Ununquadium</name>
+<symbol>Uuq</symbol>
+<atomicno>114</atomicno>
+<atomicweight>[ 289 ]</atomicweight>
+<casid>54085-16-4</casid>
+<groupno>14</groupno>
+<groupname>(none)</groupname>
+<periodno>7</periodno>
+<block>p-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability>This item is purely synthetic and is not available commercially.</availability>
+<dwho>Dubna (Joint Institute for Nuclear Research)</dwho>
+<dwhen>1999</dwhen>
+<dwhere>Russia</dwhere>
+<origin>From the latin for "one one four".</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources></sources>
+<uses>None.</uses>
+<notes>
+<ptext>Element 114 was reported informally in January 1999 following experiments towards the end of December 1998 involving scientists at Dubna (Joint Institute for Nuclear Research) in Russia apparently using isotopes supplied by scientists at the Lawrence Livermore National Laboratory, USA. Only one <glink ref="atom">atom</glink> was identified and the claim has not yet been ratified.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="n">Ununseptium</name>
+<symbol>Uus</symbol>
+<atomicno>117</atomicno>
+<atomicweight>unknown</atomicweight>
+<casid>87658-56-8</casid>
+<groupno>17</groupno>
+<groupname>Halogen</groupname>
+<periodno>7</periodno>
+<block>p-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and dark in appearance </colour>
+<classification>unknown</classification>
+<availability>This element has yet to be isolated.</availability>
+<dwho></dwho>
+<dwhen></dwhen>
+<dwhere></dwhere>
+<origin>From the latin for "one one seven".</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources></sources>
+<uses>None.</uses>
+<notes>
+<ptext>These details are purely speculative as the element has yet to be isolated.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="n">Ununtrium</name>
+<symbol>Uut</symbol>
+<atomicno>113</atomicno>
+<atomicweight>[ 284 ]</atomicweight>
+<casid>54084-70-7</casid>
+<groupno>13</groupno>
+<groupname>(none)</groupname>
+<periodno>7</periodno>
+<block>p-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability>This item is purely synthetic and is not available commercially.</availability>
+<dwho>Dubna (Joint Institute for Nuclear Research)</dwho>
+<dwhen>2004</dwhen>
+<dwhere>Russia</dwhere>
+<origin>From the latin for "one one three".</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>Experiments resulting in the formation of element 113 were reported in February 2004 following experiments carried out between 14 July - 10 August 2003 involving scientists at Dubna (Joint Institute for Nuclear Research at the U400 cyclotron with the Dubna gas-filled recoil separator, DGFRS) in Russia in a collaboration also involving scientists at the Lawrence Livermore National Laboratory, USA. In these experiments, the primary product were four nuclei of element 115 isotopes. All these four nuclei decayed through the emisson of a-particles to isotopes of element 113. The claim has not yet been ratified, but the results are now published in a reputable peer-reviewed journal.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>Currently, the identification of element 113 is yet to be confirmed by IUPAC, but the experiments leading to element 113 are now published in a prestigious peer reviewed journal. As only about four atoms of element 113 has ever been made (through decomposition of element 115 nuclei made in nuclear reactions involving fusing <elink ref="20">calcium</elink> nuclei with <elink ref="95">americium</elink> <glink ref="nucleus">nuclei</glink>) isolation of an observable quantity has never been achieved, and may well never be.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Uranium</name>
+<symbol>U</symbol>
+<atomicno>92</atomicno>
+<neutrons>146</neutrons>
+<atomicweight>238.02891 (3)</atomicweight>
+<casid>7440-61-1</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>metallic grey</colour>
+<classification>Metallic</classification>
+<density>19.1</density>
+<dwho><blink ref="mhk">Martin Klaproth</blink></dwho>
+<dwhen>1789</dwhen>
+<dwhere>Germany</dwhere>
+<origin>From planet Uranus.</origin>
+<boiling>4405.3K</boiling>
+<melting>1405K</melting>
+<boilingC>4131'C</boilingC>
+<meltingC>1132.2'C</meltingC>
+<sources>Occurs in many rocks, but in large amounts only in such minerals as pitchblende and carnotite.</sources>
+<uses>For many centuries it was used as a pigment for glass. Now it is used as a fuel in nuclear reactors and in nuclear bombs. Depleted Uranium is used in casings of armor piercing arterial shells, armor plating on tanks and as ballast in the wings of some large aircraft.</uses>
+<notes>
+<ptext>Potential occupational carcinogen (lung cancer). All <glink ref="isotope">isotopes</glink> and <glink ref="compound">compounds</glink> of uranium are toxic, <glink ref="teratogenic">teratogenic</glink> and radioactive. </ptext>
+</notes>
+<images>
+<image name="92a"></image>
+<image name="92b"></image>
+</images>
+</element>
+
+</elementlist>

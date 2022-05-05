@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Neodymium</name>
+<symbol>Nd</symbol>
+<atomicno>60</atomicno>
+<neutrons>84</neutrons>
+<atomicweight>144.24</atomicweight>
+<casid>7440-00-8</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white, yellowish tinge</colour>
+<classification>Metallic</classification>
+<density>7.01</density>
+<availability></availability>
+<dwho><blink ref="cabvw">C.F. Aver von Welsbach</blink></dwho>
+<dwhen>1925</dwhen>
+<dwhere>Austria</dwhere>
+<origin>Greek: neos (new) didymos (twin).</origin>
+<boiling>3347K</boiling>
+<melting>1297K</melting>
+<boilingC>3074'C</boilingC>
+<meltingC>1024'C</meltingC>
+<sources>Neodymium is never found in nature as the free element. It occurs in ores such as monazite sand and bastnasite.</sources>
+<uses>Used in ceramics to color glazes. And for special lens with <elink ref="59">praseodymium</elink>. Also to produce bright purple glass and special glass that filters infrared radiation.</uses>
+<notes>
+<ptext>Neodymium metal dust is a combustion and explosion hazard.</ptext>
+</notes>
+<images>
+<image name="60a"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Neon</name>
+<symbol>Ne</symbol>
+<atomicno>10</atomicno>
+<neutrons>10</neutrons>
+<atomicweight>20.1797</atomicweight>
+<casid>7440-01-9</casid>
+<groupno>18</groupno>
+<groupname>Noble gas</groupname>
+<periodno>2</periodno>
+<block>p-block</block>
+<state>gas at 298 K</state>
+<colour>colourless</colour>
+<classification>Non-metallic</classification>
+<densityg>0.9002</densityg>
+<availability></availability>
+<dwho><blink ref="swr">Sir William Ramsay</blink>, <blink ref="mt">M.W. Travers</blink></dwho>
+<dwhen>England</dwhen>
+<dwhere>1898</dwhere>
+<origin>Greek: neos (new).</origin>
+<boiling>27.096K</boiling>
+<melting>24.553K</melting>
+<boilingC>-246.08'C</boilingC>
+<meltingC>-248.59'C</meltingC>
+<sources>It can be prepared by liquification of air and separated from other elements by fractional distillation.</sources>
+<uses>In a vacuum tube, neon glows reddish orange, thus, the invention of neon lights. Neon has also been used to make lightening arrestors, voltage detectors and TV tubes.</uses>
+<notes>
+<ptext>While it is inert, there have been reports of it combining with <elink ref="9">fluorine</elink>. Neon may also form ions in combination with other noble gases (NeAr, HeNe, Ne<sub>2</sub> and with <elink ref="1">hydrogen</elink> (NeH). It also forms an unstable hydrate, so it is not nearly as inert as one might think. In a vacuum discharge tube, neon glows reddish orange. Of all the rare gases, the discharge of neon is the most intense at ordinary voltages and currents. It is present in the atmosphere as 1 part in 65000. </ptext>
+<ptext>Liquid neon has over 40 times more refrigerating capacity than liquid <elink ref="2">helium</elink>, and more than 3 times that of liquid <elink ref="1">hydrogen</elink>.</ptext>
+</notes>
+<images>
+<image name="10"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Neptunium</name>
+<symbol>Np</symbol>
+<atomicno>93</atomicno>
+<neutrons>144</neutrons>
+<atomicweight>[237]</atomicweight>
+<casid>7439-99-8</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery metallic</colour>
+<classification>Metallic</classification>
+<density>20.2</density>
+<availability></availability>
+<dwho><blink ref="emm">E.M. McMillan</blink>, <blink ref="pha">P.H. Abelson</blink></dwho>
+<dwhen>1940</dwhen>
+<dwhere>United States</dwhere>
+<origin>From planet Neptune.</origin>
+<boiling>4273K</boiling>
+<melting>910K</melting>
+<boilingC>4000'C</boilingC>
+<meltingC>637'C</meltingC>
+<sources>Produced by bombarding <elink ref="92">uranium</elink> with slow <glink ref="neutron">neutrons</glink>.</sources>
+<uses>Used in neutron detection instruments.</uses>
+<notes>
+<ptext>It was the first transuranium element produced synthetically and the first <glink ref="actinides">actinide</glink> series transuranium element discovered.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Nickel</name>
+<symbol>Ni</symbol>
+<atomicno>28</atomicno>
+<neutrons>31</neutrons>
+<atomicweight>58.6934</atomicweight>
+<casid>7440-02-0</casid>
+<groupno>10</groupno>
+<groupname>(none)</groupname>
+<periodno>4</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>lustrous, metallic, silvery tinge</colour>
+<classification>Metallic</classification>
+<density>8.908</density>
+<availability></availability>
+<dwho><blink ref="bafc">Axel Cronstedt</blink></dwho>
+<dwhen>1751</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>German: kupfernickel (false copper); nickel (satan).</origin>
+<boiling>3186K</boiling>
+<melting>1728K</melting>
+<boilingC>2913'C</boilingC>
+<meltingC>1455'C</meltingC>
+<sources>Chiefly found in limonite (Fe,Ni)O(OH), garnierite (Ni,Mg)<sub>3</sub>Si<sub>2</sub>O<sub>5</sub>(OH) and pentlandite [(Ni,Fe)<sub>9</sub>S<sub>8</sub>] ore.</sources>
+<uses>Used in electroplating and metal alloys because of its resistance to corrosion. Also in nickel-cadmium batteries, as a catalyst and for coins.</uses>
+<notes>
+<ptext>The largest producer of nickel is Russia which extracts 267,000 tonnes of nickel per year. Australia and Canada are the second and third largest producers, making 207 and 189.3 thousand tonnes per year.</ptext>
+</notes>
+<images>
+<image name="28">Nickel foil and shot</image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Niobium</name>
+<symbol>Nb</symbol>
+<atomicno>41</atomicno>
+<neutrons>52</neutrons>
+<atomicweight>92.90638</atomicweight>
+<casid>7440-03-1</casid>
+<groupno>5</groupno>
+<groupname>(none)</groupname>
+<periodno>5</periodno>
+<block>d-block</block>
+<state>solid at 298 K</state>
+<colour>grey metallic</colour>
+<classification>Metallic</classification>
+<density>8.57</density>
+<availability></availability>
+<dwho><blink ref="ch">Charles Hatchet</blink></dwho>
+<dwhen>1801</dwhen>
+<dwhere>England</dwhere>
+<origin>From Niobe; daughter of the mythical Greek king Tantalus.</origin>
+<boiling>5017K</boiling>
+<melting>2750K</melting>
+<boilingC>4744'C</boilingC>
+<meltingC>2477'C</meltingC>
+<sources>Occurs in the minerals columbite, columbite-tantalite, pyrochlore and euxenite. Brazil and Canada are the major producers of niobium mineral concentrates and extensive ore reserves are also in Nigeria, Democratic Republic of Congo, and in Russia.</sources>
+<uses>It is used in stainless steel alloys for nuclear reactors, jets, missiles, cutting tools, pipelines, super magnets and welding rods. Because of its bluish color, niobium is also used in body piercing jewellery (usually as an alloy). </uses>
+<notes>
+<ptext>Niobium containing compounds are relatively rarely encountered by most people but many are highly toxic and should be treated with care. Metallic niobium dust is an eye and skin irritant and also can be a fire hazard.</ptext>
+<ptext>Previously known as Columbium (Cb).</ptext>
+</notes>
+<images>
+<image name="41"></image>
+</images>
+</element>
+
+<element>
+<name isotope="y">Nitrogen</name>
+<symbol>N</symbol>
+<atomicno>7</atomicno>
+<neutrons>7</neutrons>
+<atomicweight>14.0067</atomicweight>
+<casid>7727-37-9</casid>
+<groupno>15</groupno>
+<groupname>Pnictogen</groupname>
+<periodno>2</periodno>
+<block>p-block</block>
+<state>gas at 298 K</state>
+<colour>colourless</colour>
+<classification>Non-metallic</classification>
+<densityg>1.251</densityg>
+<availability></availability>
+<dwho><blink ref="dr">Daniel Rutherford</blink></dwho>
+<dwhen>1772</dwhen>
+<dwhere>Scotland/Sweden</dwhere>
+<origin>Greek: zoe (vie).</origin>
+<boiling>77.36K</boiling>
+<melting>63.15K</melting>
+<boilingC>-195.79'C</boilingC>
+<meltingC>-210'C</meltingC>
+<sources>Nitrogen can be made by liquification and then fractional distillation of the air. It is very easily done commercially. It can also be made by heating NaN<sub>3</sub> to 300 degrees C.</sources>
+<uses>Nitrogen has many industrial uses in the gaseous forms, but probably the most interesting is liquid nitrogen, which is extremely cold. Items that must be frozen to extremely low temperatures for preservation are frequently stored in liquid nitrogen. Fertility clinics store sperm, eggs and embryos used to help infertile couples become pregnant in ampoules in liquid nitrogen.Since nitrogen gas is very stable, at standard temperature and pressure, it is used as the air in inert welding atmospheres. Documents, foods and chemicals are sometimes stored in nitrogen to keep them from oxidizing or reacting with air or water.</uses>
+<notes>
+<ptext>Nitrogen is the largest single component of the Earth's atmosphere (78.084% by volume, 75.5% by weight).</ptext>
+<ptext>Nitrogen in the elemental form was considered to be inert and was even named ozote which refers to the fact that it is not reactive. Of course nitrogen does form compounds, but the gaseous form consists of diamers (2 nitrogens bonded together). The diamer is very stable.</ptext>
+<ptext>Nitrogen is a major element in organic compounds, especially proteins. Some nitrogen compounds are highly reactive. Trinitrotoluene is TNT or dynamite. Ammonium Nitrate is a fertilizer, but was used as the major explosive ingredient in the Oklahoma City bombing. Anfo, or Ammonium Nitrate and fuel oil mixture is the primary explosive used in the mining industry because it is inexpensive, easy to manufacture and can be easily manufactured near the mine site thus reducing the risks and expenses related to the transportation of explosives. Nitrates, Nitrites and Azides (all nitrogen compounds are either oxidizers or reactives and will react violently under the right conditions.</ptext>
+</notes>
+<images>
+<image name="7">Boiling liquid Nitrogen</image>
+</images></element>
+
+<element>
+<name isotope="y">Nobelium</name>
+<symbol>No</symbol>
+<atomicno>102</atomicno>
+<neutrons>157</neutrons>
+<atomicweight>[259]</atomicweight>
+<casid>10028-14-5</casid>
+<groupno></groupno>
+<groupname>Actinoid</groupname>
+<periodno>7 (actinoid)</periodno>
+<block>f-block</block>
+<state>presumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>unknown, but probably metallic and silvery white or grey in appearance</classification>
+<availability></availability>
+<dwho><blink ref="ag">A. Ghiorso</blink>, T.Sikkeland, A.E.Larsh, R.M.Latimer</dwho>
+<dwhen>1957</dwhen>
+<dwhere>Sweden</dwhere>
+<origin>After Alfred Nobel, who invented dynamite and founded Nobel Prize.</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>Only very small quantities of nobelium have ever been created. Made by bombarding <elink ref="96">curium</elink> with <elink ref="6">carbon</elink>-13.</sources>
+<uses>None.</uses>
+</element>
+
+</elementlist>

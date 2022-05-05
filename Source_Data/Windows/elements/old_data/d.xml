@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="create_index_az.xsl" type="text/xsl"?>
+
+<elementlist>
+
+<element>
+<name isotope="y">Darmstadtium</name>
+<symbol>Ds</symbol>
+<atomicno>110</atomicno>
+<neutrons>281</neutrons>
+<atomicweight>[ 281 ]</atomicweight>
+<casid>54083-77-1</casid>
+<groupno>10</groupno>
+<groupname>none.</groupname>
+<periodno>7</periodno>
+<block>d-block</block>
+<state>resumably a solid at 298 K</state>
+<colour>Unknown, but probably metallic and silvery white or grey in appearance. Man made radioactive metal.</colour>
+<classification>Metallic</classification>
+<availability>Dubnium is a synthetic element that is not present in the environment at all. It has no uses.</availability>
+<dwho><blink ref="hirl">GSI (Gesellschaft fur Schwerionenforschung)</blink></dwho>
+<dwhen>1994</dwhen>
+<dwhere>Darmstadt, West Germany</dwhere>
+<origin>Element was officially named on August the 16th 2003 by the International Union of Pure and Applied Chemistry (IUPAC) at a meeting in Ottawa, Canada. The name honours the Laboratory for Heavy Ion Research (called GSI) in Darmstadt, Germany, where the substance was first made.</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>A synthetic element that is not present in the environment at all. Chemically, the element is in the same Group as nickel, palladium, and platinum (Group 10). Unlike these lighter atoms, element 110 decays after a small fraction of a thousandth of a second into lighter elements by emitting a-particles which are the nuclei of helium atoms.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>Previously known as Ununnillium and before that, Eka-Platinum.</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Dubnium</name>
+<symbol>Db</symbol>
+<atomicno>105</atomicno>
+<neutrons>268</neutrons>
+<atomicweight>[ 262 ]</atomicweight>
+<casid>53850-35-4</casid>
+<groupno>5</groupno>
+<groupname></groupname>
+<periodno>7</periodno>
+<block>d-block</block>
+<state>resumably a solid at 298 K</state>
+<colour>unknown, but probably metallic and silvery white or grey in appearance</colour>
+<classification>Metallic</classification>
+<availability>Dubnium is a synthetic element that is not present in the environment at all. It has no uses.</availability>
+<dwho>The Joint Institute for Nuclear Research</dwho>
+<dwhen>1970</dwhen>
+<dwhere>Dubna, USSR</dwhere>
+<origin>After the city of Dubna, Russia, home to the Joint Institute for Nuclear Research</origin>
+<boiling>unknown</boiling>
+<melting>unknown</melting>
+<boilingC>?</boilingC>
+<meltingC>?</meltingC>
+<sources>First synthisized by bombarding Am<sup>243</sup> with Ne<sup>22</sup>.</sources>
+<uses>None.</uses>
+<notes>
+<ptext>In August of 1997 the International Union of Pure and Applied Chemistry announced the official naming of this element as Dubnium, it has previously been known as Joliotium, Hahnium and Unnilpentium (from the latin for "one zero five").</ptext>
+</notes>
+</element>
+
+<element>
+<name isotope="y">Dysprosium</name>
+<symbol>Dy</symbol>
+<atomicno>66</atomicno>
+<neutrons>96</neutrons>
+<atomicweight>162.500 (1)</atomicweight>
+<casid>7429-91-6</casid>
+<groupno></groupno>
+<groupname>Lanthanoid</groupname>
+<periodno>6 (lanthanoid)</periodno>
+<block>f-block</block>
+<state>solid at 298 K</state>
+<colour>silvery white</colour>
+<classification>Metallic</classification>
+<density>8.540</density>
+<availability></availability>
+<dwho><blink ref="pelb">Paul emile Lecoq de Boisbaudran</blink></dwho>
+<dwhen>1886</dwhen>
+<dwhere>France</dwhere>
+<origin>Greek: dysprositos (hard to get at).</origin>
+<boiling>2835K</boiling>
+<melting>1685K</melting>
+<boilingC>2562'C</boilingC>
+<meltingC>1412'C</meltingC>
+<sources>Usually found with <elink ref="68">erbium</elink>, <elink ref="67">holmium</elink> and other rare earths in some minerals (euxenite, fergusonite, gadolinite and xenotime to name a few).</sources>
+<uses>As control-rods for nuclear reactors because it readily absorbs neutrons.</uses>
+<notes>
+<ptext>It wasn't until the 1950s that the element was isolated in a relatively pure form.</ptext>
+</notes>
+<images>
+<image name="66"></image>
+</images>
+</element>
+
+</elementlist>
