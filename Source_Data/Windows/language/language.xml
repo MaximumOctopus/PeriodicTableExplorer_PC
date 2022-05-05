@@ -1,0 +1,1895 @@
+<?xml version="1.0"?>
+<!DOCTYPE xsl:stylesheet [<!ENTITY Idash "&#237;"> <!ENTITY OSlash "&#248;">]>
+
+<language>
+
+<word>
+	<atomicno>1</atomicno>
+	<uk>Hydrogen</uk>
+	<nl>Waterstof</nl>
+	<fr>Hydrogene</fr>
+	<de>Wasserstoff</de>
+	<it>Idrogeno</it>
+	<pt>Hidrogenio</pt>
+	<es>Hidrogeno</es>
+	<sw>Vate</sw>
+	<ln>Hydrogenium</ln>
+	<cz>Vod&Idash;k</cz>
+	<cr>Vodik</cr>
+	<nw>Hydrogen</nw>
+</word>
+
+<word>
+	<atomicno>2</atomicno>
+	<uk>Helium</uk>
+	<nl>Helium</nl>
+	<fr>helium</fr>
+	<de>Helium</de>
+	<it>Elio</it>
+	<pt>Helio</pt>
+	<es>helio</es>
+	<sw>Helium</sw>
+	<ln>Helium</ln>
+	<cz>Helium</cz>
+	<cr>Helij</cr>
+	<nw>Helium</nw>
+</word>
+
+<word>             
+	<atomicno>3</atomicno>
+	<uk>Lithium</uk>
+	<nl>Lithium</nl>
+	<fr>lithium</fr>
+	<de>Lithium</de>
+	<it>Litio</it>
+	<pt>Litio</pt>
+	<es>Litio</es>
+	<sw>Litium</sw>
+	<ln>Lithium</ln>
+	<cz>Lithium</cz>
+	<cr>Litij</cr>
+	<nw>Litium</nw>	
+</word>
+
+<word>
+	<atomicno>4</atomicno>
+	<uk>Beryllium</uk>
+	<nl>Beryllium</nl>
+	<fr>beryllium</fr>
+	<de>Beryllium</de>
+	<it>Berillio</it>
+	<pt>Berilio</pt>
+	<es>Berilio</es>
+	<sw>Beryllium</sw>
+	<ln>Beryllium</ln>
+	<cz>Beryllium</cz>
+	<cr>Berilij</cr>
+	<nw>Beryllium</nw>	
+</word>
+
+<word>
+	<atomicno>5</atomicno>
+	<uk>Boron</uk>
+	<nl>Boor</nl>
+	<fr>Bore</fr>
+	<de>Bor</de>
+	<it>Boro</it>
+	<pt>Boro</pt>
+	<es>boro</es>
+	<sw>Bor</sw>
+	<ln>Borum</ln>
+	<cz>Bor</cz>
+	<cr>Bor</cr>
+	<nw>Bor</nw>	
+</word>
+
+<word>
+	<atomicno>6</atomicno>
+	<uk>Carbon</uk>
+	<nl>Koolstof</nl>
+	<fr>Carbone</fr>
+	<de>Kohlenstoff</de>
+	<it>Carbonio</it>
+	<pt>Carbono</pt>
+	<es>Carbono</es>
+	<sw>Kol</sw>
+	<ln>Carboneum</ln>
+	<cz>Uhl&Idash;k</cz>
+	<cr>Ugljik</cr>
+	<nw>Karbon</nw>	
+</word>
+
+<word>
+	<atomicno>7</atomicno>
+	<uk>Nitrogen</uk>
+	<nl>Stikstof</nl>
+	<fr>Azote</fr>
+	<de>Stickstoff</de>
+	<it>Azoto</it>
+	<pt>Nitrogenio</pt>
+	<es>nitrogeno</es>
+	<sw>Kvave</sw>
+	<ln>Nitrogenium</ln>
+	<cz>Dus&Idash;k</cz>
+	<cr>Dusik</cr>
+	<nw>Nitrogen</nw>	
+</word>
+
+<word>
+	<atomicno>8</atomicno>
+	<uk>Oxygen</uk>
+	<nl>Zuurstof</nl>
+	<fr>oxygene</fr>
+	<de>Sauerstoff</de>
+	<it>ossigeno</it>
+	<pt>Oxigenio</pt>
+	<es>oxigeno</es>
+	<sw>Syre</sw>
+	<ln>Oxygenium</ln>
+	<cz>Kysl&Idash;k</cz>
+	<cr>Kisik</cr>
+	<nw>Oksygen</nw>
+</word>
+
+<word>
+	<atomicno>9</atomicno>
+	<uk>Fluorine</uk>
+	<nl>Fluor</nl>
+	<fr>Fluor</fr>
+	<de>Fluor</de>
+	<it>fluoro</it>
+	<pt>Fluor</pt>
+	<es>fluor</es>
+	<sw>Fluor</sw>
+	<ln>Fluorum</ln>
+	<cz>Fluor</cz>
+	<cr>Fluor</cr>
+	<nw>Fluor</nw>
+</word>
+
+<word>
+	<atomicno>10</atomicno>
+	<uk>Neon</uk>
+	<nl>Neon</nl>
+	<fr>neon</fr>
+	<de>Neon</de>
+	<it>neo</it>
+	<pt>Neon</pt>
+	<es>neon</es>
+	<sw>Neon</sw>
+	<ln>Neon</ln>
+	<cz>Neon</cz>
+	<cr>Neon</cr>
+	<nw>Neon</nw>
+</word>
+
+<word>
+	<atomicno>11</atomicno>
+	<uk>Sodium</uk>
+	<nl>Natrium</nl>
+	<fr>sodium</fr>
+	<de>Natrium</de>
+	<it>sodio</it>
+	<pt>Sodio</pt>
+	<es>sodio</es>
+	<sw>Natrium</sw>
+	<ln>Natrium</ln>
+	<cz>Sod&Idash;k</cz>
+	<cr>Natrij</cr>
+	<nw>Natrium</nw>
+</word>
+
+<word>
+<atomicno>12</atomicno>
+	<uk>Magnesium</uk>
+	<nl>Magnesium</nl>
+	<fr>magnesium</fr>
+	<de>Magnesium</de>
+	<it>magnesio</it>
+	<pt>Magnesio</pt>
+	<es>magnesio</es>
+	<sw>Magnesium</sw>
+	<ln>Magnesium</ln>
+	<cz>Horc&Idash;k</cz>
+	<cr>Magnezij</cr>
+	<nw>Magnesium</nw>
+</word>
+
+<word>
+	<atomicno>13</atomicno>
+	<uk>Aluminium</uk>
+	<nl>Aluminium</nl>
+	<fr>Aluminium</fr>
+	<de>Aluminium</de>
+	<it>Alluminio</it>
+	<pt>Aluminio</pt>
+	<es>Aluminio</es>
+	<sw>Aluminium</sw>
+	<ln>Aluminium</ln>
+	<cz>Hlin&Idash;k</cz>
+	<cr>Aluminij</cr>
+	<nw>Aluminium</nw>
+</word>
+
+<word>
+	<atomicno>14</atomicno>
+	<uk>Silicon</uk>
+	<nl>Silicium</nl>
+	<fr>silicium</fr>
+	<de>Silicium</de>
+	<it>silicio</it>
+	<pt>Silicio</pt>
+	<es>silicio</es>
+	<sw>Kisel</sw>
+	<ln>Silicium</ln>
+	<cz>Krem&Idash;k</cz>
+	<cr>Silicij</cr>
+	<nw>Silisium</nw>
+</word>
+
+<word>
+<atomicno>15</atomicno>
+<uk>Phosphorus</uk>
+<nl>Fosfor</nl>
+<fr>phosphore</fr>
+<de>Phosphor</de>
+<it>fosforo</it>
+<pt>Fosforo</pt>
+<es>fosforo</es>
+<sw>Fosfor</sw>
+	<ln>Phosphorus</ln>
+	<cz>Fosfor</cz>
+	<cr>Fosfor</cr>
+	<nw>Fosfor</nw>
+</word>
+
+<word>
+	<atomicno>16</atomicno>
+	<uk>Sulfur</uk>
+	<nl>Zwavel</nl>
+	<fr>soufre</fr>
+	<de>Schwefel</de>
+	<it>solfo</it>
+	<pt>Enxofre</pt>
+	<es>Azufre</es>
+	<sw>Svavel</sw>
+	<ln>Sulphur</ln>
+	<cz>S&Idash;ra</cz>
+	<cr>Sumpor</cr>
+	<nw>Svovel</nw>
+</word>
+
+<word>
+<atomicno>17</atomicno>
+<uk>Chlorine</uk>
+<nl>Chloor</nl>
+<fr>chlore</fr>
+<de>Chlor</de>
+<it>cloro</it>
+<pt>Cloro</pt>
+<es>cloro</es>
+<sw>Klor</sw>
+	<ln>Chlorum</ln>
+	<cz>Chlor</cz>
+	<cr>Klor</cr>
+	<nw>Klor</nw>
+</word>
+
+<word>
+<atomicno>18</atomicno>
+<uk>Argon</uk>
+<nl>Argon</nl>
+<fr>Argon</fr>
+<de>Argon</de>
+<it>Argo</it>
+<pt>Argonio</pt>
+<es>Argon</es>
+<sw>Argon</sw>
+	<ln>Argon</ln>
+	<cz>Argon</cz>
+	<cr>Argon</cr>
+	<nw>Argon</nw>
+</word>
+
+<word>
+	<atomicno>19</atomicno>
+	<uk>Potassium</uk>
+	<nl>Kalium</nl>
+	<fr>Potassium</fr>
+	<de>Kalium</de>
+	<it>Potassio</it>
+	<pt>Potassio</pt>
+	<es>Potasio</es>
+	<sw>Kalium</sw>
+	<ln>Kalium</ln>
+	<cz>Drasl&Idash;k</cz>
+	<cr>Kalij</cr>
+	<nw>Kalium</nw>
+</word>
+
+<word>
+	<atomicno>20</atomicno>
+	<uk>Calcium</uk>
+	<nl>Calcium</nl>
+	<fr>Calcium</fr>
+	<de>Calcium</de>
+	<it>calcio</it>
+	<pt>calcio</pt>
+	<es>calcio</es>
+	<sw>Kalcium</sw>
+	<ln>Calcium</ln>
+	<cz>V&Idash;pn&Idash;k</cz>
+	<cr>Kalcij</cr>
+	<nw>Kalsium</nw>
+</word>
+
+<word>
+<atomicno>21</atomicno>
+<uk>Scandium</uk>
+<nl>Scandium</nl>
+<fr>Scandium</fr>
+<de>Scandium</de>
+<it>scandio</it>
+<pt>escandio</pt>
+<es>escandio</es>
+<sw>Skandium</sw>
+	<ln>Scandium</ln>
+	<cz>Skandium</cz>
+	<cr>Skandij</cr>
+	<nw>Scandium</nw>
+</word>
+
+<word>
+<atomicno>22</atomicno>
+<uk>Titanium</uk>
+<nl>Titaan</nl>
+<fr>titane</fr>
+<de>Titan</de>
+<it>titanio</it>
+<pt>titanio</pt>
+<es>titanio</es>
+<sw>Titan</sw>
+	<ln>Titanium</ln>
+	<cz>Titan</cz>
+	<cr>Titanij</cr>
+	<nw>Titan</nw>
+</word>
+
+<word>
+<atomicno>23</atomicno>
+<uk>Vanadium</uk>
+<nl>Vanadium</nl>
+<fr>Vanadium</fr>
+<de>Vanadium</de>
+<it>vanadio</it>
+<pt>vanadio</pt>
+<es>vanadio</es>
+<sw>Vanadin</sw>
+	<ln>Vanadium</ln>
+	<cz>Vanad</cz>
+	<cr>Vanadij</cr>
+	<nw>Vanadium</nw>
+</word>
+
+<word>
+<atomicno>24</atomicno>
+<uk>Chromium</uk>
+<nl>Chroom</nl>
+<fr>chrome</fr>
+<de>Chrom</de>
+<it>cromo</it>
+<pt>cromo</pt>
+<es>cromo</es>
+<sw>Krom</sw>
+	<ln>Chromium</ln>
+	<cz>Chrom</cz>
+	<cr>Krom</cr>
+	<nw>Krom</nw>
+</word>
+
+<word>
+<atomicno>25</atomicno>
+<uk>manganese</uk>
+<nl>Mangaan</nl>
+<fr>manganese</fr>
+<de>Mangan</de>
+<it>manganese</it>
+<pt>Manganesio</pt>
+<es>manganeso</es>
+<sw>mangan</sw>
+	<ln>Manganum</ln>
+	<cz>Mangan</cz>
+	<cr>Mangan</cr>
+	<nw>Mangan</nw>
+</word>
+
+<word>
+<atomicno>26</atomicno>
+	<uk>Iron</uk>
+	<nl>Ijzer</nl>
+	<fr>Fer</fr>
+	<de>Eisen</de>
+	<it>Ferro</it>
+	<pt>Ferro</pt>
+	<es>Hierro</es>
+	<sw>Jarn</sw>
+	<ln>Ferrum</ln>
+	<cz>Zelezo</cz>
+	<cr>Zeljezo</cr>
+	<nw>Jern</nw>	
+</word>
+
+<word>
+	<atomicno>27</atomicno>
+	<uk>Cobalt</uk>
+	<nl>Kobalt</nl>
+	<fr>Cobalt</fr>
+	<de>Cobalt</de>
+	<it>Cobalto</it>
+	<pt>Cobalto</pt>
+	<es>Cobalto</es>
+	<sw>Kobolt</sw>
+	<ln>Cobaltum</ln>
+	<cz>Kobalt</cz>
+	<cr>Kobalt</cr>
+	<nw>Kobolt</nw>	
+</word>
+
+<word>
+	<atomicno>28</atomicno>
+	<uk>Nickel</uk>
+	<nl>Nikkel</nl>
+	<fr>Nickel</fr>
+	<de>Nickel</de>
+	<it>nichel</it>
+	<pt>Niquel</pt>
+	<es>niquel</es>
+	<sw>Nickel</sw>
+	<ln>Niccolum</ln>
+	<cz>Nikl</cz>
+	<cr>Nikal</cr>
+	<nw>Nikkel</nw>	
+</word>
+
+<word>
+	<atomicno>29</atomicno>
+	<uk>Copper</uk>
+	<nl>Koper</nl>
+	<fr>cuivre</fr>
+	<de>Kupfer</de>
+	<it>rame</it>
+	<pt>Cobre</pt>
+	<es>Cobre</es>
+	<sw>Koppar</sw>
+	<ln>Cuprum</ln>
+	<cz>Med</cz>
+	<cr>Bakar</cr>
+	<nw>Kobber</nw>
+</word>
+
+<word>
+	<atomicno>30</atomicno>
+	<uk>zinc</uk>
+	<nl>zink</nl>
+	<fr>zinc</fr>
+	<de>Zink</de>
+	<it>Zinco</it>
+	<pt>Zinco</pt>
+	<es>cinc</es>
+	<sw>zink</sw>
+	<ln>Zincum</ln>
+	<cz>Zinek</cz>
+	<cr>Cink</cr>
+	<nw>Sink</nw>
+</word>
+
+<word>
+	<atomicno>31</atomicno>
+	<uk>Gallium</uk>
+	<nl>Gallium</nl>
+	<fr>Gallium</fr>
+	<de>Gallium</de>
+	<it>gallio</it>
+	<pt>galio</pt>
+	<es>galio</es>
+	<sw>Gallium</sw>
+	<ln>Gallium</ln>
+	<cz>Gallium</cz>
+	<cr>Galij</cr>
+	<nw>Gallium</nw>
+</word>
+
+<word>
+	<atomicno>32</atomicno>
+	<uk>Germanium</uk>
+	<nl>Germanium</nl>
+	<fr>Germanium</fr>
+	<de>Germanium</de>
+	<it>germanio</it>
+	<pt>germanio</pt>
+	<es>germanio</es>
+	<sw>Germanium</sw>
+	<ln>Germanium</ln>
+	<cz>Germanium</cz>
+	<cr>Germanij</cr>
+	<nw>Germanium</nw>
+</word>
+
+<word>
+<atomicno>33</atomicno>
+<uk>Arsenic</uk>
+<nl>Arseen</nl>
+<fr>Arsenic</fr>
+<de>Arsen</de>
+<it>Arsenico</it>
+<pt>Arsenic</pt>
+<es>Arsenico</es>
+<sw>Arsenik</sw>
+	<ln>Arsenicum</ln>
+	<cz>Arzen</cz>
+	<cr>Arsen</cr>
+	<nw>Arsen</nw>
+</word>
+
+<word>
+<atomicno>34</atomicno>
+<uk>Selenium</uk>
+<nl>Selenium</nl>
+<fr>selenium</fr>
+<de>Selen</de>
+<it>selenio</it>
+<pt>Selenio</pt>
+<es>selenio</es>
+<sw>Selen</sw>
+	<ln>Selenium</ln>
+	<cz>Selen</cz>
+	<cr>Selenij</cr>
+	<nw>Selen</nw>
+</word>
+
+<word>
+<atomicno>35</atomicno>
+<uk>Bromine</uk>
+<nl>Broom</nl>
+<fr>brome</fr>
+<de>Brom</de>
+<it>bromo</it>
+<pt>Bromo</pt>
+<es>bromo</es>
+<sw>Brom</sw>
+	<ln>Bromum</ln>
+	<cz>Brom</cz>
+	<cr>Brom</cr>
+	<nw>Brom</nw>
+</word>
+
+<word>
+<atomicno>36</atomicno>
+<uk>Krypton</uk>
+<nl>Krypton</nl>
+<fr>Krypton</fr>
+<de>Krypton</de>
+<it>cripto</it>
+<pt>Kripton</pt>
+<es>kripton</es>
+<sw>Krypton</sw>
+	<ln>Krypton</ln>
+	<cz>Krypton</cz>
+	<cr>Kripton</cr>
+	<nw>Krypton</nw>
+</word>
+
+<word>
+<atomicno>37</atomicno>
+<uk>Rubidium</uk>
+<nl>Rubidium</nl>
+<fr>Rubidium</fr>
+<de>Rubidium</de>
+<it>rubidio</it>
+<pt>rubidio</pt>
+<es>rubidio</es>
+<sw>Rubidium</sw>
+	<ln>Rubidium</ln>
+	<cz>Rubidium</cz>
+	<cr>Rubidij</cr>
+	<nw>Rubidium</nw>
+</word>
+
+<word>
+<atomicno>38</atomicno>
+<uk>Strontium</uk>
+<nl>Strontium</nl>
+<fr>Strontium</fr>
+<de>Strontium</de>
+<it>stronzio</it>
+<pt>estroncio</pt>
+<es>estroncio</es>
+<sw>Strontium</sw>
+	<ln>Strontium</ln>
+	<cz>Stroncium</cz>
+	<cr>Stroncij</cr>
+	<nw>Strontium</nw>
+	
+</word>
+
+<word>
+<atomicno>39</atomicno>
+<uk>Yttrium</uk>
+<nl>Yttrium</nl>
+<fr>Yttrium</fr>
+<de>Yttrium</de>
+<it>ittrio</it>
+<pt>Itrio</pt>
+<es>ytrio</es>
+<sw>Yttrium</sw>
+	<ln>Yttrium</ln>
+	<cz>Yttrium</cz>
+	<cr>Itrij</cr>
+	<nw>Yttrium</nw>
+</word>
+
+<word>
+<atomicno>40</atomicno>
+<uk>Zirconium</uk>
+<nl>Zirkonium</nl>
+<fr>Zirconium</fr>
+<de>Zirconium</de>
+<it>zirconio</it>
+<pt>zirconio</pt>
+<es>circonio</es>
+<sw>Zirkonium</sw>
+	<ln>Zirkonium</ln>
+	<cz>Zirkonium</cz>
+	<cr>Cirkonij</cr>
+	<nw>Zirkonium</nw>
+</word>
+
+<word>
+<atomicno>41</atomicno>
+<uk>Niobium</uk>
+<nl>Niobium</nl>
+<fr>Niobium</fr>
+<de>Niob</de>
+<it>niobio</it>
+<pt>niobio</pt>
+<es>niobio</es>
+<sw>Niob</sw>
+	<ln>Niobium</ln>
+	<cz>Niob</cz>
+	<cr>Niobij</cr>
+	<nw>Niob</nw>
+</word>
+
+<word>
+<atomicno>42</atomicno>
+<uk>Molybdenum</uk>
+<nl>Molybdeen</nl>
+<fr>molybdene</fr>
+<de>Molybdan</de>
+<it>molibdeno</it>
+<pt>Molibdenio</pt>
+<es>molibdeno</es>
+<sw>Molybden</sw>
+	<ln>Molybdaenum</ln>
+	<cz>Molybden</cz>
+	<cr>Molibden</cr>
+	<nw>Molybden</nw>
+</word>
+
+<word>
+<atomicno>43</atomicno>
+<uk>Technetium</uk>
+<nl>Technetium</nl>
+<fr>Technetium</fr>
+<de>Technetium</de>
+<it>tecneto</it>
+<pt>tecnecio</pt>
+<es>tecnecio</es>
+<sw>Teknetium</sw>
+	<ln>Technetium</ln>
+	<cz>Technecium</cz>
+	<cr>Tehnecij</cr>
+	<nw>Technetium</nw>
+</word>
+
+<word>
+<atomicno>44</atomicno>
+<uk>Ruthenium</uk>
+<nl>Ruthenium</nl>
+<fr>Ruthenium</fr>
+<de>Ruthenium</de>
+<it>rutenio</it>
+<pt>rutenio</pt>
+<es>rutenio</es>
+<sw>Rutenium</sw>
+	<ln>Ruthenium</ln>
+	<cz>Ruthenium</cz>
+	<cr>Rutenij</cr>
+	<nw>Ruthenium</nw>
+</word>
+
+<word>
+<atomicno>45</atomicno>
+<uk>Rhodium</uk>
+<nl>Rhodium</nl>
+<fr>Rhodium</fr>
+<de>Rhodium</de>
+<it>Rodio</it>
+<pt>Rodio</pt>
+<es>Rodio</es>
+<sw>Rodium</sw>
+	<ln>Rhodium</ln>
+	<cz>Rhodium</cz>
+	<cr>Rodij</cr>
+	<nw>Rhodium</nw>
+</word>
+
+<word>
+	<atomicno>46</atomicno>
+	<uk>Palladium</uk>
+	<nl>Palladium</nl>
+	<fr>Palladium</fr>
+	<de>Palladium</de>
+	<it>palladio</it>
+	<pt>paladio</pt>
+	<es>paladio</es>
+	<sw>Palladium</sw>
+	<ln>Palladium</ln>
+	<cz>Palladium</cz>
+	<cr>Paladij</cr>
+	<nw>Palladium</nw>
+</word>
+
+<word>
+	<atomicno>47</atomicno>
+	<uk>Silver</uk>
+	<nl>Zilver</nl>
+	<fr>Argent</fr>
+	<de>Silber</de>
+	<it>Argento</it>
+	<pt>Prata</pt>
+	<es>plata</es>
+	<sw>Silver</sw>
+	<ln>Argentum</ln>
+	<cz>Str&Idash;bro</cz>
+	<cr>Srebro</cr>
+	<nw>S&OSlash;lv</nw>
+</word>
+
+<word>
+<atomicno>48</atomicno>
+<uk>Cadmium</uk>
+<nl>Cadmium</nl>
+<fr>Cadmium</fr>
+<de>Cadmium</de>
+<it>Cadmio</it>
+<pt>Cadmio</pt>
+<es>Cadmio</es>
+<sw>Kadmium</sw>
+	<ln>Cadmium</ln>
+	<cz>Kadmium</cz>
+	<cr>Kadmij</cr>
+	<nw>Kadmium</nw>	
+</word>
+
+<word>
+<atomicno>49</atomicno>
+<uk>Indium</uk>
+<nl>Indium</nl>
+<fr>Indium</fr>
+<de>Indium</de>
+<it>Indio</it>
+<pt>Indio</pt>
+<es>Indio</es>
+<sw>Indium</sw>
+	<ln>Indium</ln>
+	<cz>Indium</cz>
+	<cr>Indij</cr>
+	<nw>Indium</nw>
+</word>
+
+<word>
+<atomicno>50</atomicno>
+<uk>Tin</uk>
+<nl>Tin</nl>
+<fr>Etain</fr>
+<de>Zinn</de>
+<it>Stagno</it>
+<pt>Estanho</pt>
+<es>Estano</es>
+<sw>Tenn</sw>
+	<ln>Stannum</ln>
+	<cz>C&Idash;n</cz>
+	<cr>Kositar</cr>
+	<nw>Tinn</nw>
+</word>
+
+<word>
+<atomicno>51</atomicno>
+<uk>Antimony</uk>
+<nl>Antimoon</nl>
+<fr>antimoine</fr>
+<de>Antimon</de>
+<it>antimonio</it>
+<pt>Antimonio</pt>
+<es>antimonio</es>
+<sw>Antimon</sw>
+	<ln>Stibium</ln>
+	<cz>Antimon</cz>
+	<cr>Antimon</cr>
+	<nw>Antimon</nw>
+</word>
+
+<word>
+<atomicno>52</atomicno>
+<uk>Tellurium</uk>
+<nl>Telluur</nl>
+<fr>tellure</fr>
+<de>Tellur</de>
+<it>tellurio</it>
+<pt>Telurio</pt>
+<es>teluro</es>
+<sw>Tellur</sw>
+	<ln>Tellurium</ln>
+	<cz>Tellur</cz>
+	<cr>Telurij</cr>
+	<nw>Tellur</nw>
+</word>
+
+<word>
+<atomicno>53</atomicno>
+<uk>Iodine</uk>
+<nl>Jood</nl>
+<fr>iode</fr>
+<de>Iod</de>
+<it>iodio</it>
+<pt>Iodo</pt>
+<es>yodo</es>
+<sw>Jod</sw>
+	<ln>Iodum</ln>
+	<cz>Jod</cz>
+	<cr>Jod</cr>
+	<nw>Jod</nw>
+</word>
+
+<word>
+<atomicno>54</atomicno>
+<uk>Xenon</uk>
+<nl>Xenon</nl>
+<fr>xenon</fr>
+<de>Xenon</de>
+<it>xeno</it>
+<pt>Xenon</pt>
+<es>xenon</es>
+<sw>Xenon</sw>
+	<ln>Xenon</ln>
+	<cz>Xenon</cz>
+	<cr>Ksenon</cr>
+	<nw>Xenon</nw>
+</word>
+
+<word>
+<atomicno>55</atomicno>
+<uk>Caesium</uk>
+<nl>Cesium</nl>
+<fr>Cesium</fr>
+<de>Casium</de>
+<it>cesio</it>
+<pt>cesio</pt>
+<es>cesio</es>
+<sw>Cesium</sw>
+	<ln>Caesium</ln>
+	<cz>Cesium</cz>
+	<cr>Cezij</cr>
+	<nw>Cesium</nw>
+</word>
+
+<word>
+<atomicno>56</atomicno>
+<uk>Barium</uk>
+<nl>Barium</nl>
+<fr>Baryum</fr>
+<de>Barium</de>
+<it>bario</it>
+<pt>bario</pt>
+<es>bario</es>
+<sw>Barium</sw>
+	<ln>Baryum</ln>
+	<cz>Baryum</cz>
+	<cr>Barij</cr>
+	<nw>Barium</nw>
+</word>
+
+<word>
+<atomicno>57</atomicno>
+<uk>Lanthanum</uk>
+<nl>Lanthaan</nl>
+<fr>lanthane</fr>
+<de>Lanthan</de>
+<it>lantanio</it>
+<pt>Lantanio</pt>
+<es>lantano</es>
+<sw>Lantan</sw>
+	<ln>Lanthanium</ln>
+	<cz>Lanthan</cz>
+	<cr>Lantan</cr>
+	<nw>Lanthan</nw>
+</word>
+
+<word>
+<atomicno>58</atomicno>
+<uk>Cerium</uk>
+<nl>Cerium</nl>
+<fr>Cerium</fr>
+<de>Cer</de>
+<it>cerio</it>
+<pt>cerio</pt>
+<es>cerio</es>
+<sw>Cerium</sw>
+	<ln>Cerium</ln>
+	<cz>Cer</cz>
+	<cr>Cerij</cr>
+	<nw>Cerium</nw>
+</word>
+
+<word>
+<atomicno>59</atomicno>
+<uk>Praseodymium</uk>
+<nl>Praseodymium</nl>
+<fr>praseodyme</fr>
+<de>Praseodym</de>
+<it>praseodimio</it>
+<pt>Prosedimio</pt>
+<es>praseodimio</es>
+<sw>Praseodym</sw>
+	<ln>Praseodymium</ln>
+	<cz>Praseodym</cz>
+	<cr>Praseodimij</cr>
+	<nw>Praseodym</nw>
+</word>
+
+<word>
+	<atomicno>60</atomicno>
+	<uk>Neodymium</uk>
+	<nl>Neodymium</nl>
+	<fr>neodyme</fr>
+	<de>Neodym</de>
+	<it>neodimio</it>
+	<pt>neodimio</pt>
+	<es>neodimio</es>
+	<sw>Neodym</sw>
+	<ln>Neodymium</ln>
+	<cz>Neodym</cz>
+	<cr>Neodimij</cr>
+	<nw>Neodym</nw>	
+</word>
+
+<word>
+<atomicno>61</atomicno>
+<uk>Promethium</uk>
+<nl>Promethium</nl>
+<fr>Promethium</fr>
+<de>Promethium</de>
+<it>prometio</it>
+<pt>Promecio</pt>
+<es>prometio</es>
+<sw>Prometium</sw>
+	<ln>Promethium</ln>
+	<cz>Promethium</cz>
+	<cr>Prometij</cr>
+	<nw>Promethium</nw>
+</word>
+
+<word>
+<atomicno>62</atomicno>
+<uk>Samarium</uk>
+<nl>Samarium</nl>
+<fr>Samarium</fr>
+<de>Samarium</de>
+<it>samario</it>
+<pt>samario</pt>
+<es>samario</es>
+<sw>Samarium</sw>
+	<ln>Samarium</ln>
+	<cz>Samarium</cz>
+	<cr>Samarij</cr>
+	<nw>Samarium</nw>
+</word>
+
+<word>
+<atomicno>63</atomicno>
+<uk>Europium</uk>
+<nl>Europium</nl>
+<fr>Europium</fr>
+<de>Europium</de>
+<it>europio</it>
+<pt>europio</pt>
+<es>europio</es>
+<sw>Europium</sw>
+	<ln>Europium</ln>
+	<cz>Europium</cz>
+	<cr>Europij</cr>
+	<nw>Europium</nw>
+</word>
+
+<word>
+<atomicno>64</atomicno>
+<uk>Gadolinium</uk>
+<nl>Gadolinium</nl>
+<fr>Gadolinium</fr>
+<de>Gadolinium</de>
+<it>gadolinio</it>
+<pt>gadolineo</pt>
+<es>gadolinio</es>
+<sw>Gadolinium</sw>
+	<ln>Gadolinium</ln>
+	<cz>Gadolinium</cz>
+	<cr>Gadolinij</cr>
+	<nw>Gadolinium</nw>
+</word>
+
+<word>
+<atomicno>65</atomicno>
+<uk>Terbium</uk>
+<nl>Terbium</nl>
+<fr>Terbium</fr>
+<de>Terbium</de>
+<it>terbio</it>
+<pt>terbio</pt>
+<es>terbio</es>
+<sw>Terbium</sw>
+	<ln>Terbium</ln>
+	<cz>Terbium</cz>
+	<cr>Terbij</cr>
+	<nw>Terbium</nw>
+</word>
+
+<word>
+<atomicno>66</atomicno>
+<uk>Dysprosium</uk>
+<nl>Dysprosium</nl>
+<fr>Dysprosium</fr>
+<de>Dysprosium</de>
+<it>disprosio</it>
+<pt>disprosio</pt>
+<es>disprosio</es>
+<sw>Dysprosium</sw>
+	<ln>Dysprosium</ln>
+	<cz>Dysprosium</cz>
+	<cr>Disprozij</cr>
+	<nw>Dysprosium</nw>	
+</word>
+
+<word>
+<atomicno>67</atomicno>
+<uk>Holmium</uk>
+<nl>Holmium</nl>
+<fr>Holmium</fr>
+<de>Holmium</de>
+<it>olmio</it>
+<pt>holmio</pt>
+<es>holmio</es>
+<sw>Holmium</sw>
+	<ln>Holmium</ln>
+	<cz>Holmium</cz>
+	<cr>Holmij</cr>
+	<nw>Holmium</nw>
+</word>
+
+<word>
+<atomicno>68</atomicno>
+<uk>Erbium</uk>
+<nl>Erbium</nl>
+<fr>Erbium</fr>
+<de>Erbium</de>
+<it>erbio</it>
+<pt>erbio</pt>
+<es>erbio</es>
+<sw>Erbium</sw>
+	<ln>Erbium</ln>
+	<cz>Erbium</cz>
+	<cr>Erbij</cr>
+	<nw>Erbium</nw>
+</word>
+
+<word>
+<atomicno>69</atomicno>
+<uk>Thulium</uk>
+<nl>Thulium</nl>
+<fr>Thulium</fr>
+<de>Thulium</de>
+<it>tulio</it>
+<pt>tulio</pt>
+<es>tulio</es>
+<sw>Tulium</sw>
+	<ln>Thulium</ln>
+	<cz>Thulium</cz>
+	<cr>Tulij</cr>
+	<nw>Thulium</nw>
+</word>
+
+<word>
+<atomicno>70</atomicno>
+	<uk>Ytterbium</uk>
+	<nl>Ytterbium</nl>
+	<fr>Ytterbium</fr>
+	<de>Ytterbium</de>
+	<it>itterbio</it>
+	<pt>Iterbio</pt>
+	<es>yterbio</es>
+	<sw>Ytterbium</sw>
+	<ln>Ytterbium</ln>
+	<cz>Ytterbium</cz>
+	<cr>Iterbij</cr>
+	<nw>Ytterbium</nw>
+</word>
+
+<word>
+<atomicno>71</atomicno>
+<uk>Lutetium</uk>
+<nl>Lutetium</nl>
+<fr>lutecium</fr>
+<de>Lutetium</de>
+<it>lutezio</it>
+<pt>Lutecio</pt>
+<es>lutecio</es>
+<sw>Lutetium</sw>
+	<ln>Lutetium</ln>
+	<cz>Lutecium</cz>
+	<cr>Lutecij</cr>
+	<nw>Lutetium</nw>
+</word>
+
+<word>
+<atomicno>72</atomicno>
+<uk>Hafnium</uk>
+<nl>Hafnium</nl>
+<fr>Hafnium</fr>
+<de>Hafnium</de>
+<it>afnio</it>
+<pt>Hafnio</pt>
+<es>hafnio</es>
+<sw>Hafnium</sw>
+	<ln>Hafnium</ln>
+	<cz>Hafnium</cz>
+	<cr>Hafnij</cr>
+	<nw>Hafnium</nw>
+</word>
+
+<word>
+<atomicno>73</atomicno>
+<uk>Tantalum</uk>
+<nl>Tantaal</nl>
+<fr>tantale</fr>
+<de>Tantal</de>
+<it>tantalio</it>
+<pt>Tantalo</pt>
+<es>tantalo</es>
+<sw>Tantal</sw>
+	<ln>Tantalum</ln>
+	<cz>Tantal</cz>
+	<cr>Tantal</cr>
+	<nw>Tantal</nw>
+</word>
+
+<word>
+<atomicno>74</atomicno>
+<uk>Tungsten</uk>
+<nl>Wolfraam</nl>
+<fr>tungstene</fr>
+<de>Wolfram</de>
+<it>tungsteno (wolframio)</it>
+<pt>Tungstenio</pt>
+<es>wolframio</es>
+<sw>Volfram</sw>
+	<ln>Wolframium</ln>
+	<cz>Wolfram</cz>
+	<cr>Volfram</cr>
+	<nw>Wolfram</nw>
+</word>
+
+<word>
+<atomicno>75</atomicno>
+<uk>Rhenium</uk>
+<nl>Rhenium</nl>
+<fr>rhenium</fr>
+<de>Rhenium</de>
+<it>renio</it>
+<pt>Renio</pt>
+<es>renio</es>
+<sw>Rhenium</sw>
+	<ln>Rhenium</ln>
+	<cz>Rhenium</cz>
+	<cr>Renij</cr>
+	<nw>Rhenium</nw>
+</word>
+
+<word>
+<atomicno>76</atomicno>
+<uk>Osmium</uk>
+<nl>Osmium</nl>
+<fr>Osmium</fr>
+<de>Osmium</de>
+<it>osmio</it>
+<pt>osmio</pt>
+<es>osmio</es>
+<sw>Osmium</sw>
+	<ln>Osmium</ln>
+	<cz>Osmium</cz>
+	<cr>Osmij</cr>
+	<nw>Osmium</nw>
+</word>
+
+<word>
+<atomicno>77</atomicno>
+<uk>Iridium</uk>
+<nl>Iridium</nl>
+<fr>Iridium</fr>
+<de>Iridium</de>
+<it>iridio</it>
+<pt>Iridio</pt>
+<es>iridio</es>
+<sw>Iridium</sw>
+	<ln>Iridium</ln>
+	<cz>Iridium</cz>
+	<cr>Iridij</cr>
+	<nw>Irdium</nw>
+</word>
+
+<word>
+<atomicno>78</atomicno>
+<uk>Platinum</uk>
+<nl>Platina</nl>
+<fr>platine</fr>
+<de>Platin</de>
+<it>platino</it>
+<pt>Platina</pt>
+<es>platino</es>
+<sw>Platina</sw>
+	<ln>Platinum</ln>
+	<cz>Platina</cz>
+	<cr>Platina</cr>
+	<nw>Platina</nw>
+</word>
+
+<word>
+	<atomicno>79</atomicno>
+	<uk>Gold</uk>
+	<nl>Goud</nl>
+	<fr>or</fr>
+	<de>Gold</de>
+	<it>oro</it>
+	<pt>Ouro</pt>
+	<es>oro</es>
+	<sw>Guld</sw>
+	<ln>Aurum</ln>
+	<cz>Zlato</cz>
+	<cr>Zlato</cr>
+	<nw>Gull</nw>
+</word>
+
+<word>
+	<atomicno>80</atomicno>
+	<uk>Mercury</uk>
+	<nl>Kwik</nl>
+	<fr>mercure</fr>
+	<de>Quecksilber</de>
+	<it>mercurio</it>
+	<pt>Mercurio</pt>
+	<es>mercurio</es>
+	<sw>Kvicksilver</sw>
+	<ln>Hydrargyrum</ln>
+	<cz>Rtut</cz>
+	<cr>Ziva</cr>
+	<nw>Kvikks&OSlash;lv</nw>
+</word>
+
+<word>
+<atomicno>81</atomicno>
+<uk>Thallium</uk>
+<nl>Thallium</nl>
+<fr>Thallium</fr>
+<de>Thallium</de>
+<it>tallio</it>
+<pt>tallio</pt>
+<es>tallio</es>
+<sw>tallio</sw>
+	<ln>Thallium</ln>
+	<cz>Thallium</cz>
+	<cr>Talij</cr>
+	<nw>Thallium</nw>
+</word>
+
+<word>
+<atomicno>82</atomicno>
+<uk>Lead</uk>
+<nl>Lood</nl>
+<fr>plomb</fr>
+<de>Blei</de>
+<it>piombo</it>
+<pt>Chumbo</pt>
+<es>plomo</es>
+<sw>Bly</sw>
+	<ln>Plumbum</ln>
+	<cz>Olovo</cz>
+	<cr>Olovo</cr>
+	<nw>Bly</nw>
+</word>
+
+<word>
+<atomicno>83</atomicno>
+<uk>Bismuth</uk>
+<nl>Bismut</nl>
+<fr>bismuth</fr>
+<de>Bismut</de>
+<it>bismuto</it>
+<pt>Bismuto</pt>
+<es>bismuto</es>
+<sw>Vismut</sw>
+	<ln>Bismuthum</ln>
+	<cz>Bismut</cz>
+	<cr>Bizmut</cr>
+	<nw>Vismut</nw>
+</word>
+
+<word>
+<atomicno>84</atomicno>
+<uk>Polonium</uk>
+<nl>Polonium</nl>
+<fr>Polonium</fr>
+<de>Polonium</de>
+<it>polonio</it>
+<pt>polonio</pt>
+<es>polonio</es>
+<sw>Polonium</sw>
+	<ln>Polonium</ln>
+	<cz>Polonium</cz>
+	<cr>Polonij</cr>
+	<nw>Polonium</nw>
+</word>
+
+<word>
+	<atomicno>85</atomicno>
+	<uk>Astatine</uk>
+	<nl>Astaat</nl>
+	<fr>astate</fr>
+	<de>Astat</de>
+	<it>astato</it>
+	<pt>Astato</pt>
+	<es>astato</es>
+	<sw>Astat</sw>
+	<ln>Astatium</ln>
+	<cz>Astat</cz>
+	<cr>Astat</cr>
+	<nw>Astat</nw>
+</word>
+
+<word>
+	<atomicno>86</atomicno>
+	<uk>Radon</uk>
+	<nl>Radon</nl>
+	<fr>Radon</fr>
+	<de>Radon</de>
+	<it>Radon (emanio)</it>
+	<pt>Radon</pt>
+	<es>radon</es>
+	<sw>Radon</sw>
+	<ln>Radon</ln>
+	<cz>Radon</cz>
+	<cr>Radon</cr>
+	<nw>Radon</nw>
+</word>
+
+<word>
+<atomicno>87</atomicno>
+<uk>Francium</uk>
+<nl>Francium</nl>
+<fr>Francium</fr>
+<de>Francium</de>
+<it>francio</it>
+<pt>francio</pt>
+<es>francio</es>
+<sw>Francium</sw>
+	<ln>Francium</ln>
+	<cz>Francium</cz>
+	<cr>Francij</cr>
+	<nw>Francium</nw>
+</word>
+
+<word>
+	<atomicno>88</atomicno>
+	<uk>Radium</uk>
+	<nl>Radium</nl>
+	<fr>Radium</fr>
+	<de>Radium</de>
+	<it>radio</it>
+	<pt>radio</pt>
+	<es>radio</es>
+	<sw>Radium</sw>
+	<ln>Radium</ln>
+	<cz>Radium</cz>
+	<cr>Radij</cr>
+	<nw>Radium</nw>	
+</word>
+
+<word>
+	<atomicno>89</atomicno>
+	<uk>Actinium</uk>
+	<nl>Actinium</nl>
+	<fr>Actinium</fr>
+	<de>Actinium</de>
+	<it>attinio</it>
+	<pt>actinio</pt>
+	<es>actinio</es>
+	<sw>Aktinium</sw>
+	<ln>Actinium</ln>
+	<cz>Aktinium</cz>
+	<cr>Aktinij</cr>
+	<nw>Actinium</nw>
+</word>
+
+<word>
+	<atomicno>90</atomicno>
+	<uk>Thorium</uk>
+	<nl>Thorium</nl>
+	<fr>Thorium</fr>
+	<de>Thorium</de>
+	<it>torio</it>
+	<pt>torio</pt>
+	<es>torio</es>
+	<sw>Torium</sw>
+	<ln>Thorium</ln>
+	<cz>Thorium</cz>
+	<cr>Torij</cr>
+	<nw>Thorium</nw>
+</word>
+
+<word>
+	<atomicno>91</atomicno>
+	<uk>Protactinium</uk>
+	<nl>Protactinium</nl>
+	<fr>Protactinium</fr>
+	<de>Protactinium</de>
+	<it>protoattinio</it>
+	<pt>Protacnidio</pt>
+	<es>protactinio</es>
+	<sw>Protaktinium</sw>
+	<ln>Protactinium</ln>
+	<cz>Protaktinium</cz>
+	<cr>Protaktinij</cr>
+	<nw>Protactinium</nw>
+</word>
+
+<word>
+	<atomicno>92</atomicno>
+	<uk>Uranium</uk>
+	<nl>Uraan</nl>
+	<fr>Uranium</fr>
+	<de>Uran</de>
+	<it>Uranio</it>
+	<pt>Uranio</pt>
+	<es>Uranio</es>
+	<sw>Uran</sw>
+	<ln>Uranium</ln>
+	<cz>Uran</cz>
+	<cr>Uranij</cr>
+	<nw>Uran</nw>
+</word>
+
+<word>
+	<atomicno>93</atomicno>
+	<uk>Neptunium</uk>
+	<nl>Neptunium</nl>
+	<fr>Neptunium</fr>
+	<de>Neptunium</de>
+	<it>nettunio</it>
+	<pt>neptunio</pt>
+	<es>neptunio</es>
+	<sw>Neptunium</sw>
+	<ln>Neptunium</ln>
+	<cz>Neptunium</cz>
+	<cr>Neptunij</cr>
+	<nw>Neptunium</nw>
+</word>
+
+<word>
+	<atomicno>94</atomicno>
+	<uk>Plutonium</uk>
+	<nl>Plutonium</nl>
+	<fr>Plutonium</fr>
+	<de>Plutonium</de>
+	<it>plutonio</it>
+	<pt>plutonio</pt>
+	<es>plutonio</es>
+	<sw>Plutonium</sw>
+	<ln>Plutonium</ln>
+	<cz>Plutonium</cz>
+	<cr>Plutonij</cr>
+	<nw>Plutonium</nw>
+</word>
+
+<word>
+	<atomicno>95</atomicno>
+	<uk>Americium</uk>
+	<nl>Americium</nl>
+	<fr>Americium</fr>
+	<de>Americium</de>
+	<it>Americio</it>
+	<pt>Americio</pt>
+	<es>Americio</es>
+	<sw>Americium</sw>	
+	<ln>Americium</ln>
+	<cz>Americium</cz>
+	<cr>Americij</cr>
+	<nw>Americium</nw>	
+</word>
+
+<word>
+	<atomicno>96</atomicno>
+	<uk>Curium</uk>
+	<nl>Curium</nl>
+	<fr>Curium</fr>
+	<de>Curium</de>
+	<it>Curio</it>
+	<pt>Curio</pt>
+	<es>Curio</es>
+	<sw>Curium</sw>
+	<ln>Curium</ln>
+	<cz>Curium</cz>
+	<cr>Kurij</cr>
+	<nw>Curium</nw>
+</word>
+
+<word>
+<atomicno>97</atomicno>
+	<uk>Berkelium</uk>
+	<nl>Berkelium</nl>
+	<fr>Berkelium</fr>
+	<de>Berkelium</de>
+	<it>Berkelio</it>
+	<pt>Berqurlio</pt>
+	<es>berkelio</es>
+	<sw>Berkelium</sw>
+	<ln>Berkelium</ln>
+	<cz>Berkelium</cz>
+	<cr>Berkelij</cr>
+	<nw>Berkelium</nw>
+</word>
+
+<word>
+	<atomicno>98</atomicno>
+	<uk>Californium</uk>
+	<nl>Californium</nl>
+	<fr>Californium</fr>
+	<de>Californium</de>
+	<it>Californio</it>
+	<pt>Californio</pt>
+	<es>Californio</es>
+	<sw>Californium</sw>
+	<ln>Californium</ln>
+	<cz>Kalifornium</cz>
+	<cr>Kalifornij</cr>
+	<nw>Californium</nw>
+</word>
+
+<word>
+	<atomicno>99</atomicno>
+	<uk>Einsteinium</uk>
+	<nl>Einsteinium</nl>
+	<fr>Einsteinium</fr>
+	<de>Einsteinium</de>
+	<it>einsteinio</it>
+	<pt>Einstanio</pt>
+	<es>einsteinio</es>
+	<sw>Einsteinium</sw>
+	<ln>Einsteinium</ln>
+	<cz>Einsteinium</cz>
+	<cr>Einsteinij</cr>
+	<nw>Einsteinium</nw>
+</word>
+
+<word>
+	<atomicno>100</atomicno>
+	<uk>Fermium</uk>
+	<nl>Fermium</nl>
+	<fr>Fermium</fr>
+	<de>Fermium</de>
+	<it>Fermio</it>
+	<pt>Fermio</pt>
+	<es>Fermio</es>
+	<sw>Fermium</sw>
+	<ln>Fermium</ln>
+	<cz>Fermium</cz>
+	<cr>Fermij</cr>
+	<nw>Fermium</nw>
+</word>
+
+<word>
+	<atomicno>101</atomicno>
+	<uk>Mendelevium</uk>
+	<nl>Mendelevium</nl>
+	<fr>Mendelevium</fr>
+	<de>Mendelevium</de>
+	<it>mendelevio</it>
+	<pt>mendelevio</pt>
+	<es>mendelevio</es>
+	<sw>Mendelevium</sw>
+	<ln>Mendelevium</ln>
+	<cz>Mendelevium</cz>
+	<cr>Mendelevij</cr>
+	<nw>Mendelevium</nw>
+</word>
+
+<word>
+	<atomicno>102</atomicno>
+	<uk>Nobelium</uk>
+	<nl>Nobelium</nl>
+	<fr>nobelium</fr>
+	<de>Nobelium</de>
+	<it>nobelio</it>
+	<pt>Nobelio</pt>
+	<es>nobelio</es>
+	<sw>Nobelium</sw>
+	<ln>Nobelium</ln>
+	<cz>Nobelium</cz>
+	<cr>Nobelij</cr>
+	<nw>Nobelium</nw>
+</word>
+
+<word>
+	<atomicno>103</atomicno>
+	<uk>Lawrencium</uk>
+	<nl>Lawrencium</nl>
+	<fr>Lawrencium</fr>
+	<de>Lawrencium</de>
+	<it>Lawrentio</it>
+	<pt>Lawrencio</pt>
+	<es>Lawrencio</es>
+	<sw>Lawrencium</sw>
+	<ln>Lawrentium</ln>
+	<cz>Lawrencium</cz>
+	<cr>Lawrencij</cr>
+	<nw>Lawrencium</nw>
+</word>
+
+<word>
+	<atomicno>104</atomicno>
+	<uk>Rutherfordium</uk>
+	<nl>Rutherfordium</nl>
+	<fr>Rutherfordium</fr>
+	<de>Rutherfordium</de>
+	<it>Rutherfordio</it>
+	<pt>Rutherfordio</pt>
+	<es>Rutherfordio</es>
+	<sw>Rutherfordium</sw>	
+	<ln>Rutherfordium</ln>
+	<cz>Rutherfordium</cz>
+	<cr>Ruthefordij</cr>
+	<nw>Rutherfordium</nw>	
+</word>
+
+<word>
+	<atomicno>105</atomicno>
+	<uk>Dubnium</uk>
+	<nl>Dubnium</nl>
+	<fr>Dubnium</fr>
+	<de>Dubnium</de>
+	<it>Dubnio</it>
+	<pt>Dubnio</pt>
+	<es>Dubnio</es>
+	<sw>Dubnium</sw>
+	<ln>Dubnium</ln>
+	<cz>Dubnium</cz>
+	<cr>Dubnij</cr>
+	<nw>Dubnium</nw>
+</word>
+
+<word>
+	<atomicno>106</atomicno>
+	<uk>Seaborgium</uk>
+	<nl>Seaborgium</nl>
+	<fr>Seaborgium</fr>
+	<de>Seaborgium</de>
+	<it>seaborgio</it>
+	<pt>seaborgio</pt>
+	<es>seaborgio</es>
+	<sw>Seaborgium</sw>
+	<ln>Seaborgium</ln>
+	<cz>Seaborgium</cz>
+	<cr>Seaborgij</cr>
+	<nw>Seaborgium</nw>
+</word>
+
+<word>
+	<atomicno>107</atomicno>
+	<uk>Bohrium</uk>
+	<nl>Bohrium</nl>
+	<fr>Bohrium</fr>
+	<de>Bohrium</de>
+	<it>Bohrio</it>
+	<pt>Bohrio</pt>
+	<es>Bohrio</es>
+	<sw>Bohrium</sw>
+	<ln>Bohrium</ln>
+	<cz>Bohrium</cz>
+	<cr>Bohrij</cr>
+	<nw>Bohrium</nw>
+</word>
+
+<word>
+	<atomicno>108</atomicno>
+	<uk>Hassium</uk>
+	<nl>Hassium</nl>
+	<fr>Hassium</fr>
+	<de>Hassium</de>
+	<it>Hassio</it>
+	<pt>Hassio</pt>
+	<es>Hassio</es>
+	<sw>Hassium</sw>
+	<ln>Hassium</ln>
+	<cz>Hassium</cz>
+	<cr>Hassij</cr>
+	<nw>Hassium</nw>
+</word>
+
+<word>
+<atomicno>109</atomicno>
+	<uk>Meitnerium</uk>
+	<nl>Meitnerium</nl>
+	<fr>Meitnerium</fr>
+	<de>Meitnerium</de>
+	<it>Meitnerio</it>
+	<pt>Meitnerio</pt>
+	<es>Meitnerio</es>
+	<sw>Meitnerium</sw>	
+	<ln>Meitnerium</ln>
+	<cz>Meitnerium</cz>
+	<cr>Meitnerij</cr>
+	<nw>Meitnerium</nw>	
+</word>
+
+<word>
+	<atomicno>110</atomicno>
+	<uk>Darmstadtium</uk>
+	<nl>Darmstadtium</nl>
+	<fr>Darmstadtium</fr>
+	<de>Darmstadtium</de>
+	<it>Roentgenio</it>
+	<pt>Darmstadtio</pt>
+	<es>Darmstadtio</es>
+	<sw>Darmstadtium</sw>
+	<ln>Ununnilium</ln>
+	<cz>Darmstadtium</cz>
+	<cr>Darmstadtium</cr>
+	<nw>Darmstadtium</nw>	
+</word>
+
+<word>
+	<atomicno>111</atomicno>
+	<uk>Roentgenium</uk>
+	<nl>Roentgenium</nl>
+	<fr>Roentgenium</fr>
+	<de>Roentgenium</de>
+	<it>Roentgenium</it>
+	<pt>Roentgenio</pt>
+	<es>Roentgenio</es>
+	<sw>Rontgenium</sw>
+	<ln>Unununium </ln>
+	<cz>Unununium</cz>
+	<cr>Unununium</cr>
+	<nw>Unununium</nw>	
+</word>
+
+<word>
+	<atomicno>112</atomicno>
+	<uk>Copernicium</uk>
+	<nl>Copernicium</nl>
+	<fr>Copernicium</fr>
+	<de>Copernicium</de>
+	<it>Copernicio</it>
+	<pt>Copernicio</pt>
+	<es>Copernicio</es>
+	<sw>Copernicium</sw>
+	<ln>Copernicium</ln>
+	<cz>Copernicium</cz>
+	<cr>Copernicium</cr>
+	<nw>Copernicium</nw>	
+</word>
+
+<word>
+	<atomicno>113</atomicno>
+	<uk>Ununtrium</uk>
+	<nl>Ununtrium</nl>
+	<fr>Ununtrium</fr>
+	<de>Ununtrium</de>
+	<it>Ununtrio</it>
+	<pt>Ununtrio</pt>
+	<es>Ununtrio</es>
+	<sw>Ununtrium</sw>
+	<ln>Ununtrium</ln>
+	<cz>Ununtrium</cz>
+	<cr>Ununtrium</cr>
+	<nw>Ununtrium</nw>
+</word>
+
+<word>
+	<atomicno>114</atomicno>
+	<uk>Ununquadium</uk>
+	<nl>Ununquadium</nl>
+	<fr>Ununquadium</fr>
+	<de>Ununquadium</de>
+	<it>Ununquadio</it>
+	<pt>Ununquadio</pt>
+	<es>Ununquadio</es>
+	<sw>Ununquadium</sw>
+	<ln>Ununquadium</ln>
+	<cz>Ununquadium</cz>
+	<cr>Ununquadium</cr>
+	<nw>Ununquadium</nw>	
+</word>
+
+<word>
+	<atomicno>115</atomicno>
+	<uk>Ununpentium</uk>
+	<nl>Ununpentium</nl>
+	<fr>Ununpentium</fr>
+	<de>Ununpentium</de>
+	<it>Ununpentio</it>
+	<pt>Ununpentio</pt>
+	<es>Ununpentio</es>
+	<sw>Ununpentium</sw>
+	<ln>Ununpentium</ln>
+	<cz>Ununpentium</cz>
+	<cr>Ununpentium</cr>
+	<nw>Ununpentium</nw>	
+</word>
+
+<word>
+	<atomicno>116</atomicno>
+	<uk>Ununhexium</uk>
+	<nl>Ununhexium</nl>
+	<fr>Ununhexium</fr>
+	<de>Ununhexium</de>
+	<it>Ununhexio</it>
+	<pt>Ununhexio</pt>
+	<es>Ununhexio</es>
+	<sw>Ununhexium</sw>
+	<ln>Ununhexium</ln>
+	<cz>Ununhexium</cz>
+	<cr>Ununhexium</cr>
+	<nw>Ununhexium</nw>	
+</word>
+
+<word>
+	<atomicno>117</atomicno>
+	<uk>Ununseptium</uk>
+	<nl>Ununseptium</nl>
+	<fr>Ununseptium</fr>
+	<de>Ununseptium</de>
+	<it>Ununseptio</it>
+	<pt>Ununseptio</pt>
+	<es>Ununseptio</es>	
+	<sw>Ununseptium</sw>
+	<ln>Ununseptium</ln>
+	<cz>Ununseptium</cz>
+	<cr>Ununseptium</cr>
+	<nw>Ununseptium</nw>	
+</word>
+
+<word>
+	<atomicno>118</atomicno>
+	<uk>Ununoctium</uk>
+	<nl>Ununoctium</nl>
+	<fr>Ununoctium</fr>
+	<de>Ununoctium</de>
+	<it>Ununoctio</it>
+	<pt>Ununoctio</pt>
+	<es>Ununoctio</es>
+	<sw>Ununoctium</sw>
+	<ln>Ununoctium</ln>
+	<cz>Ununoctium</cz>
+	<cr>Ununoctium</cr>
+	<nw>Ununoctium</nw>
+</word>
+
+</language>

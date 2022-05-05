@@ -1,0 +1,24 @@
+Caesium:
+
+Americium
+Cerium:
+Erbium:
+Europium:
+Gadolinium:
+Hafnium:
+Indium: x
+Iron:
+Lanthanum:
+Lutetium:
+Neodymium:
+Niobium
+Phosphorus:
+Plutonium:
+Praseodymium:
+Rubidium:
+Ruthenium:
+Samarium:
+Silicon:
+Tantalum:
+Thallium:
+Yttrium:

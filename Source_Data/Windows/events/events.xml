@@ -1,0 +1,2782 @@
+<?xml version="1.0"?>
+<!DOCTYPE xsl:stylesheet [<!ENTITY nbsp "&#160;"> <!ENTITY degree "&#176;"> <!ENTITY Eacute "&#201;"> <!ENTITY oacute "&#243;"> <!ENTITY auml "&#228;"> <!ENTITY uuml "&#252;"> <!ENTITY ccedil "&#231;"> <!ENTITY egrave "&#232;"> <!ENTITY eacute "&#233;"> <!ENTITY ouml "&#246;">]>
+
+<!-- (C) Paul Alan Freshney 2008;  August 15th [2765] -->
+
+<events>
+
+<!-- ========================================================================================== -->
+<!-- January                                                                                    -->
+<!-- ========================================================================================== -->
+
+<event daycode="0101">
+	<title>January 1st</title>
+	<body>
+		<ptxt year="1852">The French chemist, <blink ref="ead">Eugene-Antole Demarcay</blink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0201">
+	<title>January 2nd</title>
+	<body>
+		<ptxt year="1822">Rudolph Clausius, who established foundations for modern thermodynamics, was born.</ptxt>
+		<ptxt year="1765">The discoverer of <elink ref="41">niobium</elink>, the English chemist <blink ref="ch">Charles Hatchett</blink> was born.</ptxt>		
+	</body>
+</event>
+
+<event daycode="0301">
+	<title>January 3rd</title>
+	<body>
+		<ptxt year="1999">The Mars Polar Lander was launched.</ptxt>
+		<ptxt year="1733">The English industrialist and inventor, Sir Richard Arkwright, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0401">
+	<title>January 4th</title>
+	<body>
+		<ptxt year="1905">Aristid V. Grosse was born. He isolated protactinium in 1927 and was a researcher on uranium-235 fission by slow neutrons with Alfred Nier, E. J. Booth and J. R. Dunning in 1940.</ptxt>		
+		<ptxt year="1891">Henry H. Dow prepared bromine from brine.</ptxt>
+	</body>
+</event>
+
+<event daycode="0501">
+	<title>January 5th</title>
+	<body>
+		<ptxt year="">Sorry, but nothing interesting happened on this day!</ptxt>
+	</body>
+</event>
+
+<event daycode="0601">
+	<title>January 6th</title>
+	<body>
+		<ptxt year="1872">John V. N. Dorr was born. He was an inventor and chemical engineer, he developed the Dorr classifier for extracting ore, which became a practical method for the separation and chemical treatment of fine solids suspended in liquid.</ptxt>
+	</body>
+</event>
+
+<event daycode="0701">
+	<title>January 7th</title>
+	<body>
+		<ptxt year="1833">Henry E. Roscoe, researcher on the chemical action of light; invented actinometer with Robert Bunsen (1856) and was the first to isolate <elink ref="23">vanadium</elink>, was born.</ptxt>
+		<ptxt year="1794">Eihardt Mitscherlich, researcher on crystalline structure, catalysis, benzene and its derivatives and discovered isomorphism, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0801">
+	<title>January 8th</title>
+	<body>
+		<ptxt year="1856">J. A. Veatch discovered borax in mineral water at Tuscan Springs, California.</ptxt>
+	</body>
+</event>
+
+<event daycode="0901">
+	<title>January 9th</title>
+	<body>
+		<ptxt year="1868">S&ouml;ren P. L. S&ouml;rensen, "Father of pH", researcher on proteins and amino acids, enzymes and <elink ref="1">hydrogen</elink> ion concentrations, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1001">
+	<title>January 10th</title>
+	<body>
+		<ptxt year="1877">Frederick G. Cottrell, researcher in <elink ref="7">nitrogen</elink> fixation, liquefaction of gases and the recovery of <elink ref="2">helium</elink>; invented electrostatic (Cottrell) precipitator for precipitation of particles from gases, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1101">
+	<title>January 11th</title>
+	<body>
+		<ptxt year="1716">Antonio de Ulloa was born. He discovered platinum with Jorge Juan in 1748; established the first museum of natural history, the first metallurgical laboratory in Spain, and the observatory of Cadiz.</ptxt>
+	</body>
+</event>
+
+<event daycode="1201">
+	<title>January 12th</title>
+	<body>
+		<ptxt year="1809">Charles Darwin, the English naturalist, who realised and demonstrated that all species of life have evolved over time from common ancestors through the process he called natural selection, was born.</ptxt>
+		<ptxt year="1792">The Swedish chemist <blink ref="jaa">Johann August Arfvedson</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1301">
+	<title>January 13th</title>
+	<body>
+		<ptxt year="1850">Charles F. Mabery, pioneer in petroleum chemistry and electrolytic <elink ref="13">aluminum</elink> and bromine industries, was born.</ptxt>
+		<ptxt year="1780">Pierre J. Robiquet, discovered asparagine with Nicolas-Louis Vauquelin; codeine content of opium, was born.</ptxt>		
+	</body>
+</event>
+
+<event daycode="1401">
+	<title>January 14th</title>
+	<body>
+		<ptxt year="1851">Rainer Ludwig Claisen was born. He developed reactions such as condensation of esters and rearrangement of allyl vinyl ethers; developed the Claisen flask and Claisen's rule hat relates acidity to enolisation; research on tautomerism.</ptxt>
+	</body>
+</event>
+
+<event daycode="1501">
+	<title>January 15th</title>
+	<body>
+		<ptxt year="1784">Henry Cavendish presented the quantitative composition of water before the Royal Society.</ptxt>
+	</body>
+</event>
+
+<event daycode="1601">
+	<title>January 16th</title>
+	<body>
+		<ptxt year="1953">the first identification of <elink ref="100">fermium</elink> was made with a sample of only about 200 atoms at University of California, Berkeley, USA.</ptxt>
+		<ptxt year="1767">the Swedish chemist <blink ref="age">Anders Gustaf Ekeberg</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1701">
+	<title>January 17th</title>
+	<body>
+		<ptxt year="1706">Benjamin Frnklin was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1801">
+	<title>January 18th</title>
+	<body>
+		<ptxt year="1861">Hans Goldschmidt invented the alumino-thermite process (Goldschmidt Process).</ptxt>
+		<ptxt year="1825">Edward Frankland, theory of valency, authority on sanitation and river pollution; first synthesis of organometallic compound, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1901">
+	<title>January 19th</title>
+	<body>
+		<ptxt year="1885">Harry L. Fisher, inventor in field of rubber technology and synthetic rubber, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2001">
+	<title>January 20th</title>
+	<body>
+		<ptxt year="1862">George G. Henderson, researcher on catalysis, was born.</ptxt>
+		<ptxt year="1834">Adolph Frank, who made calcium cyanamide from calcium carbide and <elink ref="7">nitrogen</elink>, was born.</ptxt>
+		<ptxt year="1758">Marie Anne Paulze Lavoisier was born. She was a research assistant, collaborator, illustrator, editor, publisher, and spouse of Antoine Lavoisier. She was later the spouse (but not ollaborator) of Benjamin Thompson, Count Rumford.</ptxt>		
+	</body>
+</event>
+
+<event daycode="2101">
+	<title>January 21st</title>
+	<body>
+		<ptxt year="1941">The Dow Chemical Company, Freeport, Texas, produced an ingot of <elink ref="12">magnesium</elink>, the first commercial ingot of any metal ever to be extracted from seawater.</ptxt>
+	</body>
+</event>
+
+<event daycode="2201">
+	<title>January 22nd</title>
+	<body>
+		<ptxt year="1796">The Russian discoverer of <elink ref="44">ruthenium</elink>, <blink ref="kk">Karl K. Klaus</blink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2301">
+	<title>January 23th</title>
+	<body>
+		<ptxt year="1876">Otto Paul Hermann Diels was born. He developed the diene synthesis and practical method for making ring compounds from chain compounds (Diels-Alder Reaction). He won the Nobel Prize (1950) with Kurt Alder for their discovery and development of the diene synthesis.</ptxt>
+		<ptxt year="1872">Paul Langevin, a researcher on molecular structure of gases, analysis of secondary emission of X-rays from metals exposed to radiation and for his theory of magnetism, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2401">
+	<title>January 24th</title>
+	<body>
+		<ptxt year="1966">B. B. Cunningham (et al.), made first reported observation of absorption spectrum of compound of <elink ref="99">einsteinium</elink> at the University of California, Berkeley.</ptxt>
+		<ptxt year="1872">Morris W. Travers was born. He codiscovered <elink ref="36">krypton</elink>, <elink ref="10">neon</elink> and <elink ref="54">xenon</elink> with William Ramsay.</ptxt>
+		<ptxt year="1848"><elink ref="79">Gold</elink> discovered at Sutter's Mill in northern California setting off the 49er Gold Rush.</ptxt>
+	</body>
+</event>
+
+<event daycode="2501">
+	<title>January 25th</title>
+	<body>
+		<ptxt year="1627">Robert Boyle, discoverer of Boyle's Law, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2601">
+	<title>January 26th</title>
+	<body>
+		<ptxt year="1939">Niels Bohr reported the discovery of nuclear fission by Otto Hahn and Fritz Strassman at Fifth Washington Conference on Theoretical Chemistry.</ptxt>
+	</body>
+</event>
+
+<event daycode="2701">
+	<title>January 27th</title>
+	<body>
+		<ptxt year="1870">Louis A. Kahlenberg was born. He studied solutions, dialysis, gas electrodes, and the activation of gases by metals; investigated potentiometric titrations, boric acid in the treatment of blood poisoning, the use of colloidal gold in treatment of malignancies, and the use of dichloroaceticacid in medicine; his criticisms of Arrhenius' theory of ionization led to Debye's and H&uuml;ckel's modifictions of the theory to account for the electrical interactions of the ions.</ptxt>
+		<ptxt year="1865">F. August Kekul&eacute; presented his benzene structure to Soci&eacute;t&eacute; Chimique, Paris.</ptxt>
+	</body>
+</event>
+
+<event daycode="2801">
+	<title>January 28th</title>
+	<body>
+		<ptxt year="1843">Henry C. Bolton, writer and bibliographer of history of chemistry; studied the action of organic acids on minerals, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2901">
+	<title>January 29th</title>
+	<body>
+		<ptxt year="1838">Edward W. Morley, who performed ether drift experiments with Albert A. Mickelson and made extremely accurate determination of combining weights of <elink ref="1">hydrogen</elink> and <elink ref="8">oxygen</elink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3001">
+	<title>January 30th</title>
+	<body>
+		<ptxt year="2011">Scientists in Switzerland reveal that molybenite (MoS<sub>2</sub>) can be used to make transistors that consume 100 thousand times less energy in standby state.</ptxt>
+		<ptxt year="1891">Harold S. Booth, researcher in inorganic chemistry, particularly fluoride gases, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3101">
+	<title>January 31st</title>
+	<body>
+		<ptxt year="1881">Irving Langmuir was born. He was a researcher of surface chemistry, introduced gas-filled tungsten lamps and the use of atomic <elink ref="1">hydrogen</elink> blowpipe for welding. He invented the condensation pump for producing high vacuums and evolved electronic theory with Gilbert N. Lewis. He won the Nobel Prize (1932) for his discoveries and investigations in surface chemistry.</ptxt>
+		<ptxt year="1868">Theodore W. Richards was born. He was a researcher on atomic weights, electrochemistry and thermodynamics; discovered isotopes of lead from uranium and thorium. He was awarded the Nobel Prize in recognition of his accurate determinations of the atomic weight of a large number of chemical elements.</ptxt>
+	</body>
+</event>
+
+<!-- ========================================================================================== -->
+<!-- February                                                                                    -->
+<!-- ========================================================================================== -->
+
+<event daycode="0102">
+	<title>February 1st</title>
+	<body>
+		<ptxt year="1905"><blink ref="es">Emilio Segre</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0202">
+	<title>February 2nd</title>
+	<body>
+		<ptxt year="1802">Jean Baptiste Joseph Dieudonne Boussingault, who demonstrated that plants absorb <elink ref="7">nitrogen</elink> from soil in form of nitrates and not from air as previously believed; isolated and named sorbitol, was born.</ptxt>
+		<ptxt year="1566">Michal Sedziw&oacute;j (Michael Sendivogius), was born. He was an alchemist; developed methods for isolating and purifying various acids, metals and other chemical compounds; discovered that air is not a single substance and contains a life-giving substance; identified this 'food of life' with the gas given off by heating nitre (saltpetre).</ptxt>
+	</body>
+</event>
+
+<event daycode="0302">
+	<title>February 3rd</title>
+	<body>
+		<ptxt year="1893">Lenora Neuffer Bilger, researcher in asymmetric <elink ref="7">nitrogen</elink> compounds and winner of the Garvan Medal, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0402">
+	<title>February 4th</title>
+	<body>
+		<ptxt year="1896">Friedrich Hermann Hund, who developed Hund's rules for electron configurations, the first of which predicts maximum multiplicity of spin; molecular-orbital theory (Hund-Mulliken approach), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0502">
+	<title>February 5th</title>
+	<body>
+		<ptxt year="1840">John Boyd Dunlop, who developed pneumatic rubber tires, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0602">
+	<title>February 6th</title>
+	<body>
+		<ptxt year="1860">Nikolai D. Zelinsky, researcher on catalysis of disproportionation reactions of hydrocarbons and bromination of fatty acids (Heil-Volhard-Zelinsky reaction), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0702">
+	<title>February 7th</title>
+	<body>
+		<ptxt year="1850">John B. F. Herreshoff, who developed a method for manufacturing sulfuric acid, was born.</ptxt>
+		<ptxt year="1864">John A. R. Newlands published his first paper on his law of octaves showing that in order of increasing atomic weights, properties repeated with every 8th element.</ptxt>
+	</body>
+</event>
+
+<event daycode="0802">
+	<title>February 8th</title>
+	<body>
+		<ptxt year="1834">Russian chemist, <blink ref="dim">Dmitriy Ivanovich Mendeleyev</blink>, creator of the Periodic Table was born. Although some sources say he was born on the 7th!</ptxt>
+	</body>
+</event>
+
+<event daycode="0902">
+	<title>February 9th</title>
+	<body>
+		<ptxt year="1950"><elink ref="98">Californium</elink> was discovered by ion exchange chromatography at the University of California, Berkeley.</ptxt>		
+		<ptxt year="1871">Edward C. C. Baly, who showed sugar and other organic compounds formed from water, carbon dioxide, and ammonia under the influence of light, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1002">
+	<title>February 10th</title>
+	<body>
+		<ptxt year="1840"><blink ref="ptc">Per Teodor Cleve</blink>, the Swedish chemist, was born in Stockholm on this day.</ptxt>
+	</body>
+</event>
+
+<event daycode="1102">
+	<title>February 11th</title>
+	<body>
+		<ptxt year="2008">Astronomers at Caltech announce the first organic molecules found on an alien world, giant planet HD 189733b.</ptxt>
+		<ptxt year="1894">Izaac M. Kolthoff, researcher in analytical chemistry; researcher in polarography, voltammetry; amperometric titrations, and synthetic rubber chemistry, was born.</ptxt>
+		<ptxt year="1847">Thomas A. Edison, inventor of the incandescent lamp and mimeograph, was born.</ptxt>
+		<ptxt year="1839">Josiah Willard Gibbs, researcher in thermodynamics and phase rule (Gibbs Phase Rule), was born. Free energy is named for him as Gibbs free energy.</ptxt>
+	</body>
+</event>
+
+<event daycode="1202">
+	<title>February 12th</title>
+	<body>
+		<ptxt year="1777">French chemist <blink ref="bc">Bernard Courtois</blink> was born.</ptxt>
+		<ptxt year="1785">Pierre L. DuLong, who discovered nitrogen trichloride, was born. He was a researcher on refractive indeces and specific heats of gases; Law of constancy of atomic heat (DuLong and Petit). He suggested that acids were compounds of <elink ref="1">hydrogen</elink> and devised a formula for heat value of fuels (DuLong Formula).</ptxt>
+	</body>
+</event>
+
+<event daycode="1302">
+	<title>February 13th</title>
+	<body>
+		<ptxt year="1672">Etienne-Francois Geoffroy, published first table of chemical affinities and was an early supporter of phlogiston theory, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1402">
+	<title>February 14th</title>
+	<body>
+		<ptxt year="1961"><elink ref="103">Lawrencium</elink> was produced at University of California, Berkeley.</ptxt>
+		<ptxt year="1917">Herbert A. Hauptman, who developed methods for the determination of crystal structures, was born. He won the Nobel Prize (1985) with Jerome Karle for their outstanding achievements in the development of direct methods for the determination of crystal structures.</ptxt>
+		<ptxt year="1878">Julius Nieuwland, known as the "Father of Acetylene Chemistry" and discoverer of neoprene, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1502">
+	<title>February 15th</title>
+	<body>
+		<ptxt year="1900">Charles Thomas, who received many awards including Priestley medal, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1602">
+	<title>February 16th</title>
+	<body>
+		<ptxt year="1955">F. P. Bundy, H. T. Hall, H. M. Strong and R. H. O. Wentoff announced synthesis of diamonds at GE Research Laboratories.</ptxt>
+		<ptxt year="1826">(Hans Peter J&ouml;rgen) Julius Thomsen was born. He tabulated the amount of heat released or absorbed in 3,500 chemical reactions, prepared the first table of the relative strengths of acids. Fabricated of soda from the mineral cryolite (patented in 1853) and established a factory in St. Petersburg capable of producing two tons per day. He designed the modern format of groups and periods on the long form of the Periodic Table of the Elements (1895).</ptxt>
+	</body>
+</event>
+
+<event daycode="1702">
+	<title>February 17th</title>
+	<body>
+		<ptxt year="1838">Friedrich K. Beilstein, who published a standard reference work on organic chemistry, 1880-83, was born. It has been updated ever since.</ptxt>
+	</body>
+</event>
+
+<event daycode="1802">
+	<title>February 18th</title>
+	<body>
+		<ptxt year="1913">Frederick Soddy, who coined the phrase "isotopic elements" for elements that share the same place in the periodic table, was born.</ptxt>
+		<ptxt year="1745">Alessandro G. A. A. Volta, who invented the voltaic pile "vota pila", was born. He observed the bubbling of methane in swamps and in 1776-77 studied the chemistry of gases, discovered methane, and devised experiments such as the ignition of gases by an electric spark in a closed vessel. The unit of electric potential, the volt, is named in his honor.</ptxt>
+	</body>
+</event>
+
+<event daycode="1902">
+	<title>February 19th</title>
+	<body>
+		<ptxt year="1955">One atom of <elink ref="101">mendelevium</elink> was produced by He bombardment of one billion atoms of <sup>253</sup>Es.</ptxt>
+		<ptxt year="1799">The German chemist <blink ref="fr">Ferdinand Reich</blink> was born in Bernburg on this day.</ptxt>
+	</body>
+</event>
+
+<event daycode="2002">
+	<title>February 20th</title>
+	<body>
+		<ptxt year="1844">Ludwig Boltzman was born; he developed the kinetic theory of gases and statistical mechanics and the Stefan-Boltzmann law concerning a relationship between the temperature of a body and the radiation it emits.</ptxt>
+	</body>
+</event>
+
+<event daycode="2102">
+	<title>February 21st</title>
+	<body>
+		<ptxt year="1822">Oliver W. Gibbs, pioneer in inorganic and analytical chemistry, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2202">
+	<title>February 22nd</title>
+	<body>
+		<ptxt year="1902">Fritz Strassman, who with Otto Hahn and Lise Mietner, discovered neutroninduced nuclear fission in uranium (1938) and codeveloped the rubidium-strontium technique of radio-dating geological samples, was born.</ptxt>
+		<ptxt year="1879">Johannes N. Br&ouml;nsted, who offered the acid-base theory (Br&ouml;nsted-Lowry), was a researcher in kinetics, properties of ions, catalysis and nitramide, was born.</ptxt>
+		<ptxt year="1828">Frederich W&ouml;hler in a letter to J&ouml;ns J. Berzelius, announced the synthesis of urea from ammonium cyanate, asking whether this is a true synthesis of organic from inorganic material.</ptxt>
+	</body>
+</event>
+
+<event daycode="2302">
+	<title>February 23th</title>
+	<body>
+		<ptxt year="1941">Glenn T. Seaborg et al. chemically identified <elink ref="94">plutonium</elink> at the University of California, Berkeley.</ptxt>
+		<ptxt year="1886">Charles M. Hall is first to produce electrolytic aluminum in his woodshed laboratory at his family's home.</ptxt>
+	</body>
+</event>
+
+<event daycode="2402">
+	<title>February 24th</title>
+	<body>
+		<ptxt year="1981">Observation of the first atom of element 107 at GSI Laboratory, Darmstadt, Germany.</ptxt>
+	</body>
+</event>
+
+<event daycode="2502">
+	<title>February 25th</title>
+	<body>
+		<ptxt year="1896"><blink ref="ietn">Ida Noddack</blink>, one of the first woman in Germany to study chemistry, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2602">
+	<title>February 26th</title>
+	<body>
+		<ptxt year="1903">Giulio Natta, who discovered and elucidated stereospecific polymerization and stereoregular polymers; developed a commercially important polymerization processes; won the Nobel Prize (1963) with Karl Ziegler for their discoveries in the field of the chemistry and technology of high polymers, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2702">
+	<title>February 27th</title>
+	<body>
+		<ptxt year="1869">Alice Hamilton, who researched toxic substances in the workplace and was the first female professor at Harvard Medical School, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2802">
+	<title>February 28th</title>
+	<body>
+		<ptxt year="1901">Linus C. Pauling, researcher on structure of molecules, valency and resonance was born. The Pauling scale of electronegativity is named after him.</ptxt>
+	</body>
+</event>
+
+<event daycode="2902">
+	<title>February 29th</title>
+	<body>
+		<ptxt year="1908">Dutch scientists produced solid <elink ref="2">helium</elink>.</ptxt>
+	</body>
+</event>
+
+<!-- ========================================================================================== -->
+<!-- March                                                                                      -->
+<!-- ========================================================================================== -->
+
+
+<event daycode="0103">
+	<title>March 1st</title>
+	<body>
+		<ptxt year="1896">Antoine-Henri Becquerel discovered radioactivity of uranite in pitchblende.</ptxt>
+	</body>
+</event>
+
+<event daycode="0203">
+	<title>March 2nd</title>
+	<body>
+		<ptxt year="1886">H. Jermain Creighton, researcher in electro-organic chemistry; developed industrial process for electroreduction of glucose to sorbitol and mannitol, was born.</ptxt>
+		<ptxt year="1862">Boris Borisovich Galitzine, Russian physicist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0303">
+	<title>March 3rd</title>
+	<body>
+		<ptxt year="1709"><blink ref="asm">Andreas Sigismund Marggraf</blink> the German chemist and pioneer of analytical chemistry was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0403">
+	<title>March 4th</title>
+	<body>
+		<ptxt year="1947">Willard Libby, et al., first age determination by radiocarbon.</ptxt>
+		<ptxt year="1904">George Gamow, Ukrainian-born physicist, was born.</ptxt>
+		<ptxt year="1859">Alexander Stepanovich Popov, Russian physicist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0503">
+	<title>March 5th</title>
+	<body>
+		<ptxt year="1637">John van der Heyden, inventer of the fire extinguisher, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0603">
+	<title>March 6th</title>
+	<body>
+		<ptxt year="1787">Joseph von Fraunhofer, discoverer of dark lines in the solar spectrum (Fraunhofer lines), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0703">
+	<title>March 7th</title>
+	<body>
+		<ptxt year="1788">Antoine-C&eacute;sar Becquerel, the first to use electrolysis to recover metals from ores and inventer of an early electric thermometer, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0803">
+	<title>March 8th</title>
+	<body>
+		<ptxt year="1879">The German chemist <blink ref="oh">Otto Hahn</blink> was born on this day.</ptxt>
+	</body>
+</event>
+
+<event daycode="0903">
+	<title>March 9th</title>
+	<body>
+		<ptxt year="1912">Stanley G. Thompson, co-discoverer of <elink ref="97">berkelium</elink>, <elink ref="98">californium</elink>, <elink ref="99">einsteinium</elink>, <elink ref="100">fermium</elink> and <elink ref="101">mendelevium</elink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1003">
+	<title>March 10th</title>
+	<body>
+		<ptxt year="1762">Jeremias B. Richter discovered the law of equivalent proportions; first to establish stoichiometry, the basis of quantitative chemical analysis, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1103">
+	<title>March 11th</title>
+	<body>
+		<ptxt year="1818">Henri E. Sainte-Claire Deville, the first to prepare pure <elink ref="13">aluminium</elink>, discovered toluene and anhydrous nitrogen pentoxide, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1203">
+	<title>March 12th</title>
+	<body>
+		<ptxt year="1824">The German physicist <blink ref="grk">Gustav Robert Kirchhoff</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1303">
+	<title>March 13th</title>
+	<body>
+		<ptxt year="1733">The English scientist and theologian, <blink ref="grk">Joseph Priestley</blink> was born on this day.</ptxt>
+	</body>
+</event>
+
+<event daycode="1403">
+	<title>March 14th</title>
+	<body>
+		<ptxt year="">Today is <wlink ref="en.wikipedia.org/wiki/Pi_Day">Pi day</wlink>!</ptxt>
+		<ptxt year="1984">Observation of the first atom of element <elink ref="108">hassium</elink> at the GSI Laboratory, Darmstadt.</ptxt>
+		<ptxt year="1879">Albert Einstein, Nobel Prize winning physicistm was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1503">
+	<title>March 15th</title>
+	<body>
+		<ptxt year="1821">Johann Joseph Loschmidt, developer of the Loschmidt Number, the number of molecules in a cubic centimeter of gas and space-filling formulas of numerous organic compounds, was born..</ptxt>
+	</body>
+</event>
+
+<event daycode="1603">
+	<title>March 16th</title>
+	<body>
+		<ptxt year="1859">Alexander Stepanovich Popov, Russian physicist, was born.</ptxt>
+		<ptxt year="1834">Hermann W. Vogel, he invented the orthochromatic photographic plate in 1873; designed a photometer; was a researcher in spectroscopic photography, was born.</ptxt>
+		<ptxt year="1789">Georg Simon Ohm, German physicist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1703">
+	<title>March 17th</title>
+	<body>
+		<ptxt year="1940">The German physicist <blink ref="gm">Gottfried M&uuml;nzenberg</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1803">
+	<title>March 18th</title>
+	<body>
+		<ptxt year="1905">Thomas Townsend Brown, American scientist, was born.</ptxt>
+		<ptxt year="1900">Laueren B. Hitchcock, expert in chemistry of the environment, was born.</ptxt>		
+	</body>
+</event>
+
+<event daycode="1903">
+	<title>March 19th</title>
+	<body>
+		<ptxt year="1900">Fr&eacute;d&eacute;ric J. Joliot (Joliot-Curie), Nobel Prize winner in 1935 with wife Ir&egrave;ne Joliot-Curie, for production of artificial radioisotopes, was born. He proved experimentally that neutron emission occurs in nuclear fission with H. Halban and L. W. Kowarski.</ptxt>
+		<ptxt year="1883">Walter N. Haworth, who synthesized ascorbic acid (Vitamin C), was born. He was researcher on sugars and dextran as blood plasma substitute; Nobel Prize (1937) winner for vitamin synthesis, with Paul Karrer.</ptxt>		
+	</body>
+</event>
+
+<event daycode="2003">
+	<title>March 20th</title>
+	<body>
+		<ptxt year="1735">Torbern Bergman, Swedish chemist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2103">
+	<title>March 21st</title>
+	<body>
+		<ptxt year="1932">Walter Gilbert, researcher on the determination of deoxyribonucleic acid (DNA) base sequence; Nobel Prize (1980) with Paul Berg and Frederick Sanger for their contributions concerning the determination of base sequences in nucleic acids, was born.</ptxt>
+		<ptxt year="1903">Michael Tswett gave first description of his chromatographic method before the Warsaw Society of Natural Sciences.</ptxt>
+	</body>
+</event>
+
+<event daycode="2203">
+	<title>March 22nd</title>
+	<body>
+		<ptxt year="1868">Robert A. Millikan measured the charge/mass ratio of the electron; Nobel Prize in Physics (1923) "for his work on the elementary charge of electricity and on the photoelectric effect", was born.</ptxt>
+		<ptxt year="1788">Pierre J. Pelletier discovered quinine, strychnine and other alkaloids; obtained toluene by distilling pipe resin with Philip Walter, was born.</ptxt>		
+	</body>
+</event>
+
+<event daycode="2303">
+	<title>March 23rd</title>
+	<body>
+		<ptxt year="1962">Neil Bartlett made the first noble gas compound, XePtF<sub>6</sub>.</ptxt>
+		<ptxt year="1895">William Crookes identified new gas (isolated from air by William Ramsay) as <elink ref="2">helium</elink> that had been discovered in the Sun 27 years earlier by Norman Lockyer.</ptxt>
+		<ptxt year="1881">Hermann Staudinger, researcher on the chemistry of macromolecular substances; Nobel Prize (1953) for his discoveries in the field of macromolecular chemistry, was born.</ptxt>
+		<ptxt year="1867">Charles L. Parsons, researcher on beryllium (Be, 4); obtained federal charter for ACS; helped establish Petroleum research Fund, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2403">
+	<title>March 24th</title>
+	<body>
+		<ptxt year="1884">Peter Joseph William Debye, researcher in dipole moments and powder method of x-ray diffraction, was born. He won the Nobel Prize (1936) for his contributions to our knowledge of molecular structure through his investigations on dipole moments and on the diffraction of X-rays and electrons in gases.</ptxt>
+		<ptxt year="1711">William Brownrigg, first to describe platinum and use of pneumatic trough for collection of gases, was born.</ptxt>
+		<ptxt year="1494">Georgius Agricola, "Father of Minerology"; described mining and mellurgical processes, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2503">
+	<title>March 25th</title>
+	<body>
+		<ptxt year="1884">Georges Imbert, Alsatian chemist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2603">
+	<title>March 26th</title>
+	<body>
+		<ptxt year="1903">Ferdinand G. Brickwedde codiscovered deuterium, 1932, with Harold C. Urey and G. M. Murphy, was born.</ptxt>
+		<ptxt year="1838">A. Crum Brown devised modern structural formulae, 1864; formulated rules for substitution in benzene derivatives named after him; researcher in theory of isomerism and organic compounds of sulfur, was born.</ptxt>
+		<ptxt year="1753">Count Rumford (Benjamin Thompson) invented simple photometer; researcher in heat; demonstrated first law of thermodynamics; improved cooking and heating systems and animal breeding; married Antoine Lavoisier's widow, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2703">
+	<title>March 27th</title>
+	<body>
+		<ptxt year="1861">Nikolai Y. Demjanov, researcher on decomposition of aliphatic diazonium ions, Demjanov-Tiffeneau rearrangement, was born.</ptxt>
+		<ptxt year="1847">Otto Wallach, researcher on essential oils and terpenes; Nobel Prize (1910) in recognition of his services to organic chemistry and the chemical industry by his pioneer work in the field of alicyclic compounds, was born.</ptxt>		
+		<ptxt year="1845">Wilhelm K. R&ouml;ntgen, who discovered X-rays, was born. He won the Nobel Prize in Physics (1901) in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him; researcher in specific heats and heat conduction in crystals.</ptxt>
+		<ptxt year="1824">Johann W. Hittorf, a researcher in electrolysis of salt solutions, transport numbers, ion migrations, and electrical discharges in gases, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2803">
+	<title>March 28th</title>
+	<body>
+		<ptxt year="1941">Glenn T. Seaborg, et al., showed that plutonium-239 undergoes fission by slow neutrons, leading to the plutonium bomb as a goal for the Manhattan Project.</ptxt>
+	</body>
+</event>
+
+<event daycode="2903">
+	<title>March 29th</title>
+	<body>
+		<ptxt year="1898">Herrick L. Johnston, researcher on low temperatures, was born.</ptxt>
+		<ptxt year="1883">Donald D. Van Slyke, pioneer in clinical chemistry, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3003">
+	<title>March 30th</title>
+	<body>
+		<ptxt year="1842">Crawford W. Long first used ether as anesthetic.</ptxt>
+	</body>
+</event>
+
+<event daycode="3103">
+	<title>March 31st</title>
+	<body>
+		<ptxt year="1811">German chemist <blink ref="rwb">Robert Wilhelm Bunsen</blink> was born in Gottingen.</ptxt>
+	</body>
+</event>
+
+<!-- ========================================================================================== -->
+<!-- April                                                                                      -->
+<!-- ========================================================================================== -->
+
+<event daycode="0104">
+	<title>April 1st</title>
+	<body>
+		<ptxt year="1860">Sergei N. Reformatsky, who synthesized organozinc halides (Reformatsky reaction), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0204">
+	<title>April 2nd</title>
+	<body>
+		<ptxt year="1953">Francis H. C. Crick and James D. Watson mailed 900-word article on structure of deoxyribonucleic acid (DNA) to Nature.</ptxt>
+	</body>
+</event>
+
+<event daycode="0304">
+	<title>April 3rd</title>
+	<body>
+		<ptxt year="1902">The Electrochemical Society was organized the American Electrochemical Society.</ptxt>
+	</body>
+</event>
+
+<event daycode="0404">
+	<title>April 4th</title>
+	<body>
+		<ptxt year="1923">Ira Remsen awarded first Priestley Medal.</ptxt>
+	</body>
+</event>
+
+<event daycode="0504">
+	<title>April 5th</title>
+	<body>
+		<ptxt year="1827">Joseph Lister, who introduced antiseptics, such as carbolic acid (phenol, C<sub>6</sub>H<sub>5</sub>OH), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0604">
+	<title>April 6th</title>
+	<body>
+		<ptxt year="2010">Russian and American scientists create six atoms of element 117 by smashing isotopes of calcium and berkelium.</ptxt>
+		<ptxt year="1928">James D. Watson, researcher on the double helix structure of the deoxyribonucleic acid (DNA) molecule, was born.</ptxt>
+		<ptxt year="1863">James Walker, researcher on hydrolysis, ionization constants and amphoteric electrolytes with organic compounds, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0704">
+	<title>April 7th</title>
+	<body>
+		<ptxt year="1894">Louis P. Hammett, who developed the Hammett equation for linear free-energy relationship and correlation of changes in chemical properties with chemical structures, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0804">
+	<title>April 8th</title>
+	<body>
+		<ptxt year="1911">Melvin Calvin, American chemist and Nobel laureate, was born.</ptxt>
+		<ptxt year="1818">August Wilhelm von Hofmann, German chemist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0904">
+	<title>April 9th</title>
+	<body>
+		<ptxt year="1930">F. Albert Cotton, American chemist, was born.</ptxt>
+		<ptxt year="1770">Thomas Johann Seebeck, German physicist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1004">
+	<title>April 10th</title>
+	<body>
+		<ptxt year="1863">Paul Louis Toussaint H&eacute;roult, who discovered the electrolytic <elink ref="13">aluminium</elink> process, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1104">
+	<title>April 11th</title>
+	<body>
+		<ptxt year="1804">Otto Erdmann, professor of chemical technology, U. Leipzig and redetermined atomic weights of elements with R. F. Marchand, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1204">
+	<title>April 12th</title>
+	<body>
+		<ptxt year="1872">French chemist and discoverer of <elink ref="71">Lutetuim</elink>, <blink ref="gu">Georges Urbain</blink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1304">
+	<title>April 13th</title>
+	<body>
+		<ptxt year="1784">Tobern Bergman confirmed M&uuml;ller von Reichenstein's results that the substance isolated from a bismuth ore was a new element <elink ref="52">tellurium</elink>.</ptxt>
+	</body>
+</event>
+
+<event daycode="1404">
+	<title>April 14th</title>
+	<body>
+		<ptxt year="1927">Alan MacDiarmid, researcher on the synthesis of conductive polymers and Nobel Prize winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1504">
+	<title>April 15th</title>
+	<body>
+		<ptxt year="1710">William Cullen, first to notice that heat is produced during compression of a gas, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1604">
+	<title>April 16th</title>
+	<body>
+		<ptxt year="1799">Humphry Davy performed first physiological experiment on nitrous oxide by inhaling it on this day.</ptxt>
+		<ptxt year="1728">Joseph Black, who developed the concept of latent heat and laid foundation for modern quantitative analysis, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1704">
+	<title>April 17th</title>
+	<body>
+		<ptxt year="1975">Paul A Freshney was born, in Nottingham, England. :)</ptxt>
+		<ptxt year="1869">Robert Robertson, researcher in explosives including amato and tetryl (trinitrophenylmethylnitramine), was born.</ptxt>		
+	</body>
+</event>
+
+<event daycode="1804">
+	<title>April 18th</title>
+	<body>
+		<ptxt year="1838">French chemist <blink ref="pelb">Paul Emile Lecoq de Boisbaudran</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1904">
+	<title>April 19th</title>
+	<body>
+		<ptxt year="1912">The American chemist <blink ref="gts">Glenn Theodore Seaborg</blink> was born.</ptxt>
+		<ptxt year="1776">Antoine L. Lavoisier admitted that he and Joseph Priestley discovered the same facts about <elink ref="8">oxygen</elink> but claimed the right to its discovery because he recognized it as an element - Priestley explained its formation in terms of phlogiston.</ptxt>
+	</body>
+</event>
+
+<event daycode="2004">
+	<title>April 20th</title>
+	<body>
+		<ptxt year="1927">Karl Alexander M&uuml;ller, Swiss physicist and Nobel Prize laureate, was born. </ptxt>
+		<ptxt year="1918">Kai Siegbahn, Swedish physicist and Nobel Prize laureate, was born.</ptxt>
+		<ptxt year="1904">George Stibitz, American scientist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2104">
+	<title>April 21st</title>
+	<body>
+		<ptxt year="1882">Percy W. Bridgman, who studied effect of pressure on substances, showed that viscosity increases with high pressure and won the Nobel Prize in Physics (1946), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2204">
+	<title>April 22nd</title>
+	<body>
+		<ptxt year="1893">Wendell M. Latimer, researcher in the theory of <elink ref="1">hydrogen</elink> bonding and thermodynamics of aqueous solutions, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2304">
+	<title>April 23rd</title>
+	<body>
+		<ptxt year="1858">Max K. E. L. Planck, who introduced quantum theory and was a researcher in thermodynamics, was born.</ptxt>
+		<ptxt year="1484">The Italian scholar and physician <blink ref="jcs">Julius Caesar Scaliger</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2404">
+	<title>April 24th</title>
+	<body>
+		<ptxt year="1817"><blink ref="jcgn">Jean Charles Galissard de Marignac</blink>, the Swiss chemist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2504">
+	<title>April 25th</title>
+	<body>
+		<ptxt year="1900">Wolfgang Pauli, who won the the Nobel Prize in Physics(1945) for the discovery of the Exclusion Principle, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2604">
+	<title>April 26th</title>
+	<body>
+		<ptxt year="1775">Antoine L Lavoisier reported that heated mercury forms red calyx, HgO, while the air is reduced in volume and no longer supports combustion, heated red calyx to liberate oxygen.</ptxt>
+	</body>
+</event>
+
+<event daycode="2704">
+	<title>April 27th</title>
+	<body>
+		<ptxt year="1913"><blink ref="pha">Philip Abelson</blink> was born in Tacoma, USA.</ptxt>
+	</body> 
+</event>
+
+<event daycode="2804">
+	<title>April 28th</title>
+	<body>
+		<ptxt year="1941">K. Barry Sharpless, who discovered and developed many catalytic oxidation processes for stereoselective oxidation, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2904">
+	<title>April 29th</title>
+	<body>
+		<ptxt year="1893">Harold C. Urey, first to isolate heavy water (D<sub>2</sub>O) and Nobel Prize in Chemistry winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3004">
+	<title>April 30th</title>
+	<body>
+		<ptxt year="1958">Albert Ghiorso, et al., announced the discovery of <elink ref="101">mendelevium</elink> based upon research done at the University of California, Berkeley.</ptxt>
+		<ptxt year="1897">Joseph J. Thomson announced discovery of the electron as a body smaller than atoms but a constituent of it.</ptxt>		
+	</body>
+</event>
+
+<!-- ========================================================================================== -->
+<!-- May                                                                                    -->
+<!-- ========================================================================================== -->
+
+<event daycode="0105">
+	<title>May 1st</title>
+	<body>
+		<ptxt year="1824">Alexander W. Williamson, researcher on alcohols and ethers and the first to suggest the intermediate compound theory of catalysis with Kay, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0205">
+	<title>May 2nd</title>
+	<body>
+		<ptxt year="1802">Heinrich Gustav Magnus, a German chemist and physicist who discovered (amongst other things) the Magnus effect (the lift force produced by a rotating cylinder which, for example, gives the curve to a curve ball), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0305">
+	<title>May 3rd</title>
+	<body>
+		<ptxt year="1895">Herman F. Mark, "Father of polymer chemistry"; developed process for production of styrene from ethylbenzene, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0405">
+	<title>May 4th</title>
+	<body>
+		<ptxt year="1777">The French scientist <blink ref="ljt">Louis Jacques Thenard</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0405">
+	<title>May 4th</title>
+	<body>
+		<ptxt year="1777">Louis J. Thenard, who discovered <elink ref="1">hydrogen</elink> peroxide and Thenard's blue used in colouring porcelain and showed that caustic soda and potash contained <elink ref="1">hydrogen</elink> and <elink ref="8">oxygen</elink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0505">
+	<title>May 5th</title>
+	<body>
+		<ptxt year="1958">Albert Ghiorso, et al., announced the discovery of <elink ref="102">nobelium</elink> based on work done at University of California, Berkeley.</ptxt>
+	</body>
+</event>
+
+<event daycode="0605">
+	<title>May 6th</title>
+	<body>
+		<ptxt year="1871">F. Victor Grignard, who developed magnesium reagent used in organic chemistry and won the Nobel Prize (1912) for the discovery of the so-called Grignard reagent, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0705">
+	<title>May 7th</title>
+	<body>
+		<ptxt year="1871">Richard B. Moore, who advocated <elink ref="2">helium</elink> for ballons and dirigibles and supervised production of radium salts in US, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0805">
+	<title>May 8th</title>
+	<body>
+		<ptxt year="1855">Bohuslav Brauner, researcher in the chemistry of tellurium and the rare earths and predicted the existence of element 61, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0905">
+	<title>May 9th</title>
+	<body>
+		<ptxt year="1927">Manfred Eigen, who shared Nobel Prize (1967) with Ronald George Wreyford Norrish and George Porter for their studies of extremely fast chemical reactions,
+effected by disturbing the equilibrium by means of very short pulses of energy, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1005">
+	<title>May 10th</title>
+	<body>
+		<ptxt year="1860">Robert Bunsen and Gustav R. Kirchhoff announced the discovery of <elink ref="55">cesium</elink>.</ptxt>
+		<ptxt year="1830">Fran&ccedil;ois M. Raoult, who discovered the law (Raoult's Law) that vapour pressure of a solution is proportional to the number of molecules per unit volume in the solution, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1105">
+	<title>May 11th</title>
+	<body>
+		<ptxt year="1904">Donald F. Othmer, chemical engineer; developer of Othmer still, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1205">
+	<title>May 12th</title>
+	<body>
+		<ptxt year="1910">Dorothy Crowfoot Hodgkin, who determined the structure of Vitamin B12 using xrays, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1305">
+	<title>May 13th</title>
+	<body>
+		<ptxt year="2009">Scientists show that when cooled and squeezed very hard europium turns in to a superconductor. This makes europium the 53rd of the 92 naturally occuring elements to possess superconductivity.</ptxt>
+		<ptxt year="1857">Ronald Ross, who discovered that malaria was transmitted by Anopheles mosquito, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1405">
+	<title>May 14th</title>
+	<body>
+		<ptxt year="1899">Pierre Victor Auger, French physicist, was born. </ptxt>
+		<ptxt year="1878">The name "vaseline" for petroleum jelly was given a trademark.</ptxt>
+	</body>
+</event>
+
+<event daycode="1505">
+	<title>May 15th</title>
+	<body>
+		<ptxt year="1859">French physicist <blink ref="pc">Pierre Curie</blink>, winner of the Nobel Prize for Physics in 1903, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1605">
+	<title>May 16th</title>
+	<body>
+		<ptxt year="1763">The French scientist, and discoverer of <elink ref="24">chromium</elink> and <elink ref="4">beryllium</elink>, <blink ref="lnv">Louis Nicolas Vauquelin</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1705">
+	<title>May 17th</title>
+	<body>
+		<ptxt year="1836">Joseph N. Lockyer, who discovered <elink ref="2">helium</elink> in the Sun, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1805">
+	<title>May 18th</title>
+	<body>
+		<ptxt year="1901">Vincent du Vigneaud, who studied sulfur containing proteins (including insulin), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1905">
+	<title>May 19th</title>
+	<body>
+		<ptxt year="1914">Max F. Perutz, who studied the structure of hemoproteins using x-ray diffraction, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2005">
+	<title>May 20th</title>
+	<body>
+		<ptxt year="1890">Francis O. Rice, a researcher in free radicals, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2105">
+	<title>May 21st</title>
+	<body>
+		<ptxt year="1921">Andrei Sakharov, Russian physicist, was born.</ptxt>
+		<ptxt year="1792">Gaspard-Gustave Coriolis, French scientist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2205">
+	<title>May 22nd</title>
+	<body>
+		<ptxt year="1927">George A. Olah, researcher in carbocations and their role in chemical reactions of hydrocarbons and Nobel Prize winner, was born.</ptxt>
+		<ptxt year="1912">Herbert C. Brown, researcher in organoboron and carbocation chemistry and Nobel Prize winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2305">
+	<title>May 23rd</title>
+	<body>
+		<ptxt year="1854">Edgar Fahs Smith, researcher in electrochemistry and history of chemistry, was born</ptxt>
+	</body>
+</event>
+
+<event daycode="2405">
+	<title>May 24th</title>
+	<body>
+		<ptxt year="1686"><blink ref="gdf">Daniel Fahrenheit</blink>, the first person to use <elink ref="80">mercury</elink> in a thermometer, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2505">
+	<title>May 25th</title>
+	<body>
+		<ptxt year="1865">Pieter Zeeman, who studied the influence of magnetism on the nature of radiation, splitting of spectral lines (Zeeman Effect), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2605">
+	<title>May 26th</title>
+	<body>
+		<ptxt year="2010">Research out of Japan suggests a new crystal form of titanium oxide can be used to make optical storage discs with 1000 times more capacity than current Blu-ray discs, up to 25TB.</ptxt>
+		<ptxt year="1895">Helen Marie Dyer, who did research on chemotherapy, was born.</ptxt>
+		<ptxt year="1865">Max Julius Louis Le Blanc, who was researcher on electrochemical polarization and electrodes; introduced the <elink ref="1">hydrogen</elink> electrode, was born..</ptxt>
+	</body>
+</event>
+
+<event daycode="2705">
+	<title>May 27th</title>
+	<body>
+		<ptxt year="1909">Mary Fieser researcher on quinones, natural products, and steroids; coauthored texts in organic chemistry with her husband, was born.</ptxt>
+		<ptxt year="1857">Theodor Curtius, a researcher in chemistry of hydrazines and azides; the Curtius rearrangement and characterized benzoylglycylglycine, was born.</ptxt>
+		<ptxt year="1840">Lars F. Nilson discovered <elink ref="21">scandium</elink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2805">
+	<title>May 28th</title>
+	<body>
+		<ptxt year="1887">Kasmir Fajans established radioactive displacement law and initiated concept of heat of hydration of gaseous ions, was born.</ptxt>
+		<ptxt year="1872">Marian Smoluchowski, Polish physicist, was born. </ptxt>
+		<ptxt year="1836">Alexander Mitscherlich, German chemist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2905">
+	<title>May 29th</title>
+	<body>
+		<ptxt year="1794">The French chemist <blink ref="aabb">Antoine Bussy</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3005">
+	<title>May 30th</title>
+	<body>
+		<ptxt year="1916">The American scientist <blink ref="jwk">Joseph W. Kennedy</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3105">
+	<title>May 31st</title>
+	<body>
+		<ptxt year="2012">Elements 114 (flerovium) and 116 (livermorium) were officially named on this day.</ptxt>	
+		<ptxt year="1931">John Robert Schrieffer, American physicist and Nobel Prize laureate, was born.</ptxt>
+	</body>
+</event>
+
+<!-- ========================================================================================== -->
+<!-- June                                                                                       -->
+<!-- ========================================================================================== -->
+
+<event daycode="0106">
+	<title>June 1st</title>
+	<body>
+		<ptxt year="1917">William Knowles, who shared Nobel Prize (2001) with Ryoji Noyori for their work on chirally catalysed hydrogenation reactions and K. Barry Sharpless for his work on chirally catalysed oxidation reactions, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0206">
+	<title>June 2nd</title>
+	<body>
+		<ptxt year="1787">The Swedish chemist <blink ref="ngs">Nils Gabriel Sefstr&uuml;m</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0306">
+	<title>June 3rd</title>
+	<body>
+		<ptxt year="1960">Robert B. Woodward synthesized chlorophyll.</ptxt>
+	</body>
+</event>
+
+<event daycode="0406">
+	<title>June 4th</title>
+	<body>
+		<ptxt year="1886">Henri Moissan isolated fluorine by electrolysis of solution of KHF<sub>2</sub> in anhydrous HF.</ptxt>
+	</body>
+</event>
+
+<event daycode="0506">
+	<title>June 5th</title>
+	<body>
+		<ptxt year="1760">Finnish chemist <blink ref="jg">Johan Gadolin</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0606">
+	<title>June 6th</title>
+	<body>
+		<ptxt year="1943">Richard E. Smalley, researcher in supersonic beam laser spectroscopy and discoverer of fullerenes, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0706">
+	<title>June 7th</title>
+	<body>
+		<ptxt year="1896">Robert Sanderson Milliken, researcher in molecular orbital and electronic structure of molecules and Nobel Prize winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0806">
+	<title>June 8th</title>
+	<body>
+		<ptxt year="2016">The names <elink ref="113">nihonium</elink>, <elink ref="115">moscovium</elink>, <elink ref="117">tennessine</elink> and <elink ref="118">oganesson</elink> were recommended by an international scientific group, for the elements previously known as <elink ref="113">ununtrium</elink>, <elink ref="115">ununpentium</elink>, <elink ref="117">ununseptium</elink> and <elink ref="118">ununoctium</elink>.</ptxt>
+		<ptxt year="1940">Edwin M. McMillan and Philip Abelson announced discovery of <elink ref="93">neptunium</elink> (Np, 93).</ptxt>
+		<ptxt year="1916">Francis H. C. Crick, who determined structure of deoxyribonucleic acid (DNA) and won the Nobel Prize in Medicine (1962) with James D. Watson and Maurice H. F. Wilkins for their discoveries concerning the molecular structure of nuclear acids and its significance for information transfer in living material, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0906">
+	<title>June 9th</title>
+	<body>
+		<ptxt year="1862">Herbert B. Baker, researcher on effect of water on chemical change and authority on desiccating gases and poison gases, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1006">
+	<title>June 10th</title>
+	<body>
+		<ptxt year="1861">Pierre Duhem, French physicist, was born.</ptxt>
+		<ptxt year="1803">Henry Darcy, French scientist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1106">
+	<title>June 11th</title>
+	<body>
+		<ptxt year="2012"><glink ref="iupac">IUPAC</glink> approves the names <elink ref="114">flerovium</elink> and <elink ref="116">livermorium</elink> for elements 114 and 116.</ptxt>	
+		<ptxt year="1885">Frederick G. Keyes, researcher on thermodynamic properties of matter, kinetic theory and application of thermodynamics to equilibria, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1206">
+	<title>June 12th</title>
+	<body>
+		<ptxt year="1899">Fritz A. Lipmann, discovered coenzyme A and the central role of ATP in metabolism, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1306">
+	<title>June 13th</title>
+	<body>
+		<ptxt year="1831">James Clerk Maxwell, researcher in electromagnetic theory (Maxwell's equations), thermodynamics (Maxwell relations), and kinetic theory of gases (Maxwell velocity distribution); devised the "Maxwell's demon", was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1406">
+	<title>June 14th</title>
+	<body>
+		<ptxt year="1862">Johann Ulrich Nef, known as the "Father of Physical Organic Chemistry", discovered the valence of <elink ref="6">carbon</elink>; research on free radicals and transition state in organic reactions, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1506">
+	<title>June 15th</title>
+	<body>
+		<ptxt year="1754"><blink ref="jje">Juan Jose Elhuya</blink> the co-discoverer of <elink ref="74">tungsten</elink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1606">
+	<title>June 16th</title>
+	<body>
+		<ptxt year="1897">Georg Wittig, researcher in conversion of C=O to C=C (Wittig reaction) and Nobel Prize winner, was born.</ptxt>		
+		<ptxt year="1869">Henry E. Roscoe announced isolation of metallic vanadium.</ptxt>
+	</body>
+</event>
+
+<event daycode="1706">
+	<title>June 17th</title>
+	<body>
+		<ptxt year="1832"><blink ref="swc">Sir William Crookes</blink>, the English chemist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1806">
+	<title>June 18th</title>
+	<body>
+		<ptxt year="1906">Maria Goeppert Mayer, who developed the shell model of the nucleus and won the Nobel Prize in Physics, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1906">
+	<title>June 19th</title>
+	<body>
+		<ptxt year="1897">Cyril N. Hinshelwood, researcher in chemical kinetics and Nobel Prize winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2006">
+	<title>June 20th</title>
+	<body>
+		<ptxt year="1886">James R. Partington, researcher on specific heat of gases and historian of chemistry, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2106">
+	<title>June 21st</title>
+	<body>
+		<ptxt year="1906">M. S. Tswett submitted the first paper on chromatography; "Physico-chemical studies on chlorophyll. Adsorption behavior", to the Journal of the German Botanical Society.</ptxt>
+		<ptxt year="1870">Clara Immerwahr, German chemist, was born.</ptxt>
+		<ptxt year="1811">Carlo Matteucci, Italian physicist, was born.</ptxt>
+		<ptxt year="1781">Sim&eacute;on-Denis Poisson, French mathematician and physicist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2206">
+	<title>June 22nd</title>
+	<body>
+		<ptxt year="1892">Nathaniel Howell Furman, researcher on analytical separation of uranium, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2306">
+	<title>June 23rd</title>
+	<body>
+		<ptxt year="1775">Etienne-Louis Malus, who discovered the polarization of light and developed theory of double refraction of light in crystals, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2406">
+	<title>June 24th</title>
+	<body>
+		<ptxt year="1840">&Eacute;mile DuClaux, researcher on osmosis, molecular adhesion and surface tension, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2506">
+	<title>June 25th</title>
+	<body>
+		<ptxt year="1812">Hermann von Fehling, who discovered Fehling's solution as an oxidizing agent and as analytical reagent for aldehydes and sugars adn the composition of paraldehyde and metaldehyde, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2606">
+	<title>June 26th</title>
+	<body>
+		<ptxt year="1824">Lord Kelvin (William Thompson), who established theory and practice of thermodynamics, defined the scale of absolute temperature (Kelvin), was born.</ptxt>
+		<ptxt year="1694">Georg Brandt, who discovered <elink ref="27">cobalt</elink> and one of the first chemists to abandon alchemy as a science, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2706">
+	<title>June 27th</title>
+	<body>
+		<ptxt year="1909">Arthur Clay Cope, researcher in synthetic organic chemistry including medium-sized ring compounds, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2806">
+	<title>June 28th</title>
+	<body>
+		<ptxt year="1927">F. Sherwood Rowland, a researcher in atmospheric chemistry (particularly concerning the formation and decomposition of ozone, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2906">
+	<title>June 29th</title>
+	<body>
+		<ptxt year="1787">Nils G. Sefstrom, one of the discoverers of <elink ref="23">vanadium</elink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3006">
+	<title>June 30th</title>
+	<body>
+		<ptxt year="1827">Swiss chemist <blink ref="jls">Jacques-Louis Soret</blink> was born.</ptxt>
+	</body>
+</event>
+
+<!-- ========================================================================================== -->
+<!-- July                                                                                       -->
+<!-- ========================================================================================== -->
+
+<event daycode="0107">
+	<title>July 1st</title>
+	<body>
+		<ptxt year="1740">M&uuml;ller von Reichenstein discovered tellurium (Te, 52) 1782.</ptxt>
+	</body>
+</event>
+
+<event daycode="0207">
+	<title>July 2nd</title>
+	<body>
+		<ptxt year="1862">William H. Bragg, researcher in x-rays and crystal structure and Nobel Prize winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0307">
+	<title>July 3rd</title>
+	<body>
+		<ptxt year="1826">Antoine-Jerome Balard announced discovery of <elink ref="35">bromine</elink> to Acad&eacute;mie de Sciences, Paris.</ptxt>
+	</body>
+</event>
+
+<event daycode="0407">
+	<title>July 4th</title>
+	<body>
+		<ptxt year="1906">Vincent Joseph Schaefer, invented "cloud-seeding," artificially causing rain or snow using dry ice pellets, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0507">
+	<title>July 5th</title>
+	<body>
+		<ptxt year="1853">Hendrik A. Lorentz, researcher in kinetic theory and thermodynamics and Nobel Prize winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0607">
+	<title>July 6th</title>
+	<body>
+		<ptxt year="1903">Axel Hugo Theodor Theorell, researcher in oxidation enzymes and Nobel Prize winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0707">
+	<title>July 7th</title>
+	<body>
+		<ptxt year="1914">Robert Goddard obtained patent for liquid fuel rocket, Patent #1,102,653 liquid-fuel gun rocket.</ptxt>
+	</body>
+</event>
+
+<event daycode="0807">
+	<title>July 8th</title>
+	<body>
+		<ptxt year="1994">Jason Cardell reported in Science that interstellar abundances of the elements including thallium and lead are detected in interstellar gas.</ptxt>
+	</body>
+</event>
+
+<event daycode="0907">
+	<title>July 9th</title>
+	<body>
+		<ptxt year="1926">Ben Roy Mottelson, American-born physicist, Nobel Prize laureate, was born.</ptxt>
+		<ptxt year="1911">John A. Wheeler, American physicist, was born.</ptxt>
+		<ptxt year="1894">Pyotr Leonidovich Kapitsa, Russian physicist and Nobel Prize laureate, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1007">
+	<title>July 10th</title>
+	<body>
+		<ptxt year="1920">Owen Chamberlain, American physicist, Nobel Prize laureate, was born.</ptxt>
+		<ptxt year="1902">Kurt Adler developed the diene synthesis; Nobel Prize in Chemistry (1950) with Otto P. H. Diels for their discovery and development of the diene synthesis (Diels-Alder reaction), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1107">
+	<title>July 11th</title>
+	<body>
+		<ptxt year="1927">Theodore Harold Maiman, invented the first operable laser (a ruby laser), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1207">
+	<title>July 12th</title>
+	<body>
+		<ptxt year="1898">The discovery of <elink ref="54">xenon</elink> by William Ramsay and Morris W. Travers was announced.</ptxt>
+		<ptxt year="1635">Robert Hooke, researcher on the theory of gases and combustion and "the father of microscopy", was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1307">
+	<title>July 13th</title>
+	<body>
+		<ptxt year="1826">Stanislao Cannizzaro, who convinced chemists of Avogadro's hypothesis and was a researcher in organic chemistry producing benzyl alcohol and benzoic acid from benzaldehyde, was born.</ptxt>
+		<ptxt year="1527">John Dee, an English alchemist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1407">
+	<title>July 14th</title>
+	<body>
+		<ptxt year="1874">The French chemist <blink ref="ald">Andre Louis Debierne</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1507">
+	<title>July 15th</title>
+	<body>
+		<ptxt year="1915">The American nuclear scientist <blink ref="ag">Albert Ghiorso</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1607">
+	<title>July 16th</title>
+	<body>
+		<ptxt year="1945">Explosion of first atomic bomb at Trinity Site, Alamogordo Air Force Base, New Mexico.</ptxt>
+	</body>
+</event>
+
+<event daycode="1707">
+	<title>July 17th</title>
+	<body>
+		<ptxt year="1827">Frederick Augustus Abel, chemist to the war department and ordnance committees in England (1854-1888), invented (with Sir James Dewar) the smokeless explosive known as cordite and pioneered a new way of manufacturing gun-cotton (a nitrated form of nitrocellulose), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1807">
+	<title>July 18th</title>
+	<body>
+		<ptxt year="1937">Roald Hoffmann, who applied molecular orbital theory to organic chemical reactions with Robert B. Woodward (Woodward-Hoffmann Rules), was born.</ptxt>
+		<ptxt year="1853">Hendrik A. Lorentz, researcher in thermodynamics and kinetic theory, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1907">
+	<title>July 19th</title>
+	<body>
+		<ptxt year="1910">Paul J. Flory, a researcher in physical chemistry of macromolecules and Nobel Prize winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2007">
+	<title>July 20th</title>
+	<body>
+		<ptxt year="1969">Neil Armstrong said first words on lunar soil "That's one small step for man, one giant leap for mankind".</ptxt>
+		<ptxt year="1947">Gerd Binnig, German-born physicist and Nobel laureate, was born.</ptxt>
+		<ptxt year="1897">Tadeus Reichstein, Polish-born chemist, Nobel Prize in Physiology or Medicine laureate was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2107">
+	<title>July 21st</title>
+	<body>
+		<ptxt year="1923">Rudolph A. Marcus, helped develop RRKM (Rice-Ramsperger-Kassel-Marcus) theory of unimolecular reactions; Nobel Prize in Chemistry (1992) for contributions to theory of electron-transfer reactions, was born.</ptxt>
+		<ptxt year="1810">Henri Victor Regnault, French chemist, was born.</ptxt>		
+	</body>
+</event>
+
+<event daycode="2207">
+	<title>July 22nd</title>
+	<body>
+		<ptxt year="1853">Ernst Beckmann, who discovered the rearrangement of oximes of ketones into acid amides or anilides (Beckmann Molecular Transformation), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2307">
+	<title>July 23th</title>
+	<body>
+		<ptxt year="1717">Joseph M. F. Lassone, who discovered carbon dioxide (in 1776), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2407">
+	<title>July 24th</title>
+	<body>
+		<ptxt year="1843">William de Wiveleslie Abney was born. He investigated colour photography and colour vision; pioneered a method to measure the relative proportions of the primaries in a sample colour; first to take infra-red photographs, and study the solar infra-red spectrum; introduced hydroquinone (1880) as an effective photograph developing chemical; measured infra-red spectra of organic compounds (1885); studied how sunlight is altered in passing through the atmosphere and invented the abney level.</ptxt>
+	</body>
+</event>
+
+<event daycode="2507">
+	<title>July 25th</title>
+	<body>
+		<ptxt year="1931">German physicist <blink ref="pa">Peter Armbruster</blink> was born .</ptxt>
+		<ptxt year="1920">Rosalind Franklin, researcher in x-ray crystallography of deoxyribonucleic acid (DNA), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2607">
+	<title>July 26th</title>
+	<body>
+		<ptxt year="1799">Isaac Babbitt, invented an anti-friction metal (Babbitt Metal), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2707">
+	<title>July 27th</title>
+	<body>
+		<ptxt year="1848">German physicist <blink ref="fed">Friedrich Ernst Dorn</blink> the discoverer of <elink ref="86">radon</elink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2807">
+	<title>July 28th</title>
+	<body>
+		<ptxt year="1842">Albert Ladenburg, who synthesized coniine, piperidine, pyridine and other compounds, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2907">
+	<title>July 29th</title>
+	<body>
+		<ptxt year="1898">Isidor Isaac Rabi, American physicist and Nobel Prize Laureate, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3007">
+	<title>July 30th</title>
+	<body>
+		<ptxt year="1889">Vladimir Zworykin, Russian physicist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3107">
+	<title>July 31st</title>
+	<body>
+		<ptxt year="1825">August Beer, who discovered that absorption of light is related to amount and length of absorbing material (Beer's Law), was born.</ptxt>
+		<ptxt year="1800">The German physician and chemist <blink ref="fw">Friedrich W&ouml;hler</blink> was born.</ptxt>
+	</body>
+</event>
+
+<!-- ========================================================================================== -->
+<!-- August                                                                                     -->
+<!-- ========================================================================================== -->
+
+<event daycode="0108">
+	<title>August 1st</title>
+	<body>
+		<ptxt year="1885">Hungarian chemist <blink ref="gcdh">George Charles de Hevesy</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0208">
+	<title>August 2nd</title>
+	<body>
+		<ptxt year="1776">Friedrich Stromeyer, who discovered <elink ref="48">cadmium</elink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0308">
+	<title>August 3rd</title>
+	<body>
+		<ptxt year="1869">Isaac Adams' patent on nickel plating was issued.</ptxt>
+	</body>
+</event>
+
+<event daycode="0408">
+	<title>August 4th</title>
+	<body>
+		<ptxt year="1859">William Sutherland, research on relationship between viscosity of gas and temperature, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0508">
+	<title>August 5th</title>
+	<body>
+		<ptxt year="1936">Robert R. Williams and J. K. Cline synthesized vitamin B1.</ptxt>
+	</body>
+</event>
+
+<event daycode="0608">
+	<title>August 6th</title>
+	<body>
+		<ptxt year="1766">The English scientist <blink ref="whw">William Hyde Wollaston</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0708">
+	<title>August 7th</title>
+	<body>
+		<ptxt year="1853">Arthur Michael, who developed entropy-based theory of organic reactions, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0808">
+	<title>August 8th</title>
+	<body>
+		<ptxt year="1902">Paul A. M. Dirac, who researched relativistic quantum mechanics including electron spin (Dirac equation) and won the Nobel Prize in Physics with E. Schr&ouml;dinger (in 1933), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0908">
+	<title>August 9th</title>
+	<body>
+		<ptxt year="1776">Amadeo Avogrado, who theorized that the number of particles in any gas is always the same for equal volumes, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1008">
+	<title>August 10th</title>
+	<body>
+		<ptxt year="1897">Felix Hoffman, who improved manufacture of acetylsalicylic acid, aspirin, for use in treatment of arthritis, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1108">
+	<title>August 11th</title>
+	<body>
+		<ptxt year="1852">Harold B. Dixon, a researcher on explosion of gases and combustion, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1208">
+	<title>August 12th</title>
+	<body>
+		<ptxt year="2012">Researchers at the RIKEN Nishina Centre for Accelerator-Based Science in Japan created element 113, which quickly decaded. If confirmed this will mark the first element discovered in Japan.</ptxt>
+		<ptxt year="1887">Erwin Schr&ouml;dinger, researcher in quantum mechanics and Nobel Prize winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1308">
+	<title>August 13th</title>
+	<body>
+		<ptxt year="1872">Richard M. Willst&auml;tter, who studied aliphatic amines and alkaloids and won the Nobel Prize in 1915 for his researches on plant pigments, especially chlorophyll, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1408">
+	<title>August 14th</title>
+	<body>
+		<ptxt year="1886">The Canadian-American physicist <blink ref="ajd">Arthur Jeffrey Dempster</blink> was born.</ptxt>
+		<ptxt year="1777"><blink ref="hco">Hans Christian Oersted</blink> the Danish chemist who produced metallic <elink ref="13">aluminium</elink> for the first time was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1508">
+	<title>August 15th</title>
+	<body>
+		<ptxt year="1919">Arthur W. Adamson, researcher in photochemistry of coordination, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1608">
+	<title>August 16th</title>
+	<body>
+		<ptxt year="1845">Gabriel Lippmann was born. He developed the capillary electrometer; a general theory of his process for the photographic reproduction of colour; Nobel Prize in Physics (1908) for his method of reproducing colours photographically based on the phenomenon of interference.</ptxt>
+	</body>
+</event>
+
+<event daycode="1708">
+	<title>August 17th</title>
+	<body>
+		<ptxt year="1893">The German physicist <blink ref="wn">Walter Noddack</blink> was born in Berlin.</ptxt>
+	</body>
+</event>
+
+<event daycode="1808">
+	<title>August 18th</title>
+	<body>
+		<ptxt year="1955">Taher ElGamal, Egyptian scientist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1908">
+	<title>August 19th</title>
+	<body>
+		<ptxt year="1830">Lothar Meyer, who developed the periodic table independently of Dimitri Mendeleev at same time, 1869, was born.</ptxt>
+		<ptxt year="1745">Johan G. Gahn, who discovered and isolated <elink ref="25">manganese</elink> and discovered phosphoric acid in bones with Karl W. Scheele, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2008">
+	<title>August 20th</title>
+	<body>
+		<ptxt year="1779"><blink ref="jjg">J&uuml;ns Jacob Berzelius</blink> the Swedish chemist was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2108">
+	<title>August 21st</title>
+	<body>
+		<ptxt year="1813">Jean S. Stas, who developed methods for determination of atomic weights and analysis, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2208">
+	<title>August 22nd</title>
+	<body>
+		<ptxt year="1941">Hannspeter Winter, Austrian plasma physicist, was born. </ptxt>
+		<ptxt year="1913">Bruno Pontecorvo, Italian physicist, was born.</ptxt>
+		<ptxt year="1647">Denis Papin, French physicist and inventor, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2308">
+	<title>August 23th</title>
+	<body>
+		<ptxt year="1933">Robert F. Curl Jr., a  researcher in microwave and infrared spectroscopy and Nobel prize winner with Harold W. Kroto and Richard E. Smalley for their discovery of fullerenes, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2408">
+	<title>August 24th</title>
+	<body>
+		<ptxt year="1895">Morris S. Kharasch, who developed synthetic applications of free radical chemistry, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2508">
+	<title>August 25th</title>
+	<body>
+		<ptxt year="1900">Hans A. Krebs, discovered the urea cycle and citric acid cycle or Krebs Cycle, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2608">
+	<title>August 26th</title>
+	<body>
+		<ptxt year="1743">French nobleman <blink ref="aldl">Antoine-Laurent de Lavoisier</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2708">
+	<title>August 27th</title>
+	<body>
+		<ptxt year="1913">Martin Kamen, codiscoverer of <elink ref="6">carbon</elink>-14 with Samuel Rubin , was born.</ptxt>
+		<ptxt year="1859">Edwin Drake discovered petroleum in Pennsylvania.</ptxt>
+	</body>
+</event>
+
+<event daycode="2808">
+	<title>August 28th</title>
+	<body>
+		<ptxt year="1878">George Whipple, American scientist and Nobel laureate, was born.</ptxt>
+		<ptxt year="1749">Johann Wolfgang von Goethe, German writer and scientist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2908">
+	<title>August 29th</title>
+	<body>
+		<ptxt year="1982">Observation of first atom of element 109 at GSI Laboratory, Darmstadt, on this day.</ptxt>
+		<ptxt year="1834">Hermann J. P. Sprengel, researcher in discharge tubes and inventer of the vacuum pump, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3008">
+	<title>August 30th</title>
+	<body>
+		<ptxt year="1871">Ernest Rutherford, who formulated theory of radioactive decay and discovered the atomic nucleus, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3108">
+	<title>August 31st</title>
+	<body>
+		<ptxt year="1887">Frederick A. Paneth, a researcher on age of rocks by measuring <elink ref="2">helium</elink> formed, was born.</ptxt>
+	</body>
+</event>
+
+<!-- ========================================================================================== -->
+<!-- September                                                                                  -->
+<!-- ========================================================================================== -->
+
+<event daycode="0109">
+	<title>September 1st</title>
+	<body>
+		<ptxt year="1858">The Austrian chemist <blink ref="cabvw">Carl Auer Baron von Welsbach</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0209">
+	<title>September 2nd</title>
+	<body>
+		<ptxt year="1877">The English radiochemist <blink ref="fs">Frederick Soddy</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0309">
+	<title>September 3rd</title>
+	<body>
+		<ptxt year="1869">Fritz Pregl, a researcher in microchemical analysies, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0409">
+	<title>September 4th</title>
+	<body>
+		<ptxt year="1913">Stanford Moore, who the Nobel Prize in Chemistry (1972) with William H. Stein for their contribution to the understanding of the connection between chemical structure and catalytic activity of the active centre of the ribonuclease molecule and Christian B. Anfinsen for his work on ribonuclease, especially concerning the connection between the amino acid sequence and the biologically active conformation.</ptxt>
+	</body>
+</event>
+
+<event daycode="0509">
+	<title>September 5th</title>
+	<body>
+		<ptxt year="1869">Jacobus H. van't Hoff completes his famous 11 page treatise on the tetrahedral carbon atom, marking the birth of stereochemistry.</ptxt>
+	</body>
+</event>
+
+<event daycode="0609">
+	<title>September 6th</title>
+	<body>
+		<ptxt year="1766">The English chemist <blink ref="jd">John Dalton</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0709">
+	<title>September 7th</title>
+	<body>
+		<ptxt year="1854">Paul Vielle, invented smokeless powder, Poudre B, from gelatinized nitrocellulose mixed with alcohol and ether, was born.</ptxt>
+		<ptxt year="1829">F. August Kekul&eacute; conceived the ring structure of benzene, 1865; described the quadrivalence of carbon and structural theory of organic chemistry, in 1858 and synthesized acetylene in 1864, was born.</ptxt>
+		<ptxt year="1828">Alexandre M. Butlerov, researcher on the structural theory of organic chemistry; first used term chemical structure; synthesized polymer of formaldehyde, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0809">
+	<title>September 8th</title>
+	<body>
+		<ptxt year="1917">The American physicist <blink ref="acw">Arthur C. Wahl</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0909">
+	<title>September 9th</title>
+	<body>
+		<ptxt year="1974">Albert Ghiorso and Glenn T. Seaborg announced the discovery of element 106 at the University of California, Berkeley.</ptxt>
+		<ptxt year="1929">Discovery of Konel, a cobalt-nickel alloy, announced by Westinghouse Laboratories.</ptxt>
+		<ptxt year="1858">Carl Auer von Welsbach, researcher on rare earths; invented incandescent mantle (Welsbach Mantle or Auerlicht); discovered <elink ref="60">neodymium</elink>, <elink ref="59">praseodymium</elink>, 1885, and <elink ref="71">lutetium</elink>, with Georges Urbain, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1009">
+	<title>September 10th</title>
+	<body>
+		<ptxt year="1797">Swedish physicist <blink ref="cqm">Carl Gustav Mosander</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1109">
+	<title>September 11th</title>
+	<body>
+		<ptxt year="1894">Carl S. Marvel, researcher in organic chemistry and polymer synthesis; investigated the structure of vinyl polymers prepared from polyvinylchloride proving the polymers formed with chlorine atoms on alternate carbon atoms (head-to-tail), was born..</ptxt>
+	</body>
+</event>
+
+<event daycode="1209">
+	<title>September 12th</title>
+	<body>
+		<ptxt year="1897"><blink ref="ijc">Irene Joliot-Curie</blink> the French scientist who was awarded the Nobel Prize for chemistry in 1935 was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1309">
+	<title>September 13th</title>
+	<body>
+		<ptxt year="1945">B. B. Cunningham and L. B. Werner isolated the first microscopic amount of compound of <elink ref="95">americium</elink> at the wartime Metallurgical Laboratory, University of Chicago.</ptxt>
+	</body>
+</event>
+
+<event daycode="1409">
+	<title>September 14th</title>
+	<body>
+		<ptxt year="1698">Charles F. de Cisternay DuFay discovered + and - electricity and repulsion between like charges and named them "vitreous" and "resinous; research in phosphorescence and double refraction.</ptxt>
+	</body>
+</event>
+
+<event daycode="1509">
+	<title>September 15th</title>
+	<body>
+		<ptxt year="1894">Oskar Klein, Swedish physicist, was born.</ptxt>
+		<ptxt year="1828">Aleksandr Mikhailovich Butlerov, Russian chemist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1609">
+	<title>September 16th</title>
+	<body>
+		<ptxt year="1893">Albert Szent-Gy&ouml;rgyi isolated ascorbic acid (Vitamin C); researcher on bioenergetics, carbohydrate metabolism and cellular oxidation; Nobel Prize in Physiology or Medicine Nobel Prize in Physiology or Medicine (1937) for his discoveries in connection with the biological combustion processes, with special reference to vitamin C and the catalysis of fumaric acid.</ptxt>
+		<ptxt year="1853">Albrecht Kossel, researcher in chemistry of cells and proteins; Nobel Prize in Physiology or Medicine (1910) in recognition of the contributions to our knowledge of cell chemistry made through his work on proteins, including the nucleic substances.</ptxt>
+	</body>
+</event>
+
+<event daycode="1709">
+	<title>September 17th</title>
+	<body>
+		<ptxt year="1901">Peter Cooper Hewitt obtained patent for mercury vapour lamp.</ptxt>
+		<ptxt year="1677">Stephen Hales, English physiologist, chemist and inventor, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1809">
+	<title>Septembr 18th</title>
+	<body>
+		<ptxt year="1907">The American physicist <blink ref="emn">Edwin Mattison McMillan</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1909">
+	<title>September 19th</title>
+	<body>
+		<ptxt year="1861">Alexandre M. Butlerov presented the first definition and use of term, chemical structure, before Speyer Congress.</ptxt>
+	</body>
+</event>
+
+<event daycode="2009">
+	<title>September 20th</title>
+	<body>
+		<ptxt year="1842">James Dewar, the first to liquefy <elink ref="1">hydrogen</elink> (1899) and inventer of the vacuum flask (Dewar flask), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2109">
+	<title>September 21st</title>
+	<body>
+		<ptxt year="1832">Louis P. Cailletet, a researcher on the liquefaction of gases, <elink ref="1">hydrogen</elink>, <elink ref="7">nitrogen</elink>, <elink ref="8">oxygen</elink>, and air, as born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2209">
+	<title>September 22nd</title>
+	<body>
+		<ptxt year="1791">The English chemist and physicist <blink ref="mf">Michael Faraday</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2309">
+	<title>September 23rd</title>
+	<body>
+		<ptxt year="1915">Clifford Shull, researcher in using <glink ref="neutron">neutrons</glink> to study atomic structure of materials, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2409">
+	<title>September 24th</title>
+	<body>
+		<ptxt year="1874">Alexander Findlay, authority on the phase rule, was born.</ptxt>
+		<ptxt year="1870">Georges Claude, French chemist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2509">
+	<title>September 25th</title>
+	<body>
+		<ptxt year="1813">Charles Hatchett published method for separating <elink ref="26">iron</elink> from manganese.</ptxt>
+	</body>
+</event>
+
+<event daycode="2609">
+	<title>September 26th</title>
+	<body>
+		<ptxt year="1754">Joseph-Louis Proust, who articulated the Law of Definite Proportions, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2709">
+	<title>September 27th</title>
+	<body>
+		<ptxt year="1934">Announcement of discovery of synthetic abrasive to replace diamond.</ptxt>
+	</body>
+</event>
+
+<event daycode="2809">
+	<title>September 28th</title>
+	<body>
+		<ptxt year="1791">The English chemist and physicist <blink ref="mf">Michael Faraday</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2909">
+	<title>September 29th</title>
+	<body>
+		<ptxt year="1852">French chemist <blink ref="ffhm">Ferdinand Frederic Henri Moissan</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3009">
+	<title>September 30th</title>
+	<body>
+		<ptxt year="1802">The French chemist <blink ref="ajb">Antoine-Jerome Balard</blink> was born in Montpellier.</ptxt>
+	</body>
+</event>
+
+<!-- ========================================================================================== -->
+<!-- October                                                                                    -->
+<!-- ========================================================================================== -->
+
+<event daycode="0110">
+	<title>October 1st</title>
+	<body>
+		<ptxt year="1868">Georg Bredig, researcher on anomalous atomic weights of <elink ref="82">lead</elink> from different sources, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0210">
+	<title>October 2nd</title>
+	<body>
+		<ptxt year="1852">The Scottish chemist <blink ref="swr">Sir William Ramsay</blink> was born.</ptxt>
+		<ptxt year="1791">Alexis T. Petit, who studied specific heats of solids and discovered product of specific heat and atomic weight is constant for all elements (Dulong-Petit law), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0310">
+	<title>October 3rd</title>
+	<body>
+		<ptxt year="1904">Charles J. Pedersen, found that alkali metal ions could be bound by crown ethers in a rigid layered structure; Nobel Prize (1987) with Jean-Marie Lehn and Donald J. Cram for their development and use of molecules with structure-specific interactions of high selectivity, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0410">
+	<title>October 4th</title>
+	<body>
+		<ptxt year="1957">Sputnik I, the first artificial earth satellite, launched by the USSR.</ptxt>
+	</body>
+</event>
+
+<event daycode="0510">
+	<title>October 5th</title>
+	<body>
+		<ptxt year="1889"><blink ref="dc">Dirk Coster</blink>, Dutch physicist and discover of <elink ref="72">hafnium</elink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0610">
+	<title>October 6th</title>
+	<body>
+		<ptxt year="2010">Richard F. Heck, Ei-ichi Negishi and Akira Suzuki were announced as the winners of the 2010 Nobel Prize in Chemistry, for their work on "palladium-catalysed formation of carbon-carbon bonds."</ptxt>
+		<ptxt year="1807">Humphry Davy at the Royal Institution in London, England, isolated <elink ref="19">potassium</elink>.</ptxt>
+	</body>
+</event>
+
+<event daycode="0710">
+	<title>October 7th</title>
+	<body>
+		<ptxt year="1885">Niels Bohr, who proposed the "solar system" model of atom and won the Nobel Prize in 1922 for his services in the investigation of the structure of atoms and of the radiation emanating from them, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0810">
+	<title>October 8th</title>
+	<body>
+		<ptxt year="1850">Henry Le Chatelier, who discovered the law of reaction governing the effect of pressure and temperature on equilibrium (Le Chatelier's Law), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0910">
+	<title>October 9th</title>
+	<body>
+		<ptxt year="1996">Robert F. Curl and Sir Harold W. Kroto were announced as the winners of the 1996 Nobel Prize in Chemistry, for their "discovery of fullerenes."</ptxt>	
+		<ptxt year="1718">Pierre J. Macquer, who studied <elink ref="78">platinum</elink> and discovered arsenates of potassium and sodium, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1010">
+	<title>October 10th</title>
+	<body>
+		<ptxt year="2009">Gerhard Ertl was announced as the winner of the 2009 Nobel Prize in Chemistry, for his studies of "chemical processes on solid surfaces."</ptxt>
+		<ptxt year="1731">The English chemist and physicist <blink ref="hc">Henry Cavendish</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1110">
+	<title>October 11th</title>
+	<body>
+		<ptxt year="2000">Alan J. Heeger, Alan G. MacDiarmid and Hideki Shirakawa were announced as the winners of the 2009 Nobel Prize in Chemistry, for their "discovery and development of conductive polymers."</ptxt>
+		<ptxt year="1995">Paul Crutzen, Mario Molina and F. Sherwood Rowland were announced as the winners of the 1995 Nobel Prize in Chemistry, for their word "in atmospheric chemistry, particularly concerning the formation and decomposition of ozone."</ptxt>
+		<ptxt year="1755">The Spanish chemist <blink ref="fdeyds">Fausto de Elhuyar y de Suvisa</blink> was born.</ptxt>		
+	</body>
+</event>
+
+<event daycode="1210">
+	<title>October 12th</title>
+	<body>
+		<ptxt year="1999">Ahmed H. Zewail was announced as the winner of the 1999 Nobel Prize in Chemistry, for his "studies of the transition states of chemical reactions using femtosecond spectroscopy."</ptxt>
+		<ptxt year="1827">J. P. Cooke, first to use laboratory instruction in an undergraduate (Harvard University) course, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1310">
+	<title>October 13th</title>
+	<body>
+		<ptxt year="1884">Greenwich is established as the universal time meridian of longitude.</ptxt>
+	</body>
+</event>
+
+<event daycode="1410">
+	<title>October 14th</title>
+	<body>
+		<ptxt year="1886">Jacobus H. Van't Hoff presented law showing that osmotic pressure of a dilute solution obeys Boyle's, Charles's and Avogadro's Laws, and that pV = RT before the Swedish Academy of Sciences.</ptxt>
+	</body>
+</event>
+
+<event daycode="1510">
+	<title>October 15th</title>
+	<body>
+		<ptxt year="1608">Evangelista Torricelli, the first man to create a sustained vacuum and discovered the principle of the barometer, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1610">
+	<title>October 16th</title>
+	<body>
+		<ptxt year="1846">William T. G. Morton demonstated the use of ether as anesthetic at Massachusetts General Hospital.</ptxt>
+	</body>
+</event>
+
+<event daycode="1710">
+	<title>October 17th</title>
+	<body>
+		<ptxt year="1873">Lev A. Chugaev, who developed complexing agents for analysis; studied inorganic chemistry of metal complexes and xanthate pyrolysis, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1810">
+	<title>October 18th</title>
+	<body>
+		<ptxt year="1955">Emilo Segr&egrave; and Owen Chamberlain discover a new sub-atomic sub particle, negative <glink ref="proton">proton</glink> or antiproton.</ptxt>
+		<ptxt year="1799">Christian F. Sch&ouml;nbein, discoverer of ozone, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1910">
+	<title>October 19th</title>
+	<body>
+		<ptxt year="1909">The French physicist <blink ref="mcp">Marguerite Catherine Perey</blink> was born.</ptxt>
+		<ptxt year="1870">Robert Bowie Owens, who detected thorium radiation, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2010">
+	<title>October 20th</title>
+	<body>
+		<ptxt year="1891">James Chadwick, who discovered the <glink ref="neutron">neutron</glink> and won the Nobel Prize in 1935 for this, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2110">
+	<title>October 21st</title>
+	<body>
+		<ptxt year="1833">Alfred Nobel, who invented dynamite and established Nobel Prizes, was born.</ptxt>
+		<ptxt year="1803">John Dalton presented the first experimental evidence for atoms before the Manchester Literary and Philosophical Society.</ptxt>
+		<ptxt year="1660">Georg E. Stahl, researcher on oxidation and reduction, was born.</ptxt>		
+	</body>
+</event>
+
+<event daycode="2210">
+	<title>October 22nd</title>
+	<body>
+		<ptxt year="1770">Thomas Seebeck, a Baltic German physicist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2310">
+	<title>October 23rd</title>
+	<body>
+		<ptxt year="">Today is <wlink ref="en.wikipedia.org/wiki/Mole_Day">Mole day</wlink>!</ptxt>
+	</body>
+</event>
+
+<event daycode="2410">
+	<title>October 24th</title>
+	<body>
+		<ptxt year="1877">Roger Clark Wells, researcher on sodium compounds and chemical analyses of radioactive minerals, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2510">
+	<title>October 25th</title>
+	<body>
+		<ptxt year="1910">William Higinbotham, American physicist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2610">
+	<title>October 26th</title>
+	<body>
+		<ptxt year="1874">Martin Lowry, British chemist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2710">
+	<title>October 27th</title>
+	<body>
+		<ptxt year="1894">John E. Lennard-Jones, researcher on surface chemistry, chemistry of carbon, liquid structure and interatomic forces, was born.</ptxt>
+		<ptxt year="1827">Marcellin P. E. Berthelot, a founder of thermochemistry; showed that <elink ref="7">nitrogen</elink> was fixed by electric discharges and bacteria; synthesized alcohol, formic acid, methane and acetylene, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2810">
+	<title>October 28th</title>
+	<body>
+		<ptxt year="1845">Zygmunt F. von Wroblewski was born. He was the first to liquefy air on large scale and with K. S. Olszewski; liquefied nitrogen, oxygen and carbon monoxide (CO).</ptxt>	
+	</body>
+</event>
+
+<event daycode="2910">
+	<title>October 29th</title>
+	<body>
+		<ptxt year="1923">Carl Djerassi, Austrian chemist, was born.</ptxt>
+		<ptxt year="1827">Marcellin Berthelot, French chemist, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3010">
+	<title>October 30th</title>
+	<body>
+		<ptxt year="1895">Gerhard Domagk discovered the properties of prontosil, orange-red dye containing sulfanilamide; reported that isoniazid had anti-tubercular properties, 1952,(opened age of chemotherapy); Nobel Prize (1939) for the discovery of the antibacterial effects of prontosil, was born.</ptxt>
+		<ptxt year="1817">Hermann F. M. Kopp, researcher on atomic and molecular volume, crystallography, boiling points, specific heats, and dissociation; historian of physical chemistry, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3110">
+	<title>October 31st</title>
+	<body>
+		<ptxt year="1925">John A. Pople, who received the Nobel Prize for his development of computational methods in quantum chemistry, was born.</ptxt>
+		<ptxt year="1835">Adolf von Baeyer, German chemist, Nobel laureate, was born. </ptxt>
+	</body>
+</event>
+
+<!-- ========================================================================================== -->
+<!-- November                                                                                   -->
+<!-- ========================================================================================== -->
+
+<event daycode="0111">
+	<title>November 1st</title>
+	<body>
+		<ptxt year="1950">Robert B. Laughlin, American physicist, Nobel Prize laureate, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0211">
+	<title>November 2nd</title>
+	<body>
+		<ptxt year="1841">C. H. C. Willgerodt, researcher in the conversion of internal ketones to terminal thioamides (Willgerodt reaction), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0311">
+	<title>November 3rd</title>
+	<body>
+		<ptxt year="1749">Scottish scientist <blink ref="dr">Daniel Rutherford</blink> was born in Edinburgh.</ptxt>
+	</body>
+</event>
+
+<event daycode="0411">
+	<title>November 4th</title>
+	<body>
+		<ptxt year="1862">Charles L. Reese, who improved the manufacture of dyes and explosives was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0511">
+	<title>November 5th</title>
+	<body>
+		<ptxt year="1854">Paul Sabatier, researcher in catalysis in organic chemistry and Nobel Prize winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0611">
+	<title>November 6th</title>
+	<body>
+		<ptxt year="1886">Ian M. Heilbron, who synthesized naturally occurring compounds such as vitamins A and D, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0711">
+	<title>November 7th</title>
+	<body>
+		<ptxt year="1888">Chandrasekhara V. Raman, discovered the Raman effect, winner of the Nobel Prize in 1930 for physics, was born.</ptxt>
+		<ptxt year="1878">Italian scientist <blink ref="lm">Lise Meitner</blink> was born.</ptxt>
+		<ptxt year="1867">Polish chemist <blink ref="mc">Marie Curie</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0811">
+	<title>November 8th</title>
+	<body>
+		<ptxt year="1711">Mikhail V. Lomonosov, suggested the law of conservation of mass and theory of heat as a form of motion; opposed phlogistic chemistry and first to record the freezing of <elink ref="80">mercury</elink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0911">
+	<title>November 9th</title>
+	<body>
+		<ptxt year="1897">Ronald G. W. Norrish, researcher in extremely fast chemical reactions (and Nobel Prize winner in 1867 for his work on then), was born.</ptxt>
+		<ptxt year="1867">Vladimir N. Ipatieff, researcher in catalytic chemistry of unsaturated hydrocarbons, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1011">
+	<title>November 10th</title>
+	<body>
+		<ptxt year="1764">Andr&eacute;s M. Del Rio, who discovered <elink ref="23">vanadium</elink> in 1801, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1111">
+	<title>November 11th</title>
+	<body>
+		<ptxt year="1945">Glenn T. Seaborg announced discovery of <elink ref="95">americium</elink> and <elink ref="96">curium</elink> on the "Quiz Kids" radio program.</ptxt>
+	</body>
+</event>
+
+<event daycode="1211">
+	<title>November 12th</title>
+	<body>
+		<ptxt year="1842">English chemist <blink ref="jwsr">John William Rayleigh</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1311">
+	<title>November 13th</title>
+	<body>
+		<ptxt year="1867">Kristian Birkleland, Norwegian scientist, was born.</ptxt>
+		<ptxt year="1831">James Clerk Maxwell, research of electromagnetic theory and the kinetic theory of gases, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1411">
+	<title>November 14th</title>
+	<body>
+		<ptxt year="1829">Louis Nicolas Vauquelin, discoverer of beryllium, died on this day.</ptxt>
+	</body>
+</event>
+
+<event daycode="1511">
+	<title>November 15th</title>
+	<body>
+		<ptxt year="1810">Humphry Davy announced the elementary nature of <elink ref="17">chlorine</elink> to the Royal Society.</ptxt>
+		<ptxt year="1193">St. Albertus Magnus, discoverer of <elink ref="33">arsenic</elink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1611">
+	<title>November 16th</title>
+	<body>
+		<ptxt year="1881">Joel H. Hildebrand, researcher in solubility and introducer of <elink ref="2">helium</elink> into deep-sea diving, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1711">
+	<title>November 17th</title>
+	<body>
+		<ptxt year="1850">George T. Beilby, who invented a process for retorting shale; synthesized alkaline cyanides and constructed first factory for its synthesis, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1811">
+	<title>November 18th</title>
+	<body>
+		<ptxt year="1918">Lawrence E. Glendenin, co-discoverer of <elink ref="61">promethium</elink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1911">
+	<title>November 19th</title>
+	<body>
+		<ptxt year="1898">Arthur R. von Hippel, a German-born physicist, was born.</ptxt>
+		<ptxt year="1887">James B. Sumner, American chemist and  Nobel Prize in Chemistry, was born.</ptxt>
+		<ptxt year="1834">Georg Hermann Quincke, German physicist, was born.</ptxt>
+		<ptxt year="1700">Jean-Antoine Nollet, French abbot and physicist, was born.</ptxt>		
+	</body>
+</event>
+
+<event daycode="2011">
+	<title>November 20th</title>
+	<body>
+		<ptxt year="1602">Otto von Guericke, who invented the water barometer, air pump, manometer, and sulfur electrostatic machine; performed Magdeburg hemisphere experiment, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2111">
+	<title>November 21st</title>
+	<body>
+		<ptxt year="1824">Hieronymus T. Richter, co-discoverer of <elink ref="49">indium</elink>, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2211">
+	<title>November 22nd</title>
+	<body>
+		<ptxt year="1875">Dmitri I. Mendeleev stated that <elink ref="31">gallium</elink> is identical to eka-aluminum.</ptxt>
+	</body>
+</event>
+
+<event daycode="2311">
+	<title>November 23rd</title>
+	<body>
+		<ptxt year="1837">Johannes D. van der Waals, researcher on intermolecular attraction, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2411">
+	<title>November 24th</title>
+	<body>
+		<ptxt year="1859">The Origin of Species by Charles Darwin was published by Oxford University Press.</ptxt>
+	</body>
+</event>
+
+<event daycode="2511">
+	<title>November 25th</title>
+	<body>
+		<ptxt year="1814">Julius R. von Mayer, who discovered the law of conservation of energy, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2611">
+	<title>November 26th</title>
+	<body>
+		<ptxt year="1837">John A. R. Newlands, a researcher in to the periodic laws of element and deviser of the Law of Octaves, was born.</ptxt>
+		<ptxt year="1817">C. Adolphe Wurtz, who discovered a  method of synthesis of hydrocarbons (Wurtz Reaction),  methyl and ethylamines,  phosphorous oxychloride and glycol, was born.</ptxt>
+		<ptxt year="1801">Charles Hatchett announced his discovery of columbium (<elink ref="41">niobium</elink>) before the Royal Society.</ptxt>
+	</body>
+</event>
+
+<event daycode="2711">
+	<title>November 27th</title>
+	<body>
+		<ptxt year="1903">Lars Onsager, researcher in thermodynamics of irreversible reactions and Nobel Prize winner, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2811">
+	<title>November 28th</title>
+	<body>
+		<ptxt year="1962">Announcement of first pure compound of <elink ref="97">berkelium</elink> based on work at University of California, Berkeley.</ptxt>
+	</body>
+</event>
+
+<event daycode="2911">
+	<title>November 29th</title>
+	<body>
+		<ptxt year="1936">Yuan T. Lee, Nobel Prize winner (1986) for his contributions concerning the dynamics of chemical elementary processes, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3011">
+	<title>November 30th</title>
+	<body>
+		<ptxt year="1761">The English chemist <blink ref="st">Smithson Tennant</blink> was born.</ptxt>
+	</body>
+</event>
+
+<!-- ========================================================================================== -->
+<!-- December                                                                                    -->
+<!-- ========================================================================================== -->
+
+<event daycode="0112">
+	<title>December 1st</title>
+	<body>
+		<ptxt year="2011">Elements 114 and 116 are given the provisional names <elink ref="114">Flerovium</elink> and <elink ref="116">Livermorium</elink> by <glink ref="iupac">IUPAC</glink>.</ptxt>
+		<ptxt year="1743">The German chemist <blink ref="mhk">Martin Klaproth</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0212">
+	<title>December 2nd</title>
+	<body>
+		<ptxt year="1942">the first self-sustained nuclear chain reaction by an atomic pile was produced at the University of Chicago.</ptxt>
+		<ptxt year="1921">Isabella Karle, a researcher on three dimensional structure of molecules using x-ray and electron diffraction, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0312">
+	<title>December 3rd</title>
+	<body>
+		<ptxt year="1933">Paul Crutzen, researcher in the chemistry of the atmosphere; Nobel Prize winner (1995) with Mario Molina and F. Sherwood Rowland for their work in atmospheric chemistry, particularly concerning the formation and decomposition of ozone, was born.</ptxt>		
+		<ptxt year="1886">Karl Manne Georg Siegbahn, a researcher on x-ray spectroscopy; Nobel Prize in Physics (1924) for his discoveries and researching the field of X-ray spectroscopy, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0412">
+	<title>December 4th</title>
+	<body>
+		<ptxt year="1867">C. H. Herty, who worked on the chemistry of natural resources and established the manufacture of paper from Georgia pines, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0512">
+	<title>December 5th</title>
+	<body>
+		<ptxt year="1974">The first paper on ion chromatography was submitted on to "Analytical Chemistry" by H. Small, T. S. Stevens, and W. C. Bauman. It was entitled "Novel Ion Exchange Chromatographic Method Using Conductimetric Detection".</ptxt>
+		<ptxt year="1901">Werner Heisenberg, a researcher in quantum mechanics and developer of the Heisenberg Principle, was born. In 1932 he won the Nobel Prize in Physics for the creation of quantum mechanics.</ptxt>
+	</body>
+</event>
+
+<event daycode="0612">
+	<title>December 6th</title>
+	<body>
+		<ptxt year="1778">French chemist <blink ref="jlgl">Joseph Louis Gay-Lussac</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="0712">
+	<title>December 7th</title>
+	<body>
+		<ptxt year="1909">Patent granted for the first thermosetting man-made plastic from a reaction of phenol (C<sub>6</sub>H<sub>5</sub>OH) with formaldehyde (CH<sub>2</sub>O).</ptxt>
+	</body>
+</event>
+
+<event daycode="0812">
+	<title>December 8th</title>
+	<body>
+		<ptxt year="1994">Three atoms of <elink ref="111">Roentgenium</elink> were created at the GSI, Darmstadt, Germany.</ptxt>
+	</body>
+</event>
+
+<event daycode="0912">
+	<title>December 9th</title>
+	<body>
+		<ptxt year="1868">Fritz Haber was born. He is know for the Haber Process that synthesizes ammonia from <elink ref="1">hydrogen</elink> and <elink ref="7">nitrogen</elink> under high pressures. In 1918 he won the Nobel Prize in chemistry for this.</ptxt>	
+		<ptxt year="1742">German-Swedish chemist <blink ref="kws">Karl Wilhelm Scheele</blink> was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1012">
+	<title>December 10th</title>
+	<body>
+		<ptxt year="1922">Frederick Soddy (1877-1956) was presented with the Nobel Prize in Chemistry "for his contributions to our knowledge of the chemistry of radioactive substances, and his investigations into the origin and nature of isotopes".</ptxt>
+		<ptxt year="1904">William Ramsay was presented with the Nobel Prize in Chemistry "in recognition of his services in the discovery of the inert gaseous elements in air, and his determination of their place in the periodic system".</ptxt>
+	</body>
+</event>
+
+<event daycode="1112">
+	<title>December 11th</title>
+	<body>
+		<ptxt year="1844">Horace Wells, dentist, discovered the use of nitrous oxide as anesthetic.</ptxt>
+	</body>
+</event>
+
+<event daycode="1212">
+	<title>December 12th</title>
+	<body>
+		<ptxt year="1960">The announcement of the first pure compound of <elink ref="98">californium</elink> was made, at a meeting of the American Nuclear Society.</ptxt>
+		<ptxt year="1817">William H. Balmain, who discovered boron nitride and called it aethogen from its luminescence in a flame, was born.</ptxt>
+		<ptxt year="1775">William Henry, discoverer of Henry's Law, that states that the amount of gas absorbed by a liquid is proportional to the gas pressure, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1312">
+	<title>December 13th</title>
+	<body>
+		<ptxt year="1867">Kristian Birkeland, who performed the first industrial fixation of <elink ref="7">nitrogen</elink> with S. Eyde, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1412">
+	<title>December 14th</title>
+	<body>
+		<ptxt year="1940">Glenn T. Seaborg, Edwin M. McMillan, J. W. Kennedy, and A. C. Wahl performed the first bombardment of uranium oxide with 16-MeV deuterons to produce <elink ref="94">plutonium</elink>.</ptxt>
+		<ptxt year="1900">Max Planck announced his formula for the blackbody spectrum.</ptxt>
+	</body>
+</event>
+
+<event daycode="1512">
+	<title>December 15th</title>
+	<body>
+		<ptxt year="1852">Antoine H Becquerel, who discovered radiation from uranium salts, was born. In 1903 he won the Nobel Prize in Physics in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity.</ptxt>
+		<ptxt year="1780">Johann W. D&ouml;bereiner, who postulated the theory of triads showing periodicity in the elements; researcher on catalytic action of platinum; invented instantaneous lighting lamp (D&ouml;bereiner lamp), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1612">
+	<title>December 16th</title>
+	<body>
+		<ptxt year="1929">Johann W. Ritter, who discovered ultra-violet rays, collected <elink ref="8">oxygen</elink> and <elink ref="1">hydrogen</elink> by electrolysis, made the first dry cell battery, made a storage battery and established connection between galvanism and chemical reactivity, was born.</ptxt>
+		<ptxt year="1929">Bruce N. Ames, who developed the Ames Test, an indicator of carcinogenicity of chemicals that measures the rate of mutation by a chemical in bacteria, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1712">
+	<title>December 17th</title>
+	<body>
+		<ptxt year="1938">Discovery of neutron-induced nuclear fission of <elink ref="92">uranium</elink> by Otto Hahn and Fritz Strassmann, Berlin.</ptxt>
+		<ptxt year="1908">Willard F. Libby, who developed carbon-14 dating, was born.</ptxt>
+		<ptxt year="1832">Michael Faraday announced the first law of electrolysis. "Chemical power like magnetic force, is in direct proportion to the absolute quantity of electricity which passes."</ptxt>
+		<ptxt year="1818">John Lawrence Smith, a researcher in toxicology and mineralogical chemistry, was born.</ptxt>
+		<ptxt year="1778">English chemist <blink ref="shd">Sir Humphry Davy</blink> was born in Penzance.</ptxt>		
+	</body>
+</event>
+
+<event daycode="1812">
+	<title>December 18th</title>
+	<body>
+		<ptxt year="1856">Joseph J. Thomson, who discovered the electron, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="1912">
+	<title>December 19th</title>
+	<body>
+		<ptxt year="1949"><elink ref="97">Berkelium</elink> was discovered by ion exchange chromatography at University of California, Berkeley.</ptxt>
+		<ptxt year="1813">Thomas Andrews, who discovered that every gas has a critical temperature above which it cannot be liquefied, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2012">
+	<title>December 20th</title>
+	<body>
+		<ptxt year="1952"><elink ref="99">einsteinium</elink> was discovered at the University of California, Berkeley, USA.</ptxt>
+	</body>
+</event>
+
+<event daycode="2112">
+	<title>December 21st</title>
+	<body>
+		<ptxt year="1805">Thomas Graham, discoverer of the laws of diffusion (Graham's Laws), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2212">
+	<title>December 22nd</title>
+	<body>
+		<ptxt year="1870">William L. Evans, authority in chemistry of carbohydrates, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2312">
+	<title>December 23rd</title>
+	<body>
+		<ptxt year="1722">Axel F. Cronstedt, who discovered <elink ref="28">nickel</elink> and zeolite, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2412">
+	<title>December 24th</title>
+	<body>
+		<ptxt year="1818">James P. Joule, discoverer of the law of heating of conductors, was born. The unit of work of energy is named after him, the Joule.</ptxt>
+	</body>
+</event>
+
+<event daycode="2512">
+	<title>December 25th</title>
+	<body>
+		<ptxt year="1761">The English chemist <blink ref="wg">William Gregor</blink>, who discovered titanium, was born.</ptxt>		
+		<ptxt year="1642">Isaac Newton; mathematician, physicist, discoverer of the laws of gravity, nature and light was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2612">
+	<title>December 26th</title>
+	<body>
+		<ptxt year="1838">German chemist <blink ref="caw">Clemens Alexander Winkler</blink> was born.</ptxt>
+	</body>
+</event>
+	
+<event daycode="2712">
+	<title>December 27th</title>
+	<body>
+		<ptxt year="1822">Louis Pasteur, researcher in sterochemistry, optical activity of tartaric acids, and fermentation; invented the process of sterilizing food (Pasteurization), was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2812">
+	<title>December 28th</title>
+	<body>
+		<ptxt year="1838">Vladimir V. Markovnikov, who synthesized cyclobutane and cycloheptane derivatives; and formulated Markovnikov's Rule for additions to alkenes, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="2912">
+	<title>December 29th</title>
+	<body>
+		<ptxt year="1931">The announcement of the discovery of heavy water (D<sub>2</sub>O) was made.</ptxt>
+		<ptxt year="1879">Ellen Gledirsch, she made accurate measurements of the half-life of radium, was born.</ptxt>
+	</body>
+</event>
+
+<event daycode="3012">
+	<title>December 30th</title>
+	<body>
+		<ptxt year="1913">Ductile tungsten for incandescent bulb filaments patented.</ptxt>
+	</body>
+</event>	
+
+<event daycode="3112">
+	<title>December 31st</title>
+	<body>
+		<ptxt year="1881">Colin G. Fink was born on this day. He was a researcher, developer, industrialist, teacher in electrochemistry; developed ductile tungsten for incandescent lamp filaments, an insoluble anode for electrowinning copper, an electrolytic process for the faithful restoration of corroded ancient bronzes, the development of hot dipped aluminum coatings, the electrodeposition of metals, and in particular, a commercial process for chromium plating.</ptxt>
+	</body>
+</event>
+	
+</events>

@@ -1,0 +1,2643 @@
+<?xml version="1.0"?>
+
+<!-- PAF April 27th 2008 [2643] -->
+
+<constants>
+
+<constant>
+	<name>alpha particle-electron mass ratio</name>
+	<symbol></symbol>
+	<value>7294.299 5365</value>
+	<uncer>0.000 0031</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>alpha particle mass</name>
+	<symbol></symbol>
+	<value>6.644 656 20 x 10<sup>-27</sup></value>
+	<uncer>0.000 000 33 x 10<sup>-27</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>alpha particle mass energy equivalent</name>
+	<symbol></symbol>
+	<value>5.971 919 17 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 30 x 10<sup>-10</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>alpha particle mass energy equivalent in MeV</name>
+	<symbol></symbol>
+	<value>3727.379 109</value>
+	<uncer>0.000 093</uncer>
+	<units>MeV</units>
+</constant>
+
+<constant>
+	<name>alpha particle mass in u</name>
+	<symbol></symbol>
+	<value>4.001 506 179 127</value>
+	<uncer>0.000 000 000 062</uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>alpha particle molar mass</name>
+	<symbol></symbol>
+	<value>4.001 506 179 127 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 000 062 x 10<sup>-3</sup></uncer>
+	<units>kg mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>alpha particle-proton mass ratio</name>
+	<symbol></symbol>
+	<value>3.972 599 689 51</value>
+	<uncer>0.000 000 000 41</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>Angstrom star</name>
+	<symbol></symbol>
+	<value>1.000 014 98 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 90 x 10<sup>-10</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>atomic mass constant</name>
+	<symbol></symbol>
+	<value>1.660 538 782 x 10<sup>-27</sup></value>
+	<uncer>0.000 000 083 x 10<sup>-27</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>atomic mass constant energy equivalent</name>
+	<symbol></symbol>
+	<value>1.492 417 830 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 074 x 10<sup>-10</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>atomic mass constant energy equivalent in MeV</name>
+	<symbol></symbol>
+	<value>931.494 028</value>
+	<uncer>0.000 023</uncer>
+	<units>MeV</units>
+</constant>
+
+<constant>
+	<name>atomic mass unit-electron volt relationship</name>
+	<symbol></symbol>
+	<value>931.494 028 x 10<sup>6</sup></value>
+	<uncer>0.000 023 x 10<sup>6</sup></uncer>
+	<units>eV</units>
+</constant>
+
+<constant>
+	<name>atomic mass unit-hartree relationship</name>
+	<symbol></symbol>
+	<value>3.423 177 7149 x 10<sup>7</sup></value>
+	<uncer>0.000 000 0049 x 10<sup>7</sup></uncer>
+	<units>E_h</units>
+</constant>
+
+<constant>
+	<name>atomic mass unit-hertz relationship </name>
+	<symbol></symbol>
+	<value>2.252 342 7369 x 10<sup>23</sup></value>
+	<uncer>0.000 000 0032 x 10<sup>23</sup></uncer>
+	<units>Hz</units>
+</constant>
+
+<constant>
+	<name>atomic mass unit-inverse meter relationship</name>
+	<symbol></symbol>
+	<value>7.513 006 671 x 10<sup>14</sup></value>
+	<uncer>0.000 000 011 x 10<sup>14</sup></uncer>
+	<units>m<sup>-1</sup></units>
+</constant>                                     
+
+<constant>
+	<name>atomic mass unit-joule relationship </name>
+	<symbol></symbol>
+	<value>1.492 417 830 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 074 x 10<sup>-10</sup></uncer>
+	<units>J</units>
+</constant>  
+
+<constant>
+	<name>atomic mass unit-kelvin relationship</name>
+	<symbol></symbol>
+	<value>1.080 9527 x 10<sup>13</sup></value>
+	<uncer>0.000 0019 x 10<sup>13</sup></uncer>
+	<units>K</units>
+</constant>  
+
+<constant>
+	<name>atomic mass unit-kilogram relationship</name>
+	<symbol></symbol>
+	<value>1.660 538 782 x 10<sup>-27</sup></value>
+	<uncer>0.000 000 083 x 10<sup>-27</sup></uncer>
+	<units>kg</units>
+</constant>  
+
+<constant>
+	<name>atomic unit of 1st hyperpolarizablity</name>
+	<symbol></symbol>
+	<value>3.206 361 533 x 10<sup>-53</sup></value>
+	<uncer>0.000 000 081 x 10<sup>-53</sup></uncer>
+	<units>C<sup>3</sup> m<sup>3</sup> J<sup>-2</sup></units>
+</constant> 
+
+<constant>
+	<name>atomic unit of 2nd hyperpolarizablity</name>
+	<symbol></symbol>
+	<value>6.235 380 95 x 10<sup>-65</sup></value>
+	<uncer>0.000 000 31 x 10<sup>-65</sup></uncer>
+	<units>C<sup>4</sup> m<sup>4</sup> J<sup>-3</sup></units>
+</constant> 
+
+<constant>
+	<name>atomic unit of action</name>
+	<symbol></symbol>
+	<value>1.054 571 628 x 10<sup>-34</sup></value>
+	<uncer>0.000 000 053 x 10<sup>-34</sup></uncer>
+	<units>J s</units>
+</constant> 
+
+<constant>
+	<name>atomic unit of charge</name>
+	<symbol></symbol>
+	<value>1.602 176 487 x 10<sup>-19</sup></value>
+	<uncer>0.000 000 040 x 10<sup>-19</sup></uncer>
+	<units>C</units>
+</constant>      
+
+<constant>
+	<name>atomic unit of charge density</name>
+	<symbol></symbol>
+	<value>1.081 202 300 x 10<sup>12</sup></value>
+	<uncer>0.000 000 027  x 10<sup>12</sup></uncer>
+	<units>C m<sup>-3</sup></units>
+</constant> 
+
+<constant>
+	<name>atomic unit of current</name>
+	<symbol></symbol>
+	<value>6.623 617 63 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 17 x 10<sup>-3</sup></uncer>
+	<units>A</units>
+</constant>   
+
+<constant>
+	<name>atomic unit of electric dipole mom.</name>
+	<symbol></symbol>
+	<value>8.478 352 81 x 10<sup>-30</sup></value>
+	<uncer>0.000 000 21 x 10<sup>-30</sup></uncer>
+	<units>C m</units>
+</constant> 
+
+<constant>
+	<name>atomic unit of electric field</name>
+	<symbol></symbol>
+	<value>5.142 206 32 x 10<sup>11</sup></value>
+	<uncer>0.000 000 13 x 10<sup>11</sup></uncer>
+	<units>V m<sup>-1</sup></units>
+</constant> 
+
+<constant>
+	<name>atomic unit of electric field gradient</name>
+	<symbol></symbol>
+	<value>9.717 361 66 x 10<sup>21</sup></value>
+	<uncer>0.000 000 24 x 10<sup>21</sup></uncer>
+	<units>V m<sup>-2</sup></units>
+</constant>   
+
+<constant>
+	<name>atomic unit of electric polarizablity</name>
+	<symbol></symbol>
+	<value>1.648 777 2536 x 10<sup>-41</sup></value>
+	<uncer>0.000 000 0034 x 10<sup>-41</sup></uncer>
+	<units>C<sup>2</sup> m<sup>2</sup> J<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>atomic unit of electric potential</name>
+	<symbol></symbol>
+	<value>27.211 383 86</value>
+	<uncer>0.000 000 68</uncer>
+	<units>V</units>
+</constant>
+
+<constant>
+	<name>atomic unit of electric quadrupole mom.</name>
+	<symbol></symbol>
+	<value>4.486 551 07 x 10<sup>-40</sup></value>
+	<uncer>0.000 000 11 x 10<sup>-40</sup></uncer>
+	<units>C m<sup>2</sup></units>
+</constant>
+
+<constant>
+	<name>atomic unit of energy</name>
+	<symbol></symbol>
+	<value>4.359 743 94 x 10<sup>-18</sup></value>
+	<uncer>0.000 000 22 x 10<sup>-18</sup></uncer>
+	<units>J</units>
+</constant>  
+
+<constant>
+	<name>atomic unit of force</name>
+	<symbol></symbol>
+	<value>8.238 722 06 x 10<sup>-8</sup></value>
+	<uncer>0.000 000 41 x 10<sup>-8</sup></uncer>
+	<units>N</units>
+</constant>
+
+<constant>
+	<name>atomic unit of length</name>
+	<symbol></symbol>
+	<value>0.529 177 208 59 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 000 36 x 10<sup>-10</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>atomic unit of mag. dipole mom.</name>
+	<symbol></symbol>
+	<value>1.854 801 830 x 10<sup>-23</sup></value>
+	<uncer>0.000 000 046 x 10<sup>-23</sup></uncer>
+	<units>J T<sup>-1</sup></units>
+</constant> 
+
+<constant>
+	<name>atomic unit of mag. flux density</name>
+	<symbol></symbol>
+	<value>2.350 517 382 x 10<sup>5</sup></value>
+	<uncer>0.000 000 059 x 10<sup>5</sup></uncer>
+	<units>T</units>
+</constant>
+
+<constant>
+	<name>atomic unit of magnetizability</name>
+	<symbol></symbol>
+	<value>7.891 036 433 x 10<sup>-29</sup></value>
+	<uncer>0.000 000 027 x 10<sup>-29</sup></uncer>
+	<units>J T<sup>-2</sup></units>
+</constant>
+
+<constant>
+	<name>atomic unit of mass</name>
+	<symbol></symbol>
+	<value>9.109 382 15 x 10<sup>-31</sup></value>
+	<uncer>0.000 000 45 x 10<sup>-31</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>atomic unit of momentum</name>
+	<symbol></symbol>
+	<value>1.992 851 565 x 10<sup>-24</sup></value>
+	<uncer>0.000 000 099 x 10<sup>-24</sup></uncer>
+	<units>kg m s<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>atomic unit of permittivity</name>
+	<symbol></symbol>
+	<value>1.112 650 056 x 10<sup>-10</sup></value>
+	<uncer>0</uncer>
+	<units>F m<sup>-1</sup></units>
+</constant>  
+
+<constant>
+	<name>atomic unit of time</name>
+	<symbol></symbol>
+	<value>2.418 884 326 505 x 10<sup>-17</sup></value>
+	<uncer>0.000 000 000 016 x 10<sup>-17</sup></uncer>
+	<units>s</units>
+</constant>
+
+<constant>
+	<name>atomic unit of velocity</name>
+	<symbol></symbol>
+	<value>2.187 691 2541 x 10<sup>6</sup></value>
+	<uncer>0.000 000 0015 x 10<sup>6</sup></uncer>
+	<units>m s<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>Avogadro constant</name>
+	<symbol></symbol>
+	<value>6.022 141 79 x 10<sup>23</sup></value>
+	<uncer>0.000 000 30 x 10<sup>23</sup></uncer>
+	<units>mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>Bohr magneton</name>
+	<symbol></symbol>
+	<value>927.400 915 x 10<sup>-26</sup></value>
+	<uncer>0.000 023 x 10<sup>-26</sup></uncer>
+	<units>J T<sup>-1</sup></units>
+</constant>            
+
+<constant>
+	<name>Bohr magneton in eV/T</name>
+	<symbol></symbol>
+	<value>5.788 381 7555 x 10<sup>-5</sup></value>
+	<uncer>0.000 000 0079 x 10<sup>-5</sup></uncer>
+	<units>eV T<sup>-1</sup></units>
+</constant> 
+
+<constant>
+	<name>Bohr magneton in Hz/T</name>
+	<symbol></symbol>
+	<value>13.996 246 04 x 10<sup>9</sup></value>
+	<uncer>0.000 000 35 x 10<sup>9</sup></uncer>
+	<units>Hz T<sup>-1</sup></units>
+</constant> 
+
+<constant>
+	<name>Bohr magneton in inverse meters per tesla</name>
+	<symbol></symbol>
+	<value>46.686 4515</value>
+	<uncer>0.000 0012</uncer>
+	<units>m<sup>-1</sup> T<sup>-1</sup></units>
+</constant> 
+
+<constant>
+	<name>Bohr magneton in K/T</name>
+	<symbol></symbol>
+	<value>0.671 7131</value>
+	<uncer>0.000 0012</uncer>
+	<units>K T<sup>-1</sup></units>
+</constant>   
+
+<constant>
+	<name>Bohr radius</name>
+	<symbol></symbol>
+	<value>0.529 177 208 59 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 000 36 x 10<sup>-10</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>Boltzmann constant</name>
+	<symbol></symbol>
+	<value>1.380 6504 x 10<sup>-23</sup></value>
+	<uncer>0.000 0024 x 10<sup>-23</sup></uncer>
+	<units>J K<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>Boltzmann constant in eV/K</name>
+	<symbol></symbol>
+	<value>8.617 343 x 10<sup>-5</sup></value>
+	<uncer>0.000 015 x 10<sup>-5</sup></uncer>
+	<units>eV K<sup>-1</sup></units>
+</constant>   
+
+<constant>
+	<name>Boltzmann constant in Hz/K</name>
+	<symbol></symbol>
+	<value>2.083 6644 x 10<sup>10</sup></value>
+	<uncer>0.000 0036 x 10<sup>10</sup></uncer>
+	<units>Hz K<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>Boltzmann constant in inverse meters per kelvin</name>
+	<symbol></symbol>
+	<value>69.503 56</value>
+	<uncer>0.000 12</uncer>
+	<units>m<sup>-1</sup> K<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>characteristic impedance of vacuum</name>
+	<symbol></symbol>
+	<value>376.730 313 461</value>
+	<uncer>0</uncer>
+	<units>ohm</units>
+</constant> 
+
+<constant>
+	<name>classical electron radius</name>
+	<symbol></symbol>
+	<value>2.817 940 2894 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 0058 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>Compton wavelength</name>
+	<symbol></symbol>
+	<value>2.426 310 2175 x 10<sup>-12</sup></value>
+	<uncer>0.000 000 0033 x 10<sup>-12</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>Compton wavelength over 2 pi</name>
+	<symbol></symbol>
+	<value>386.159 264 59 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 53 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>conductance quantum</name>
+	<symbol></symbol>
+	<value>7.748 091 7004 x 10<sup>-5</sup></value>
+	<uncer>0.000 000 0053 x 10<sup>-5</sup></uncer>
+	<units>S</units>
+</constant>
+
+<constant>
+	<name>conventional value of Josephson constant</name>
+	<symbol></symbol>
+	<value>483 597.9 x 10<sup>9</sup></value>
+	<uncer>0</uncer>
+	<units>Hz V<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>conventional value of von Klitzing constant</name>
+	<symbol></symbol>
+	<value>25 812.807</value>
+	<uncer>0</uncer>
+	<units>ohm</units>
+</constant>
+
+<constant>
+	<name>Cu x unit</name>
+	<symbol></symbol>
+	<value>1.002 076 99 x 10<sup>-13</sup></value>
+	<uncer>0.000 000 28 x 10<sup>-13</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>deuteron-electron mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-4.664 345 537 x 10<sup>-4</sup></value>
+	<uncer>0.000 000 039 x 10<sup>-4</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>deuteron-electron mass ratio</name>
+	<symbol></symbol>
+	<value>3670.482 9654</value>
+	<uncer>0.000 0016</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>deuteron g factor</name>
+	<symbol></symbol>
+	<value>0.857 438 2308</value>
+	<uncer>0.000 000 0072</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>deuteron mag. mom.</name>
+	<symbol></symbol>
+	<value>0.433 073 465 x 10<sup>-26</sup></value>
+	<uncer>0.000 000 011 x 10<sup>-26</sup></uncer>
+	<units>J T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>deuteron mag. mom. to Bohr magneton ratio</name>
+	<symbol></symbol>
+	<value>0.466 975 4556 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 0039 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>deuteron mag. mom. to nuclear magneton ratio</name>
+	<symbol></symbol>
+	<value>0.857 438 2308</value>
+	<uncer>0.000 000 0072</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>deuteron mass</name>
+	<symbol></symbol>
+	<value>3.343 583 20 x 10<sup>-27</sup></value>
+	<uncer>0.000 000 17 x 10<sup>-27</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>deuteron mass energy equivalent</name>
+	<symbol></symbol>
+	<value>3.005 062 72 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 15 x 10<sup>-10</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>deuteron mass energy equivalent in MeV</name>
+	<symbol></symbol>
+	<value>1875.612 793</value>
+	<uncer>0.000 047</uncer>
+	<units>MeV</units>
+</constant>
+
+<constant>
+	<name>deuteron mass in u</name>
+	<symbol></symbol>
+	<value>2.013 553 212 724</value>
+	<uncer>0.000 000 000 078</uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>deuteron molar mass</name>
+	<symbol></symbol>
+	<value>2.013 553 212 724 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 000 078 x 10<sup>-3</sup></uncer>
+	<units>kg mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>deuteron-neutron mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-0.448 206 52</value>
+	<uncer>0.000 000 11</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>deuteron-proton mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>0.307 012 2070</value>
+	<uncer>0.000 000 0024</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>deuteron-proton mass ratio</name>
+	<symbol></symbol>
+	<value>1.999 007 501 08</value>
+	<uncer>0.000 000 000 22</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>deuteron rms charge radius</name>
+	<symbol></symbol>
+	<value>2.1402 x 10<sup>-15</sup></value>
+	<uncer>0.0028 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>e</name>
+	<symbol>e</symbol>
+	<value>2.7182818</value>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electric constant</name>
+	<symbol></symbol>
+	<value>8.854 187 817 x 10<sup>-12</sup></value>
+	<uncer>0</uncer>
+	<units>F m<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>electron charge to mass quotient</name>
+	<symbol></symbol>
+	<value>-1.758 820 150 x 10<sup>11</sup></value>
+	<uncer>0.000 000 044 x 10<sup>11</sup></uncer>
+	<units>C kg<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>electron-deuteron mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-2143.923 498</value>
+	<uncer>0.000 018</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron-deuteron mass ratio</name>
+	<symbol></symbol>
+	<value>2.724 437 1093 x 10<sup>-4</sup></value>
+	<uncer>0.000 000 0012 x 10<sup>-4</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron g factor</name>
+	<symbol></symbol>
+	<value>-2.002 319 304 3622</value>
+	<uncer>0.000 000 000 0015</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron gyromag. ratio </name>
+	<symbol></symbol>
+	<value>1.760 859 770 x 10<sup>11</sup></value>
+	<uncer>0.000 000 044 x 10<sup>11</sup></uncer>
+	<units>s<sup>-1</sup> T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>electron gyromag. ratio over 2 pi</name>
+	<symbol></symbol>
+	<value>28 024.953 64</value>
+	<uncer>0.000 70</uncer>
+	<units>MHz T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>electron mag. mom.</name>
+	<symbol></symbol>
+	<value>-928.476 377 x 10<sup>-26</sup></value>
+	<uncer>0.000 023 x 10<sup>-26</sup></uncer>
+	<units>J T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>electron mag. mom. anomaly</name>
+	<symbol></symbol>
+	<value>1.159 652 181 11 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 000 74 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron mag. mom. to Bohr magneton ratio</name>
+	<symbol></symbol>
+	<value>-1.001 159 652 181 11</value>
+	<uncer>0.000 000 000 000 74</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron mag. mom. to nuclear magneton ratio</name>
+	<symbol></symbol>
+	<value>-1838.281 970 92</value>
+	<uncer>0.000 000 80</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron mass</name>
+	<symbol></symbol>
+	<value>9.109 382 15 x 10<sup>-31</sup></value>
+	<uncer>0.000 000 45 x 10<sup>-31</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>electron mass energy equivalent</name>
+	<symbol></symbol>
+	<value>8.187 104 38 x 10<sup>-14</sup></value>
+	<uncer>0.000 000 41 x 10<sup>-14</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>electron mass energy equivalent in MeV</name>
+	<symbol></symbol>
+	<value>0.510 998 910</value>
+	<uncer>0.000 000 013</uncer>
+	<units>MeV</units>
+</constant>
+
+<constant>
+	<name>electron mass in u</name>
+	<symbol></symbol>
+	<value>5.485 799 0943 x 10<sup>-4</sup></value>
+	<uncer>0.000 000 0023 x 10<sup>-4</sup></uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>electron molar mass</name>
+	<symbol></symbol>
+	<value>5.485 799 0943 x 10<sup>-7</sup></value>
+	<uncer>0.000 000 0023 x 10<sup>-7</sup></uncer>
+	<units>kg mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>electron-muon mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>206.766 9877</value>
+	<uncer>0.000 0052</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron-muon mass ratio</name>
+	<symbol></symbol>
+	<value>4.836 331 71 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 12 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron-neutron mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>960.920 50</value>
+	<uncer>0.000 23</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron-neutron mass ratio</name>
+	<symbol></symbol>
+	<value>5.438 673 4459 x 10<sup>-4</sup></value>
+	<uncer>0.000 000 0033 x 10<sup>-4</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron-proton mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-658.210 6848</value>
+	<uncer>0.000 0054</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron-proton mass ratio</name>
+	<symbol></symbol>
+	<value>5.446 170 2177 x 10<sup>-4</sup></value>
+	<uncer>0.000 000 0024 x 10<sup>-4</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron-tau mass ratio</name>
+	<symbol></symbol>
+	<value>2.875 64 x 10<sup>-4</sup></value>
+	<uncer>0.000 47 x 10<sup>-4</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron to alpha particle mass ratio</name>
+	<symbol></symbol>
+	<value>1.370 933 555 70 x 10<sup>-4</sup></value>
+	<uncer>0.000 000 000 58 x 10<sup>-4</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron to shielded helion mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>864.058 257</value>
+	<uncer>0.000 010</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>electron to shielded proton mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-658.227 5971</value>
+	<uncer>0.000 0072</uncer>
+	<units></units>
+</constant>  
+
+<constant>
+	<name>electron volt </name>
+	<symbol></symbol>
+	<value>1.602 176 487 x 10<sup>-19</sup></value>
+	<uncer>0.000 000 040 x 10<sup>-19</sup></uncer>
+	<units>J</units>
+</constant> 
+
+<constant>
+	<name>electron volt-atomic mass unit relationship</name>
+	<symbol></symbol>
+	<value>1.073 544 188 x 10<sup>-9</sup></value>
+	<uncer>0.000 000 027 x 10<sup>-9</sup></uncer>
+	<units>u</units>
+</constant> 
+
+<constant>
+	<name>electron volt-hartree relationship</name>
+	<symbol></symbol>
+	<value>3.674 932 540 x 10<sup>-2</sup></value>
+	<uncer>0.000 000 092 x 10<sup>-2</sup></uncer>
+	<units>E_h</units>
+</constant> 
+
+<constant>
+	<name>electron volt-hertz relationship</name>
+	<symbol></symbol>
+	<value>2.417 989 454 x 10<sup>14</sup></value>
+	<uncer>0.000 000 060 x 10<sup>14</sup></uncer>
+	<units>Hz</units>
+</constant> 
+
+<constant>
+	<name>electron volt-inverse meter relationship</name>
+	<symbol></symbol>
+	<value>8.065 544 65 x 10<sup>5</sup></value>
+	<uncer>0.000 000 20 x 10<sup>5</sup></uncer>
+	<units>m<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>electron volt-joule relationship</name>
+	<symbol></symbol>
+	<value>1.602 176 487 x 10<sup>-19</sup></value>
+	<uncer>0.000 000 040 x 10<sup>-19</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>electron volt-kelvin relationship</name>
+	<symbol></symbol>
+	<value>1.160 4505 x 10<sup>4</sup></value>
+	<uncer>0.000 0020 x 10<sup>4</sup></uncer>
+	<units>K</units>
+</constant>
+
+<constant>
+	<name>electron volt-kilogram relationship</name>
+	<symbol></symbol>
+	<value>1.782 661 758 x 10<sup>-36</sup></value>
+	<uncer>0.000 000 044 x 10<sup>-36</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>elementary charge</name>
+	<symbol></symbol>
+	<value>1.602 176 487 x 10<sup>-19</sup></value>
+	<uncer>0.000 000 040 x 10<sup>-19</sup></uncer>
+	<units>C</units>
+</constant>
+
+<constant>
+	<name>elementary charge over h</name>
+	<symbol></symbol>
+	<value>2.417 989 454 x 10<sup>14</sup></value>
+	<uncer>0.000 000 060 x 10<sup>14</sup></uncer>
+	<units>A J<sup>-1</sup></units>
+</constant>  
+
+<constant>
+	<name>Faraday constant </name>
+	<symbol></symbol>
+	<value>96 485.3399</value>
+	<uncer>0.0024</uncer>
+	<units>C mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>Faraday constant for conventional electric current</name>
+	<symbol></symbol>
+	<value>96 485.3401</value>
+	<uncer>0.0048</uncer>
+	<units>C_90 mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>Fermi coupling constant</name>
+	<symbol></symbol>
+	<value>1.166 37 x 10<sup>-5</sup></value>
+	<uncer>0.000 01 x 10<sup>-5</sup></uncer>
+	<units>GeV<sup>-2</sup></units>
+</constant>
+
+<constant>
+	<name>fine-structure constant</name>
+	<symbol></symbol>
+	<value>7.297 352 5376 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 0050 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>first radiation constant</name>
+	<symbol></symbol>
+	<value>3.741 771 18 x 10<sup>-16</sup></value>
+	<uncer>0.000 000 19 x 10<sup>-16</sup></uncer>
+	<units>W m<sup>2</sup></units>
+</constant> 
+
+<constant>
+	<name>first radiation constant for spectral radiance</name>
+	<symbol></symbol>
+	<value>1.191 042 759 x 10<sup>-16</sup></value>
+	<uncer>0.000 000 059 x 10<sup>-16</sup></uncer>
+	<units>W m<sup>2</sup> sr<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>hartree-atomic mass unit relationship</name>
+	<symbol></symbol>
+	<value>2.921 262 2986 x 10<sup>-8</sup></value>
+	<uncer>0.000 000 0042 x 10<sup>-8</sup></uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>hartree-electron volt relationship</name>
+	<symbol></symbol>
+	<value>27.211 383 86</value>
+	<uncer>0.000 000 68</uncer>
+	<units>eV</units>
+</constant>
+
+<constant>
+	<name>Hartree energy</name>
+	<symbol></symbol>
+	<value>4.359 743 94 x 10<sup>-18</sup></value>
+	<uncer>0.000 000 22 x 10<sup>-18</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>Hartree energy in eV</name>
+	<symbol></symbol>
+	<value>27.211 383 86</value>
+	<uncer>0.000 000 68</uncer>
+	<units>eV</units>
+</constant>                                  
+  
+<constant>
+	<name>hartree-hertz relationship</name>
+	<symbol></symbol>
+	<value>6.579 683 920 722 x 10<sup>15</sup></value>
+	<uncer>0.000 000 000 044 x 10<sup>15</sup></uncer>
+	<units>Hz</units>
+</constant>
+
+<constant>
+	<name>hartree-inverse meter relationship</name>
+	<symbol></symbol>
+	<value>2.194 746 313 705 x 10<sup>7</sup></value>
+	<uncer>0.000 000 000 015 x 10<sup>7</sup></uncer>
+	<units>m<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>hartree-joule relationship</name>
+	<symbol></symbol>
+	<value>4.359 743 94 x 10<sup>-18</sup></value>
+	<uncer>0.000 000 22 x 10<sup>-18</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>hartree-kelvin relationship</name>
+	<symbol></symbol>
+	<value>3.157 7465 x 10<sup>5</sup></value>
+	<uncer>0.000 0055 x 10<sup>5</sup></uncer>
+	<units>K</units>
+</constant>
+
+<constant>
+	<name>hartree-kilogram relationship</name>
+	<symbol></symbol>
+	<value>4.850 869 34 x 10<sup>-35</sup></value>
+	<uncer>0.000 000 24 x 10<sup>-35</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>helion-electron mass ratio</name>
+	<symbol></symbol>
+	<value>5495.885 2765</value>
+	<uncer>0.000 0052</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>helion mass</name>
+	<symbol></symbol>
+	<value>5.006 411 92 x 10<sup>-27</sup></value>
+	<uncer>0.000 000 25 x 10<sup>-27</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>helion mass energy equivalent</name>
+	<symbol></symbol>
+	<value>4.499 538 64 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 22 x 10<sup>-10</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>helion mass energy equivalent in MeV </name>
+	<symbol></symbol>
+	<value>2808.391 383</value>
+	<uncer>0.000 070</uncer>
+	<units>MeV</units>
+</constant>
+
+<constant>
+	<name>helion mass in u</name>
+	<symbol></symbol>
+	<value>3.014 932 2473</value>
+	<uncer>0.000 000 0026</uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>helion molar mass</name>
+	<symbol></symbol>
+	<value>3.014 932 2473 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 0026 x 10<sup>-3</sup></uncer>
+	<units>kg mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>helion-proton mass ratio</name>
+	<symbol></symbol>
+	<value>2.993 152 6713</value>
+	<uncer>0.000 000 0026</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>hertz-atomic mass unit relationship</name>
+	<symbol></symbol>
+	<value>4.439 821 6294 x 10<sup>-24</sup></value>
+	<uncer>0.000 000 0064 x 10<sup>-24</sup></uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>hertz-electron volt relationship</name>
+	<symbol></symbol>
+	<value>4.135 667 33 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 10 x 10<sup>-15</sup></uncer>
+	<units>eV</units>
+</constant>
+
+<constant>
+	<name>hertz-hartree relationship</name>
+	<symbol></symbol>
+	<value>1.519 829 846 006 x 10<sup>-16</sup></value>
+	<uncer>0.000 000 000 010 x 10<sup>-16</sup></uncer>
+	<units>E_h</units>
+</constant>  
+
+<constant>
+	<name>hertz-inverse meter relationship</name>
+	<symbol></symbol>
+	<value>3.335 640 951</value>
+	<uncer>0</uncer>
+	<units>m<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>hertz-joule relationship</name>
+	<symbol></symbol>
+	<value>6.626 068 96 x 10<sup>-34</sup></value>
+	<uncer>0.000 000 33 x 10<sup>-34</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>hertz-kelvin relationship</name>
+	<symbol></symbol>
+	<value>4.799 2374 x 10<sup>-11</sup></value>
+	<uncer>0.000 0084 x 10<sup>-11</sup></uncer>
+	<units>K</units>
+</constant>
+
+<constant>
+	<name>hertz-kilogram relationship</name>
+	<symbol></symbol>
+	<value>7.372 496 00 x 10<sup>-51</sup></value>
+	<uncer>0.000 000 37 x 10<sup>-51</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>inverse fine-structure constant</name>
+	<symbol></symbol>
+	<value>137.035 999 679</value>
+	<uncer>0.000 000 094</uncer>
+	<units></units>
+</constant>    
+
+<constant>
+	<name>inverse meter-atomic mass unit relationship</name>
+	<symbol></symbol>
+	<value>1.331 025 0394 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 0019 x 10<sup>-15</sup></uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>inverse meter-electron volt relationship</name>
+	<symbol></symbol>
+	<value>1.239 841 875 x 10<sup>-6</sup></value>
+	<uncer>0.000 000 031 x 10<sup>-6</sup></uncer>
+	<units>eV</units>
+</constant>
+
+<constant>
+	<name>inverse meter-hartree relationship</name>
+	<symbol></symbol>
+	<value>4.556 335 252 760 x 10<sup>-8</sup></value>
+	<uncer>0.000 000 000 030 x 10<sup>-8</sup></uncer>
+	<units>E_h</units>
+</constant>
+
+<constant>
+	<name>inverse meter-hertz relationship</name>
+	<symbol></symbol>
+	<value>299 792 458></value>
+	<uncer>0</uncer>
+	<units>Hz</units>
+</constant>
+
+<constant>
+	<name>inverse meter-joule relationship</name>
+	<symbol></symbol>
+	<value>1.986 445 501 x 10<sup>-25</sup></value>
+	<uncer>0.000 000 099 x 10<sup>-25</sup></uncer>
+	<units>J</units>
+</constant> 
+
+<constant>
+	<name>inverse meter-kelvin relationship</name>
+	<symbol></symbol>
+	<value>1.438 7752 x 10<sup>-2</sup></value>
+	<uncer>0.000 0025 x 10<sup>-2</sup></uncer>
+	<units>K</units>
+</constant>
+
+<constant>
+	<name>inverse meter-kilogram relationship</name>
+	<symbol></symbol>
+	<value>2.210 218 70 x 10<sup>-42</sup></value>
+	<uncer>0.000 000 11 x 10<sup>-42</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>inverse of conductance quantum</name>
+	<symbol></symbol>
+	<value>12 906.403 7787</value>
+	<uncer>0.000 0088</uncer>
+	<units>ohm</units>
+</constant>
+
+<constant>
+	<name>Josephson constant</name>
+	<symbol></symbol>
+	<value>483 597.891 x 10<sup>9</sup></value>
+	<uncer>0.012 x 10<sup>9</sup></uncer>
+	<units>Hz V<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>joule-atomic mass unit relationship</name>
+	<symbol></symbol>
+	<value>6.700 536 41 x 10<sup>9</sup></value>
+	<uncer>0.000 000 33 x 10<sup>9</sup></uncer>
+	<units>u</units>
+</constant>     
+
+<constant>
+	<name>joule-electron volt relationship</name>
+	<symbol></symbol>
+	<value>6.241 509 65 x 10<sup>18</sup></value>
+	<uncer>0.000 000 16 x 10<sup>18</sup></uncer>
+	<units>eV</units>
+</constant>
+
+<constant>
+	<name>joule-hartree relationship</name>
+	<symbol></symbol>
+	<value>2.293 712 69 x 10<sup>17</sup></value>
+	<uncer>0.000 000 11 x 10<sup>17</sup></uncer>
+	<units>E_h</units>
+</constant>
+
+<constant>
+	<name>joule-hertz relationship</name>
+	<symbol></symbol>
+	<value>1.509 190 450 x 10<sup>33</sup></value>
+	<uncer>0.000 000 075 x 10<sup>33</sup></uncer>
+	<units>Hz</units>
+</constant>
+
+<constant>
+	<name>joule-inverse meter relationship</name>
+	<symbol></symbol>
+	<value>5.034 117 47 x 10<sup>24</sup></value>
+	<uncer>0.000 000 25 x 10<sup>24</sup></uncer>
+	<units>m<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>joule-kelvin relationship</name>
+	<symbol></symbol>
+	<value>7.242 963 x 10<sup>22</sup></value>
+	<uncer>0.000 013 x 10<sup>22</sup></uncer>
+	<units>K</units>
+</constant>     
+
+<constant>
+	<name>joule-kilogram relationship</name>
+	<symbol></symbol>
+	<value>1.112 650 056 x 10<sup>-17</sup></value>
+	<uncer>0</uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>kelvin-atomic mass unit relationship</name>
+	<symbol></symbol>
+	<value>9.251 098 x 10<sup>-14</sup></value>
+	<uncer>0.000 016 x 10<sup>-14</sup></uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>kelvin-electron volt relationship</name>
+	<symbol></symbol>
+	<value>8.617 343 x 10<sup>-5</sup></value>
+	<uncer>0.000 015 x 10<sup>-5</sup></uncer>
+	<units>eV</units>
+</constant>
+
+<constant>
+	<name>kelvin-hartree relationship</name>
+	<symbol></symbol>
+	<value>3.166 8153 x 10<sup>-6</sup></value>
+	<uncer>0.000 0055 x 10<sup>-6</sup></uncer>
+	<units>E_h</units>
+</constant>
+
+<constant>
+	<name>kelvin-hertz relationship</name>
+	<symbol></symbol>
+	<value>2.083 6644 x 10<sup>10</sup></value>
+	<uncer>0.000 0036 x 10<sup>10</sup></uncer>
+	<units>Hz</units>
+</constant>  
+
+<constant>
+	<name>kelvin-inverse meter relationship</name>
+	<symbol></symbol>
+	<value>69.503 56</value>
+	<uncer>0.000 12</uncer>
+	<units>m<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>kelvin-joule relationship</name>
+	<symbol></symbol>
+	<value>1.380 6504 x 10<sup>-23</sup></value>
+	<uncer>0.000 0024 x 10<sup>-23</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>kelvin-kilogram relationship</name>
+	<symbol></symbol>
+	<value>1.536 1807 x 10<sup>-40</sup></value>
+	<uncer>0.000 0027 x 10<sup>-40</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>kilogram-atomic mass unit relationship</name>
+	<symbol></symbol>
+	<value>6.022 141 79 x 10<sup>26</sup></value>
+	<uncer>0.000 000 30 x 10<sup>26</sup></uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>kilogram-electron volt relationship</name>
+	<symbol></symbol>
+	<value>5.609 589 12 x 10<sup>35</sup></value>
+	<uncer>0.000 000 14 x 10<sup>35</sup></uncer>
+	<units>eV</units>
+</constant>     
+
+<constant>
+	<name>kilogram-hartree relationship</name>
+	<symbol></symbol>
+	<value>2.061 486 16 x 10<sup>34</sup></value>
+	<uncer>0.000 000 10 x 10<sup>34</sup></uncer>
+	<units>E_h</units>
+</constant>
+
+<constant>
+	<name>kilogram-hertz relationship</name>
+	<symbol></symbol>
+	<value>1.356 392 733 x 10<sup>50</sup></value>
+	<uncer>0.000 000 068 x 10<sup>50</sup></uncer>
+	<units>Hz</units>
+</constant>
+
+<constant>
+	<name>kilogram-inverse meter relationship</name>
+	<symbol></symbol>
+	<value>4.524 439 15 x 10<sup>41</sup></value>
+	<uncer>0.000 000 23 x 10<sup>41</sup></uncer>
+	<units>m<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>kilogram-joule relationship</name>
+	<symbol></symbol>
+	<value>8.987 551 787 x 10<sup>16</sup></value>
+	<uncer>0</uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>kilogram-kelvin relationship</name>
+	<symbol></symbol>
+	<value>6.509 651 x 10<sup>39</sup></value>
+	<uncer>0.000 011 x 10<sup>39</sup></uncer>
+	<units>K</units>
+</constant>
+
+<constant>
+	<name>lattice parameter of silicon</name>
+	<symbol></symbol>
+	<value>543.102 064 x 10<sup>-12</sup></value>
+	<uncer>0.000 014 x 10<sup>-12</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>lattice spacing of silicon</name>
+	<symbol></symbol>
+	<value>192.015 5762 x 10<sup>-12</sup></value>
+	<uncer>0.000 0050 x 10<sup>-12</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>Loschmidt constant (273.15 K, 101.325 kPa)</name>
+	<symbol></symbol>
+	<value>2.686 7774 x 10<sup>25</sup></value>
+	<uncer>0.000 0047 x 10<sup>25</sup></uncer>
+	<units>m<sup>-3</sup></units>
+</constant>
+
+<constant>
+	<name>mag. constant</name>
+	<symbol></symbol>
+	<value>12.566 370 614 x 10<sup>-7</sup></value>
+	<uncer></uncer>
+	<units>N A<sup>-2</sup></units>
+</constant>
+
+<constant>
+	<name>mag. flux quantum</name>
+	<symbol></symbol>
+	<value>2.067 833 667 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 052 x 10<sup>-15</sup></uncer>
+	<units>Wb</units>
+</constant>  
+
+<constant>
+	<name>molar gas constant</name>
+	<symbol></symbol>
+	<value>8.314 472</value>
+	<uncer>0.000 015</uncer>
+	<units>J mol<sup>-1</sup> K<sup>-1</sup></units>
+</constant> 
+
+<constant>
+	<name>molar mass constant</name>
+	<symbol></symbol>
+	<value>1 x 10<sup>-3</sup></value>
+	<uncer>0</uncer>
+	<units>kg mol<sup>-1</sup></units>
+</constant> 
+
+<constant>
+	<name>molar mass of carbon-12</name>
+	<symbol></symbol>
+	<value>12 x 10<sup>-3</sup></value>
+	<uncer>0</uncer>
+	<units>kg mol<sup>-1</sup></units>
+</constant> 
+
+<constant>
+	<name>molar Planck constant</name>
+	<symbol></symbol>
+	<value>3.990 312 6821 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 0057 x 10<sup>-10</sup></uncer>
+	<units>J s mol<sup>-1</sup></units>
+</constant> 
+
+<constant>
+	<name>molar Planck constant times c</name>
+	<symbol></symbol>
+	<value>0.119 626 564 72</value>
+	<uncer>0.000 000 000 17</uncer>
+	<units>J m mol<sup>-1</sup></units>
+</constant>  
+
+<constant>
+	<name>molar volume of ideal gas (273.15 K, 100 kPa)</name>
+	<symbol></symbol>
+	<value>22.710 981 x 10<sup>-3</sup></value>
+	<uncer>0.000 040 x 10<sup>-3</sup></uncer>
+	<units>m<sup>3</sup> mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>molar volume of ideal gas (273.15 K, 101.325 kPa)</name>
+	<symbol></symbol>
+	<value>22.413 996 x 10<sup>-3</sup></value>
+	<uncer>0.000 039 x 10<sup>-3</sup></uncer>
+	<units>m<sup>3</sup> mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>molar volume of silicon</name>
+	<symbol></symbol>
+	<value>12.058 8349 x 10<sup>-6</sup></value>
+	<uncer>0.000 0011 x 10<sup>-6</sup></uncer>
+	<units>m<sup>3</sup> mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>Mo x unit</name>
+	<symbol></symbol>
+	<value>1.002 099 55 x 10<sup>-13</sup></value>
+	<uncer>0.000 000 53 x 10<sup>-13</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>muon Compton wavelength</name>
+	<symbol></symbol>
+	<value>11.734 441 04 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 30 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>  
+
+<constant>
+	<name>muon Compton wavelength over 2 pi</name>
+	<symbol></symbol>
+	<value>1.867 594 295 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 047 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>muon-electron mass ratio</name>
+	<symbol></symbol>
+	<value>206.768 2823</value>
+	<uncer>0.000 0052</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>muon g factor</name>
+	<symbol></symbol>
+	<value>-2.002 331 8414</value>
+	<uncer>0.000 000 0012</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>muon mag. mom.</name>
+	<symbol></symbol>
+	<value>-4.490 447 86 x 10<sup>-26</sup></value>
+	<uncer>0.000 000 16 x 10<sup>-26</sup></uncer>
+	<units>J T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>muon mag. mom. anomaly</name>
+	<symbol></symbol>
+	<value>1.165 920 69 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 60 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>   
+
+<constant>
+	<name>muon mag. mom. to Bohr magneton ratio</name>
+	<symbol></symbol>
+	<value>-4.841 970 49 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 12 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>muon mag. mom. to nuclear magneton ratio</name>
+	<symbol></symbol>
+	<value>-8.890 597 05</value>
+	<uncer>0.000 000 23</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>muon mass</name>
+	<symbol></symbol>
+	<value>1.883 531 30 x 10<sup>-28</sup></value>
+	<uncer>0.000 000 11 x 10<sup>-28</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>muon mass energy equivalent</name>
+	<symbol></symbol>
+	<value>1.692 833 510 x 10<sup>-11</sup></value>
+	<uncer>0.000 000 095 x 10<sup>-11</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>muon mass energy equivalent in MeV</name>
+	<symbol></symbol>
+	<value>105.658 3668</value>
+	<uncer>0.000 0038</uncer>
+	<units>MeV</units>
+</constant>
+
+<constant>
+	<name>muon mass in u</name>
+	<symbol></symbol>
+	<value>0.113 428 9256</value>
+	<uncer>0.000 000 0029</uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>muon molar mass</name>
+	<symbol></symbol>
+	<value>0.113 428 9256 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 0029 x 10<sup>-3</sup></uncer>
+	<units>kg mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>muon-neutron mass ratio</name>
+	<symbol></symbol>
+	<value>0.112 454 5167</value>
+	<uncer>0.000 000 0029</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>muon-proton mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-3.183 345 137</value>
+	<uncer>0.000 000 085</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>muon-proton mass ratio</name>
+	<symbol></symbol>
+	<value>0.112 609 5261</value>
+	<uncer>0.000 000 0029</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>muon-tau mass ratio</name>
+	<symbol></symbol>
+	<value>5.945 92 x 10<sup>-2</sup></value>
+	<uncer>0.000 97 x 10<sup>-2</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>natural unit of action</name>
+	<symbol></symbol>
+	<value>1.054 571 628 x 10<sup>-34</sup></value>
+	<uncer>0.000 000 053 x 10<sup>-34</sup></uncer>
+	<units>J s</units>
+</constant>
+
+<constant>
+	<name>natural unit of action in eV s</name>
+	<symbol></symbol>
+	<value>6.582 118 99 x 10<sup>-16</sup></value>
+	<uncer>0.000 000 16 x 10<sup>-16</sup></uncer>
+	<units>eV s</units>
+</constant>
+
+<constant>
+	<name>natural unit of energy</name>
+	<symbol></symbol>
+	<value>8.187 104 38 x 10<sup>-14</sup></value>
+	<uncer>0.000 000 41 x 10<sup>-14</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>natural unit of energy in MeV</name>
+	<symbol></symbol>
+	<value>0.510 998 910</value>
+	<uncer>0.000 000 013</uncer>
+	<units>MeV</units>
+</constant>
+
+<constant>
+	<name>natural unit of length</name>
+	<symbol></symbol>
+	<value>386.159 264 59 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 53 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>natural unit of mass</name>
+	<symbol></symbol>
+	<value>9.109 382 15 x 10<sup>-31</sup></value>
+	<uncer>0.000 000 45 x 10<sup>-31</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>natural unit of momentum </name>
+	<symbol></symbol>
+	<value>2.730 924 06 x 10<sup>-22</sup></value>
+	<uncer>0.000 000 14 x 10<sup>-22</sup></uncer>
+	<units>kg m s<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>natural unit of momentum in MeV/c</name>
+	<symbol></symbol>
+	<value>0.510 998 910</value>
+	<uncer>0.000 000 013</uncer>
+	<units>MeV/c</units>
+</constant>
+
+<constant>
+	<name>natural unit of time</name>
+	<symbol></symbol>
+	<value>1.288 088 6570 x 10<sup>-21</sup></value>
+	<uncer>0.000 000 0018 x 10<sup>-21</sup></uncer>
+	<units>s</units>
+</constant>
+
+<constant>
+	<name>natural unit of velocity</name>
+	<symbol></symbol>
+	<value>299 792 458</value>
+	<uncer>0</uncer>
+	<units>m s<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>neutron Compton wavelength</name>
+	<symbol></symbol>
+	<value>1.319 590 8951 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 0020 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>neutron Compton wavelength over 2 pi</name>
+	<symbol></symbol>
+	<value>0.210 019 413 82 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 000 31 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>neutron-electron mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>1.040 668 82 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 25 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>neutron-electron mass ratio</name>
+	<symbol></symbol>
+	<value>1838.683 6605</value>
+	<uncer>0.000 0011</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>neutron g factor</name>
+	<symbol></symbol>
+	<value>-3.826 085 45</value>
+	<uncer>0.000 000 90</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>neutron gyromag. ratio</name>
+	<symbol></symbol>
+	<value>1.832 471 85 x 10<sup>8</sup></value>
+	<uncer>0.000 000 43 x 10<sup>8</sup></uncer>
+	<units>s<sup>-1</sup> T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>neutron gyromag. ratio over 2 pi</name>
+	<symbol></symbol>
+	<value>29.164 6954</value>
+	<uncer>0.000 0069</uncer>
+	<units>MHz T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>neutron mag. mom.</name>
+	<symbol></symbol>
+	<value>-0.966 236 41 x 10<sup>-26</sup></value>
+	<uncer>0.000 000 23 x 10<sup>-26</sup></uncer>
+	<units>J T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>neutron mag. mom. to Bohr magneton ratio</name>
+	<symbol></symbol>
+	<value>-1.041 875 63 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 25 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>neutron mag. mom. to nuclear magneton ratio</name>
+	<symbol></symbol>
+	<value>-1.913 042 73</value>
+	<uncer>0.000 000 45</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>neutron mass</name>
+	<symbol></symbol>
+	<value>1.674 927 211 x 10<sup>-27</sup></value>
+	<uncer>0.000 000 084 x 10<sup>-27</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>neutron mass energy equivalent</name>
+	<symbol></symbol>
+	<value>1.505 349 505 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 075 x 10<sup>-10</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>neutron mass energy equivalent in MeV</name>
+	<symbol></symbol>
+	<value>939.565 346</value>
+	<uncer>0.000 023</uncer>
+	<units>MeV</units>
+</constant>
+
+<constant>
+	<name>neutron mass in u</name>
+	<symbol></symbol>
+	<value>1.008 664 915 97</value>
+	<uncer>0.000 000 000 43</uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>neutron molar mass</name>
+	<symbol></symbol>
+	<value>1.008 664 915 97 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 000 43 x 10<sup>-3</sup></uncer>
+	<units>kg mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>neutron-muon mass ratio</name>
+	<symbol></symbol>
+	<value>8.892 484 09</value>
+	<uncer>0.000 000 23</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>neutron-proton mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-0.684 979 34</value>
+	<uncer>0.000 000 16</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>neutron-proton mass ratio</name>
+	<symbol></symbol>
+	<value>1.001 378 419 18</value>
+	<uncer>0.000 000 000 46</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>neutron-tau mass ratio</name>
+	<symbol></symbol>
+	<value>0.528 740</value>
+	<uncer>0.000 086</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>neutron to shielded proton mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-0.684 996 94</value>
+	<uncer>0.000 000 16</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>Newtonian constant of gravitation</name>
+	<symbol>G</symbol>
+	<value>6.674 28 x 10<sup>-11</sup></value>
+	<uncer>0.000 67 x 10<sup>-11</sup></uncer>
+	<units>m<sup>3</sup> kg<sup></sup>-1 s<sup>-2</sup></units>
+</constant>
+
+<constant>
+	<name>Newtonian constant of gravitation over h-bar c</name>
+	<symbol></symbol>
+	<value>6.708 81 x 10<sup>-39</sup></value>
+	<uncer>0.000 67 x 10<sup>-39</sup></uncer>
+	<units>(GeV/c<sup>2</sup>)<sup>-2</sup></units>
+</constant>
+
+<constant>
+	<name>nuclear magneton</name>
+	<symbol></symbol>
+	<value>5.050 783 24 x 10<sup>-27</sup></value>
+	<uncer>0.000 000 13 x 10<sup>-27</sup></uncer>
+	<units>J T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>nuclear magneton in eV/T</name>
+	<symbol></symbol>
+	<value>3.152 451 2326 x 10<sup>-8</sup></value>
+	<uncer>0.000 000 0045 x 10<sup>-8</sup></uncer>
+	<units>eV T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>nuclear magneton in inverse meters per tesla</name>
+	<symbol></symbol>
+	<value>2.542 623 616 x 10<sup>-2</sup></value>
+	<uncer>0.000 000 064 x 10<sup>-2</sup></uncer>
+	<units>m<sup>-1</sup> T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>nuclear magneton in K/T</name>
+	<symbol></symbol>
+	<value>3.658 2637 x 10<sup>-4</sup></value>
+	<uncer>0.000 0064 x 10<sup>-4</sup></uncer>
+	<units>K T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>nuclear magneton in MHz/T</name>
+	<symbol></symbol>
+	<value>7.622 593 84</value>
+	<uncer>0.000 000 19</uncer>
+	<units>MHz T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>Permeability of a vacuum</name>
+	<symbol></symbol>
+	<value>1.257 x 10<sup>-6</sup></value>
+	<units>H m<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>Permittivity of a vacuum</name>
+	<symbol></symbol>
+	<value>8.854 x 10<sup>-12</sup></value>
+	<units>F m<sup>-1</sup></units>
+</constant>		
+
+<constant>
+	<name>pi</name>
+	<symbol></symbol>
+	<value>3.141592565</value>
+	<units></units>
+</constant>
+
+<constant>
+	<name>Planck constant</name>
+	<symbol></symbol>
+	<value>6.626 068 96 x 10<sup>-34</sup></value>
+	<uncer>0.000 000 33 x 10<sup>-34</sup></uncer>
+	<units>J s</units>
+</constant>
+
+<constant>
+	<name>Planck constant in eV s</name>
+	<symbol></symbol>
+	<value>4.135 667 33 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 10 x 10<sup>-15</sup></uncer>
+	<units>eV s</units>
+</constant>
+
+<constant>
+	<name>Planck constant over 2 pi</name>
+	<symbol></symbol>
+	<value>1.054 571 628 x 10<sup>-34</sup></value>
+	<uncer>0.000 000 053 x 10<sup>-34</sup></uncer>
+	<units>J s</units>
+</constant>
+
+<constant>
+	<name>Planck constant over 2 pi in eV s</name>
+	<symbol></symbol>
+	<value>6.582 118 99 x 10<sup>-16</sup></value>
+	<uncer>0.000 000 16 x 10<sup>-16</sup></uncer>
+	<units>eV s</units>
+</constant>
+
+<constant>
+	<name>Planck constant over 2 pi times c in MeV fm</name>
+	<symbol></symbol>
+	<value>197.326 9631</value>
+	<uncer>0.000 0049</uncer>
+	<units>MeV fm</units>
+</constant>
+
+<constant>
+	<name>Planck length</name>
+	<symbol></symbol>
+	<value>1.616 252 x 10<sup>-35</sup></value>
+	<uncer>0.000 081 x 10<sup>-35</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>Planck mass</name>
+	<symbol></symbol>
+	<value>2.176 44 x 10<sup>-8 </sup></value>
+	<uncer>0.000 11 x 10<sup>-8</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>Planck mass energy equivalent in GeV</name>
+	<symbol></symbol>
+	<value>1.220 892 x 10<sup>19</sup></value>
+	<uncer>0.000 061 x 10<sup>19</sup></uncer>
+	<units>GeV</units>
+</constant>
+
+<constant>
+	<name>Planck temperature</name>
+	<symbol></symbol>
+	<value>1.416 785 x 10<sup>32</sup></value>
+	<uncer>0.000 071 x 10<sup>32</sup></uncer>
+	<units>K</units>
+</constant>
+
+<constant>
+	<name>Planck time</name>
+	<symbol></symbol>
+	<value>5.391 24 x 10<sup>-44</sup></value>
+	<uncer>0.000 27 x 10<sup>-44</sup></uncer>
+	<units>s</units>
+</constant>
+
+<constant>
+	<name>proton charge to mass quotient</name>
+	<symbol></symbol>
+	<value>9.578 833 92 x 10<sup>7</sup></value>
+	<uncer>0.000 000 24 x 10<sup>7</sup></uncer>
+	<units>C kg<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>proton Compton wavelength</name>
+	<symbol></symbol>
+	<value>1.321 409 8446 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 0019 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>proton Compton wavelength over 2 pi</name>
+	<symbol></symbol>
+	<value>0.210 308 908 61 x 10<sup>-15</sup></value>
+	<uncer>0.000 000 000 30 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>proton-electron mass ratio</name>
+	<symbol></symbol>
+	<value>1836.152 672 47</value>
+	<uncer>0.000 000 80</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>proton g factor</name>
+	<symbol></symbol>
+	<value>5.585 694 713</value>
+	<uncer>0.000 000 046</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>proton gyromag. ratio</name>
+	<symbol></symbol>
+	<value>2.675 222 099 x 10<sup>8</sup></value>
+	<uncer>0.000 000 070 x 10<sup>8</sup></uncer>
+	<units>s<sup>-1</sup> T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>proton gyromag. ratio over 2 pi</name>
+	<symbol></symbol>
+	<value>42.577 4821</value>
+	<uncer>0.000 0011</uncer>
+	<units>MHz T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>proton mag. mom.</name>
+	<symbol></symbol>
+	<value>1.410 606 662 x 10<sup>-26</sup></value>
+	<uncer>0.000 000 037 x 10<sup>-26</sup></uncer>
+	<units>J T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>proton mag. mom. to Bohr magneton ratio</name>
+	<symbol></symbol>
+	<value>1.521 032 209 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 012 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>proton mag. mom. to nuclear magneton ratio</name>
+	<symbol></symbol>
+	<value>2.792 847 356</value>
+	<uncer>0.000 000 023</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>proton mag. shielding correction</name>
+	<symbol></symbol>
+	<value>25.694 x 10<sup>-6</sup></value>
+	<uncer>0.014 x 10<sup>-6</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>proton mass</name>
+	<symbol></symbol>
+	<value>1.672 621 637 x 10<sup>-27</sup></value>
+	<uncer>0.000 000 083 x 10<sup>-27</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>proton mass energy equivalent</name>
+	<symbol></symbol>
+	<value>1.503 277 359 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 075 x 10<sup>-10</sup></uncer>
+	<units>J</units>
+</constant>
+ 
+<constant>
+	<name>proton mass energy equivalent in MeV</name>
+	<symbol></symbol>
+	<value>938.272 013</value>
+	<uncer>0.000 023</uncer>
+	<units>MeV</units>
+</constant>
+
+<constant>
+	<name>proton mass in u</name>
+	<symbol></symbol>
+	<value>1.007 276 466 77</value>
+	<uncer>0.000 000 000 10</uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>proton molar mass</name>
+	<symbol></symbol>
+	<value>1.007 276 466 77 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 000 10 x 10<sup>-3</sup></uncer>
+	<units>kg mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>proton-muon mass ratio</name>
+	<symbol></symbol>
+	<value>8.880 243 39</value>
+	<uncer>0.000 000 23</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>proton-neutron mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-1.459 898 06</value>
+	<uncer>0.000 000 34</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>proton-neutron mass ratio</name>
+	<symbol></symbol>
+	<value>0.998 623 478 24</value>
+	<uncer>0.000 000 000 46</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>proton rms charge radius</name>
+	<symbol></symbol>
+	<value>0.8768 x 10<sup>-15</sup></value>
+	<uncer>0.0069 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>proton-tau mass ratio</name>
+	<symbol></symbol>
+	<value>0.528 012</value>
+	<uncer>0.000 086</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>quantum of circulation</name>
+	<symbol></symbol>
+	<value>3.636 947 5199 x 10<sup>-4</sup></value>
+	<uncer>0.000 000 0050 x 10<sup>-4 </sup></uncer>
+	<units>m<sup>2</sup> s<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>quantum of circulation times 2</name>
+	<symbol></symbol>
+	<value>7.273 895 040 x 10<sup>-4</sup></value>
+	<uncer>0.000 000 010 x 10<sup>-4</sup></uncer>
+	<units>m<sup>2</sup> s<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>Rydberg constant</name>
+	<symbol></symbol>
+	<value>10 973 731.568 527</value>
+	<uncer>0.000 073</uncer>
+	<units>m<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>Rydberg constant times c in Hz</name>
+	<symbol></symbol>
+	<value>3.289 841 960 361 x 10<sup>15</sup></value>
+	<uncer>0.000 000 000 022 x 10<sup>15</sup></uncer>
+	<units>Hz</units>
+</constant>
+
+<constant>
+	<name>Rydberg constant times hc in eV</name>
+	<symbol></symbol>
+	<value>13.605 691 93</value>
+	<uncer>0.000 000 34</uncer>
+	<units>eV</units>
+</constant>
+
+<constant>
+	<name>Rydberg constant times hc in J</name>
+	<symbol></symbol>
+	<value>2.179 871 97 x 10<sup>-18</sup></value>
+	<uncer>0.000 000 11 x 10<sup>-18</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>Sackur-Tetrode constant (1 K, 100 kPa)</name>
+	<symbol></symbol>
+	<value>-1.151 7047</value>
+	<uncer>0.000 0044</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>Sackur-Tetrode constant (1 K, 101.325 kPa)</name>
+	<symbol></symbol>
+	<value>-1.164 8677</value>
+	<uncer>0.000 0044</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>second radiation constant</name>
+	<symbol></symbol>
+	<value>1.438 7752 x 10<sup>-2</sup></value>
+	<uncer>0.000 0025 x 10<sup>-2</sup></uncer>
+	<units>m K</units>
+</constant>
+
+<constant>
+	<name>shielded helion gyromag. ratio</name>
+	<symbol></symbol>
+	<value>2.037 894 730 x 10<sup>8</sup></value>
+	<uncer>0.000 000 056 x 10<sup>8</sup></uncer>
+	<units>s<sup>-1</sup> T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>shielded helion gyromag. ratio over 2 pi</name>
+	<symbol></symbol>
+	<value>32.434 101 98</value>
+	<uncer>0.000 000 90</uncer>
+	<units>MHz T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>shielded helion mag. mom.</name>
+	<symbol></symbol>
+	<value>-1.074 552 982 x 10<sup>-26</sup></value>
+	<uncer>0.000 000 030 x 10<sup>-26</sup></uncer>
+	<units>J T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>shielded helion mag. mom. to Bohr magneton ratio</name>
+	<symbol></symbol>
+	<value>-1.158 671 471 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 014 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>shielded helion mag. mom. to nuclear magneton ratio</name>
+	<symbol></symbol>
+	<value>-2.127 497 718</value>
+	<uncer>0.000 000 025</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>shielded helion to proton mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-0.761 766 558</value>
+	<uncer>0.000 000 011</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>shielded helion to shielded proton mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-0.761 786 1313</value>
+	<uncer>0.000 000 0033</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>shielded proton gyromag. ratio</name>
+	<symbol></symbol>
+	<value>2.675 153 362 x 10<sup>8</sup></value>
+	<uncer>0.000 000 073 x 10<sup>8</sup></uncer>
+	<units>s<sup>-1</sup> T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>shielded proton gyromag. ratio over 2 pi</name>
+	<symbol></symbol>
+	<value>42.576 3881</value>
+	<uncer>0.000 0012</uncer>
+	<units>MHz T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>shielded proton mag. mom.</name>
+	<symbol></symbol>
+	<value>1.410 570 419 x 10<sup>-26</sup></value>
+	<uncer>0.000 000 038 x 10<sup>-26</sup></uncer>
+	<units>J T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>shielded proton mag. mom. to Bohr magneton ratio</name>
+	<symbol></symbol>
+	<value>1.520 993 128 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 017 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>shielded proton mag. mom. to nuclear magneton ratio</name>
+	<symbol></symbol>
+	<value>2.792 775 598</value>
+	<uncer>0.000 000 030</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>speed of light in vacuum </name>
+	<symbol></symbol>
+	<value>299 792 458</value>
+	<uncer>0</uncer>
+	<units>m s<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>standard acceleration of gravity</name>
+	<symbol></symbol>
+	<value>9.806 65</value>
+	<uncer>0</uncer>
+	<units>m s<sup>-2</sup></units>
+</constant>
+
+<constant>
+	<name>standard atmosphere</name>
+	<symbol></symbol>
+	<value>101 325</value>
+	<uncer>0</uncer>
+	<units>Pa</units>
+</constant>
+
+<constant>
+	<name>Stefan-Boltzmann constant</name>
+	<symbol></symbol>
+	<value>5.670 400 x 10<sup>-8</sup></value>
+	<uncer>0.000 040 x 10<sup>-8</sup></uncer>
+	<units>W m<sup>-2</sup> K<sup>-4</sup></units>
+</constant>
+
+<constant>
+	<name>tau Compton wavelength</name>
+	<symbol></symbol>
+	<value>0.697 72 x 10<sup>-15</sup></value>
+	<uncer>0.000 11 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>tau Compton wavelength over 2 pi</name>
+	<symbol></symbol>
+	<value>0.111 046 x 10<sup>-15</sup></value>
+	<uncer>0.000 018 x 10<sup>-15</sup></uncer>
+	<units>m</units>
+</constant>
+
+<constant>
+	<name>tau-electron mass ratio</name>
+	<symbol></symbol>
+	<value>3477.48</value>
+	<uncer>0.57</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>tau mass </name>
+	<symbol></symbol>
+	<value>3.167 77 x 10<sup>-27</sup></value>
+	<uncer>0.000 52 x 10<sup>-27</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>tau mass energy equivalent</name>
+	<symbol></symbol>
+	<value>2.847 05 x 10<sup>-10</sup></value>
+	<uncer>0.000 46 x 10<sup>-10</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>tau mass energy equivalent in MeV</name>
+	<symbol></symbol>
+	<value>1776.99</value>
+	<uncer>0.29</uncer>
+	<units>MeV</units>
+</constant>
+
+<constant>
+	<name>tau mass in u</name>
+	<symbol></symbol>
+	<value>1.907 68</value>
+	<uncer>0.000 31</uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>tau molar mass</name>
+	<symbol></symbol>
+	<value>1.907 68 x 10<sup>-3</sup></value>
+	<uncer>0.000 31 x 10<sup>-3</sup></uncer>
+	<units>kg mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>tau-muon mass ratio</name>
+	<symbol></symbol>
+	<value>16.8183</value>
+	<uncer>0.0027</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>tau-neutron mass ratio</name>
+	<symbol></symbol>
+	<value>1.891 29</value>
+	<uncer>0.000 31</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>tau-proton mass ratio</name>
+	<symbol></symbol>
+	<value>1.893 90</value>
+	<uncer>0.000 31</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>Thomson cross section</name>
+	<symbol></symbol>
+	<value>0.665 245 8558 x 10<sup>-28</sup></value>
+	<uncer>0.000 000 0027 x 10<sup>-28</sup></uncer>
+	<units>m<sup>2</sup></units>
+</constant>
+ 
+<constant>
+	<name>triton-electron mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-1.620 514 423 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 021 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>triton-electron mass ratio</name>
+	<symbol></symbol>
+	<value>5496.921 5269</value>
+	<uncer>0.000 0051</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>triton g factor</name>
+	<symbol></symbol>
+	<value>5.957 924 896</value>
+	<uncer>0.000 000 076</uncer>
+	<units></units>
+</constant>
+ 
+<constant>
+	<name>triton mag. mom.</name>
+	<symbol></symbol>
+	<value>1.504 609 361 x 10<sup>-26</sup></value>
+	<uncer>0.000 000 042 x 10<sup>-26</sup></uncer>
+	<units>J T<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>triton mag. mom. to Bohr magneton ratio</name>
+	<symbol></symbol>
+	<value>1.622 393 657 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 021 x 10<sup>-3</sup></uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>triton mag. mom. to nuclear magneton ratio</name>
+	<symbol></symbol>
+	<value>2.978 962 448</value>
+	<uncer>0.000 000 038</uncer>
+	<units></units>
+</constant>
+
+<constant>
+	<name>triton mass</name>
+	<symbol></symbol>
+	<value>5.007 355 88 x 10<sup>-27</sup></value>
+	<uncer>0.000 000 25 x 10<sup>-27</sup></uncer>
+	<units>kg</units>
+</constant>
+
+<constant>
+	<name>triton mass energy equivalent</name>
+	<symbol></symbol>
+	<value>4.500 387 03 x 10<sup>-10</sup></value>
+	<uncer>0.000 000 22 x 10<sup>-10</sup></uncer>
+	<units>J</units>
+</constant>
+
+<constant>
+	<name>triton mass energy equivalent in MeV</name>
+	<symbol></symbol>
+	<value>2808.920 906</value>
+	<uncer>0.000 070</uncer>
+	<units>MeV</units>
+</constant>
+
+<constant>
+	<name>triton mass in u </name>
+	<symbol></symbol>
+	<value>3.015 500 7134</value>
+	<uncer>0.000 000 0025</uncer>
+	<units>u</units>
+</constant>
+
+<constant>
+	<name>triton molar mass</name>
+	<symbol></symbol>
+	<value>3.015 500 7134 x 10<sup>-3</sup></value>
+	<uncer>0.000 000 0025 x 10<sup>-3</sup></uncer>
+	<units>kg mol<sup>-1</sup></units>
+</constant>
+
+<constant>
+	<name>triton-neutron mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>-1.557 185 53</value>
+	<uncer>0.000 000 37</uncer>
+	<units></units>
+</constant> 
+
+<constant>
+	<name>triton-proton mag. mom. ratio</name>
+	<symbol></symbol>
+	<value>1.066 639 908</value>
+	<uncer>0.000 000 010</uncer>
+	<units></units>
+</constant> 
+
+<constant>
+	<name>triton-proton mass ratio</name>
+	<symbol></symbol>
+	<value>2.993 717 0309</value>
+	<uncer>0.000 000 0025</uncer>
+	<units></units>
+</constant> 
+
+<constant>
+	<name>unified atomic mass unit</name>
+	<symbol></symbol>
+	<value>1.660 538 782 x 10<sup>-27</sup></value>
+	<uncer>0.000 000 083 x 10<sup>-27</sup></uncer>
+	<units>kg</units>
+</constant> 
+
+<constant>
+	<name>von Klitzing constant </name>
+	<symbol></symbol>
+	<value>25 812.807 557</value>
+	<uncer>0.000 018</uncer>
+	<units>ohm</units>
+</constant>  
+
+<constant>
+	<name>weak mixing angle</name>
+	<symbol></symbol>
+	<value>0.222 55</value>
+	<uncer>0.000 56</uncer>
+	<units></units>
+</constant>  
+
+<constant>
+	<name>Wien frequency displacement law constant</name>
+	<symbol></symbol>
+	<value>5.878 933 x 10<sup>10</sup></value>
+	<uncer>0.000 010 x 10<sup>10</sup></uncer>
+	<units>Hz K<sup>-1</sup></units>
+</constant>  
+
+<constant>
+	<name>Wien wavelength displacement law constant</name>
+	<symbol></symbol>
+	<value>2.897 7685 x 10<sup>-3</sup></value>
+	<uncer>0.000 0051 x 10<sup>-3</sup></uncer>
+	<units>m K</units>
+</constant>
+
+</constants>
