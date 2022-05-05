@@ -1,0 +1,179 @@
+procedure TfrmMain.timer3DTimer(Sender: TObject);
+ var
+  x,t,z : integer;
+
+ begin
+  Bmpmano.Canvas.FillRect(Rect(0,0, 466, 466));
+
+  for t:=1 to 64 do begin
+    oldint[1]:=cube[t,1];
+    oldint[2]:=cube[t,2];
+    oldint[3]:=cube[t,3];
+
+    //rotate in X
+    cube[t, 2] := (costable[1] * cube[t, 2]) - (sintable[1] * cube[t, 3]);
+    cube[t, 3] := (sintable[1] * oldint[2]) + (costable[1] * cube[t, 3]);
+
+    //rotate in y
+    cube[t, 1] := (costable[5] * cube[t, 1]) - (sintable[5] * cube[t, 3]);
+    cube[t, 3] := (sintable[5] * oldint[1]) + (costable[5] * cube[t, 3]);
+
+    //convert to 2d plane
+    cubex[t,1]:=Round(((Cube[t,1]*512)/(Cube[t,3]+1200)) + 233); //466/2
+    cubex[t,2]:=Round(((Cube[t,2]*512)/(Cube[t,3]+1200)) + 233); //466/2
+
+    ZOrder[t]:=0;
+  end;
+
+  // sort z order
+  for t:=1 to 64 do begin
+    for z:=64 downto 1 do begin
+      if cube[t,3]>=cube[ZOrder[z],3] then x:=z;
+    end;
+
+    if x<>64 then begin
+      for z:=64 downto x+1 do begin
+        ZOrder[z]:=ZOrder[z-1];
+      end;
+    end;
+    ZOrder[x]:=t;
+  end;
+
+  //draw the lines
+  for t:=1 to 64 do
+    ilIcons.Draw(Bmpmano.Canvas, cubex[ZOrder[t],1], cubex[ZOrder[t],2], 10);
+
+  pb3D.Canvas.CopyRect(Rect(0,0,466,466), Bmpmano.canvas, Rect(0,0,466,466));
+end;
+
+procedure TfrmMain.DrawCrystal;
+ var
+  x,t,z : integer;
+
+ begin
+  Bmpmano.Canvas.FillRect(Rect(0,0, 466, 466));
+
+  for t:=1 to 64 do begin
+    oldint[1]:=cube[t,1];
+    oldint[2]:=cube[t,2];
+    oldint[3]:=cube[t,3];
+
+    //rotate in X
+    cube[t, 2] := (costable[XAng] * cube[t, 2]) - (sintable[XAng] * cube[t, 3]);
+    cube[t, 3] := (sintable[XAng] * oldint[2]) + (costable[XAng] * cube[t, 3]);
+
+    //rotate in y
+  //  cube[t, 1] := (costable[YAng] * cube[t, 1]) - (sintable[YAng] * cube[t, 3]);
+  //  cube[t, 3] := (sintable[YAng] * oldint[1]) + (costable[YAng] * cube[t, 3]);
+
+    //convert to 2d plane
+    cubex[t,1]:=Round(((Cube[t,1]*512)/(Cube[t,3]+1200)) + 233); //466/2
+    cubex[t,2]:=Round(((Cube[t,2]*512)/(Cube[t,3]+1200)) + 233); //466/2
+
+    ZOrder[t]:=0;
+  end;
+
+  // sort z order
+  for t:=1 to 64 do begin
+    for z:=64 downto 1 do begin
+      if cube[t,3]>=cube[ZOrder[z],3] then x:=z;
+    end;
+
+    if x<>64 then begin
+      for z:=64 downto x+1 do begin
+        ZOrder[z]:=ZOrder[z-1];
+      end;
+    end;
+    ZOrder[x]:=t;
+  end;
+
+  //draw the lines
+  for t:=1 to 64 do
+    ilIcons.Draw(Bmpmano.Canvas, cubex[ZOrder[t],1], cubex[ZOrder[t],2], 10);
+
+  pb3D.Canvas.CopyRect(Rect(0,0,466,466), Bmpmano.canvas, Rect(0,0,466,466));
+end;
+
+procedure TfrmMain.BuildCrystal(anglea,angleb,anglec : double);
+ var
+  t : integer;
+
+ begin
+  // generate crystal matrix from input angles
+  for t:=1 to 4 do begin
+    cube[t,1]:=-120;
+    cube[t,2]:=-120;
+    cube[t,3]:=-t*80;
+  end;
+
+  for t:=1 to 4 do begin
+    cube[t+4,1]:=cube[t,1]+80/(costable[20]);
+    cube[t+4,2]:=cube[t,2];
+    cube[t+4,3]:=cube[t,3]+80*sintable[20];
+  end;
+
+  for t:=1 to 4 do begin
+    cube[t+8,1]:=cube[t+4,1]+80/(costable[20]);
+    cube[t+8,2]:=cube[t+4,2];
+    cube[t+8,3]:=cube[t+4,3]+80*sintable[20];
+  end;
+
+  for t:=1 to 4 do begin
+    cube[t+12,1]:=cube[t+8,1]+80/(costable[20]);
+    cube[t+12,2]:=cube[t+8,2];
+    cube[t+12,3]:=cube[t+8,3]+80*sintable[20];
+  end;
+
+  for t:=17 to 32 do begin
+    cube[t,1]:=cube[t-16,1]+80/(costable[20]);
+    cube[t,2]:=cube[t-16,2]+80;
+    cube[t,3]:=cube[t-16,3]+80*sintable[20];
+  end;
+
+  for t:=33 to 48 do begin
+    cube[t,1]:=cube[t-16,1]+80/(costable[20]);
+    cube[t,2]:=cube[t-16,2]+80;
+    cube[t,3]:=cube[t-16,3]+80*sintable[20];
+  end;
+
+  for t:=49 to 64 do begin
+    cube[t,1]:=cube[t-16,1]+80/(costable[20]);
+    cube[t,2]:=cube[t-16,2]+80;
+    cube[t,3]:=cube[t-16,3]+80*sintable[20];
+  end;
+end;
+
+procedure TfrmMain.BitBtn1Click(Sender: TObject);
+ begin
+  BuildCrystal(70.52, 70.52, 70.52);
+  DrawCrystal;
+  //timer3d.Enabled:=True;
+end;
+
+procedure TfrmMain.pb3DMouseMove(Sender: TObject; Shift: TShiftState; X,
+  Y: Integer);
+ begin
+  if moving = 0 then exit;
+  IF moving = 1 Then
+  if x<prevx then xang:=1;
+  if y<prevy then yang:=1;
+//  else Zang := Zang+(x+y-prevx-prevy) * (360 div 466);
+  prevx := x;
+  prevy := y;
+
+  DrawCrystal;
+end;
+
+procedure TfrmMain.pb3DMouseDown(Sender: TObject; Button: TMouseButton;
+  Shift: TShiftState; X, Y: Integer);
+ begin
+  IF Button = mbRight then moving := 2 else moving := 1;
+   prevx := x;
+   prevy := y;
+end;
+
+procedure TfrmMain.pb3DMouseUp(Sender: TObject; Button: TMouseButton;
+  Shift: TShiftState; X, Y: Integer);
+begin
+ moving := 0;
+end;
