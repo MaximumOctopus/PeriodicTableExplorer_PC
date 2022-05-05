@@ -1,0 +1,1530 @@
+<?xml version="1.0"?>
+<!DOCTYPE xsl:stylesheet [<!ENTITY nbsp "&#160;"> <!ENTITY degree "&#176;"> <!ENTITY uuml "&#252;"> ]>
+
+<!-- 
+
+  (C) Paul Alan Freshney 2007, May 2nd 2007 [1512]
+
+<element>
+ 	<an>2</an>
+	<name allotrope="n" spectra="y">Helium</name>
+	<isolation>
+		<method title="">
+		</method>
+		<method title="">
+		</method>
+	</isolation>
+</element>
+
+-->
+
+<isolationlist>
+
+<element media="y" index="001" type="3">
+	<an>1</an>
+	<name allotrope="n" spectra="y">Hydrogen</name>
+	<notes>
+		<ptxt>H<sub>2</sub> is produced in chemistry and biology laboratories, often as a by-product of other reactions.</ptxt>
+	</notes>
+	<isolation>
+		<method title="Laboratory syntheses">
+			<ptxt>In the laboratory, H<sub>2</sub> is usually prepared by the reaction of acids on metals such as zinc.</ptxt>
+			<ptxt>Zn + 2H<sup>+</sup> <img type="arrow"/> Zn<sup>2+</sup> + H<sub>2</sub></ptxt>
+			<ptxt>Aluminum produces H<sub>2</sub> upon treatment with acids but also with base:</ptxt>
+			<ptxt>2Al + 6H<sub>2</sub>O <img type="arrow"/> 2Al(OH)<sub>3</sub> + 3H<sub>2</sub> </ptxt>
+			<ptxt>The electrolysis of water is a simple method of producing hydrogen, although the resulting hydrogen necessarily has less energy content than was required to produce it. A low voltage current is run through the water, and gaseous <elink ref="8">oxygen</elink> forms at the <glink ref="anode">anode</glink> while gaseous hydrogen forms at the <glink ref="cathode">cathode</glink>. Typically the <glink ref="cathode">cathode</glink> is made from platinum or another inert metal when producing hydrogen for storage. If, however, the gas is to be burnt on site, <elink ref="8">oxygen</elink> is desirable to assist the combustion, and so both electrodes would be made from inert metals. (<elink ref="26">Iron</elink>, for instance, would oxidize, and thus decrease the amount of oxygen given off.)</ptxt>
+			<ptxt>2H<sub>2</sub>O<sub>(aq)</sub> <img type="arrow"/> 2H<sub>2(g)</sub> + O<sub>2(g)</sub> </ptxt>
+		</method>
+		<method title="Industrial syntheses">
+			<ptxt><elink ref="1">Hydrogen</elink> can be prepared in several different ways but the economically most important processes involve removal of hydrogen from hydrocarbons. Commercial bulk hydrogen is usually produced by the steam reforming of natural gas. At high temperatures (700 - 1100&degree;C), steam (water vapour) reacts with methane (CH<sub>4</sub>) to yield <elink ref="6">carbon</elink> monoxide (CO) and H<sub>2</sub>.</ptxt>
+			<ptxt>CH<sub>4</sub> + H<sub>2</sub>O <img type="arrow"/> CO + 3H<sub>2</sub></ptxt>
+			<ptxt></ptxt>
+			<ptxt>CH<sub>4</sub> <img type="arrow"/> C + 2H<sub>2</sub></ptxt>
+			<ptxt></ptxt>
+			<ptxt></ptxt>
+			<ptxt>CO + H<sub>2</sub>O <img type="arrow"/> CO<sub>2</sub> + H<sub>2</sub> </ptxt>
+			<ptxt></ptxt>
+			<ptxt>CH<sub>4</sub> + 0.5O<sub>2</sub> <img type="arrow"/> CO + 2H<sub>2</sub> </ptxt>
+			<ptxt></ptxt>
+			<ptxt>C + H<sub>2</sub>O <img type="arrow"/> CO + H<sub>2</sub></ptxt>
+			<ptxt>Hydrogen is sometimes produced and consumed in the same industrial process, without being separated. In the Haber process for the production of ammonia (the world's fifth most produced industrial compound), hydrogen is generated from natural gas.</ptxt>
+			<ptxt>Hydrogen is also produced in usable quantities as a co-product of the major petrochemical processes of steam cracking and reforming. Electrolysis of brine to yield <elink ref="17">chlorine</elink> also produces hydrogen as a co-product.</ptxt>
+		</method>
+		<method title="Biological syntheses">
+			<ptxt>H<sub>2</sub> is a product of some types of anaerobic metabolism and is produced by several micro-organisms, usually via reactions catalyzed by <elink ref="26">iron</elink>- or <elink ref="28">nickel</elink>-containing enzymes called hydrogenases. These enzymes catalyze the reversible redox reaction between H<sub>2</sub> and its component two <elink ref="proton">protons</elink> and two <glink ref="electron">electrons</glink>. Evolution of <elink ref="1">hydrogen</elink> gas occurs in the transfer of reducing equivalents produced during pyruvate fermentation to water.</ptxt>
+			<ptxt>Water splitting, in which water is decomposed into its component <glink ref="proton">protons</glink>, <glink ref="electron">electrons</glink>, and <elink ref="8">oxygen</elink>, occurs in the light reactions in all photosynthetic organisms. Some such organisms - including the alga Chlamydomonas reinhardtii and cyanobacteria - have evolved a second step in the dark reactions in which protons and electrons are reduced to form H<sub>2</sub> gas by specialized hydrogenases in the chloroplast. Efforts have been undertaken to genetically modify cyanobacterial hydrogenases to efficiently synthesize H<sub>2</sub> gas even in the presence of <elink ref="8">oxygen</elink>.</ptxt>
+			<ptxt>Other rarer but mechanistically interesting routes to H<sub>2</sub> production also exist in nature. Nitrogenase produces approximately one equivalent of H<sub>2</sub> for each equivalent of N<sub>2</sub> reduced to ammonia. Some phosphatases reduce phosphite to H<sub>2</sub>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="002" type="7">
+	<an>2</an>
+	<name allotrope="n" spectra="y">Helium</name>
+	<isolation>
+		<method title="Natural Abundance">
+			<ptxt>Helium is the second most abundant element in the known Universe after <elink ref="1">hydrogen</elink> and constitutes 23% of the elemental mass of the universe. It is concentrated in stars, where it is formed from <elink ref="1">hydrogen</elink> by the nuclear fusion of the proton-proton chain reaction and CNO cycle. According to the Big Bang model of the early development of the universe, the vast majority of helium was formed during Big Bang nucleosynthesis, from one to three minutes after the Big Bang. As such, measurements of its abundance contribute to cosmological models.</ptxt>
+			<ptxt>In the Earth's atmosphere, the concentration of helium by volume is only 5.2 parts per million, largely because most helium in the Earth's atmosphere escapes into space due to its inertness and low mass. In the Earth's heterosphere, a part of the upper atmosphere, helium and other lighter gases are the most abundant elements.</ptxt>
+			<ptxt>Nearly all helium on Earth is a result of radioactive decay. The decay product is primarily found in minerals of <elink ref="92">uranium</elink> and <elink ref="90">thorium</elink>, including cleveites, pitchblende, carnotite, monazite and beryl, because they emit alpha particles, which consist of helium <glink ref="nucleus">nuclei</glink> (He<sup>2+</sup>) to which <glink ref="electron">electrons</glink> readily combine. In this way an estimated 3.4 litres of helium per year are generated per cubic kilometer of the Earth's crust. In the Earth's crust, the concentration of helium is 8 parts per billion. In seawater, the concentration is only 4 parts per trillion. There are also small amounts in mineral springs, volcanic gas, and meteoric <elink ref="26">iron</elink>. The greatest concentrations on the planet are in natural gas, from which most commercial helium is derived.</ptxt>
+		</method>
+		<method title="Modern Extraction">
+			<ptxt>For large-scale use, helium is extracted by fractional distillation from natural gas, which contains up to 7% helium. Since helium has a lower <glink ref="bp">boiling point</glink> than any other element, low temperature and high pressure are used to liquefy nearly all the other gases (mostly <elink ref="7">nitrogen</elink> and methane). The resulting crude helium gas is purified by successive exposures to lowering temperatures, in which almost all of the remaining <elink ref="7">nitrogen</elink> and other gases are precipitated out of the gaseous mixture. Activated charcoal is used as a final purification step, usually resulting in 99.995% pure, Grade-A, helium. The principal impurity in Grade-A helium is <elink ref="10">neon</elink>.</ptxt>
+			<ptxt>As of 2004, over one hundred and fifty million cubic metres of helium were extracted from natural gas or withdrawn from helium reserves, annually, with approximately 84% of production from the <slink ref="US">United States</slink>, 10% from Algeria, and most of the remainder from <slink ref="CA">Canada</slink>, <slink ref="CN">China</slink>, <slink ref="PO">Poland</slink>, <slink ref="QA">Qatar</slink>, and <slink ref="RU">Russia</slink>. In the <slink ref="US">United States</slink>, most helium is produced in Kansas and Texas.</ptxt>
+			<ptxt>Diffusion of crude natural gas through special semi-permeable membranes and other barriers is another method to recover and purify helium. Helium can be synthesized by bombardment of <elink ref="3">lithium</elink> or <elink ref="5">boron</elink> with high-velocity <glink ref="proton">protons</glink>, but this is not an economically viable method of production.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="003" type="1">
+	<an>3</an>
+	<name allotrope="n" spectra="y">Lithium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>On Earth, lithium is widely distributed, but because of its reactivity does not occur in its free form. In keeping with the origin of its name, lithium forms a minor part of almost all igneous rocks and is also found in many natural brines. Lithium is the thirty-first most abundant element, contained particularly in the minerals spodumene (LiAl(SiO<sub>3</sub>)<sub>2</sub>), lepidolite ((KLi<sub>2</sub>Al(Al,Si)<sub>3</sub>O<sub>10</sub>(F,OH)<sub>2</sub>), petalite (LiAlSi<sub>4</sub>O<sub>10</sub>), and amblygonite ((Li,Na)AlPO<sub>4</sub>(F,OH)). On average, Earth's crust contains 65 parts per million (ppm) lithium.</ptxt>
+			<ptxt>Since the end of World War II, lithium metal production has greatly increased. The metal is separated from other elements in igneous mineral such as those above, and is also extracted from the water of mineral springs.</ptxt>
+			<ptxt>The metal is produced electrolytically from a mixture of fused lithium and <elink ref="19">potassium</elink> chloride. In 1998 it was about US$ 43 per pound ($95 per kg).</ptxt>
+			<ptxt><slink ref="CL">Chile</slink> is currently the leading lithium metal producer in the world, with Argentina next. Both countries recover the lithium from brine pools. In the <slink ref="US">United States</slink> lithium is similarly recovered from brine pools in Nevada.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="004" type="4">
+	<an>4</an>
+	<name allotrope="n" spectra="y">Beryllium</name>
+	<isolation>
+		<method title="Natural Abundance">
+			<ptxt>Beryllium is an essential constituent of about 100 out of about 4000 known minerals, the most important of which are bertrandite (Be<sub>4</sub>Si<sub>2</sub>O<sub>7</sub>(OH)<sub>2</sub>), beryl (Al<sub>2</sub>Be<sub>3</sub>Si<sub>6</sub>O<sub>18</sub>), chrysoberyl (Al<sub>2</sub>BeO<sub>4</sub>), and phenakite (Be<sub>2</sub>SiO<sub>4</sub>). Precious forms of beryl are aquamarine and emerald.</ptxt>
+			<ptxt>The most important commercial sources of beryllium and its compounds are beryl and bertrandite. Beryllium metal did not become readily available until 1957. Currently, most production of this metal is accomplished by reducing beryllium fluoride with <elink ref="12">magnesium</elink> metal. The price on the US market for vacuum-cast beryllium ingots was 338 US$ per pound ($745/kg) in 2001.</ptxt>
+			<ptxt>BeF<sub>2</sub> + Mg <img type="arrow"/> MgF<sub>2</sub> + Be</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="005" type="0">
+	<an>5</an>
+	<name allotrope="y">Boron</name>
+	<isolation>
+		<method title="Natural Abundance">
+			<ptxt><slink ref="TR">Turkey</slink> and the <slink ref="US">United States</slink> are the world's largest producers of boron. <slink ref="TR">Turkey</slink> has almost 63% of the world's boron potential and boron reserves. Boron does not appear in nature in elemental form but is found combined in borax, boric acid, colemanite, kernite, ulexite and borates. Boric acid is sometimes found in volcanic spring waters. Ulexite is a borate mineral that naturally has properties of fiber optics.</ptxt>
+			<ptxt>Economically important sources are from the ore rasorite (kernite) and tincal (borax ore) which are both found in the Mojave Desert of California, with borax being the most important source there. The largest borax deposits are found in Central and Western <slink ref="TR">Turkey</slink> including the provinces of Eskisehir, Kutahya and Balikesir.</ptxt>
+			<ptxt>Even a boron-containing natural antibiotic, boromycin, isolated from streptomyces, is known.</ptxt>
+			<ptxt>Pure elemental boron is not easy to prepare. The earliest methods used involve reduction of boric oxide with metals such as <elink ref="12">magnesium</elink> or <elink ref="13">aluminium</elink>. However the product is almost always contaminated with metal borides. (The reaction is quite spectacular though). Pure boron can be prepared by reducing volatile boron halogenides with <elink ref="1">hydrogen</elink> at high temperatures. The highly pure boron, for the use in semiconductor industry, is produced by the decomposition of diborane at high temperatures and then further purified with the Czochralski process.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="006" type="3">
+	<an>6</an>
+	<name allotrope="y">Carbon</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Carbon is the fourth most abundant chemical element in the universe by mass, after <elink ref="1">hydrogen</elink>, <elink ref="2">helium</elink>, and <elink ref="8">oxygen</elink>. Carbon is abundant in the Sun, stars, comets, and in the atmospheres of most planets. Some meteorites contain microscopic diamonds that were formed when the solar system was still a protoplanetary disk. In combination with other elements, carbon is found in the Earth's atmosphere (around 810 gigatonnes) and dissolved in all water bodies (around 36000 gigatonnes). Around 1900 gigatonnes are present in the biosphere. Hydrocarbons (such as coal, petroleum, and natural gas) contain carbon as well - coal "resources" amount to around 1000 gigatonnes, and oil reserves around 150 gigatonnes. With smaller amounts of <elink ref="20">calcium</elink>, <elink ref="12">magnesium</elink>, and <elink ref="26">iron</elink>, carbon is a major component of very large masses carbonate rock (limestone, dolomite (CaMg(CO<sub>3</sub>)<sub>2</sub>), marble etc.).</ptxt>
+			<ptxt>Graphite is found in large quantities in New York and Texas, the <slink ref="US">United States</slink>; <slink ref="RU">Russia</slink>; <slink ref="MX">Mexico</slink>; <slink ref="GL">Greenland</slink> and <slink ref="IN">India</slink>.</ptxt>
+			<ptxt>Natural diamonds occur in the mineral kimberlite found in ancient volcanic "necks," or "pipes". Most diamond deposits are in Africa, notably in <slink ref="ZA">South Africa</slink>, <slink ref="NA">Namibia</slink>, <slink ref="BW">Botswana</slink>, the <slink ref="CD">Republic of the Congo</slink> and <slink ref="SL">Sierra Leone</slink>. There are also deposits in Arkansas, <slink ref="CA">Canada</slink>, the Russian Arctic, <slink ref="BR">Brazil</slink> and in Northern and Western <slink ref="AU">Australia</slink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="007" type="3">
+	<an>7</an>
+	<name allotrope="n" spectra="y">Nitrogen</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Nitrogen is the largest single component of the Earth's atmosphere (78.082% by volume of dry air, 75.3% by weight in dry air).</ptxt>
+			<ptxt><sup>14</sup>N is created as part of the fusion processes in stars, and is estimated to be the 7th most abundant chemical element (by mass) in our universe.</ptxt>
+			<ptxt>Compounds that contain this element have been observed by astronomers, and molecular nitrogen has been detected in interstellar space by David Knauth and coworkers using the Far Ultraviolet Spectroscopic Explorer. Molecular nitrogen is a major constituent of Titan's thick atmosphere, and occurs in trace amounts of other planetary atmospheres.</ptxt>
+			<ptxt>Nitrogen is present in all living tissues as proteins, nucleic acids and other molecules. It is a large component of animal waste (for example, guano), usually in the form of urea, uric acid, and compounds of these nitrogenous products.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="008" type="3">
+	<an>8</an>
+	<name allotrope="y">Oxygen</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>In nature, free oxygen is produced by the light-driven splitting of water during oxygenic photosynthesis in cyanobacteria, green algae and plants. Algae produce about 73 to 87 percent of the net global production of oxygen, which makes it available to humans and other animals for respiration. Another major source of oxygen is trees. Trees can absorb carbon dioxide at the rate of 26 pounds per year - especially young trees that are still growing - while releasing oxygen into the air.</ptxt>
+			<ptxt>In the laboratory and industrially, oxygen can be produced through electrolysis of water into oxygen and <elink ref="1">hydrogen</elink>. A similar method is the electrocatalytic oxygen evolution from oxides and oxoacids. Chemical catalysts can be used as well, such as in chemical oxygen generators or oxygen candles that are used as part of the life support equipment on spacecraft and submarines.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="009" type="6">
+	<an>9</an>
+	<name allotrope="n" spectra="y">Fluorine</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Fluorine in the form of fluorspar (also called fluorite) (<elink ref="20">calcium</elink> fluoride) was described in 1530 by Georgius Agricola for its use as a flux, which is a substance that is used to promote the fusion of metals or minerals. In 1670 Schwanhard found that glass was etched when it was exposed to fluorspar that was treated with acid. <blink ref="kws">Karl Wilhelm Scheele</blink> and many later researchers, including <blink ref="shd">Humphry Davy</blink>, Gay-Lussac, Antoine Lavoisier, and Louis Thenard all would experiment with hydrofluoric acid, easily obtained by treating <elink ref="20">calcium</elink> fluoride (fluorspar) with concentrated sulfuric acid.</ptxt>
+			<ptxt>It was eventually realized that hydrofluoric acid contained a previously unknown element. This element was not isolated for many years after this, due to its extreme reactivity; fluorine can only be prepared from its compounds electrolytically, and then it immediately attacks any susceptible materials in the area. Finally, in 1886, elemental fluorine was isolated by Henri Moissan after almost 74 years of continuous effort by other chemists. It was an effort which cost several researchers their health or even their lives. The derivation of elemental fluorine from hydrofluoric acid is exceptionally dangerous, killing or blinding several scientists who attempted early experiments on this <glink ref="halogens">halogen</glink>. These men came to be referred to as "fluorine martyrs." For Moissan, it earned him the 1906 Nobel Prize in chemistry (Moissan himself lived to be 54, and it is not clear whether his fluorine work shortened his life).</ptxt>
+			<ptxt>The first large-scale production of fluorine was needed for the atomic bomb Manhattan project in World War II where the compound <elink ref="92">uranium</elink> hexafluoride (UF<sub>6</sub>) was needed as a gaseous carrier of <elink ref="92">uranium</elink> to separate the <sup>235</sup>U and <sup>238</sup>U <glink ref="isotope">isotopes</glink> of <elink ref="92">uranium</elink>. Today both the gaseous diffusion process and the gas centrifuge process use gaseous UF<sub>6</sub> to produce enriched <elink ref="92">uranium</elink> for nuclear power applications. In the Manhattan Project, it was found that elemental fluorine was present whenever UF<sub>6</sub> was, due to the spontaneous decomposition of this compound into UF<sub>4</sub> and F<sub>2</sub>. The corrosion problem due to the F<sub>2</sub> was eventually solved by electrolytically coating all UF<sub>6</sub> carrying piping with <elink ref="28">nickel</elink> metal, which resists fluorine's attack. Joints and flexible parts were made from Teflon, then a very recently-discovered fluorine-containing plastic which was not attacked by F<sub>2</sub>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="010" type="7">
+	<an>10</an>
+	<name allotrope="n" spectra="y">Neon</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Neon is actually abundant on a universal scale: the fifth most abundant chemical element in the universe by mass, after <elink ref="1">hydrogen</elink>, <elink ref="2">helium</elink>, <elink ref="8">oxygen</elink>, and <elink ref="6">carbon</elink>. Its relative rarity on Earth, like that of helium, is due to its relative lightness and chemical inertness, both properties keeping it from being trapped in the condensing gas and dust clouds of the formation of smaller and warmer solid planets like Earth. Mass abundance in the universe is about 1 part in 750 and in the Sun and presumably in the proto-solar system nebula, about 1 part in 600. The Galileo spacecraft atmospheric entry probe found that even in the upper atmosphere of Jupiter, neon is reduced by about a factor of 10, to 1 part in 6,000 by mass. This may indicate that even the ice-planetesmals which brought neon into Jupiter from the outer solar system, formed in a region which was too warm for them to have kept their neon (abundances of heavier inert gases on Jupiter are several times that found in the Sun).</ptxt>
+			<ptxt>Neon is a monatomic gas at standard conditions. Neon is rare on Earth, found in the Earth's atmosphere at 1 part in 65,000 (by volume) or 1 part in 83,000 by mass. It is industrially produced by cryogenic fractional distillation of liquefied air</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+<element media="y" index="011" type="1">
+	<an>11</an>
+	<name allotrope="n" spectra="y">Sodium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>At the end of the 19th century, sodium was chemically prepared by heating sodium carbonate with <elink ref="6">carbon</elink> to 1100&degree;C.</ptxt>
+			<ptxt>Na<sub>2</sub>CO<sub>3 (liquid)</sub> + 2C<sub>(solid, coke)</sub> <img type="arrow"/> 2Na<sub></sub>(vapour) + 3CO<sub>(gas)</sub></ptxt>
+			<ptxt>It is now produced commercially through the electrolysis of liquid sodium chloride. This is done in a Downs Cell in which the NaCl is mixed with calcium chloride to lower the melting point below 700&degree;C. As <elink ref="20">calcium</elink> is less electronegative than sodium, no <elink ref="20">calcium</elink> will be formed at the <glink ref="cathode">cathode</glink>. This method is less expensive than the previous Castner process of electrolyzing sodium hydroxide.</ptxt>
+			<ptxt>Very pure sodium can be isolated by thermal decomposition of sodium azide (NaN<sub>3</sub>).</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="012" type="4">
+	<an>12</an>
+	<name allotrope="n" spectra="y">Magnesium</name>
+	<isolation>
+		<method title="From the ground">
+			<ptxt>Although magnesium is found in over 60 minerals, but only dolomite (CaMg(CO<sub>3</sub>)<sub>2</sub>), magnesite (MgCO<sub>3</sub>), brucite (Mg(OH)<sub>2</sub>), carnallite (KMgCl<sub>3</sub>.6(H<sub>2</sub>O)), talc (Mg<sub>3</sub>Si<sub>4</sub>O<sub>10</sub>(OH)<sub>2</sub>), and olivine ((Mg,Fe)<sub>2</sub>SiO<sub>4</sub>) are of commercial importance.</ptxt>
+			<ptxt>In the <slink ref="US">United States</slink> this metal is principally obtained by electrolysis of fused magnesium chloride from brines, wells, and sea water:</ptxt>
+			<ptxt><glink ref="cathode">cathode</glink>: Mg<sup>2+</sup> + 2e<sup>-</sup> <img type="arrow"/> Mg</ptxt>
+			<ptxt><glink ref="anode">anode</glink>: 2Cl<sup>-</sup> <img type="arrow"/> Cl<sub>2(gas)</sub> + 2e<sup>-</sup></ptxt>
+			<ptxt>The <slink ref="US">United States</slink> has traditionally been the major world supplier of this metal, supplying 45% of world production even as recently as 1995. Today, the US market share is at 7%, with a single domestic producer left, US Magnesium, a company born from now-defunct Magcorp. As of 2005 <slink ref="CN">China</slink> has taken over as the dominant supplier, pegged at 60% world market share, which increased from 4% in 1995. Unlike the above described electrolytic process, <slink ref="CN">China</slink> is almost completely reliant on a different method of obtaining the metal from its ores, the silicothermic Pidgeon process (the reduction of the oxide at high temperatures with <elink ref="14">silicon</elink>).</ptxt>		
+		</method>
+		<method title="From the Sea">
+			<ptxt>Sea water contains magnesium salts, such as magnesium chloride. To extract the magnesium, <elink ref="20">calcium</elink> carbonate is added to sea water to form magnesium carbonate.</ptxt>
+			<ptxt>MgCl<sub>2</sub> + CaCO<sub>3</sub> <img type="arrow"/> MgCO<sub>3</sub> + CaCl<sub>2</sub></ptxt>
+			<ptxt>Magnesium carbonate is insoluble in water so it can be filtered out, and reacted with hydrochloric acid to obtain concentrated magnesium chloride.</ptxt>
+			<ptxt>MgCO<sub>3</sub> + 2HCl <img type="arrow"/> MgCl<sub>2</sub> + CO<sub>2</sub> + H<sub>2</sub>O</ptxt>
+			<ptxt>From magnesium chloride, electrolysis produces magnesium.</ptxt>
+		</method>		
+	</isolation>
+</element>
+
+<element media="y" index="013" type="5">
+	<an>13</an>
+	<name allotrope="n" spectra="y">Aluminium</name>
+	<isolation>
+		<method title="Metal production and refinement">
+			<ptxt>Although aluminium is the most abundant metallic element in Earth's crust (believed to be 7.5% to 8.1%), it is very rare in its free form, occurring in <elink ref="8">oxygen</elink>-deficient environments such as volcanic mud, and it was once considered a precious metal more valuable than <elink ref="79">gold</elink>. Napoleon III, Emperor of <slink ref="FR">France</slink>, is reputed to have given a banquet where the most honoured guests were given aluminium utensils, while the other guests had to make do with <elink ref="79">gold</elink> ones!</ptxt>
+			<ptxt>Aluminium is a reactive metal that is difficult to extract from ore, aluminium oxide (Al<sub>2</sub>O<sub>3</sub>). Direct reduction - with <elink ref="6">carbon</elink>, for example - is not economically viable since aluminium oxide has a melting point of about 2,000&degree;C. It is extracted by electrolysis; the aluminium oxide is dissolved in molten cryolite and then reduced to the pure metal. By this process, the operational temperature of the reduction cells is around 950 to 980&degree;C. Cryolite is found as a mineral in Greenland, but in industrial use it has been replaced by a synthetic substance. Cryolite is a mixture of aluminium, <elink ref="11">sodium</elink>, and <elink ref="20">calcium</elink> fluorides: (Na<sub>3</sub>AlF<sub>6</sub>). The aluminium oxide (a white powder) is obtained by refining bauxite in the Bayer process.</ptxt>
+			<ptxt>The electrolytic process replaced the Wohler process, which involved the reduction of anhydrous aluminium chloride with <elink ref="19">potassium</elink>. Both of the electrodes used in the electrolysis of aluminium oxide are <elink ref="6">carbon</elink>. Once the ore is in the molten state, its ions are free to move around. The reaction at the <glink ref="cathode">cathode</glink> - the negative terminal - is;</ptxt>
+			<ptxt>Al<sup>3+</sup> + 3e<sup>-</sup> <img type="arrow"/> Al</ptxt>
+			<ptxt>Here the aluminium <glink ref="ion">ion</glink> is being reduced (<glink ref="electron">electrons</glink> are added). The aluminium metal then sinks to the bottom and is tapped off.</ptxt>
+			<ptxt>At the positive electrode (<glink ref="anode">anode</glink>), <elink ref="8">oxygen</elink> is formed:</ptxt>
+			<ptxt>2O<sup>2-</sup> <img type="arrow"/> O<sub>2</sub> + 4e<sup>-</sup> </ptxt>
+			<ptxt>This <elink ref="6">carbon</elink> <glink ref="anode">anode</glink> is then oxidised by the <elink ref="8">oxygen</elink>, releasing carbon dioxide. The anodes in a reduction must therefore be replaced regularly, since they are consumed in the process:</ptxt>
+			<ptxt>O<sub>2</sub> + C <img type="arrow"/>CO<sub>2</sub></ptxt>
+			<ptxt>Unlike the anodes, the cathodes are not oxidised because there is no <elink ref="8">oxygen</elink> present at the cathode. The <elink ref="6">carbon</elink> cathode is protected by the liquid <elink ref="13">aluminium</elink> inside the cells. Nevertheless, cathodes do erode, mainly due to electrochemical processes. After five to ten years, depending on the current used in the electrolysis, a cell has to be rebuilt because of cathode wear.</ptxt>
+			<ptxt>Aluminium electrolysis with the Hall-Heroult process consumes a lot of energy, but alternative processes were always found to be less viable economically and/or ecologically. The world-wide average specific energy consumption is approximately 15 kilowatt-hours per kilogram of aluminium produced from alumina. (52 to 56 MJ/kg). The most modern smelters reach approximately 12.8 kWh/kg (46.1 MJ/kg). Reduction line current for older technologies are typically 100 to 200 kA. State-of-the-art smelters operate with about 350 kA. Trials have been reported with 500 kA cells.</ptxt>
+			<ptxt>Recovery of the metal via recycling has become an important facet of the aluminium industry. Recycling involves melting the scrap, a process that uses only five percent of the energy needed to produce aluminium from ore. Recycling was a low-profile activity until the late 1960s, when the growing use of aluminium beverage cans brought it to the public consciousness.</ptxt>
+			<ptxt>Electric power represents about 20% to 40% of the cost of producing aluminium, depending on the location of the smelter. Smelters tend to be situated where electric power is both plentiful and inexpensive, such as <slink ref="ZA">South Africa</slink>, the South Island of <slink ref="NZ">New Zealand</slink>, <slink ref="AU">Australia</slink>, <slink ref="CN">China</slink>, the Middle East, <slink ref="RU">Russia</slink>, Quebec and British Columbia in <slink ref="CA">Canada</slink>, and <slink ref="IS">Iceland</slink>.</ptxt>
+			<ptxt>In 2004, the People's Republic of <slink ref="CN">China</slink> was the top world producer of aluminium.</ptxt>
+			<ptxt>Over the last 50 years, <slink ref="AU">Australia</slink> has become a major producer of bauxite ore and a major producer and exporter of alumina. <slink ref="AU">Australia</slink> produced 62 million tonnes of bauxite in 2005. The Australian deposits have some refining problems, being high in silica but have the advantage of being shallow and relatively easy to mine.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="014" type="0">
+	<an>14</an>
+	<name allotrope="n" spectra="y">Silicon</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Measured by mass, silicon makes up 25.7% of the Earth's crust and is the second most abundant element on Earth, after <elink ref="8">oxygen</elink>. Pure silicon crystals are only occasionally found in nature; they can be found as inclusions with <elink ref="79">gold</elink> and in volcanic exhalations. Silicon is usually found in the form of silicon dioxide (also known as silica), and silicate.</ptxt>
+			<ptxt>Silica occurs in minerals consisting of (practically) pure silicon dioxide (SiO<sub>2</sub>) in different crystalline forms (quartz, chalcedony, opal). Sand, amethyst, agate, quartz, rock crystal, flint, jasper, and opal are some of the forms in which silicon dioxide appears. (They are known as "lithogenic", as opposed to "biogenic", silicas.)</ptxt>
+			<ptxt>Silicon also occurs as silicates (various minerals containing silicon, <elink ref="8">oxygen</elink> and one or another metal), for example feldspar. These minerals occur in clay, sand and various types of rock such as granite and sandstone. Asbestos, feldspar, clay, hornblende, and mica are a few of the many silicate minerals.</ptxt>
+			<ptxt>Silicon is a principal component of aerolites, which are a class of meteoroids, and also is a component of tektites, which are a natural form of glass.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="015" type="3">
+	<an>15</an>
+	<name allotrope="y">Phosphorous</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Due to its reactivity to air and many other <elink ref="8">oxygen</elink> containing substances, phosphorus is not found free in nature but it is widely distributed in many different minerals. Phosphate rock, which is partially made of apatite (an impure tri-calcium phosphate mineral), is an important commercial source of this element. Large deposits of apatite are located in <slink ref="CN">China</slink>, <slink ref="RU">Russia</slink>, <slink ref="MA">Morocco</slink>, Florida, Idaho, Tennessee, Utah, and elsewhere. Albright and Wilson in the <slink ref="GB">United Kingdom</slink> and their Niagara Falls plant, for instance, were using phosphate rock in the 1890s and 1900s from Connetable, Tennessee and Florida; however, by 1950 they were using phosphate rock mainly from Tennessee and North Africa. In the early 1990s Albright and Wilson's purified wet phosphoric acid business was being affected by phosphate rock sales by <slink ref="CN">China</slink> and the entry of their long standing Moroccan phosphate suppliers into the purified wet phosphoric acid business</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="016" type="3">
+	<an>16</an>
+	<name allotrope="y">Sulfur</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Elemental sulfur can be found near hot springs and volcanic regions in many parts of the world, especially along the Pacific Ring of Fire. Such volcanic deposits are currently mined in <slink ref="ID">Indonesia</slink>, <slink ref="CL">Chile</slink>, and <slink ref="JP">Japan</slink>. Sicily is also famous for its sulfur mines.</ptxt>
+			<ptxt>Significant deposits of elemental sulfur also exist in salt domes along the coast of the Gulf of Mexico, and in evaporites in eastern Europe and western Asia. The sulfur in these deposits is believed to come from the action of anaerobic bacteria on sulfate minerals, especially gypsum, although apparently native sulfur may be produced by geological processes alone, without the aid of living organisms. However, fossil-based sulfur deposits from salt domes are the basis for commercial production in the <slink ref="US">United States</slink>, <slink ref="PL">Poland</slink>, <slink ref="RU">Russia</slink>, <slink ref="TM">Turkmenistan</slink>, and <slink ref="UA">Ukraine</slink>.</ptxt>
+			<ptxt>Sulfur production through hydrodesulfurization of oil, gas, and the Athabasca Oil Sands has produced a surplus - huge stockpiles of sulfur now exist throughout Alberta, <slink ref="CA">Canada</slink>.</ptxt>
+			<ptxt>Common naturally occurring sulfur compounds include the sulfide minerals, such as pyrite (<elink ref="26">iron</elink> sulfide), cinnabar (<elink ref="80">mercury</elink> sulfide), galena (<elink ref="82">lead</elink> sulfide), sphalerite (<elink ref="30">zinc</elink> sulfide) and stibnite (<elink ref="51">antimony</elink> sulfide); and the sulfates, such as gypsum (<elink ref="20">calcium</elink> sulfate), alunite (<elink ref="19">potassium</elink> <elink ref="13">aluminium</elink> sulfate), and barite (<elink ref="56">barium</elink> sulfate). It occurs naturally in volcanic emissions, such as from hydrothermal vents, and from bacterial action on decaying sulfur-containing organic matter.</ptxt>
+			<ptxt>The distinctive colours of Jupiter's volcanic moon, Io, are from various forms of molten, solid and gaseous sulfur. There is also a dark area near the Lunar crater Aristarchus that may be a sulfur deposit. Sulfur is also present in many types of meteorites.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="017" type="6">
+	<an>17</an>
+	<name allotrope="n" spectra="y">Chlorine</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>In nature, chlorine is found mainly as the chloride <glink ref="ion">ion</glink>, a component of the salt that is deposited in the earth or dissolved in the oceans - about 1.9% of the mass of seawater is chloride <glink ref="ion">ions</glink>. Even higher concentrations of chloride are found in the Dead Sea and in underground brine deposits. Most chloride salts are soluble in water, thus, chloride-containing minerals are usually only found in abundance in dry climates or deep underground. Common chloride minerals include halite (<elink ref="11">sodium</elink> chloride), sylvite (<elink ref="19">potassium</elink> chloride), and carnallite (<elink ref="19">potassium</elink> <elink ref="12">magnesium</elink> chloride hexahydrate).</ptxt>
+			<ptxt>Industrially, elemental chlorine is usually produced by the electrolysis of sodium chloride dissolved in water. Along with chlorine, this chloralkali process yields <elink ref="1">hydrogen</elink> gas and sodium hydroxide, according to the chemical equation;</ptxt>
+			<ptxt>2NaCl + 2H<sub>2</sub>O <img type="arrow"/> Cl<sub>2</sub> + H<sub>2</sub> + 2NaOH</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="018" type="7">
+	<an>18</an>
+	<name allotrope="n" spectra="y">Argon</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Argon constitutes 0.934% by volume and 1.29% by mass of the Earth's atmosphere, and air is the primary raw material used by industry to produce purified argon products. Argon is isolated from air by fractionation, most commonly by cryogenic fractional distillation, a process that also produces purified <elink ref="7">nitrogen</elink>, <elink ref="8">oxygen</elink>, <elink ref="10">neon</elink>, <elink ref="36">krypton</elink> and <elink ref="54">xenon</elink>.</ptxt>
+		</method>	
+	</isolation>
+</element>
+
+<element media="y" index="019" type="1">
+	<an>19</an>
+	<name allotrope="n" spectra="y">Potassium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Potassium makes up about 1.5% of the weight of the Earth's crust and is the seventh most abundant element in it. As it is very electropositive, potassium metal is difficult to obtain from its minerals. It is never found free in nature. Potassium salts such as carnallite, langbeinite, polyhalite, and sylvite are found in ancient lake and sea beds. These minerals form extensive deposits in these environments, making extracting potassium and its salts more economical. The principal source of potassium, potash, is mined in Saskatchewan, California, <slink ref="DE">Germany</slink>, New Mexico, Utah, and in other places around the world. 3000 feet below the surface of Saskatchewan are large deposits of potash which are important sources of this element and its salts, with several large mines in operation since the 1960s. Saskatchewan pioneered the use of freezing of wet sands (the Blairmore formation) in order to drive mine shafts through them. The oceans are another source of potassium, but the quantity present in a given volume of seawater is relatively low compared with <elink ref="11">sodium</elink>.</ptxt>
+			<ptxt>Potassium can be isolated through electrolysis of its hydroxide in a process that has changed little since Davy. Thermal methods also are employed in potassium production, using potassium chloride.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="020" type="4">
+	<an>20</an>
+	<name allotrope="n" spectra="y">Calcium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Calcium is not naturally found in its elemental state. Calcium occurs most commonly in sedimentary rocks in the minerals calcite, dolomite (CaMg(CO<sub>3</sub>)<sub>2</sub>) and gypsum (CaSO<sub>4</sub>.2H<sub>2</sub>O). It occurs in igneous and metamorphic rocks chiefly in the silicate minerals: plagioclase, amphiboles, pyroxenes and garnets.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+<element media="y" index="021" type="2">
+	<an>21</an>
+	<name allotrope="n" spectra="y">Scandium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Scandium is distributed sparsely on earth, occurring only as trace quantities in many minerals. Rare minerals from Scandinavia and <slink ref="MG">Madagascar</slink>, such as thortveitite, euxenite, and gadolinite are the only known concentrated sources of this element (which is never found as a free metal). It is also found in residues that remain after <elink ref="74">tungsten</elink> is extracted from wolframite, and from ores after <elink ref="92">uranium</elink> and <elink ref="90">thorium</elink> have been extracted.</ptxt>
+			<ptxt>Scandium is more common in the sun and certain stars than on Earth. Scandium is only the 50th most common element on earth (35th most abundant in the Earth's crust), but it is the 23rd most common element in the sun.</ptxt>
+			<ptxt>The blue colour of the aquamarine variety of beryl is thought to be caused by scandium impurities in it.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="022" type="2">
+	<an>22</an>
+	<name allotrope="n" spectra="y">Titanium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Titanium is always bonded to other elements in nature. It is the ninth-most abundant element in the Earth's crust (0.63% by mass) and the seventh-most abundant metal. It is present in most igneous rocks and in sediments derived from them (as well as in living things and natural bodies of water). In fact, of the 801 types of igneous rocks analyzed by the United States Geological Survey, 784 contained titanium. Its proportion in soils is approximately 0.5 to 1.5%.</ptxt>
+			<ptxt>It is widely distributed and occurs primarily in the minerals anatase, brookite, ilmenite (FeTiO<sub>3</sub>), perovskite, rutile (TiO<sub>2</sub>), titanite ( CaTiSiO<sub>5</sub>) (sphene), as well in many <slink ref="26">iron</slink> ores. Of these minerals, only rutile and ilmenite have any economic importance, yet even they are difficult to find in high concentrations. Significant titanium-bearing ilmenite deposits exist in western <slink ref="AU">Australia</slink>, <slink ref="CA">Canada</slink>, <slink ref="NZ">New Zealand</slink>, <slink ref="NO">Norway</slink>, and <slink ref="UA">Ukraine</slink>. Large quantities of rutile are also mined in North America and <slink ref="ZA">South Africa</slink> and help contribute to the annual production of 90,000 tonnes of the metal and 4.3 million tonnes of titanium dioxide. Total known reserves of titanium are estimated to exceed 600 million tonnes.</ptxt>
+			<ptxt>Titanium is contained in meteorites and has been detected in the sun and in M-type stars; the coolest type of star with a surface temperature of 3,200&degree;C (5792&degree;F). Rocks brought back from the moon during the Apollo 17 mission are composed of 12.1% TiO<sub>2</sub>. It is also found in coal ash, plants, and even the human body.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="023" type="2">
+	<an>23</an>
+	<name allotrope="n" spectra="y">Vanadium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Vanadium is never found unbound in nature but it does occur in about 65 different minerals among which are patronite VS<sub>4</sub>, vanadinite Pb<sub>5</sub>(VO<sub>4</sub>)<sub>3</sub>Cl, and carnotite K<sub>2</sub>(UO<sub>2</sub>)<sub>2</sub>(VO<sub>4</sub>)<sub>2</sub> - 3H<sub>2</sub>O. Vanadium is also present in bauxite, and in <elink ref="6">carbon</elink> containing deposits such as crude oil, coal, oil shale and tar sands. Vanadium has also been detected spectroscopically in light from the Sun and some other stars.</ptxt>
+			<ptxt>Much of the vanadium metal being produced is now made by <elink ref="20">calcium</elink> reduction of V<sub>2</sub>O<sub>5</sub> in a pressure vessel. Vanadium is usually recovered as a by-product or co-product, and so world resources of the element are not really indicative of available supply.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="024" type="2">
+	<an>24</an>
+	<name allotrope="n" spectra="y">Chromium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Chromium is mined as chromite (FeCr<sub>2</sub>O<sub>4</sub>) ore. About two-fifths of the chromite ores and concentrates in the world are produced in <slink ref="ZA">South Africa</slink>. <slink ref="KZ">Kazakhstan</slink>, <slink ref="IN">India</slink>, <slink ref="RU">Russia</slink> and <slink ref="TR">Turkey</slink> are also substantial producers. Untapped chromite deposits are plentiful, but geographically concentrated in <slink ref="KZ">Kazakhstan</slink> and southern Africa.</ptxt>
+			<ptxt>Approximately 15 million tons of marketable chromite ore were produced in 2000, and converted into approximately 4 million tons of ferro-chrome with an approximate market value of 2.5 billion United States dollars.</ptxt>
+			<ptxt>Though native chromium deposits are rare, some native chromium metal has been discovered. The Udachnaya Mine in <slink ref="RU">Russia</slink> produces samples of the native metal. This mine is a kimberlite pipe rich in diamonds, and the reducing environment so provided helped produce both elemental chromium and <elink ref="6">diamond</elink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="025" type="2">
+	<an>25</an>
+	<name allotrope="n" spectra="y">Manganese</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Manganese occurs principally as pyrolusite (MnO<sub>2</sub>), and to a lesser extent as rhodochrosite (MnCO<sub>3</sub>). Land-based resources are large but irregularly distributed; those of the <slink ref="US">United States</slink> are very low grade and have potentially high extraction costs. Over 80% of the known world manganese resources are found in <slink ref="ZA">South Africa</slink> and <slink ref="UA">Ukraine</slink>. Other important manganese deposits are in <slink ref="CN">China</slink>, <slink ref="AU">Australia</slink>, <slink ref="BR">Brazil</slink>, <slink ref="GA">Gabon</slink>, <slink ref="IN">India</slink>, and <slink ref="MX">Mexico</slink>.</ptxt>
+			<ptxt>US Import Sources (1998-2001): Manganese ore: <slink ref="GA">Gabon</slink>, 70%; <slink ref="ZA">South Africa</slink>, 10%; <slink ref="AU">Australia</slink>, 9%; <slink ref="MX">Mexico</slink>, 5%; and other, 6%. Ferromanganese: <slink ref="ZA">South Africa</slink>, 47%; <slink ref="FR">France</slink>, 22%; <slink ref="MX">Mexico</slink>, 8%; <slink ref="AU">Australia</slink>, 8%; and other, 15%. Manganese contained in all manganese imports: <slink ref="ZA">South Africa</slink>, 31%; <slink ref="GA">Gabon</slink>, 21%; <slink ref="AU">Australia</slink>, 13%; <slink ref="MX">Mexico</slink>, 8%; and other, 27%.</ptxt>
+			<ptxt>Vast quantities of manganese exist in manganese nodules on the ocean floor. Attempts to find economically viable methods of harvesting manganese nodules were abandoned in the 1970s.</ptxt>
+			<ptxt>Manganese is mined in <slink ref="BF">Burkina Faso</slink> and <slink ref="GA">Gabon</slink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="026" type="2">
+	<an>26</an>
+	<name allotrope="n" spectra="y">Iron</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Iron is one of the most common elements on Earth, making up about 5% of the Earth's crust. Most of this iron is found in various iron oxides, such as the minerals hematite, magnetite, and taconite. The Earth's core is believed to consist largely of a metallic iron-<elink ref="28">nickel</elink> <glink ref="alloy">alloy</glink>. About 5% of the meteorites similarly consist of iron-<elink ref="28">nickel</elink> <glink ref="alloy">alloy</glink>. Although rare, these are the major form of natural metallic iron on the Earth's surface.</ptxt>
+			<ptxt>The reason for Mars's red colour is thought to be an iron-oxide-rich soil.</ptxt>
+		</method>
+		<method title="Production">
+			<ptxt>Industrially, iron is produced starting from iron ores, principally haematite (nominally Fe<sub>2</sub>O<sub>3</sub>) and magnetite (Fe<sub>3</sub>O<sub>4</sub>) by a carbothermic reaction (reduction with carbon) in a blast furnace at temperatures of about 2000&degree;C. In a blast furnace, iron ore, carbon in the form of coke, and a flux such as limestone (which is used to remove impurities in the ore which would otherwise clog the furnace with solid material) are fed into the top of the furnace, while a blast of heated air is forced into the furnace at the bottom.</ptxt>
+			<ptxt>In the furnace, the coke reacts with <elink ref="8">oxygen</elink> in the air blast to produce <elink ref="6">carbon</elink> monoxide:</ptxt>
+			<ptxt>6C + 3O<sub>2</sub> <img type="arrow"/> 6CO</ptxt>
+			<ptxt>The carbon monoxide reduces the iron ore (in the chemical equation below, hematite) to molten iron, becoming <elink ref="6">carbon</elink> dioxide in the process:</ptxt>
+			<ptxt>6CO + 2Fe<sub>2</sub>O<sub>3</sub> <img type="arrow"/> 4Fe + 6CO<sub>2</sub></ptxt>
+			<ptxt>The flux is present to melt impurities in the ore, principally <elink ref="14">silicon</elink> dioxide sand and other silicates. Common fluxes include limestone (principally calcium carbonate) and dolomite (CaMg(CO<sub>3</sub>)<sub>2</sub>). Other fluxes may be used depending on the impurities that need to be removed from the ore. In the heat of the furnace the limestone flux decomposes to <elink ref="20">calcium</elink> oxide (quicklime):</ptxt>
+			<ptxt>CaCO<sub>3</sub> <img type="arrow"/> CaO + CO<sub>2</sub></ptxt>
+			<ptxt>Then calcium oxide combines with silicon dioxide to form a slag.</ptxt>
+			<ptxt>CaO + SiO<sub>2</sub> <img type="arrow"/> CaSiO<sub>3</sub></ptxt>
+			<ptxt>The slag melts in the heat of the furnace, which <elink ref="14">silicon</elink> dioxide would not have. In the bottom of the furnace, the molten slag floats on top of the more dense molten iron, and apertures in the side of the furnace are opened to run off the iron and the slag separately. The iron once cooled, is called pig iron, while the slag can be used as a material in road construction or to improve mineral-poor soils for agriculture.</ptxt>
+			<ptxt>Pig iron is not pure iron, but has 4-5% <elink ref="6">carbon</elink> dissolved in it. This is subsequently reduced to steel or commercially pure iron, known as wrought iron, using other furnaces or converters.</ptxt>
+			<ptxt>In 2005, approximately 1,544Mt (million tons) of iron ore was produced worldwide. <slink ref="CN">China</slink> was the top producer of iron ore with atleast one-fourth world share followed by <slink ref="BR">Brazil</slink>, <slink ref="AU">Australia</slink> and <slink ref="IN">India</slink>, reports the British Geological Survey.</ptxt>									
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="027" type="2">
+	<an>27</an>
+	<name allotrope="n" spectra="y">Cobalt</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Cobalt is not found as a native metal but generally found in the form of ores. Cobalt is usually not mined alone, and tends to be produced as a by-product of <elink ref="28">nickel</elink> and <elink ref="29">copper</elink> mining activities. The main ores of cobalt are cobaltite, erythrite, glaucodot, and skutterudite.</ptxt>
+			<ptxt>In 2005, the <slink ref="CD">Democratic Republic of the Congo</slink> was the top producer of cobalt with almost 40% world share followed by <slink ref="CA">Canada</slink>, <slink ref="ZM">Zambia</slink>, <slink ref="RU">Russia</slink>, <slink ref="BR">Brazil</slink> and <slink ref="CU">Cuba</slink>, reports the British Geological Survey.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="028" type="2">
+	<an>28</an>
+	<name allotrope="n" spectra="y">Nickel</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>The bulk of the nickel mined comes from two types of ore deposits. The first are laterites where the principal ore minerals are nickeliferous limonite: (Fe, Ni)O(OH) and garnierite (a hydrous nickel silicate): (Ni, Mg)<sub>3</sub>Si<sub>2</sub>O<sub>5</sub>(OH). The second are magmatic sulfide deposits where the principal ore mineral is pentlandite: (Ni, Fe)<sub>9</sub>S<sub>8</sub>.</ptxt>
+			<ptxt>In terms of supply, the Sudbury region of Ontario, <slink ref="CA">Canada</slink>, produces about 30 percent of the world's supply of nickel. The Sudbury Basin deposit is theorized to have been created by a massive meteorite impact event early in the geologic history of Earth. <slink ref="RU">Russia</slink> contains about 40% of the world's known resources at the massive Norilsk deposit in Siberia. The Russian mining company MMC Norilsk Nickel mines this for the world market, as well as the associated palladium. Other major deposits of nickel are found in New Caledonia, <slink ref="AU">Australia</slink>, <slink ref="CU">Cuba</slink>, and <slink ref="ID">Indonesia</slink>. The deposits in tropical areas are typically laterites which are produced by the intense weathering of ultramafic igneous rocks and the resulting secondary concentration of nickel bearing oxide and silicate minerals. A recent development has been the exploitation of a deposit in western <slink ref="TR">Turkey</slink>, especially convenient for European smelters, steelmakers and factories. The one locality in the <slink ref="US">United States</slink> where nickel is commercially mined is Riddle, Oregon, where several square miles of nickel-bearing garnierite surface deposits are located.</ptxt>
+			<ptxt>Based on geophysical evidence, most of the nickel on Earth is postulated to be concentrated in the Earth's core.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="029" type="2">
+	<an>29</an>
+	<name allotrope="n" spectra="y">Copper</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>In 2005, <slink ref="CL">Chile</slink> was the top mine producer of copper with atleast one-third world share followed by the <slink ref="US">USA</slink>, <slink ref="ID">Indonesia</slink> and <slink ref="PE">Peru</slink>, reports the British Geological Survey.</ptxt>
+			<ptxt>Copper can be found as native copper in mineral form. Minerals such as the sulfides: chalcopyrite (CuFeS<sub>2</sub>), bornite (Cu<sub>5</sub>FeS<sub>4</sub>), covellite (CuS), chalcocite (Cu<sub>2</sub>S) are sources of copper, as are the carbonates: azurite (Cu<sub>3</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>2</sub>) and malachite (Cu<sub>2</sub>CO<sub>3</sub>(OH)<sub>2</sub>) and the oxide: cuprite (Cu<sub>2</sub>O).</ptxt>
+			<ptxt>Most copper ore is mined or extracted as copper sulfides from large open pit mines in porphyry copper deposits that contain 0.4 to 1.0 percent copper. Examples include: Chuquicamata in <slink ref="CL">Chile</slink> and El Chino Mine in New Mexico. The average abundance of copper found within crustal rocks is approximately 68 ppm by mass, and 22 ppm by atoms.</ptxt>
+			<ptxt>The Intergovernmental Council of Copper Exporting Countries (CIPEC), defunct since 1992, once tried to play a similar role for copper as OPEC does for oil, but never achieved the same influence, not least because the second-largest producer, the <slink ref="US">United States</slink>, was never a member. Formed in 1967, its principal members were <slink ref="CL">Chile</slink>, <slink ref="PE">Peru</slink>, Zaire, and <slink ref="ZM">Zambia</slink>.</ptxt>
+			<ptxt>The copper price has quintupled since 1999, rising from $0.60 per pound in June 1999 to $3.75 per pound in May 2006, where it dropped to $2.40 in February 2007 then rebounded to $3.50 in April 2007.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="030" type="2">
+	<an>30</an>
+	<name allotrope="n" spectra="y">Zinc</name>
+	<isolation>
+		<method title="Mining and processing">
+			<ptxt>There are zinc mines throughout the world, with the largest producers being <slink ref="CN">China</slink>, <slink ref="AU">Australia</slink> and <slink ref="PE">Peru</slink>. In 2005, <slink ref="CN">China</slink> produced almost one-fourth of the global zinc output, reports the British Geological Survey. Mines and refineries in Europe include Umicore in <slink ref="BE">Belgium</slink>, Tara, Galmoy and Lisheen in <slink ref="IE">Ireland</slink>, and Zinkgruvan in <slink ref="SE">Sweden</slink>. Zinc metal is produced using extractive metallurgy. Zinc sulfide (sphalerite) minerals are concentrated using the froth flotation method and then usually roasted using pyrometallurgy to oxidise the zinc sulfide to zinc oxide. The zinc oxide is leached in several stages of increasingly stronger sulfuric acid (H<sub>2</sub>SO<sub>4</sub>). <elink ref="26">Iron</elink> is usually rejected as Jarosite or goethite, removing other impurities at the same time. The final purification uses zinc dust to remove <elink ref="29">copper</elink>, <elink ref="48">cadmium</elink> and <elink ref="27">cobalt</elink>. The metal is then extracted from the solution by electrowinning as cathodic deposits. Zinc <glink ref="cathode">cathodes</glink> can be directly cast or <glink ref="alloy">alloyed</glink> with <elink ref="13">aluminium</elink>.</ptxt>
+			<ptxt>Electrolyte solutions must be very pure for electrowinning to be at all efficient. Impurities can change the decomposition voltage enough to where the electrolysis cell produces largely <elink ref="1">hydrogen</elink> gas rather than zinc metal.</ptxt>
+			<ptxt>There are two common processes for electrowinning the metal, the low current density process, and the Tainton high current density process. The former uses a 10% sulfuric acid solution as the electolyte, with current density of 270-325 amperes per square meter. The latter uses 22-28% sulfuric acid solution as the electrolyte with current density of about 1000 amperes per square meter. The latter gives better purity and has higher production capacity per volume of electrolyte, but has the disadvantage of running hotter and being more corrosive to the vessel in which it is done. In either of the electrolytic processes, each metric ton of zinc production expends about 3900 kWh (14 MJ) of electric power</ptxt>
+			<ptxt>There are also several pyrometallurgical processes that reduce zinc oxide using <elink ref="6">carbon</elink>, then distill the metallic zinc from the resulting mix in an atmosphere of carbon monoxide. These include the Belgian-type horizontal-retort process, the New Jersey Zinc continuous vertical-retort process, and the St. Joseph Lead Company's electrothermal process. The Belgian process requires redistillation to remove impurities of <elink ref="82">lead</elink>, <elink ref="48">cadmium</elink>, <elink ref="26">iron</elink>, <elink ref="29">copper</elink>, and <elink ref="33">arsenic</elink>. The New Jersey process employs a fractionating column, which is absent in the Belgian process, that separates the individual impurities, where they can be sold as byproducts. The St. Joseph Lead Company process heats the zinc oxide/coke mixture by passing an electric current through it rather than by coal or gas fire.</ptxt>
+			<ptxt>Another pyrometallurgical process is flash smelting. Then zinc oxide is obtained, usually producing zinc of lesser quality than the hydrometallurgical process. Zinc oxide treatment has much fewer applications, but high grade deposits have been successful in producing zinc from zinc oxides and zinc carbonates using hydrometallurgy.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+<element media="y" index="031" type="5">
+	<an>31</an>
+	<name allotrope="n" spectra="y">Gallium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Gallium does not exist in free form in nature, nor do any high-gallium minerals exist to serve as a primary source of extraction of the element or its compounds. Gallium is found and extracted as a trace component in bauxite, coal, diaspore, germanite, and sphalerite. The United States Geological Survey (USGC) estimates gallium reserves based on 50 ppm by weight concentration in known reserves of bauxite and <elink ref="30">zinc</elink> ores. Some flue dusts from burning coal have been shown to contain small quantities of gallium, typically less than 1% by weight.</ptxt>
+			<ptxt>Most gallium is extracted from the crude <elink ref="13">aluminium</elink> hydroxide solution of the Bayer process for producing alumina and <elink ref="13">aluminum</elink>. A <elink ref="80">mercury</elink> cell electrolysis and hydrolysis of the amalgam with sodium hydroxide (NaOH) leads to <elink ref="11">sodium</elink> gallate. Electrolysis then gives gallium metal. For semiconductor use, further purification is carried out using zone melting, or else single crystal extraction from a melt (Czochralski process). Purities of 99.9999% are routinely achieved and commercially widely available.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="032" type="0">
+	<an>32</an>
+	<name allotrope="n" spectra="y">Germanium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>This element is found in argyrodite (sulfide of germanium and <elink ref="47">silver</elink>); coal; germanite; zinc ores; and other minerals.</ptxt>
+			<ptxt>Germanium is obtained commercially from <elink ref="30">zinc</elink> ore processing smelter dust and from the combustion by-products of certain coals. A large reserve of this element is therefore in coal sources.</ptxt>
+			<ptxt>This metalloid can be extracted from other metals by fractional distillation of its volatile tetrachloride. This technique permits the production of ultra-high purity germanium.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="033" type="0">
+	<an>33</an>
+	<name allotrope="y">Arsenic</name>
+	<isolation>
+		<method title="">
+			<ptxt>In 2005, <slink ref="CN">China</slink> was the top producer of white arsenic with almost 50% world share followed by <slink ref="CL">Chile</slink> and <slink ref="PE">Peru</slink>, reports the British Geological Survey.</ptxt>
+			<ptxt>Arsenopyrite also unofficially called mispickel (FeAsS) is the most common arsenic-bearing mineral. On roasting in air, the arsenic sublimes as arsenic (III) oxide leaving <elink ref="26">iron</elink> oxides.</ptxt>
+			<ptxt>The most important compounds of arsenic are arsenic (III) oxide, As<sub>2</sub>O<sub>3</sub>, ('white arsenic'), the yellow sulfide orpiment (As<sub>2</sub>S<sub>3</sub>) and red realgar (As<sub>4</sub>S<sub>4</sub>), Paris Green, <elink ref="20">calcium</elink> arsenate, and <elink ref="82">lead</elink> <elink ref="1">hydrogen</elink> arsenate. The latter three have been used as agricultural insecticides and poisons. Orpiment and realgar were formerly used as painting pigments, though they have fallen out of use due to their toxicity and reactivity. Although arsenic is sometimes found native in nature, its main economic source is the mineral arsenopyrite mentioned above; it is also found in arsenides of metals such as <elink ref="47">silver</elink>, <elink ref="27">cobalt</elink> (cobaltite: CoAsS and skutterudite: CoAs<sub>3</sub>) and <elink ref="28">nickel</elink>, as sulfides, and when oxidised as arsenate minerals such as mimetite, Pb<sub>5</sub>(AsO<sub>4</sub>)<sub>3</sub>Cl and erythrite, Co<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub> - 8H<sub>2</sub>O, and more rarely arsenites ('arsenite' = arsenate(III), AsO<sub>3</sub><sup>3-</sup> as opposed to arsenate (V), AsO<sub>4</sub><sup>3-</sup>). In addition to the inorganic forms mentioned above, arsenic also occurs in various organic forms in the environment. Inorganic arsenic and its compounds, upon entering the food chain, are progressively metabolised to a less toxic form of arsenic through a process of methylation.</ptxt>			
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="034" type="3">
+	<an>34</an>
+	<name allotrope="y">Selenium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Selenium occurs naturally in a number of inorganic forms, including selenide, selenate and selenite. In soils, selenium most often occurs in soluble forms like selenate (analogous to sulfate), which are leached into rivers very easily by runoff.</ptxt>
+			<ptxt>Selenium has a biological role, and is found in organic compounds such as dimethyl selenide, selenomethionine and selenocysteine. In these compounds selenium plays an analogous role to <elink ref="16">sulfur</elink>.</ptxt>
+			<ptxt>Selenium is most commonly produced from selenide in many sulfide ores, such as those of <elink ref="29">copper</elink>, <elink ref="47">silver</elink>, or <elink ref="82">lead</elink>. It is obtained as a byproduct of the processing of these ores, from the <glink ref="anode">anode</glink> mud of <elink ref="29">copper</elink> refineries and the mud from the <elink ref="82">lead</elink> chambers of sulfuric acid plants. These muds can be processed by a number of means to obtain free selenium.</ptxt>
+			<ptxt>Natural sources of selenium include certain selenium-rich soils, and selenium that has been bioconcentrated by certain toxic plants such as locoweed. Anthropogenic sources of selenium include coal burning and the mining and smelting of sulfide ores</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="035" type="6">
+	<an>35</an>
+	<name allotrope="n" spectra="y">Bromine</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Bromine occurs in nature as bromide salts in very diffuse amounts in crustal rock. Due to leaching, bromide salts have accumulated in sea water (85 ppm), and may be economically recovered from brine wells and the Dead Sea (up to 5000 ppm).</ptxt>
+			<ptxt>Approximately 500,000 metric tons (worth around US$350 million) of bromine are produced per year (2001) worldwide with the <slink ref="US">United States</slink> and <slink ref="IL">Israel</slink> being the primary producers. The largest bromine reserve in the <slink ref="US">United States</slink> is located in Columbia and Union County, Arkansas. <slink ref="IL">Israel's</slink> bromine reserves are contained in the waters of the Dead Sea.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="036" type="7">
+	<an>36</an>
+	<name allotrope="n" spectra="y">Krypton</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>The concentration of krypton in Earth's atmosphere is about 1 ppm. It can be extracted from liquid air by fractional distillation. The amount of krypton in space is uncertain as is the amount is derived from the meteoritic activity and that from solar winds. The first measurements suggest an overabundance of krypton in space.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="037" type="1">
+	<an>37</an>
+	<name allotrope="n" spectra="y">Rubidium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>This element is considered to be the 16th most abundant element in the Earth's crust. It occurs naturally in the minerals leucite, pollucite, and zinnwaldite, which contains traces of up to 1% of its oxide. Lepidolite contains 1.5% rubidium and this is the commercial source of the element. Some <elink ref="19">potassium</elink> minerals and <elink ref="19">potassium</elink> chlorides also contain the element in commercially significant amounts. One notable source is also in the extensive deposits of pollucite at Bernic Lake, <slink ref="CA">Manitoba</slink>. Rubidium metal can be produced by reducing rubidium chloride with <elink ref="20">calcium</elink> among other methods. Rubidium forms at least four oxides: Rb<sub>2</sub>O, Rb<sub>2</sub>O<sub>2</sub>, Rb<sub>2</sub>O<sub>3</sub>, RbO<sub>2</sub>. In 1997 the cost of this metal in small quantities was about US$ 25/gram.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="038" type="4">
+	<an>38</an>
+	<name allotrope="n" spectra="y">Strontium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>In 2005, <slink ref="CN">China</slink> was the top producer of strontium with almost two-thirds world share followed by <slink ref="ES">Spain</slink> and <slink ref="MX">Mexico</slink>, reports the British Geological Survey.</ptxt>
+			<ptxt>Strontium commonly occurs in nature, the 15th most abundant element on earth, averaging 0.034% of all igneous rock and is found chiefly as the form of the sulfate mineral celestite (SrSO<sub>4</sub>) and the carbonate strontianite (SrCO<sub>3</sub>). Of the two, celestite occurs much more frequently in sedimentary deposits of sufficient size to make development of mining facilities attractive. Strontianite would be the more useful of the two common minerals because strontium is used most often in the carbonate form, but few deposits have been discovered that are suitable for development. The metal can be prepared by electrolysis of melted strontium chloride mixed with <elink ref="19">potassium</elink> chloride:</ptxt>
+			<ptxt>Sr<sup>2+</sup> + 2e<sup>-</sup> <img type="arrow"/> Sr</ptxt>
+			<ptxt>2Cl<sup>-</sup> <img type="arrow"/> Cl<sub>2(g)</sub> + 2e<sub>-</sub></ptxt>
+			<ptxt>Alternatively it is made by reducing strontium oxide with <elink ref="13">aluminium</elink> in a vacuum at a temperature at which strontium distills off. Three <glink ref="allotrope">allotropes</glink> of the metal exist, with transition points at 235 and 540&degree;C. The largest commercially exploited deposits are found in <slink ref="GB">England</slink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="039" type="2">
+	<an>39</an>
+	<name allotrope="n" spectra="y">Yttrium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>This element is found in almost all rare-earth minerals and in <elink ref="92">uranium</elink> ores but is never found in nature as a free element. Yttrium is commercially recovered from monazite sand (3% content, [(Ce, La, etc.)PO<sub>4</sub>]) and from bastnasite (0.2% content, [(Ce, La, etc.)(CO<sub>3</sub>)F]). It is commercially produced by reducing yttrium fluoride with <elink ref="20">calcium</elink> metal but it can also be produced using other techniques. It is difficult to separate from other <glink ref="ree">rare earths</glink> and when extracted, is a dark gray powder. The original "rare earths" ceria (1803) and yttria (1794) reflect the great geochemical divide that occurs between the light and heavy lanthanoids due to "lanthanoid contraction". The lighter lanthanoids, with a larger radius, partition into minerals in sites with a higher coordination number (e.g. monazite), whereas the smaller heavy lanthanoids prefer a slightly lower coordination number (as in xenotime). The lighter lanthanoids are also more relatively abundant in the Earth's outer crust than the heavies, relative to the abundance in chondritic meteorites, due to size fractionation. Yttrium falls into the middle of the heavy group in size, and thus inevitably occurs with these in minerals, where it comprises about two-thirds of the mixed oxides by weight. This composition is typical of gadolinite, xenotime, and certain <glink ref="ion">ion</glink> adsorption clays currently mined in the south of <slink ref="CN">China</slink>.</ptxt>
+			<ptxt>Lunar Rock samples from the Apollo program have a relatively high yttrium content.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="040" type="2">
+	<an>40</an>
+	<name allotrope="n" spectra="y">Zirconium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Zirconium is never found in nature as a free metal. The principal economic source of zirconium is the zirconium silicate mineral, zircon (ZrSiO<sub>4</sub>), which is found in deposits located in <slink ref="AU">Australia</slink>, <slink ref="ZA">South Africa</slink> and the <slink ref="US">United States</slink>, reports the British Geological Survey. (It is extracted as a dark sooty powder, or as a gray metallic crystalline substance). Zirconium and <elink ref="72">hafnium</elink> are contained in zircon at a ratio of about 50 to 1 and are difficult to separate. Zircon is a coproduct or byproduct of the mining and processing of heavy-mineral sands for the <elink ref="22">titanium</elink> minerals, ilmenite and rutile, or <elink ref="50">tin</elink> minerals. Zirconium is also in 30 other recognized mineral species including baddeleyite. This metal is commercially produced by reduction of the Zirconium(IV) chloride with <elink ref="12">magnesium</elink> in the Kroll process, and through other methods. Commercial-quality zirconium still has a content of 1 to 3% hafnium.</ptxt>
+			<ptxt>This element is also abundant in S-type stars and has been detected in the sun and meteorites. Lunar rock samples brought back from several Apollo program missions to the moon have a very high zirconium oxide content relative to terrestrial rocks.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+<element media="y" index="041" type="2">
+	<an>41</an>
+	<name allotrope="n" spectra="y">Niobium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>The element is never found as a free element but does occur in the minerals columbite ((Fe,Mn)(Nb,Ta)<sub>2</sub>O<sub>6</sub>), columbite-tantalite or coltan ((Fe,Mn)(Ta,Nb)<sub>2</sub>O<sub>6</sub>), pyrochlore ((Na,Ca)<sub>2</sub>Nb<sub>2</sub>O<sub>6</sub>OH,F), and euxenite ((Y,Ca,Ce,U,Th)(Nb,Ta,Ti)<sub>2</sub>O<sub>6</sub>). Minerals that contain niobium often also contain <elink ref="73">tantalum</elink>. Large deposits of niobium have been found associated with carbonatites (<elink ref="6">carbon</elink>-<elink ref="14">silicate</elink> igneous rocks) and as a constituent of pyrochlore. Brazil and <slink ref="CA">Canada</slink> are the major producers of niobium mineral concentrates and extensive ore reserves are also in <slink ref="NG">Nigeria</slink>, <slink ref="CD">Democratic Republic of Congo</slink>, and in <slink ref="RU">Russia</slink>. A large producer in <slink ref="BR">Brazil</slink> is CBMM located in Araxa, Minas Gerais.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="042" type="2">
+	<an>42</an>
+	<name allotrope="n" spectra="y">Molybdenum</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>The world's largest producers of molybdenum materials are the <slink ref="US">United States</slink>, <slink ref="CA">Canada</slink>, <slink ref="CL">Chile</slink>, <slink ref="RU">Russia</slink>, and <slink ref="CN">China</slink>.</ptxt>
+			<ptxt>Though molybdenum is found in such minerals as wulfenite (PbMoO<sub>4</sub>) and powellite (CaMoO<sub>4</sub>), the main commercial source of molybdenum is molybdenite (MoS<sub>2</sub>). Molybdenum is mined as a principal ore, and is also recovered as a byproduct of <elink ref="29">copper</elink> and <elink ref="74">tungsten</elink> mining.</ptxt>
+			<ptxt>Molybdenum is the 42nd most abundant element in the universe, and the 25th most abundant element in Earth's oceans, with an average of 10.8 mt/km<sup>3</sup>. The Russian Luna 24 mission discovered a single molybdenum-bearing grain (1 x 0.6 um) in a pyroxene fragment taken from Mare Crisium on the Moon.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="043" type="2">
+	<an>43</an>
+	<name allotrope="n" spectra="y">Technetium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Since technetium is unstable, only minute traces occur naturally in the Earth's crust as a spontaneous fission product of <elink ref="92">uranium</elink>. In 1999 David Curtis (see above) estimated that a kilogram of <elink ref="92">uranium</elink> contains 1 nanogram (1 x 10<sup>-9</sup> g) of technetium. Extraterrestrial technetium was found in some red giant stars (S-, M-, and N-types) that contain an absorption line in their spectrum indicating the presence of this element.</ptxt>
+		</method>
+		<method title="Artificial production - Byproduct production in fission wastes">
+			<ptxt>In contrast with the rare natural occurrence, bulk quantities of technetium-99 are produced each year from spent nuclear fuel rods, which contain various fission products. The fission of a gram of the rare <glink ref="isotope">isotope</glink> <elink ref="92">uranium</elink>-235 in nuclear reactors yields 27 mg of 99Tc, giving technetium a fission yield of 6.1%. Other fissionable <glink ref="isotope">isotopes</glink> also produce similar yields of technetium.</ptxt>
+			<ptxt>It is estimated that up to 1994, about 49,000 TBq (78 metric tons) of technetium was produced in nuclear reactors, which is by far the dominant source of terrestrial technetium. However, only a fraction of the production is used commercially. As of 2005, technetium-99 is available to holders of an ORNL permit for US$83/g plus packing charges.</ptxt>
+			<ptxt>Since the yield of technetium-99 as a product of the nuclear fission of both <elink ref="92">uranium</elink>-235 and <elink ref="94">plutonium</elink>-239 is moderate, it is present in radioactive waste of fission reactors and is produced when a fission bomb is detonated. The amount of artificially produced technetium in the environment exceeds its natural occurrence to a large extent. This is due to release by atmospheric nuclear testing along with the disposal and processing of high-level radioactive waste. Due to its high fission yield and relatively high <glink ref="hl">half-life</glink>, technetium-99 is one of the main components of nuclear waste. Its decay, measured in becquerels per amount of spent fuel, is dominant at about 104 to 106 years after the creation of the nuclear waste.</ptxt>
+			<ptxt>An estimated 160 TBq (about 250 kg) of technetium-99 was released into the environment up to 1994 by atmospheric nuclear tests. The amount of technetium-99 from nuclear reactors released into the environment up to 1986 is estimated to be on the order of 1000 TBq (about 1600 kg), primarily by nuclear fuel reprocessing; most of this was discharged into the sea. In recent years, reprocessing methods have improved to reduce emissions, but as of 2005 the primary release of technetium-99 into the environment is by the Sellafield plant, which released an estimated 550 TBq (about 900 kg) from 1995-1999 into the Irish Sea. From 2000 onwards the amount has been limited by regulation to 90 TBq (about 140 kg) per year.</ptxt>
+			<ptxt>As a result of nuclear fuel reprocessing, technetium has been discharged into the sea in a number of locations, and some seafood contains tiny but measurable quantities. For example, lobster from west Cumbria contains small amounts of technetium. The anaerobic, spore-forming bacteria in the Clostridium genus are able to reduce Tc(VII) to Tc(IV). Clostridia bacteria play a role in reducing <elink ref="26">iron</elink>, <elink ref="25">manganese</elink> and <elink ref="92">uranium</elink>, thereby affecting these elements' solubility in soil and sediments. Their ability to reduce technetium may determine a large part of Tc's mobility in industrial wastes and other subsurface environments.</ptxt>
+			<ptxt>The long half-life of technetium-99 and its ability to form an anionic species makes it (along with 129I) a major concern when considering long-term disposal of high-level radioactive waste. In addition, many of the processes designed to remove fission products from medium-active process streams in reprocessing plants are designed to remove cationic species like <elink ref="55">caesium</elink> (e.g., <sup>137</sup>Cs) and <elink ref="38">strontium</elink> (e.g., <sup>90</sup>Sr). Hence the pertechnetate is able to escape through these treatment processes. Current disposal options favor burial in geologically stable rock. The primary danger with such a course is that the waste is likely to come into contact with water, which could leach radioactive contamination into the environment. The anionic pertechnetate and <elink ref="53">iodide</elink> are less able to absorb onto the surfaces of minerals so they are likely to be more mobile.</ptxt>
+			<ptxt>By comparison <elink ref="94">plutonium</elink>, <elink ref="92">uranium</elink>, and <elink ref="55">caesium</elink> are much more able to bind to soil particles. For this reason, the environmental chemistry of technetium is an active area of research. An alternative disposal method, transmutation, has been demonstrated at CERN for technetium-99. This transmutation process is one in which the technetium (<sup>99</sup>Tc as a metal target) is bombarded with neutrons to form the shortlived <sup>100</sup>Tc (<glink ref="hl">half life</glink> = 16 seconds) which decays by beta decay to ruthenium (<sup>100</sup>Ru). One disadvantage of this process is the need for a very pure technetium target, while small traces of other fission products are likely to slightly increase the activity of the irradated target if small traces of the minor actinoids (such as <elink ref="95">americium</elink> and <elink ref="96">curium</elink>) are present in the target then they are likely to undergo fission to form fission products. In this way, a small activity and amount of minor actinoids leads to a very high level of radioactivity in the irradated target. The formation of <sup>106</sup>Ru (<glink ref="hl">half life</glink> 374 days) from the fresh fission is likely to increase the activity of the final <elink ref="44">ruthenium</elink> metal, which will then require a longer cooling time after irradiation before the ruthenium can be used.</ptxt>
+		</method>
+		<method title="Artificial production - By deliberate separation from fission waste">
+			<ptxt>The actual production of technetium-99 from spent nuclear fuel is a long process. During fuel reprocessing, it appears in the waste liquid, which is highly radioactive. After sitting for several years, the radioactivity has fallen to a point where extraction of the long-lived <glink ref="isotope">isotopes</glink>, including technetium-99, becomes feasible. Several chemical extraction processes are used yielding technetium-99 metal of high purity.</ptxt>
+		</method>
+		<method title="Artificial production - By neutron activiation of molybdenum or other pure elements">
+			<ptxt>The meta stable (a state where the <glink ref="nucleus">nucleus</glink> is in an excited state) <glink ref="isotope">isotope</glink> <sup>99m</sup>Tc is produced as a fission product from the fission of <elink ref="92">uranium</elink> or <elink ref="94">plutonium</elink> in nuclear reactors. Due to the fact that used fuel is allowed to stand for several years before reprocessing, all <sup>99</sup>Mo and <sup>99m</sup>Tc will have decayed by the time that the fission products are separated from the major actinoids in conventional nuclear reprocessing. The PUREX raffinate will contain a high concentration of technetium as TcO<sub>4</sub><sup>-</sup> but almost all of this will be <sup>99</sup>Tc. The vast majority of the <sup>99m</sup>Tc used in medical work is formed from 99Mo which is formed by the neutron activation of <sup>98</sup>Mo. <sup>99</sup>Mo has a <glink ref="hl">half-life</glink> of 67 hours, so short-lived <sup>99m</sup>Tc (half-life: 6 hours), which results from its decay, is being constantly produced. The hospital then chemically extracts the technetium from the solution by using a technetium-99m generator ("technetium cow," also occasionally called a molybdenum cow).</ptxt>
+			<ptxt>The normal technetium cow is an alumina column which contains <elink ref="42">molybdenum-98</elink>; inasmuch as <elink ref="13">aluminium</elink> has a small <glink ref="neutron">neutron</glink> cross section, it is convenient for an alumina column bearing inactive <sup>98</sup>Mo to be irradated with neutrons to make the radioactive Mo-99 column for the technetium cow. By working in this way, there is no need for the complex chemical steps which would be required to separate <elink ref="42">molybdenum</elink> from a fission product mixture. This alternative method requires that an enriched <elink ref="92">uranium</elink> target be irradiated with <glink ref="neutron">neutrons</glink> to form <sup>99</sup>Mo as a fission product, then separated.</ptxt>
+			<ptxt>Other technetium <glink ref="isotope">isotopes</glink> are not produced in significant quantities by fission; when needed, they are manufactured by neutron irradiation of parent <glink ref="isotope">isotopes</glink> (for example, <sup>97</sup>Tc can be made by neutron irradiation of <sup>96</sup>Ru).</ptxt>
+		</method>				
+	</isolation>
+</element>
+
+<element media="y" index="044" type="2">
+	<an>44</an>
+	<name allotrope="n" spectra="y">Ruthenium</name>
+	<isolation>
+		<method title="Mining">
+			<ptxt>This element is generally found in ores with the other <elink ref="78">platinum</elink> group metals in the Ural Mountains and in North and South America. Small but commercially important quantities are also found in pentlandite extracted from Sudbury, Ontario and in pyroxenite deposits in South Africa.</ptxt>
+			<ptxt>This metal is commercially isolated through a complex chemical process in which <elink ref="1">hydrogen</elink> is used to reduce ammonium ruthenium chloride yielding a powder. The powder is then consolidated by powder metallurgy techniques or by <elink ref="18">argon</elink>-arc welding.</ptxt>
+		</method>
+		<method title="From used nuclear fuels">
+			<ptxt>It is also possible to extract ruthenium from used nuclear fuel. Each kilo of fission products of 235U will contain 63.44 grams of ruthenium <glink ref="isotope">isotopes</glink> with <glink ref="hl">halflives</glink> longer than a day. Since a typical used nuclear fuel contains about 3% fission products, one ton of used fuel will contain about 1.9 kg of ruthenium. The <sup>103</sup>Ru and 106Ru will render the fission ruthenium very radioactive. If the fission occurs in an instant then the ruthenium thus formed will have an activity due to <sup>103</sup>Ru of 109 TBq g-1 and <sup>106</sup>Ru of 1.52 TBq g-1.</ptxt>
+		</method>		
+	</isolation>
+</element>
+
+<element media="y" index="045" type="2">
+	<an>45</an>
+	<name allotrope="n" spectra="y">Rhodium</name>
+	<isolation>
+		<method title="Mining">
+			<ptxt>The industrial extraction of rhodium is complex as the metal occurs in ores mixed with other metals such as <elink ref="46">palladium</elink>, <elink ref="47">silver</elink>, <elink ref="78">platinum</elink>, and <elink ref="79">gold</elink>. It is found in <elink ref="78">platinum</elink> ores and obtained free as a white inert metal which it is very difficult to fuse. Principal sources of this element are located in <slink ref="ZA">South Africa</slink>, in river sands of the Ural Mountains, in North and South America and also in the <elink ref="29">copper</elink>-<elink ref="28">nickel</elink> sulfide mining area of the Sudbury, Ontario region. Although the quantity at Sudbury is very small, the large amount of <elink ref="28">nickel</elink> ore processed makes rhodium recovery cost effective. The main exporter of rhodium is <slink ref="ZA">South Africa</slink> (80%+) followed by <slink ref="RU">Russia</slink>. The annual world production of this element is only about 20 tons and there are very few rhodium minerals. It is generally difficult to determine if a rock sample contains <elink ref="78">platinum</elink> group elements. As of 2006, rhodium cost approximately six times as much as <elink ref="79">gold</elink>, by weight. Rhodium typical historical price is about about $1,000/troy oz. but in recent years it increased to about $6,000/oz.</ptxt>
+		</method>
+		<method title="From used nuclear fuels">
+			<ptxt>It is also possible to extract rhodium from used nuclear fuel, which contains rhodium (1 kg of the fission products of <sup>235</sup>U contain 13.3 grams of <sup>103</sup>Rh. So as a typical used fuel is 3% fission products by weight it will contain about 400 grams of rhodium per ton of used fuel. The longest lived radioisotope of rhodium is <sup>102m</sup>Rh which has a <glink ref="hl">half life</glink> of 2.9 years, while the ground state (<sup>102</sup>Rh)has a half life of 207 days.</ptxt>
+			<ptxt>Each kilo of fission rhodium will contain 6.62 ng of <sup>102</sup>Rh and 3.68 ng of <sup>102m</sup>Rh. As <sup>102</sup>Rh decays by beta decay to either <sup>102</sup>Ru (80%) (some <glink ref="positron">positron</glink> emission will occur) or <sup>102</sup>Pd (20%) (some <glink ref="gr">gamma ray</glink> photons with about 500 keV are generated) and the excited state decays by beta decay (electron capture) to <sup>102</sup>Ru (some <glink ref="gr">gamma ray</glink> photons with about 1 MeV are generated). If the fission occurs in an instant then 13.3 grams of rhodium will contain 67.1 MBq (1.81 mCi) of <sup>102</sup>Rh and 10.8 MBq (291 uCi) of <sup>102m</sup>Rh. As it is normal to allow used nuclear fuel to stand for about five years before reprocessing, much of this activity will decay away leaving 4.7 MBq of <sup>102</sup>Rh and 5.0 MBq of <sup>102m</sup>Rh. If the rhodium metal was then left for 20 years after fission then the 13.3 grams of rhodium metal would contain 1.3 kBq of <sup>102</sup>Rh and 500 kBq of <sup>102</sup>mRh. At first glance the rhodium might be adding to the resource value of reprocessed fission waste, but the cost of the separation of the rhodium from the other metals needs to be considered.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="046" type="2">
+	<an>46</an>
+	<name allotrope="n" spectra="y">Palladium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>In 2005, <slink ref="RU">Russia</slink> was the top producer of palladium with atleast 50% world share followed by <slink ref="ZA">South Africa</slink>, <slink ref="US">USA</slink> and <slink ref="CA">Canada</slink>, reports the British Geological Survey.</ptxt>
+			<ptxt>Palladium is found as a free metal and <glink ref="alloy">alloyed</glink> with <elink ref="78">platinum</elink> and <elink ref="79">gold</elink> with platinum group metals in placer deposits of the Ural Mountains, <slink ref="AU">Australia</slink>, <slink ref="ET">Ethiopia</slink>, South and North America. It is commercially produced from <elink ref="28">nickel</elink>-<elink ref="29">copper</elink> deposits found in South Africa (the Merensky Reef of the Bushveld Igneous Complex), <slink ref="CA">Ontario</slink> (Lac des Iles igneous complex) and Siberia; the huge volume of ore processed makes this extraction profitable despite the low proportion of palladium in these ores. The world's largest single producer of palladium is MMC Norilsk Nickel, headquartered in Moscow.</ptxt>
+			<ptxt>It takes processing of many metric tons of cores to extract just one troy ounce of palladium. However, the mine production could still be profitable, depending on current metal prices, as other metals are produced together: <elink ref="28">nickel</elink>, <elink ref="29">copper</elink>, <elink ref="78">platinum</elink> and <elink ref="45">rhodium</elink>.</ptxt>
+			<ptxt>Palladium is also produced in nuclear fission reactors and can be extracted from spent nuclear fuel, though the quantity produced is insignificant.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="047" type="2">
+	<an>47</an>
+	<name allotrope="n" spectra="y">Silver</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Silver is found in native form, combined with <elink ref="16">sulfur</elink>, <elink ref="33">arsenic</elink>, <elink ref="51">antimony</elink>, or <elink ref="17">chlorine</elink> and in various ores such as argentite (Ag<sub>2</sub>S) and horn silver (AgCl). Another ore it is found in is pyrargyrite. The principal sources of silver are <elink ref="29">copper</elink>, <elink ref="29">copper</elink>-<elink ref="28">nickel</elink>, <elink ref="79">gold</elink>, <elink ref="82">lead</elink> and <elink ref="82">lead</elink>-<elink ref="30">zinc</elink> ores obtained from <slink ref="PE">Peru</slink>, <slink ref="MX">Mexico</slink>, <slink ref="CN">China</slink> and <slink ref="AU">Australia</slink>.</ptxt>
+			<ptxt>This metal can also be produced during the electrolytic refining of <elink ref="29">copper</elink> and by application of the Parkes process on <elink ref="82">lead</elink> metal obtained from lead ores that contain small amounts of silver. Commercial grade fine silver is at least 99.9% pure <elink ref="47">silver</elink> and purities greater than 99.999% are available. In 2005, Peru was the top producer of silver with almost one-seventh world share closely followed by Mexico, reports the British Geological Survey.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="048" type="2">
+	<an>48</an>
+	<name allotrope="n" spectra="y">Cadmium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>In 2005, <slink ref="CN">China</slink> was the top producer of cadmium with almost one-sixth world share closely followed by South Korea and <slink ref="JP">Japan</slink>, reports the British Geological Survey.</ptxt>
+			<ptxt>Cadmium-containing ores are rare and when found they occur in small quantities. Greenockite (CdS), the only cadmium mineral of importance, is nearly always associated with sphalerite (ZnS). Consequently, cadmium is produced mainly as a byproduct from mining, smelting, and refining sulfide ores of <elink ref="30">zinc</elink>, and to a lesser degree, <elink ref="82">lead</elink> and <elink ref="29">copper</elink>. Small amounts of cadmium, about 10% of consumption, are produced from secondary sources, mainly from dust generated by recycling <elink ref="26">iron</elink> and steel scrap. Production in the <slink ref="US">United States</slink> began in 1907 but it was not until after World War I that cadmium came into wide use.</ptxt>
+			<ptxt>A role of cadmium in biology has been recently discovered. A cadmium-dependent carbonic anhydrase has been found in marine diatoms. Cadmium does the same job as zinc in other anhydrases, but the diatoms live in environments with very low zinc concentrations, thus biology has taken cadmium rather than <elink ref="30">zinc</elink>, and made it work. The discovery was made using x-ray absorption fluoresence spectroscopy (XAFS), and cadmium was characterised by noting the energy of the x-rays which were absorbed.</ptxt>
+		</method>
+		<method title="Extraction">
+			<ptxt>Cadmium is a common impurity in <elink ref="30">zinc</elink>, and it is most often isolated during the production of <elink ref="30">zinc</elink>. Zinc sulfide ores are roasted in the presence of <elink ref="8">oxygen</elink> converting the zinc sulfide to the oxide. Zinc metal is produced either by smelting the oxide with <elink ref="6">carbon</elink> or by electrolysis in sulfuric acid. Cadmium is isolated from the zinc metal by vacuum distillation if the zinc is smelted, or cadmium sulfate is precipitated out of the electrolysis solution.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="049" type="5">
+	<an>49</an>
+	<name allotrope="n" spectra="y">Indium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Indium is produced mainly from residues generated during <elink ref="30">zinc</elink> ore processing but is also found in <elink ref="26">iron</elink>, <elink ref="82">lead</elink>, and <elink ref="29">copper</elink> ores. The amount of indium consumed is largely a function of worldwide LCD production. Increased manufacturing efficiency and recycling (especially in Japan) maintain a balance between demand and supply. The average indium price for 2005 was US$900 per kilogram. This is unusually high. Demand increased as the metal is used in LCDs and televisions, and supply decreased when a number of Chinese mining concerns stopped extracting indium from their <elink ref="30">zinc</elink> tailings. In 2002, the price was US$94/kg.</ptxt>
+			<ptxt>Up until 1924, there was only about a gram of isolated indium on the planet. The Earth is estimated to contain about 0.1 ppm of indium which means it is about as abundant as <elink ref="47">silver</elink>, although indium is in fact nearly three times more expensive by weight. <slink ref="CA">Canada</slink> is a leading producer of indium. The TeckCominco refinery in Trail, BC, is the largest single source, with production of 32,500 kg in 2005, 41,800 kg in 2004 and 36,100 kg in 2003. Worldwide production is typically over 300 tonnes per year, but demand has risen rapidly with the increased popularity of LCD computer monitors and televisions.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="050" type="5">
+	<an>50</an>
+	<name allotrope="y" spectra="y">Tin</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>This metal is a relatively scarce element with an abundance in the Earth's crust of about 2 ppm, compared with 94 ppm for <elink ref="30">zinc</elink>, 63 ppm for <elink ref="29">copper</elink>, and 12 ppm for <elink ref="52">lead</elink>.</ptxt>
+			<ptxt>Tin is commonly found in the mineral cassiterite (SnO<sub>2</sub>), reduction of this with buring coal results in the metal, and was probably how tin was made by the ancients.</ptxt>
+			<ptxt>SnO<sub>2</sub> + 2C <img type="arrow"/> Sn + 2CO</ptxt>
+			<ptxt>Although cassiterite (SnO<sub>2</sub>) is the only commerically important source of tin small quantities of tin are recovered from complex sulfides such as stannite, cylindrite, franckeite, canfieldite, and teallite.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+<element media="y" index="051" type="0">
+	<an>51</an>
+	<name allotrope="n" spectra="y">Antimony</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Even though this element is not abundant, it is found in over 100 mineral species. Antimony is sometimes found native, but more frequently it is found in the sulfide stibnite (Sb<sub>2</sub>S<sub>3</sub>) which is the predominant ore mineral. Commercial forms of antimony are generally ingots, broken pieces, granules, and cast cake. Other forms are powder, shot, and single crystals.</ptxt>
+			<ptxt>In 2005, <slink ref="CN">China</slink> was the top producer of antimony with about 84% world share followed at a distance by <slink ref="ZA">South Africa</slink>, <slink ref="BO">Bolivia</slink> and <slink ref="TJ">Tajikistan</slink>, reports the British Geological Survey.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="052" type="0">
+	<an>52</an>
+	<name allotrope="n" spectra="y">Tellurium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>With an abundance in the Earth's crust similar to <elink ref="78">platinum</elink>, tellurium is, apart from the precious metals, the rarest stable solid element in the earth's crust. Its abundance by mass is less than 0.001 ppm. By comparison, even the rarest of the lanthanoids have crustal abundances of 0.5 ppm, tin and caesium have abundances of 2 ppm, and barium of 400 ppm.</ptxt>
+			<ptxt>The extreme rarity of tellurium in the Earth's crust is not a reflection of its cosmic abundance, which is in fact greater than that of <elink ref="37">rubidium</elink>, even though <elink ref="37">rubidium</elink> is ten thousand times more abundant in the Earth's crust. Rather, the extraordinarily low abundance of tellurium on Earth results from the fact that, during the formation of the Earth, the stable form of elements in the absence of <elink ref="8">oxygen</elink> and water was controlled by the oxidation and reduction of <elink ref="1">hydrogen</elink>. Under this scenario elements such as tellurium which form volatile hydrides were severely depleted during the formation of the Earth's crust through evaporation. Tellurium and selenium are the heavy elements most depleted in the Earth's crust by this process.</ptxt>
+			<ptxt>Tellurium is sometimes found in its native (elemental) form, but is more often found as the tellurides of <elink ref="79">gold</elink> (calaverite, krennerite, petzite, sylvanite, and others). Tellurium compounds are the only chemical compounds of <elink ref="79">gold</elink> found in nature, but tellurium itself (unlike <elink ref="79">gold</elink>) is also found combined with other elements (in metallic salts). The principal source of tellurium is from <glink ref="anode">anode</glink> sludges produced during the electrolytic refining of blister copper. It is a component of dusts from blast furnace refining of lead. Tellurium is produced mainly in the <slink ref="US">US</slink>, <slink ref="CA">Canada</slink>, <slink ref="PE">Peru</slink>, and <slink ref="JP">Japan</slink>.</ptxt>
+			<ptxt>Commercial-grade tellurium is usually marketed as minus 200-mesh powder but is also available as slabs, ingots, sticks, or lumps. The year-end price for tellurium in 2000 was US$ 14 per pound.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="053" type="6">
+	<an>53</an>
+	<name allotrope="n" spectra="y">Iodine</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Iodine naturally occurs in the environment chiefly as dissolved iodide in seawater, although it is also found in some minerals and soils. The element may be prepared in an ultrapure form through the reaction of <elink ref="19">potassium</elink> iodide with <elink ref="29">copper</elink>(II) sulfate. There are also a few other methods of isolating this element. Although the element is actually quite rare, kelp and certain other plants have the ability to concentrate iodine, which helps introduce the element into the food chain as well as keeping its cost down.</ptxt>
+			<ptxt>Iodine is found in the mineral Caliche, found in <slink ref="CL">Chile</slink>, between the Andes and the sea. It can also be found in some seaweeds as well as extracted from seawater, however extracting Iodine from the mineral is the only economical way to extract the substance.</ptxt>
+			<ptxt>Extraction from seawater involves electrolysis, the brine is first purified and acidified using sulphuric acid and is then reacted with <elink ref="17">chlorine</elink>. An iodine solution is produced but it is yet too dilute and has to be concentrated. To do this air is blown into the solution which causes the iodine to evaporate, then it is passed into an absorbing tower containing acid where sulfur dioxide (SO<sub>2</sub>) is added to reduce the iodine, the solution is then added to <elink ref="17">chlorine</elink> again to concentrate the solution more, the final solution is the iodine at a level of about 99%.</ptxt>
+			<ptxt>Another source is from kelp. This source was used in the 18th and 19th centuries but is no longer economically viable.</ptxt>
+			<ptxt>In 2005, <slink ref="CL">Chile</slink> was the top producer of iodine with almost two-thirds world share followed by <slink ref="JP">Japan</slink> and the <slink ref="US">USA</slink> reports the British Geological Survey.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="054" type="7">
+	<an>54</an>
+	<name allotrope="n" spectra="y">Xenon</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Xenon is a trace gas in Earth's atmosphere, occurring in one part in twenty million. The element is obtained commercially through extraction from the residues of liquefied air. This noble gas is naturally found in gases emitted from some mineral springs. Xe-133 and Xe-135 are synthesized by neutron irradiation within air-cooled nuclear reactors.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="055" type="1">
+	<an>55</an>
+	<name allotrope="n" spectra="y">Caesium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>An alkali metal, caesium occurs in lepidolite, pollucite (hydrated silicate of <elink ref="13">aluminium</elink> and caesium) and within other sources. One of the world's most significant and rich sources of this metal is at Bernic Lake in Manitoba. The deposits there are estimated to contain 300,000 metric tons of pollucite at an average of 20% caesium.</ptxt>
+			<ptxt>It can be isolated by electrolysis of fused caesium cyanide and in a number of other ways. Exceptionally pure and gas-free caesium can be made by the thermal decomposition of caesium azide. The primary compounds of caesium are caesium <elink ref="17">chloride</elink> and its <elink ref="7">nitrate</elink>. The price of caesium metal in 1997 was about $US 30 per gram, but its compounds are much cheaper.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="056" type="4">
+	<an>56</an>
+	<name allotrope="n" spectra="y">Barium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Because barium quickly becomes oxidized in air, it is difficult to obtain this metal in its pure form. It is primarily found in and extracted from the mineral barite which is crystalized barium sulfate. Barium is commercially produced through the electrolysis of molten barium chloride (BaCl<sub>2</sub>) Isolation;</ptxt>
+			<ptxt><glink ref="cathode">(cathode)</glink> Ba<sup>2+</sup> + 2e<sup>-</sup> <img type="arrow"/> Ba</ptxt>
+			<ptxt><glink ref="anode">(anode)</glink> Cl<sup>-</sup> <img type="arrow"/> 0.5Cl<sub>2(g)</sub> + e<sup>-</sup></ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="057" type="9">
+	<an>57</an>
+	<name allotrope="n" spectra="y">Lanthanum</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Although lanthanum belongs to chemical elements group called <glink ref="ree">rare earth</glink> metals, it is not rare at all. Lanthanum is available in relatively large quantities (32 ppm in Earth's crust). "Rare earths" got their name since they were indeed rare as compared to the "common" earths such as lime or magnesia, and historically only a few deposits were known.</ptxt>
+			<ptxt>Monazite (Ce, La, Th, Nd, Y)PO<sub>4</sub>, and bastnasite (Ce, La, Y)CO<sub>a</sub>re the principal ores in which lanthanum occurs, in percentages of up to 25 to 38 percent of the total lanthanoid content. Lanthanum is more generally enriched in bastnasite as opposed to monazite, in commercial orebodies. Until 1949, bastnasite was a rare and obscure mineral, not even remotely contemplated as a potential commercial source for lanthanoids. In that year, the vast deposit at Mountain Pass California was discovered. This discovery alerted geologists as to the existence of a whole new class of <glink ref="ree">rare earths</glink> deposit, the rare-earth bearing carbonatite, other examples of which soon surfaced, particularly in Africa and <slink ref="CN">China</slink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="058" type="9">
+	<an>58</an>
+	<name allotrope="n" spectra="y">Cerium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Cerium is the most abundant of the <glink ref="ree">rare earths</glink> elements, making up about 0.0046% of the Earth's crust by weight. It is found in a number of minerals including allanite (also known as orthite)-(Ca, Ce, La, Y)<sub>2</sub>(Al, Fe)<sub>3</sub>(SiO<sub>4</sub>)<sub>3</sub>(OH), monazite (Ce, La, Th, Nd, Y)PO<sub>4</sub>, bastnasite(Ce, La, Y)CO<sub>3</sub>F, hydroxylbastnasite (Ce, La, Nd)CO<sub>3</sub>(OH, F), rhabdophane (Ce, La, Nd)PO<sub>4</sub> - H<sub>2</sub>O, zircon (ZrSiO<sub>4</sub>), and synchysite Ca(Ce, La, Nd, Y)(CO<sub>3</sub>)<sub>2</sub>F. Monazite and bastnasite are presently the two most important sources of cerium.</ptxt>
+			<ptxt>Cerium is most often prepared via an ion exchange process that uses monazite sands as its cerium source.</ptxt>
+			<ptxt>Large deposits of monazite, allanite, and bastnasite will supply cerium, <elink ref="90">thorium</elink>, and other rare-earth metals for many years to come.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="059" type="9">
+	<an>59</an>
+	<name allotrope="n" spectra="y">Praseodymium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Praseodymium is available in small quantities in Earth's crust (9.5 ppm). It is found in the <glink ref="ree">rare earths</glink> minerals monazite and bastnasite, typically comprising about 5% of the lanthanoids contained therein, and can be recovered from bastnasite or monazite by an ion exchange process, or by counter-current solvent extraction.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="060" type="9">
+	<an>60</an>
+	<name allotrope="n" spectra="y">Neodymium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Neodymium is never found in nature as the free element; rather, it occurs in ores such as monazite sand ((Ce,La,Th,Nd,Y)PO<sub>4</sub>) and bastnasite ((Ce,La,Th,Nd,Y)(CO<sub>3</sub>)F) that contain small amounts of all the <glink ref="ree">rare earths</glink> metals. Neodymium can also be found in Misch metal; it is difficult to separate it from other <glink ref="ree">rare earth</glink> elements.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+<element media="y" index="061" type="9">
+	<an>61</an>
+	<name allotrope="n" spectra="y">Promethium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Promethium can be formed as a product of <elink ref="9">uranium</elink> fission. Only trace amounts can be found in naturally occurring ores: a sample of pitchblende has been found to contain promethium at a concentration of four parts per quintillion (10<sup>18</sup>) by mass.</ptxt>
+			<ptxt>Promethium has also been identified in the spectrum of the star HR 465 in Andromeda, and possibly HD 101065 (Przybylski's star) and HD 965.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="062" type="9">
+	<an>62</an>
+	<name allotrope="n" spectra="y">Samarium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Samarium is never found free in nature, but, like other <glink ref="ree">rare earth</glink> elements, is contained in many minerals, including monazite, bastnasite and samarskite; monazite (in which it occurs up to an extent of 2.8%) and bastnasite are also used as commercial sources. Misch metal containing about 1% of samarium has long been used, but it was not until recent years that relatively pure samarium has been isolated through ion exchange processes, solvent extraction techniques, and electrochemical deposition. The metal is often prepared by electrolysis of a molten mixture of samarium(III) <elink ref="17">chloride</elink> with <elink ref="11">sodium</elink> chloride or <elink ref="20">calcium</elink> chloride. Samarium can also be obtained by reducing its oxide with <elink ref="57">lanthanum</elink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="063" type="9">
+	<an>63</an>
+	<name allotrope="n" spectra="y">Europium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Europium is never found in nature as a free element; however, there are many minerals containing europium, with the most important sources being bastnasite and monazite. Europium has also been identified in the spectra of the sun and certain stars. Depletion or enrichment of europium in minerals relative to other <glink ref="ree">rare earth</glink> elements is known as the europium anomaly.</ptxt>
+			<ptxt>Divalent europium in small amounts happens to be the activator of the bright blue fluorescence of some samples of the mineral fluorite (<elink ref="20">calcium</elink> difluoride). The most outstanding examples of this originated around Weardale, and adjacent parts of northern <slink ref="GB">England</slink>, and indeed it was this fluorite that gave its name to the phenomenon of fluorescence, although it was not until much later that europium was discovered or determined to be the cause.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="064" type="9">
+	<an>64</an>
+	<name allotrope="n" spectra="y">Gadolinium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Gadolinium is never found in nature as the free element, but is contained in many rare minerals such as monazite and bastnasite. It occurs only in trace amounts in the mineral gadolinite which was also named after Johan Gadolin. Today, it is prepared by ion exchange and solvent extraction techniques, or by the reduction of its anhydrous fluoride with metallic <elink ref="20">calcium</elink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="065" type="9">
+	<an>65</an>
+	<name allotrope="n" spectra="y">Terbium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Terbium is never found in nature as the free element, but it is contained in many minerals, including cerite (Ce<sub>9</sub>Fe(SiO<sub>4</sub>)<sub>6</sub>(SiO<sub>3</sub>)(OH)<sub>4</sub>), gadolinite ((Ce,La,Nd,Y)<sub>2</sub>FeBe<sub>2</sub>Si<sub>2</sub>O<sub>10</sub>), monazite ((Ce,LaTh,Nd,Y)PO<sub>4</sub>, which contains up to 0.03% of terbium), xenotime (YPO<sub>4</sub>) and euxenite ((Y,Ca,Er,La,Ce,U,Th)(Nb,Ta,Ti)<sub>2</sub>O<sub>6</sub>, which contains 1% or more of terbium). The richest current commercial sources of terbium are the ion-adsorption clays of southern <slink ref="CN">China</slink>. The high-<elink ref="39">yttrium</elink> concentrate versions of these are about two-thirds yttrium oxide by weight, and about 1% terbia. However, small amounts occur in bastnaesite and monazite, and when these are processed by solvent-extraction to recover the valuable heavy lanthanoids in the form of "samarium-europioum-gadolinium concentrate" (SEG conccentrate), the terbium content of the ore ends up therein. Due to the large volumes of bastnaesite processed, relative to the richer ion-adsorption clays, a significant proportion of the world's terbium supply comes from bastnaesite.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="066" type="9">
+	<an>66</an>
+	<name allotrope="n" spectra="y">Dysprosium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Dysprosium is never encountered as a free element, but is found in many minerals, including xenotime, fergusonite ((Ce,La,Nd)NbO<sub>4</sub>), gadolinite ((Ce,La,Nd,Y)<sub>2</sub>FeBe<sub>2</sub>Si<sub>2</sub>O<sub>10</sub>), euxenite, polycrase, blomstrandine, monazite and bastnasite; often with <elink ref="68">erbium</elink> and <elink ref="67">holmium</elink> or other <glink ref="ree">rare earth</glink> elements. Currently, most dysprosium is being obtained from the ion-adsorption clay ores of southern <slink ref="CN">China</slink>. In the high-<elink ref="39">yttrium</elink> version of these, dysprosium happens to be the most abundant of the heavy lanthanoids, comprising up to 7-8% of the concentrate (as compared to about 65% for yttrium).</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="067" type="9">
+	<an>67</an>
+	<name allotrope="n" spectra="y">Holmium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Like all other <glink ref="ree">rare earths</glink>, holmium is not naturally found as a free element. It does occur combined with other elements in the minerals gadolinite, monazite, and in other rare-earth minerals. It is commercially extracted via ion-exchange from monazite sand (0.05% holmium) but is still difficult to separate from other <glink ref="ree">rare earths</glink>. The element has been isolated through the reduction of its anhydrous <elink ref="17">chloride</elink> or <elink ref="9">fluoride</elink> with metallic <elink ref="20">calcium</elink>. Its estimated abundance in the Earth's crust is 1.3 milligrams per kilogram. Holmium obeys the Oddo-Harkins rule: as an odd-numbered element, it is less abundant than its immediate even numbered neighbors, dysprosium and <elink ref="68">erbium</elink>. However, it is the most abundant of the odd-numbered heavy lanthanoids. The principal current source are some of the ion-adsorption clays of southern <slink ref="CN">China</slink>. Some of these have a <glink ref="ree">rare earths</glink> composition similar to that found in xenotime or gadolinite. <elink ref="39">Yttrium</elink> makes up about two-thirds of the total by weight; holmium is around 1.5%. The original ores themselves are very lean, maybe only 0.1% total lanthanoid, but are easily extracted.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="068" type="9">
+	<an>68</an>
+	<name allotrope="n" spectra="y">Erbium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Like other <glink ref="ree">rare earths</glink>, this element is never found as a free element in nature but is found bound in monazite sand ores. It has historically been very difficult and expensive to separate <glink ref="ree">rare earths</glink> from each other in their ores but ion-exchange production techniques developed in the late 20th century have greatly brought down the cost of production of all rare-earth metals and their chemical compounds. The principal commercial sources of erbium are from the minerals xenotime and euxenite, and most recently, the ion adsorption clays of southern <slink ref="CN">China</slink>. In the high-yttrium versions of these ore concentrates, <elink ref="39">yttrium</elink> is about two-thirds of the total by weight, and erbia is about 4-5%. This is enough erbium to impart a distinct pink colour to the solution when the concentrate is dissolved in acid. This colour behavior is highly similar to what Mosander and the other early workers in the lanthanoids would have seen, in their extracts from Ytterby gadolinite.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="069" type="9">
+	<an>69</an>
+	<name allotrope="n" spectra="y">Thulium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>The element is never found in nature in pure form, but it is found in small quantities in minerals with other <glink ref="ree">rare earths</glink>. It is principally extracted from monazite (~0.007% thulium) ores found in river sands through ion-exchange. Newer ion-exchange and solvent extraction techniques have led to easier separation of the <glink ref="ree">rare earths</glink>, which has yielded much lower costs for thulium production. The principal source today are the ion adsorption clays of southern <slink ref="CN">China</slink>. In the versions of these, where about two-thirds of the total <glink ref="ree">rare earth</glink> content is <elink ref="39">yttrium</elink>, thulium is about 0.5% (or about tied with <elink ref="71">lutetium</elink> for rarity). The metal can be isolated through reduction of its <elink ref="8">oxide</elink> with <elink ref="57">lanthanum</elink> metal or by <elink ref="20">calcium</elink> reduction in a closed container. None of thulium's compounds are commercially important.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="070" type="9">
+	<an>70</an>
+	<name allotrope="y" spectra="y">Ytterbium</name>
+	<isolation>
+		<method title="">
+			<ptxt>Ytterbium is found with other <glink ref="ree">rare earths</glink> elements in several rare minerals. It is most often recovered commercially from monazite sand (0.03% ytterbium). The element is also found in euxenite and xenotime. Ytterbium is normally difficult to separate from other <glink ref="ree">rare earths</glink> but ion-exchange and solvent extraction techniques developed in the late 20th century have simplified separation. Known compounds of ytterbium are rare-they haven't been well characterized yet.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+<element media="y" index="071" type="9">
+	<an>71</an>
+	<name allotrope="n" spectra="y">Lutetium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Found with almost all other <glink ref="ree">rare earths</glink> metals but never by itself, lutetium is very difficult to separate from other elements. Consequently, it is also one of the most expensive metals, costing about six times as much per gram as <elink ref="79">gold</elink>.</ptxt>
+			<ptxt>The principal commercially viable ore of lutetium is the rare earth phosphate mineral monazite: (Ce, La, etc.)PO<sub>4</sub> which contains 0.003% of the element. Pure lutetium metal has only relatively recently been isolated and is very difficult to prepare (thus it is one of the most rare and expensive of the <glink ref="ree">rare earth</glink> metals). It is separated from other <glink ref="ree">rare earths</glink> elements by <glink ref="ion">ion</glink> exchange and then obtained in the elemental form by reduction of anhydrous LuCl<sub>3</sub> or LuF<sub>3</sub> by either an alkali metal or alkaline earth metal.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="072" type="2">
+	<an>72</an>
+	<name allotrope="n" spectra="y">Hafnium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Hafnium is estimated to make up about 0.00058% of the Earth's upper crust by weight. It is found combined in natural zirconium compounds but it does not exist as a free element in nature. Minerals that contain zirconium, such as alvite [(Hf, Th, Zr)SiO<sub>4</sub> - H<sub>2</sub>O], thortveitite and zircon (ZrSiO<sub>4</sub>), usually contain between 1 and 5% hafnium. Hafnium and zirconium have nearly identical chemistry, which makes the two difficult to separate. About half of all hafnium metal manufactured is produced as a by-product of <elink ref="40">zirconium</elink> refinement. This is done through reducing hafnium(IV) chloride with <elink ref="12">magnesium</elink> or <elink ref="11">sodium</elink> in the Kroll process.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="073" type="2">
+	<an>73</an>
+	<name allotrope="n" spectra="y">Tantalum</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Tantalum occurs principally in the minerals tantalite [(Fe, Mn) Ta<sub>2</sub>O<sub>6</sub>], microlite, and euxenite (other minerals: samarskite, and fergusonite).</ptxt>
+			<ptxt>Tantalum ores are mined in <slink ref="ET">Ethiopia</slink>, <slink ref="AU">Australia</slink>, <slink ref="BR">Brazil</slink>, <slink ref="EG">Egypt</slink>, <slink ref="CA">Canada</slink>, the <slink ref="CD">Democratic Republic of the Congo</slink>, <slink ref="MZ">Mozambique</slink>, <slink ref="NG">Nigeria</slink>, <slink ref="PT">Portugal</slink>, <slink ref="MY">Malaysia</slink> and <slink ref="TH">Thailand</slink>.</ptxt>
+			<ptxt>Tantalite is largely found mixed with columbite in an ore called coltan. Ethical questions have been raised about human rights and endangered wildlife, due to the exploitation of resources in the conflict regions of the Congo.</ptxt>
+			<ptxt>Several complicated steps are involved in the separation of tantalum from <elink ref="41">niobium</elink>. Commercially viable production of this element can follow one of several different methods which includes; electrolysis of molten potassium fluorotantalate, reduction of <elink ref="19">potassium</elink> fluorotantalate with <elink ref="11">sodium</elink>, or by reacting tantalum carbide with tantalum oxide. Tantalum is also a byproduct from <elink ref="50">tin</elink> smelting.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="074" type="2">
+	<an>74</an>
+	<name allotrope="n" spectra="y">Tungsten</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Tungsten is found in the minerals wolframite (<elink ref="26">iron</elink>-<elink ref="25">manganese</elink> tungstate, FeWO<sup>4</sup>/MnWO<sup>4</sup>), scheelite (<elink ref="20">calcium</elink> tungstate, CaWO<sup>4</sup>), ferberite and hubnerite. There are important deposits of these minerals in <slink ref="CN">China</slink> (with about 80% world share), <slink ref="RU">Russia</slink>, <slink ref="AT">Austria</slink> and <slink ref="PT">Portugal</slink>, reports the British Geological Survey. The metal is commercially produced by reducing tungsten oxide with <elink ref="1">hydrogen</elink> or <elink ref="6">carbon</elink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="075" type="2">
+	<an>75</an>
+	<name allotrope="n" spectra="y">Rhenium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Rhenium is not found free in nature, and it was only recently that the first rhenium mineral was found. In 1994, Nature published a letter describing a rhenium sulfide mineral found condensing from a fumarole on <slink ref="RU">Russia's</slink> Kudriavy volcano. This is not an economically viable source of the element. Rhenium is widely spread through the Earth's crust at approximately 1 ppb.</ptxt>
+			<ptxt>Commercial rhenium is extracted from <elink ref="42">molybdenum</elink> roaster-flue gas obtained from <elink ref="29">copper</elink>-<elink ref="16">sulfide</elink> ores. Some <elink ref="42">molybdenum</elink> ores contain 0.002% to 0.2% rhenium. Total world production is between 40 and 50 tons/year; the main producers are in <slink ref="CL">Chile</slink>, <slink ref="US">USA</slink> and <slink ref="KZ">Kazakhstan</slink>. Recycling of used Pt-Re catalyst and special <glink ref="alloy">alloys</glink> allow the recovery of another 10 tons/year.</ptxt>
+			<ptxt>The metal form is prepared by reducing ammonium perrhenate (NH<sub>4</sub>ReO<sub>4</sub>) with <elink ref="1">hydrogen</elink> at high temperatures.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="076" type="2">
+	<an>76</an>
+	<name allotrope="n" spectra="y">Osmium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt><slink ref="TR">Turkey</slink> with 127,000 tons has the world's largest known reserve of osmium. <slink ref="BG">Bulgaria</slink> also has substantial reserves of about 2500 tons. This transition metal is also found in iridiosmium, a naturally occurring <glink ref="alloy">alloy</glink> of <elink ref="77">iridium</elink> and osmium, and in <elink ref="78">platinum</elink>-bearing river sands in the Ural Mountains, and North and South America. It also occurs in nickel-bearing ores found in the Sudbury, Ontario region with other <elink ref="78">platinum</elink> group metals. Even though the quantity of <elink ref="78">platinum</elink> metals found in these ores is small, the large volume of <elink ref="28">nickel</elink> ores processed makes commercial recovery possible.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="077" type="2">
+	<an>77</an>
+	<name allotrope="n" spectra="y">Iridium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Iridium is found uncombined in nature with <elink ref="78">platinum</elink> and other <elink ref="78">platinum</elink> group metals in alluvial deposits. Naturally occurring iridium <glink ref="alloy">alloys</glink> include osmiridium and iridiosmium, both of which are mixtures of iridium and <elink ref="76">osmium</elink>. It is recovered commercially as a by-product from <elink ref="28">nickel</elink> mining and processing.</ptxt>
+			<ptxt>Iridium is the rarest non-radioactive, non-noble gas element in the Earth's crust, but it is relatively common in meteorites. Iridium and <elink ref="76">osmium</elink> are the densest elements, and both are believed to have dropped below the Earth's crust toward the core when the Earth was young and molten. The concentration of iridium in meteorites matches the concentration of iridium in the Earth as a whole.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="078" type="2">
+	<an>78</an>
+	<name allotrope="n" spectra="y">Platinum</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Platinum is an extremely rare metal, occurring as only 5 ppb in the Earth's crust. In 2005, South Africa was the top producer of platinum with almost 80% world share followed by <slink ref="RU">Russia</slink>, <slink ref="CA">Canada</slink> and <slink ref="BW">Botswana</slink>, reports the British Geological Survey.</ptxt>
+			<ptxt>Platinum is often found chemically uncombined as native platinum and <glink ref="alloy">alloyed</glink> with <elink ref="77">iridium</elink> as platiniridium. The platinum <elink ref="33">arsenide</elink>, sperrylite (PtAs<sub>2</sub>), is a major source of platinum associated with <elink ref="28">nickel</elink> ores in the Sudbury Basin deposit in Ontario, <slink ref="CA">Canada</slink>. The rare sulfide mineral cooperite, (Pt,Pd,Ni)S, contains platinum along with <elink ref="46">palladium</elink> and <elink ref="28">nickel</elink>. Cooperite occurs in the Merensky Reef within the Bushveld complex, Gauteng, <slink ref="ZA">South Africa</slink>.</ptxt>
+			<ptxt>Platinum, often accompanied by small amounts of other platinum family metals, occurs in alluvial placer deposits in the Witwatersrand of <slink ref="ZA">South Africa</slink>, <slink ref="CO">Colombia</slink>, <slink ref="CA">Ontario</slink>, the Ural Mountains, and in certain western American states.</ptxt>
+			<ptxt>Platinum is produced commercially as a by-product of <elink ref="28">nickel</elink> ore processing in the Sudbury deposit. The huge quantities of <elink ref="28">nickel</elink> ore processed makes up for the fact that platinum is present as only 0.5 ppm in the ore.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="079" type="2">
+	<an>79</an>
+	<name allotrope="n" spectra="y">Gold</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Economic gold extraction can be achieved from ore grades as little as 0.5g/1000kg (0.5 parts per million, ppm) on average in large easily mined deposits. Typical ore grades in open-pit mines are 1-5 g/1000 kg (1-5 ppm), ore grades in underground or hard rock mines are usually at least 3 g/1000 kg (3 ppm) on average. Since ore grades of 30g/1000kg (30 ppm) are usually needed before gold is visible to the naked eye, in most gold mines the gold is invisible.</ptxt>
+			<ptxt>Since the 1880s, <slink ref="ZA">South Africa</slink> has been the source for a large proportion of the world's gold supply. Production in 1970 accounted for 79% of the world supply, producing about 1,000 tonnes. However, production in 2005 was just 294 tonnes according to the British Geological Survey. This sharp decline was due to the increasing difficulty of extraction and changing economic factors affecting the industry in South Africa.</ptxt>
+			<ptxt>The city of Johannesburg was built atop the world's greatest gold finds. Gold fields in the Free State and Gauteng provinces are deep and require the world's deepest mines. The Second Boer War of 1899-1901 between the British Empire and the Afrikaner Boers was at least partly over the rights of miners and possession of the gold wealth in <slink ref="ZA">South Africa</slink>.</ptxt>
+			<ptxt>Other major producers are <slink ref="US">United States</slink>, <slink ref="AU">Australia</slink>, <slink ref="CN">China</slink> and <slink ref="PE">Peru</slink>. Mines in South Dakota and Nevada supply two-thirds of gold used in the <slink ref="US">United States</slink>. In South America, the controversial project Pascua Lama aims at exploitation of rich fields in the high mountains of Atacama Desert, at the border between <slink ref="CL">Chile</slink> and <slink ref="AR">Argentina</slink>. Today about one-quarter of the world gold output is estimated to originate from artisanal or small scale mining.</ptxt>
+			<ptxt>After initial production, gold is often subsequently refined industrially by the Wohlwill process or the Miller process. Other methods of assaying and purifying smaller amounts of gold include parting and inquartation as well as cuppelation, or refining methods based on the dissolution of gold in <glink ref="aquaregia">aqua regia</glink>.</ptxt>
+			<ptxt>The world's oceans hold a vast amount of gold, but in very low concentrations (perhaps 1-2 parts per billion). A number of people have claimed to be able to economically recover gold from sea water, but so far they have all been either mistaken or crooks. Reverend Prescott Jernegan ran a gold-from seawater swindle in America in the 1890s. A British fraud ran the same scam in <slink ref="GB">England</slink> in the early 1900s.</ptxt>
+			<ptxt>Fritz Haber (the German inventor of the Haber process) attempted commercial extraction of gold from sea water in an effort to help pay <slink ref="DE">Germany's</slink> reparations following the First World War. Unfortunately, his assessment of the concentration of gold in sea water was unduly high, probably due to sample contamination. The effort produced little gold and cost the German government far more than the commercial value of the gold recovered. No commercially viable mechanism for performing gold extraction from sea water has yet been identified. Gold synthesis is not economically viable and is unlikely to become so in the foreseeable future.</ptxt>
+			<ptxt>The average gold mining and extraction costs are $238 per troy ounce but these can vary widely depending on mining type and ore quality. In 2001, global mine production amounted to 2,604 tonnes, or 67% of total gold demand in that year. At the end of 2001, it was estimated that all the gold ever mined totalled 145,000 tonnes.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="080" type="2">
+	<an>80</an>
+	<name allotrope="n" spectra="y">Mercury</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>In 2005, <slink ref="CN">China</slink> was the top producer of mercury with almost two-thirds global share followed by Kyrgyzstan, reports the British Geological Survey. Several other countries are believed to have unrecorded production of mercury from copper electrowinning processes and by recovery from effluents.</ptxt>
+			<ptxt>Mercury is an extremely rare element in the earth's crust, having an average crustal abundance by mass of only 0.08 parts per million. However, because it does not blend geochemically with those elements that comprise the majority of the crustal mass, mercury ores can be extraordinarily concentrated considering the element's abundance in ordinary rock. The richest mercury ores contain up to 2.5% mercury by mass, and even the leanest concentrated deposits are at least 0.1% mercury (12,000 times average crustal abundance).</ptxt>
+			<ptxt>It is found either as a native metal (rare) or in cinnabar (HgS), corderoite, livingstonite and other minerals, with cinnabar (HgS) being the most common ore. Mercury ores usually occur in very young orogenic belts where rock of high density are forced to the crust of the Earth, often in hot springs or other volcanic regions.</ptxt>
+			<ptxt>Over 100,000 tons of mercury were mined from the region of Huancavelica, <slink ref="PE">Peru</slink>, over the course of three centuries following the discovery of deposits there in 1563; mercury from Huancavelica was crucial in the production of silver in colonial Spanish America. Many former ores in <slink ref="IT">Italy</slink>, <slink ref="SI">Slovenia</slink>, the <slink ref="US">United States</slink> and <slink ref="MX">Mexico</slink> which once produced a large proportion of the world's supply have now been completely mined out. The metal is extracted by heating cinnabar in a current of air and condensing the vapour. The equation for this extraction is;</ptxt>
+			<ptxt>HgS + O<sub>2</sub> <img type="arrow"/> Hg + SO<sub>2</sub></ptxt>
+		</method>
+	</isolation>
+</element>
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+<element media="y" index="081" type="5">
+	<an>81</an>
+	<name allotrope="n" spectra="y">Thallium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Although the metal is reasonably abundant in the Earth's crust at a concentration estimated to be about 0.7 mg/kg, mostly in association with <elink ref="19">potassium</elink> minerals in clays, soils, and granites, it is not generally considered to be commercially recoverable from those forms. The major source of commercial thallium is the trace amounts found in <elink ref="29">copper</elink>, <elink ref="82">lead</elink>, <elink ref="30">zinc</elink>, and other <elink ref="16">sulfide</elink> ores.</ptxt>
+			<ptxt>Thallium is found in the minerals crookesite TlCu<sub>7</sub>Se<sub>4</sub>, hutchinsonite TlPbAs<sub>5</sub>S<sub>9</sub>, and lorandite TlAsS<sub>2</sub>. It also occurs as trace in pyrites and extracted as a by-product of roasting this ore for sulfuric acid production. The metal can be obtained from the smelting of <elink ref="82">lead</elink> and <elink ref="30">zinc</elink> rich ores. <elink ref="25">Manganese</elink> nodules found on the ocean floor also contain thallium but nodule extraction is prohibitively expensive and potentially environmentally destructive. In addition, several other thallium minerals, containing 16% to 60% thallium, occur in nature as sulfide or selenide complexes with <elink ref="51">antimony</elink>, <elink ref="33">arsenic</elink>, <elink ref="29">copper</elink>, <elink ref="82">lead</elink>, and <elink ref="47">silver</elink> but are rare and have no commercial importance as sources of this element.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="082" type="5">
+	<an>82</an>
+	<name allotrope="n" spectra="y">Lead</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Native lead does occur in nature, but it is rare. Currently lead is usually found in ore with <elink ref="30">zinc</elink>, <elink ref="47">silver</elink> and (most abundantly) <elink ref="29">copper</elink>, and is extracted together with these metals. The main lead mineral is galena (PbS), which contains 86.6% lead. Other common varieties are cerussite (PbCO<sub>3</sub>) and anglesite (PbSO<sub>4</sub>). The largest current source of lead, however, is recycling, primarily of automobile batteries.</ptxt>
+			<ptxt>In mining, the ore is extracted by drilling or blasting and then is crushed and ground. The ore is then treated using extractive metallurgy. The Froth flotation process separates the lead and other minerals from the waste rock (tailings) to form a concentrate. The concentrate, which can range from 50% to 60% lead, is dried and then treated using pyrometallurgy. The concentrate is sintered before being smelted in to produce a 97% lead concentrate. The lead is then cooled in stages which causes the lighter impurites (dross) to rise to the surface where they can be removed. The molten lead bullion is then refined by additional smelting with air being passed over the lead to form a slag layer containing any remaining impurities and producing 99.9% pure lead.</ptxt>
+			<ptxt>Lead ore (galena) is found commonly in north-east Wales. The North-east Wales Orefield was by far the most important source of lead and <elink ref="30">zinc</elink> in Wales and second in national importance only to the North Pennine Orefield. Lead mining dates back to at least Roman times and continued until well into the 20th century. Galena can be found today in the spoil heaps associated with mining activity. Galena is present in steeply-dipping fissure veins and in pipes and is in Mississippi Valley-type lead-zinc-fluorite and copper-dolomite associations. The mineralisation occurs in the upper parts of the Loggerheads and Cefn Mawr Formations of the Carboniferous Limestone.</ptxt>
+			<ptxt>In 2005, <slink ref="CN">China</slink> produced almost one-third of the global mined output of lead closely followed by <slink ref="AU">Australia</slink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="083" type="5">
+	<an>83</an>
+	<name allotrope="n" spectra="y">Bismuth</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>In the Earth's crust, bismuth is about twice as abundant as <elink ref="79">gold</elink>. It is not usually economical to mine it as a primary product. Rather, it is usually produced as a byproduct of the processing of other metal ores, especially <elink ref="82">lead</elink>, but also <elink ref="74">tungsten</elink> or other metal <glink ref="alloy">alloys</glink>.</ptxt>
+			<ptxt>The most important ores of bismuth are bismuthinite and bismite. In 2005, <slink ref="CN">China</slink> was the top producer of bismuth with at least 40% world share followed by <slink ref="MX">Mexico</slink> and <slink ref="PE">Peru</slink> reports the British Geological Survey.</ptxt>
+			<ptxt>The average price for bismuth in 2000 was US$ 7.70 per kilogram. It is relatively cheap, since like <elink ref="82">lead</elink> (but to a much lesser extent), it is radiogenic, being formed from the natural decay of <elink ref="92">uranium</elink> and <elink ref="90">thorium</elink> (specifically, by way of <elink ref="93">neptunium-237</elink> or <elink ref="92">uranium-233</elink>).</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="084" type="0">
+	<an>84</an>
+	<name allotrope="n" spectra="y">Polonium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Polonium is a very rare element in nature because of the short <glink ref="hl">half-life</glink> of all its <glink ref="isotope">isotopes</glink>. It is found in <elink ref="92">uranium</elink> ores at about 100 micrograms per metric ton (1 part in 10<sup>10</sup>), which is approximately 0.2% of the abundance of <elink ref="88">radium</elink>. The amounts in the Earth's crust are not harmful. Polonium has been found in tobacco smoke from tobacco leaves grown with phosphate fertilizers.</ptxt>
+			<ptxt>In 1934 an experiment showed that when natural <sup>209</sup>Bi is bombarded with <glink ref="neutron">neutrons</glink>, <sup>210</sup>Bi is created, which then decays to <sup>210</sup>Po via beta decay. Polonium may now be made in milligram amounts in this procedure which uses high <glink ref="neutron">neutron</glink> fluxes found in nuclear reactors. Only about 100 grams are produced each year, making polonium exceedingly rare.</ptxt>
+			<ptxt>It has been found that the longer lived <glink ref="isotope">isotopes</glink> of polonium can be formed by <glink ref="proton">proton</glink> bombardment of <elink ref="83">bismuth</elink> using a cyclotron. Other more <glink ref="neutron">neutron</glink> rich <glink ref="isotope">isotopes</glink> can be formed by the irradiation of <elink ref="78">platinum</elink> with <elink ref="6">carbon</elink> <glink ref="nucleus">nuclei</glink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="085" type="6">
+	<an>85</an>
+	<name allotrope="n" spectra="y">Astatine</name>
+	<isolation>
+		<method title="Natural Occurence">
+			<ptxt>Astatine is the rarest naturally-occurring element, with the total amount in Earth's crust estimated to be less than 1 oz (28 g) at any given time; this amounts to less than one teaspoon of the element. The Guinness Book of Records has dubbed the element the rarest on Earth, stating: "Only around 25g of the element astatine (At) occurring naturally"; Isaac Asimov, in a 1955 essay on large numbers, scientific notation, and the size of the <glink ref="atom">atom</glink>, wrote that in "all of North and South America to a depth of ten miles", the number of astatine atoms at any time was "only a trillion".</ptxt>
+			<ptxt>Its most stable <glink ref="isotope">isotope</glink> has a <glink ref="hl">half-life</glink> of around 8.3 hours. Also, when astatine finishes decaying it becomes an <glink ref="isotope">isotope</glink> of <elink ref="82">lead</elink>.</ptxt>
+		</method>
+		<method title="Synthesis">
+			<ptxt>Astatine is produced by bombarding <elink ref="83">bismuth</elink> with energetic alpha particles to obtain relatively long-lived <sup>209</sup>At - <sup>211</sup>At, which can then be distilled from the target by heating in the presence of air.</ptxt>
+		</method>		
+	</isolation>
+</element>
+
+<element media="y" index="086" type="7">
+	<an>86</an>
+	<name allotrope="n" spectra="y">Radon</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>On average, there is one atom of radon in 1 x 10<sup>21</sup> <glink ref="molecule">molecules</glink> of air. Radon can be found in some spring waters and hot springs. The towns of Misasa, <slink ref="JP">Japan</slink>, and Bad Kreuznach, <slink ref="DE">Germany</slink> boast <elink ref="88">radium</elink>-rich springs which emit radon.</ptxt>
+			<ptxt>Radon emanates naturally from the ground, particularly in certain regions, especially (but not only) regions with granitic soils. However, not all granitic regions are prone to high emissions of radon. Depending on how houses are built and ventilated, radon may accumulate in basements and dwellings. The highest average radon concentrations in counties in the US are found in Iowa and in the Appalachian Mountains areas in south-eastern Pennsylvania.</ptxt>
+			<ptxt>Radon, along with other noble gases <elink ref="36">krypton</elink> and <elink ref="54">xenon</elink>, is also produced during the operation of nuclear power plants. A small fraction of it leaks out of the fuel, through the cladding and into the cooling water, from which it is scavenged. It is then routed to a holdup tank where it remains for a large number of <glink ref="hl">half-lives</glink>. It is finally purged to the open air through a tall stack which is carefully monitored for radiation level.</ptxt>
+			<ptxt>The European Union recommends that action should be taken starting from concentrations of 400 Bq/m<sup>3</sup> for old houses and 200 Bq/m<sup>3</sup> for new ones. After publication of the North American and European Pooling Studies, Health Canada has proposed a new guideline that lowers their action level from 800 to 200 Bq/m<sup>3</sup>. The United States Environmental Protection Agency (EPA) strongly recommends action for any house with a concentration higher than 148 Bq/m<sup>3</sup> (given as 4 pCi/L), and encourages action starting at 74 Bq/m<sup>3</sup> (given as 2 pCi/L). EPA radon risk level tables including comparisons to other risks encountered in life are available in their citizen's guide. Nearly one in 15 homes in the U.S. has a high level of indoor radon according to their statistics. The U.S. Surgeon General and EPA recommend all homes be tested for radon. Since 1985, millions of homes have been tested for radon in the U.S.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="087" type="1">
+	<an>87</an>
+	<name allotrope="n" spectra="y">Francium</name>
+	<isolation>
+		<method title="Natural Occurrence">
+			<ptxt>Francium-223 is the result of the alpha decay of <elink ref="89">actinium-227</elink> and can be found in trace amounts in <elink ref="92">uranium</elink> and <elink ref="90">thorium</elink> minerals. In a given sample of <elink rer="92">uranium</elink>, there is estimated to be only one francium <glink ref="atom">atom</glink> for every 10<sup>18</sup> <elink ref="92">uranium</elink> atoms. It is also calculated that there is at most 30 g of francium in the Earth's crust at any time. This makes it the second rarest element in the crust after <elink ref="85">astatine</elink>.</ptxt>
+		</method>
+		<method title="Synthesis">
+			<ptxt>Francium can be synthesized in the nuclear reaction;</ptxt>
+			<ptxt><sup>197</sup>Au + <sup>18</sup>O <img type="arrow"/> <sup>210</sup>Fr + 5n</ptxt>
+			<ptxt>This process, developed by Stony Brook Physics, yields francium <glink ref="isotope">isotopes</glink> with masses of 209, 210, and 211, which are then isolated by the Magneto Optic Trap (MOT). Other synthesis methods include bombarding <elink ref="88">radium</elink> with <glink ref="neutron">neutrons</glink>, and bombarding <elink ref="90">thorium</elink> with <glink ref="proton">protons</glink>, deuterons, or <elink ref="2">helium</elink> <glink ref="ion">ions</glink>. No weighable amount of francium has been synthesized.</ptxt>
+		</method>		
+	</isolation>
+</element>
+
+<element media="y" index="088" type="4">
+	<an>88</an>
+	<name allotrope="n" spectra="y">Radium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Radium is a decay product of <elink ref="92">uranium</elink> and is therefore found in all uranium-bearing ores. Radium was originally acquired from pitchblende ore from Joachimsthal, Bohemia (One metric ton of pitchblende yields 0.0001 grams of radium). Carnotite sands in Colorado provide some of the element, but richer ores are found in the Democratic Republic of the Congo and the Great Lakes area of Canada, and can also be extracted from <elink ref="92">uranium</elink> processing waste. Large <elink ref="92">uranium</elink> deposits are located in Ontario, New Mexico, Utah, Virginia, <slink ref="AU">Australia</slink>, and in other places.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="089" type="10">
+	<an>89</an>
+	<name allotrope="n" spectra="y">Actinium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Actinium is found in trace amounts in uranium ore, but more commonly is made in milligram amounts by the neutron irradiation of <sup>226</sup>Ra in a nuclear reactor. Actinium metal has been prepared by the reduction of actinium fluoride with <elink ref="3">lithium</elink> vapour at about 1100 to 1300&degree;C.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="090" type="10">
+	<an>90</an>
+	<name allotrope="n" spectra="y">Thorium</name>
+	<isolation>
+		<method title="Occurrence and Extraction">
+			<ptxt>Thorium is found in small amounts in most rocks and soils, where it is about three times more abundant than <elink ref="92">uranium</elink>, and is about as common as <elink ref="82">lead</elink>. Soil commonly contains an average of around 12 parts per million (ppm) of thorium. Thorium occurs in several minerals, the most common being the rare earth-thorium-phosphate mineral, monazite, which contains up to about 12% thorium oxide. There are substantial deposits in several countries. <sup>232</sup>Th decays very slowly (its <glink ref="hl">half-life</glink> is about three times the age of the earth) but other thorium <glink ref="isotope">isotopes</glink> occur in the thorium and <elink ref="92">uranium</elink> decay chains. Most of these are short-lived and hence much more radioactive than <sup>232</sup>Th, though on a mass basis they are negligible. India is believed to have 25% of the world's Thorium reserves.</ptxt>
+			<ptxt>Thorium has been extracted chiefly from monazite through a multi-stage process. In the first stage, the monazite sand is dissolved in an inorganic acid such as sulfuric acid (H<sub>2</sub>SO<sub>4</sub>). In the second, the Thorium is extracted into an organic phase containing an amine. Next it is separated or "stripped" using an anion such as nitrate, chloride, hydroxide, or carbonate, returning the thorium to an aqueous phase. Finally, the thorium is precipitated and collected</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+<element media="y" index="091" type="10">
+	<an>91</an>
+	<name allotrope="n" spectra="y">Protactinium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Protactinium occurs in pitchblende to the extent of about 1 part <sup>231</sup>Pa to 10 million of ore. Some ores from the <slink ref="CD">Democratic Republic of the Congo</slink> have about 3 ppm.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="092" type="10">
+	<an>92</an>
+	<name allotrope="y">Uranium</name>
+	<isolation>
+		<method title="Occurrence">
+			<ptxt>Uranium is a naturally occurring element that can be found in low levels within all rock, soil, and water. Uranium is also the highest-numbered element to be found naturally in significant quantities on earth and is always found combined with other elements. Along with all elements having atomic weights higher than that of <elink ref="26">iron</elink>, it is only naturally formed in supernova explosions. The decay of uranium, <elink ref="90">thorium</elink> and <elink ref="19">potassium</elink>-40 in the Earth's mantle is thought to be the main source of heat that keeps the outer core liquid and drives mantle convection, which in turn drives plate tectonics.</ptxt>
+			<ptxt>Its average concentration in the Earth's crust is (depending on the reference) 2 to 4 parts per million, or about 40 times as abundant as <elink ref="47">silver</elink>. The Earth's crust from the surface to 25 km (15 mi) down is calculated to contain 10<sup>17</sup> kg of uranium while the oceans may contain 10<sup>13</sup> kg. The concentration of uranium in soil ranges from 0.7 to 11 parts per million (up to 15 parts per million in farmland soil due to use of phosphate fertilizers), and 3 parts per billion of sea water is composed of the element.</ptxt>
+			<ptxt>It is more plentiful than <elink ref="51">antimony</elink>, <elink ref="50">tin</elink>, <elink ref="48">cadmium</elink>, <elink ref="80">mercury</elink>, or <elink ref="47">silver</elink>, and it is about as abundant as arsenic or molybdenum. It is found in hundreds of minerals including uraninite (the most common uranium ore), autunite, uranophane, torbernite, and coffinite. Significant concentrations of uranium occur in some substances such as phosphate rock deposits, and minerals such as lignite, and monazite sands in uranium-rich ores (it is recovered commercially from these sources with as little as 0.1% uranium).</ptxt>
+			<ptxt>Citrobacter species can have concentrations of uranium in their bodies 300 times higher than in the surrounding environment.Some microorganisms, such as the lichen Trapelia involuta or the bacterium Citrobacter, can absorb concentrations of uranium that are up to 300 times higher than their environment. Citrobactor species absorb uranyl <glink ref="ion">ions</glink> when given glycerol phosphate (or other similar organic phosphates). After one day, one gram of bacteria will encrust themselves with nine grams of uranyl phosphate crystals; this creates the possibility that these organisms could be used to decontaminate uranium-polluted water.</ptxt>
+			<ptxt>Plants absorb some uranium from the soil they are rooted in. Dry weight concentrations of uranium in plants range from 5 to 60 parts per billion, and ash from burnt wood can have concentrations up to 4 parts per million. Dry weight concentrations of uranium in food plants are typically lower with one to two micrograms per day ingested through the food people eat.</ptxt>
+		</method>
+		<method title="Production and Mining">
+			<ptxt>Uranium ore is mined in several ways: by open pit, underground, or by in-situ leaching (see uranium mining). Low-grade uranium ore typically contains 0.1 to 0.25% of actual uranium oxides, so extensive measures must be employed to extract the metal from its ore. High-grade ores found in Athabasca Basin deposits in Saskatchewan, <slink ref="CA">Canada</slink> can contain up to 70% uranium oxides, and therefore must be diluted with waste rock prior to milling. Uranium ore is crushed and rendered into a fine powder and then leached with either an <glink ref="acid">acid</glink> or alkali. The leachate is then subjected to one of several sequences of precipitation, solvent extraction, and ion exchange. The resulting mixture, called yellowcake, contains at least 75% uranium oxides. Yellowcake is then calcined to remove impurities from the milling process prior to refining and conversion.</ptxt>
+			<ptxt>Commercial-grade uranium can be produced through the reduction of uranium halides with alkali or alkaline earth metals. Uranium metal can also be made through electrolysis of KUF<sub>5</sub> or UF<sub>4</sub>, dissolved in a molten <elink ref="20">calcium</elink> <elink ref="17">chloride</elink> (CaCl<sub>2</sub>) and <elink ref="11">sodium</elink> <elink ref="17">chloride</elink> (NaCl) solution. Very pure uranium can be produced through the thermal decomposition of uranium halides on a hot filament.</ptxt>
+		</method>
+		<method title="Availability">
+			<ptxt>It is estimated that there is 4.7 million tonnes of uranium ore reserves (economically mineable) known to exist, while 35 million tonnes are classed as mineral resources (reasonable prospects for eventual economic extraction). An additional 4.6 billion tonnes of uranium are estimated to be in sea water (Japanese scientists in the 1980s proved that extraction of uranium from sea water using ion exchangers was feasible).</ptxt>
+			<ptxt>Exploration for uranium is continuing to increase with US$200 million being spent world wide in 2005, a 54% increase on the previous year.</ptxt>
+			<ptxt><slink ref="AU">Australia</slink> has 38% of the world's uranium ore resources - the most of any country. In fact, the world's largest single uranium deposit is located at the Olympic Dam Mine in South <slink ref="AU">Australia</slink>. Almost all the uranium is exported, under strict International Atomic Energy Agency safeguards to satisfy the Australian people and government that none of the uranium is used in nuclear weapons. As of 2006, the Australian government was advocating an expansion of uranium mining, although issues with state governments and indigenous interests complicate the issue.</ptxt>
+			<ptxt>The largest single source of uranium ore in the <slink ref="US">United States</slink> was the Colorado Plateau located in Colorado, Utah, New Mexico, and Arizona. The U.S. federal government paid discovery bonuses and guaranteed purchase prices to anyone who found and delivered uranium ore, and was the sole legal purchaser of the uranium. The economic incentives resulted in a frenzy of exploration and mining activity throughout the Colorado Plateau from 1947 through 1959 that left thousands of miles of crudely graded roads spider-webbing the remote deserts of the Colorado Plateau, and thousands of abandoned uranium mines, exploratory shafts, and tailings piles. The frenzy ended as suddenly as it had begun, when the U.S. government stopped purchasing the uranium.</ptxt>						
+			<ptxt>In 2005, seventeen countries produced concentrated uranium oxides, with <slink ref="CA">Canada</slink> (27.9% of world production) and <slink ref="AU">Australia</slink> (22.8%) being the largest producers and <slink ref="KZ">Kazakhstan</slink> (10.5%), <slink ref="RU">Russia</slink> (8.0%), <slink ref="NA">Namibia</slink> (7.5%), <slink ref="NE">Niger</slink> (7.4%), <slink ref="UZ">Uzbekistan</slink> (5.5%), the <slink ref="US">United States</slink> (2.5%), <slink ref="UA">Ukraine</slink> (1.9%) and <slink ref="CN">China</slink> (1.7%) also producing significant amounts. The ultimate supply of uranium is believed to very large and sufficient for at least the next 85 years although some studies indicate underinvestment in the late twentieth century may produce supply problems in the 21st century. It is estimated that for a ten times increase in price, the supply of uranium that can be economically mined is increased 300 times.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="093" type="10">
+	<an>93</an>
+	<name allotrope="n" spectra="y">Neptunium</name>
+	<isolation>
+		<method title="Natural Occurrence">
+			<ptxt>Trace amounts of neptunium are found naturally as decay products from transmutation reactions in <elink ref="92">uranium</elink> ores. <sup>237</sup>Np is produced through the reduction of <sup>237</sup>NpF<sub>3</sub> with <elink ref="56">barium</elink> or <elink ref="3">lithium</elink> vapour at around 1200&degree;C and is most often extracted from spent nuclear fuel rods as a by-product in <elink ref="94">plutonium</elink> production.</ptxt>
+		</method>
+		<method title="Nuclear synthesis">
+			<ptxt>When an <sup>235</sup>U atom captures a <glink ref="neutron">neutron</glink>, it is converted to an excited state of <sup>236</sup>U. About 81% of the excited <sup>236</sup>U <glink ref="nucleus">nuclei</glink> undergo fission, but the remainder decay to the ground state of <sup>236</sup>U by emitting <glink ref="gr">gamma radiation</glink>. Further neutron capture creates <sup>237</sup>U which has a <glink ref="hl">half-life</glink> of 7 days and thus quickly decays to <sup>237</sup>Np.</ptxt>
+			<ptxt>* <sup>237</sup>U is also produced via an (n,2n) reaction with <sup>238</sup>U.</ptxt>
+			<ptxt>* <sup>237</sup>Np is the decay product of <sup>241</sup>Am.</ptxt>
+			<ptxt>Since nearly all neptunium is produced in this way or consists of <glink ref="isotope">isotopes</glink> which decay quickly, one gets nearly pure <sup>237</sup>Np by chemical separation of neptunium.</ptxt>
+		</method>		
+	</isolation>
+</element>
+
+<element media="y" index="094" type="10">
+	<an>94</an>
+	<name allotrope="y" spectra="y">Plutonium</name>
+	<isolation>
+		<method title="Occurence">
+			<ptxt>While almost all plutonium is manufactured synthetically, extremely tiny trace amounts are found naturally in <elink ref="92">uranium</elink> ores. These come about by a process of neutron capture by <sup>238</sup>U <glink ref="nucleus">nuclei</glink>, initially forming <sup>239</sup>U; two subsequent beta decays then form <sup>239</sup>Pu (with a <sup>239</sup>Np intermediary), which has a <glink ref="hl">half-life</glink> of 24,110 years. This is also the process used to manufacture <sup>239</sup>Pu in nuclear reactors. Some traces of <sup>244</sup>Pu remain from the birth of the solar system from the waste of supernovae, because its <glink ref="hl">half-life</glink> of 80 million years is fairly long.</ptxt>
+			<ptxt>A relatively high concentration of plutonium was discovered at the natural nuclear fission reactor in Oklo, Gabon in 1972. Since 1945, approximately 7700 kg has been released onto Earth through nuclear explosions.</ptxt>
+		</method>
+		<method title="Manufacture of Pu-240, Pu-241 and Pu-242">
+			<ptxt>The activation cross section for <sup>239</sup>Pu is 270 barns while the fission cross section is 747 barns for thermal neutrons. The higher plutonium <glink ref="isotope">isotopes</glink> are created when the <elink ref="92">uranium</elink> fuel is used for a long time. It is the case that for high burnup used fuel that the concentrations of the higher plutonium <glink ref="isotope">isotopes</glink> will be higher than the low burnup fuel which is reprocessed to obtain bomb grade plutonium.</ptxt>
+		</method>
+		<method title="Manufacture of Pu-239">
+			<ptxt>Plutonium-239 is one of the three fissile materials used for the production of nuclear weapons and in some nuclear reactors as a source of energy. The other fissile materials are <elink ref="92">uranium</elink>-235 and <elink ref="92">uranium</elink>-233. Plutonium-239 is virtually nonexistent in nature. It is made by bombarding <elink ref="92">uranium</elink>-238 with <glink ref="neutron">neutrons</glink> in a nuclear reactor. Uranium-238 is present in quantity in most reactor fuel; hence plutonium-239 is continuously made in these reactors. Since plutonium-239 can itself be split by neutrons to release energy, plutonium-239 provides a portion of the energy generation in a nuclear reactor.</ptxt>
+		</method>
+		<method title="Manufacture of Pu-238">
+			<ptxt>There are small amounts of Pu-238 in the plutonium of usual plutonium-producing reactors. However, isotopic separation would be quite expensive compared to another method: when a U-235 <glink ref="atom">atom</glink> captures a <glink ref="neutron">neutron</glink>, it is converted to an excited state of U-236. Some of the excited U-236 <glink ref="nucleus">nuclei</glink> undergo fission, but some decay to the ground state of U-236 by emitting <glink ref="gr">gamma radiation</glink>. Further neutron capture creates U-237 which has a <glink ref="hl">half-life</glink> of 7 days and thus quickly decays to Np-237. Since nearly all <elink ref="93">neptunium</elink> is produced in this way or consists of <glink ref="isotope">isotopes</glink> which decay quickly, one gets nearly pure Np-237 by chemical separation of neptunium. After this chemical separation, Np-237 is again irradiated by reactor neutrons to be converted to Np-238 which decays to Pu-238 with a <glink ref="hl">half-life</glink> of 2 days.</ptxt>
+		</method>		
+	</isolation>
+</element>
+
+<element media="y" index="095" type="10">
+	<an>95</an>
+	<name allotrope="n" spectra="y">Americium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Americium is produced by bombarding <elink ref="94">plutonium</elink>-239 with high energy <glink ref="neutron">neutrons</glink>. This formed <glink ref="94">plutonium</glink>-240, which was itself bombarded with <glink ref="neutron">neutrons</glink>. The <elink ref="94">plutonium</elink>-240 changed into <elink ref="94">plutonium</elink>-241, which then decayed into americium-241 through beta decay.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="096" type="10">
+	<an>96</an>
+	<name allotrope="n" spectra="y">Curium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Curium-242 (<glink ref="hl">half-life</glink> 163 days) and one free <glink ref="neutron">neutron</glink> were made by bombarding alpha particles (<elink ref="2">helium</elink> nuclei) onto a plutonium-239 target in the 60-inch cyclotron at Berkeley. Louis Werner and Isadore Perlman created a visible sample of curium-242 hydroxide at the University of California in 1947 by bombarding <elink ref="95">americium-241</elink> with <glink ref="neutron">neutrons</glink>. Curium was made in its elemental form in 1951 for the first time.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="097" type="10">
+	<an>97</an>
+	<name allotrope="n" spectra="y">Berkelium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>A cyclotron was used to bombard a milligram-sized target of <sup>241</sup>Am with alpha particles (<elink ref="2">helium</elink> nuclei) to produce <sup>243</sup>Bk (<glink ref="hl">half-life</glink> 4.5 hours) and two free <glink ref="neutron">neutrons</glink>. One of the longest lived <glink ref="isotope">isotopes</glink> of the element, <sup>249</sup>Bk (<glink ref="hl">half-life</glink> 330 days), was later synthesized by subjecting a <sup>244</sup>Cm target with an intense beam of <glink ref="neutrons">neutrons</glink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="098" type="10">
+	<an>98</an>
+	<name allotrope="n" spectra="y">Californium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Was first created by bombarding a microgram-sized target of <sup>242</sup>Cm with 35 MeV alpha particles (<elink ref="2">helium</elink> nuclei) in the 60-inch Berkeley cyclotron which produced atoms of <sup>245</sup>Cf (<glink ref="hl">half-life</glink> 44 minutes) and a single free <glink ref="neutron">neutron</glink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="099" type="10">
+	<an>99</an>
+	<name allotrope="n" spectra="y">Einsteinium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Einsteinium was first identified in December 1952 by <blink ref="ag">Albert Ghiorso</blink> at the University of California, Berkeley and another team headed by G.R. Choppin at Los Alamos National Laboratory. Both were examining debris from the first <elink ref="1">hydrogen</elink> bomb test of November 1952. They discovered the <glink ref="isotope">isotope</glink> <sup>253</sup>Es (<glink ref="hl">half-life</glink> 20.5 days) that was made by the nuclear fusion of 15 <glink ref="neutron">neutrons</glink> with <sup>238</sup>U (which then went through seven beta decays). These findings were kept secret until 1955 due to Cold War tensions, however.</ptxt>
+			<ptxt>In 1961, enough einsteinium was synthesized to prepare a microscopic amount of <sup>253</sup>Es. This sample weighed about 0.01 mg and was measured using a special balance. The material produced was used to produce <elink ref="101">mendelevium</elink>. Further einsteinium has been produced at the Oak Ridge National Laboratory's High Flux Isotope Reactor in Tennessee by bombarding <sup>239</sup>Pu with <glink ref="neutron">neutrons</glink>. Around 3 mg was created over a four year program of irradiation and then chemical separation from a starting 1 kg of <elink ref="94">plutonium</elink> <glink ref="isotope">isotope</glink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="100" type="10">
+	<an>100</an>
+	<name allotrope="n" spectra="n">Fermium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Fermium was first discovered by a team led by <blink ref="ag">Albert Ghiorso</blink> in 1952. The team found <sup>255</sup>Fm in the debris of the first <elink ref="1">hydrogen</elink> bomb explosion (see Operation Ivy). That <glink ref="isotope">isotope</glink> was created when <sup>238</sup>U combined with 17 <glink ref="neutron">neutrons</glink> in the intense temperature and pressure of the explosion (eight beta decays also occurred to create the element).</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+<element media="n" index="101" type="10">
+	<an>101</an>
+	<name allotrope="n" spectra="n">Mendelevium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt><sup>256</sup>Md (<glink ref="hl">half-life</glink> of 76 minutes) was produced when an <sup>253</sup>Es target was bombarded with alpha particles (<elink ref="2">helium</elink> <glink ref="nucleus">nuclei</glink>) in the Berkeley Radiation Laboratory's 60-inch cyclotron (<sup>256</sup>Md was the first element to be synthesized one-<glink ref="atom">atom</glink>-at-a-time).</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="102" type="10">
+	<an>102</an>
+	<name allotrope="n" spectra="n">Nobelium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>First produced in April 1958 at the University of California, Berkeley. The team used the new heavy-ion linear accelerator (HILAC) to bombard a <elink ref="96">curium</elink> target (95% <sup>244</sup>Cm and 4.5% <sup>246</sup>Cm) with <sup>12</sup>C <glink ref="ion">ions</glink> to make <sup>254</sup>No (<glink ref="hl">half-life</glink> 55 seconds). </ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="y" index="103" type="10">
+	<an>103</an>
+	<name allotrope="n" spectra="n">Lawrencium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>It was produced by bombarding a three milligram target composed of three <glink ref="isotope">isotopes</glink> of <elink ref="98">californium</elink> with <elink ref="5">boron-10</elink> and <elink ref="5">boron-11</elink> <glink ref="ion">ions</glink> in the Heavy Ion Linear Accelerator (HILAC), at the Lawrence Berkeley National Laboratory) on the University of California, Berkeley campus.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="104" type="8">
+	<an>104</an>
+	<name allotrope="n" spectra="n">Rutherfordium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Rutherfordium is created by bombarding <elink ref="94">plutonium-242</elink> with <elink ref="10">neon-22</elink> nuclei.</ptxt>
+			<ptxt>Although a <glink ref="hl">half-life</glink> was not accurately determined, later calculations indicated that the product was most likely rutherfordium-259.</ptxt>
+			<ptxt>In 1969, researchers at the University of California, Berkeley conclusively synthesized the element by bombarding a <elink ref="98">californium-249</elink> target with <elink ref="6">carbon-12</elink> <glink ref="ion">ions</glink> and measured the alpha decay of <sup>257</sup>Rf, correlated with the daughter decay of <elink ref="102">nobelium-253</elink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="105" type="8">
+	<an>105</an>
+	<name allotrope="n" spectra="n">Dubnium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Dubnium is created by bombarding <elink ref="95">americium-243</elink> with <elink ref="10">neon-22</elink> <glink ref="nucleus">nuclei</glink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="106" type="8">
+	<an>106</an>
+	<name allotrope="n" spectra="n">Seaborgium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Scientists working at the Joint Institute for Nuclear Research in Dubna, USSR reported their discovery of element 106 in June 1974.</ptxt>
+			<ptxt>Seaborgium is created by bombarding <elink ref="82">lead-207</elink> with <elink ref="24">chromium-54</elink> <glink ref="nucleus">nuclei</glink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="107" type="8">
+	<an>107</an>
+	<name allotrope="n" spectra="n">Bohrium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Bohrium was first created in 1982, at the Institute for Heavy Ion Research (Gesellschaft für Schwerionenforschung, <blink ref="hirl">GSI</blink>) in Darmstadt, Germany, by <blink ref="pa">Peter Armbruster</blink> and <blink ref="gm">Gottfried M&uuml;nzenberg</blink>.</ptxt>
+			<ptxt>Bohrium is created by bombarding <elink ref="83">bismuth-209</elink> with <elink ref="24">chromium-54</elink> <glink ref="nucleus">nuclei</glink>.</ptxt>
+			<ptxt>During the first experiment to synthesize bohrium, five atoms of bohrium-262 were detected.</ptxt>
+			<ptxt>This discovery was further substantiated by their detailed measurements of the alpha decay chain of the produced bohrium atoms to previously known isotopes of <elink ref="100">fermium</elink> and <elink ref="98">californium</elink>.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="108" type="8">
+	<an>108</an>
+	<name allotrope="n" spectra="n">Hassium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Hassium was first created in 1984, at the Institute for Heavy Ion Research (Gesellschaft für Schwerionenforschung, <blink ref="hirl">GSI</blink>) in Darmstadt, Germany, by <blink ref="pa">Peter Armbruster</blink> and <blink ref="gm">Gottfried M&uuml;nzenberg</blink>.</ptxt>
+			<ptxt>Hassium is created by bombarding <elink ref="82">lead-208</elink> with <elink ref="26">iron-58</elink> <glink ref="nucleus">nuclei</glink>.</ptxt>
+			<ptxt>During the first experiment to synthesize hassium, three atoms of hassium-265 were detected.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="109" type="8">
+	<an>109</an>
+	<name allotrope="n" spectra="n">Meitnerium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Meitnerium was first created on August 29, 1982, at the Institute for Heavy Ion Research (Gesellschaft für Schwerionenforschung, <blink ref="hirl">GSI</blink>) in Darmstadt, Germany, by <blink ref="pa">Peter Armbruster</blink> and <blink ref="gm">Gottfried M&uuml;nzenberg</blink>.</ptxt>
+			<ptxt>Meitnerium is created by bombarding <elink ref="83">bismuth-209</elink> with <elink ref="26">iron-58</elink> <glink ref="nucleus">nuclei</glink>.</ptxt>
+			<ptxt>During the first experiment to synthesize meitnerium, a single atom of meitnerium-266 was detected.</ptxt>
+			<ptxt><img type="109"/></ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="110" type="8">
+	<an>110</an>
+	<name allotrope="n" spectra="n">Darmstadtium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Darmstadtium was first created on November 9, 1994, at the Institute for Heavy Ion Research (Gesellschaft für Schwerionenforschung, <blink ref="hirl">GSI</blink>) in Darmstadt, Germany, by <blink ref="pa">Peter Armbruster</blink> and <blink ref="gm">Gottfried M&uuml;nzenberg</blink>, under the direction of Sigurd Hofmann.</ptxt>
+			<ptxt>Darmstadtium was created by bombarding <elink ref="82">lead-208</elink> with <elink ref="28">nickel-62</elink> atoms; by bombarding <elink ref="82">lead-208</elink> with <elink ref="28">nickel-64</elink> atoms; or by observing the decay of heavier elements.</ptxt>
+			<ptxt><img type="110"/></ptxt>
+		</method>
+	</isolation>
+</element>
+
+<!-- ============================================================================================ -->
+<!-- ============================================================================================ -->
+
+<element media="n" index="111" type="8">
+	<an>111</an>
+	<name allotrope="n" spectra="n">Roentgenium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Roentgenium is created by fusing a <elink ref="83">bismuth-209</elink> <glink ref="nucleus">nucleus</glink> with a <elink ref="28">nickel-64</elink> <glink ref="nucleus">nucleus</glink>. Roentgenium was first synthesised on the 8th December 1994, at <blink ref="gsi">GSI</blink>, where a single atom of the isotope Roentgenium-272 was created.</ptxt>
+			<ptxt><img type="111"/></ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="112" type="8">
+	<an>112</an>
+	<name allotrope="n" spectra="n">Copernicium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Copernicium was first created on February 9, 1996, at the Gesellschaft für Schwerionenforschung (<blink ref="hirl">GSI</blink>) in Darmstadt, Germany, by Sigurd Hofmann, Victor Ninov et al. This element was created by firing accelerated <elink ref="30">zinc-70</elink> <glink ref="nucleus">nuclei</glink> at a target made of <elink ref="82">lead-208</elink> <glink ref="nucleus">nuclei</glink> in a heavy ion accelerator. A single atom of copernicium was produced with a mass number of 277.</ptxt>			
+			<ptxt>In May 2000, the <blink ref="hirl">GSI</blink> successfully repeated the experiment to synthesize a further atom of copernicium-277. This reaction was repeated at <blink ref="riken">RIKEN</blink> using the Search for a Super-Heavy Element Using a Gas-Filled Recoil Separator set-up in 2004 and 2013 to synthesise three further atoms and confirm the decay data reported by the <blink ref="hirl">GSI</blink> team.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="113" type="8">
+	<an>113</an>
+	<name allotrope="n" spectra="n">Nihonium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>The first report of nihonium (ununtrium as it was known) was in August 2003, when it was identified as an alpha decay product of element 115, <elink ref="115">moscovium</elink>. These results were published on February 1, 2004, by a team composed of Russian scientists at Dubna (Joint Institute for Nuclear Research), and American scientists at the Lawrence Livermore National Laboratory.</ptxt>
+			<ptxt>On July 23, 2004, a team of Japanese scientists at <blink ref="riken">RIKEN</blink> bombarded a target of <elink ref="83">bismuth-209</elink> with accelerated nuclei of zinc-70 and detected a single atom of the isotope ununtrium-278. They published their results on September 28, 2004.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="114" type="8">
+	<an>114</an>
+	<name allotrope="n" spectra="n">Flerovium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Flerovium was first synthesized in December 1998 by a team of scientists at the Joint Institute for Nuclear Research (JINR) in Dubna, Russia, led by Yuri Oganessian, who bombarded a target of <elink ref="94">plutonium-244</elink> with accelerated nuclei of <elink ref="20">calcium-48</elink>.</ptxt>
+			<ptxt>A single atom of flerovium, decaying by alpha emission with a lifetime of 30.4 seconds, was detected. The decay energy measured was 9.71 MeV, giving an expected half-life of 2–23 s. This observation was assigned to the <glink ref="isotope">isotope</glink> flerovium-289 and was published in January 1999. The experiment was later repeated, but an <glink ref="isotope">isotope</glink> with these decay properties was never found again and hence the exact identity of this activity is unknown. It is possible that it was due to the metastable isomer <sup>289m</sup>Fl.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="115" type="8">
+	<an>115</an>
+	<name allotrope="n" spectra="n">Moscovium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Moscovium is created by bombarding <elink ref="95">americium</elink> atoms with <elink ref="20">calcium</elink> atoms.</ptxt>
+			<ptxt>The researchers on February 2nd 2004, in Physical Review C, stated that they bombarded <elink ref="95">americium-243</elink> with <elink ref="20">calcium-48</elink> ions to produce four atoms of moscovium. These atoms decayed by emission of alpha-particles to <elink ref="113">nihonium</elink> in approximately 100 milliseconds.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="116" type="8">
+	<an>116</an>
+	<name allotrope="n" spectra="n">Livermorium</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Livermorium was first synthesized on July 19, 2000, when scientists at Dubna (JINR) bombarded a <elink ref="96">curium-248</elink> target with accelerated <elink ref="20">calcium-48</elink> ions. A single atom was detected, decaying by alpha emission with decay energy 10.54 MeV to an <glink ref="isotope">isotope</glink> of <elink ref="114">flerovium</elink>. The results were published in December 2000.</ptxt>
+			<ptxt>The daughter <elink ref="114">flerovium</elink> <glink ref="isotope">isotope</glink> had properties matching those of a <elink ref="114">flerovium</elink> <glink ref="isotope">isotope</glink> first synthesized in June 1999, which was originally assigned to <sup>288</sup>Fl, implying an assignment of the parent livermorium <glink ref="isotope">isotope</glink> to <sup>292</sup>Lv. Later work in December 2002 indicated that the synthesized <elink ref="114">flerovium</elink> <glink ref="isotope">isotope</glink> was actually <sup>289</sup>Fl, and hence the assignment of the synthesized livermorium atom was correspondingly altered to <sup>293</sup>Lv.</ptxt>
+			<ptxt><img type="116"/></ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="117" type="8">
+	<an>117</an>
+	<name allotrope="n" spectra="n">Tennessine</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>Tennessine (then known as element 117 or ununseptium) was synthsised by bombarding <elink ref="97">berkelium-249</elink> atoms with <elink ref="20">calcium</elink> atoms.</ptxt>
+			<ptxt>The experiment to produce element 117 began on July 28, 2009. In January 2010, scientists at the Flerov Laboratory of Nuclear Reactions (in Russia) announced internally that they had detected the decay of a new element with atomic number 117 via two decay chains: one of an odd-odd <glink ref="isotope">isotope</glink> undergoing 6 alpha decays before spontaneous fission, and one of an odd-even <glink ref="isotope">isotope</glink> undergoing 3 alpha decays before fission. The obtained data from the experiment was sent to the Lawrence Livermore National Laboratory (in Livermore, California) for further analysis. On April 9, 2010, an official report was released in the journal Physical Review Letters identifying the isotopes as <sup>294</sup>Ts and <sup>293</sup>Ts, which were shown to have half-lives on the order of tens or hundreds of milliseconds.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+<element media="n" index="118" type="8">
+	<an>118</an>
+	<name allotrope="n" spectra="n">Oganesson</name>
+	<isolation>
+		<method title="Synthesis">
+			<ptxt>The element is created by fusing together <elink ref="98">californium</elink> and <elink ref="20">calcium</elink> atoms.</ptxt>
+			<ptxt><img type="118"/></ptxt>
+			<ptxt>On 9 October 2006, the researchers announced that they had indirectly detected a total of three (possibly four) nuclei of oganesson-294 (one or two in 2002 and two more in 2005) produced via collisions of californium-249 atoms and calcium-48 ions.</ptxt>
+		</method>
+	</isolation>
+</element>
+
+</isolationlist>

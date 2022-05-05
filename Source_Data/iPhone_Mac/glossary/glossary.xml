@@ -1,0 +1,1923 @@
+<?xml version="1.0"?>
+<!DOCTYPE xsl:stylesheet [<!ENTITY nbsp "&#160;"> <!ENTITY degree "&#176;">]>
+
+<glossaryitems>
+
+<glossary type="astop">
+	<title>A</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Absorption Spectrum</title>
+	<filename>aspectrum</filename>
+	<data>
+		<ptxt>A material's absorption spectrum shows the fraction of incident electromagnetic radiation absorbed by the material over a range of frequencies. An absorption spectrum is, in a sense, the opposite of an emission spectrum. Every chemical element has absorption lines at several particular wavelengths corresponding to the differences between the energy levels of its atomic orbitals. For example, an object that absorbs blue, green and yellow light will appear red when viewed under white light. Absorption spectra can therefore be used to identify elements present in a gas or liquid.</ptxt>
+		<ptxt>This method is used in deducing the presence of elements in stars and other gaseous objects which cannot be measured directly.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="espectrum">Emission Spectrum</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Abundance</title>
+	<filename>xa</filename>
+	<data>
+		<ptxt>Abundance in context of the Periodic Table Isotope pages refers to Natural Abundance; the prevalence of different <glink ref="isotope">isotopes</glink> of an element as found in Earth naturally. The weighted (by natural abundance) average mass of these <glink ref="isotope">isotopes</glink> is the atomic weight listed for the element in the periodic table. The abundance of an element varies from planet to planet.</ptxt>
+		<ptxt>Percent natural abundances refer to the relative proportions, expressed as percentages by number, in which the <glink ref="isotope">isotopes</glink> of an element are found in natural sources.</ptxt>
+		<ptxt>"Synthetic" refers to a synthetic <glink ref="isotope">isotope</glink>, that is, a radionuclide that is not found in nature: no natural process or mechanism exists which produces it, or it is so unstable that it decays away in a very short period of time. Examples include <elink ref="43">Technetium-95</elink> and <elink ref="61">Promethium-146</elink>. Many of these are found in, and harvested from, spent nuclear fuel assemblies. Some must be manufactured in particle accelerators.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Acid</title>
+	<filename>acid</filename>
+	<data>
+		<ptxt>An acid is traditionally considered any chemical <glink ref="compound">compound</glink> that when dissolved in water, gives a solution with a <glink ref="ph">pH</glink> of less than 7.</ptxt>
+		<ptxt>Generally, acids have the following chemical and physical properties: <b>Taste:</b> Acids generally are sour when dissolved in water. <b>Touch:</b> Acids produce a stinging feeling, particularly strong acids. <b>Reactivity:</b> Acids react aggressively with or corrode most metals. <b>Electrical conductivity:</b> Acids, while not normally ionic, are electrolytes.</ptxt>
+		<ptxt>Strong Acids; Hydrochloric Acid (HCl), Nitric Acid (HNO<sub>3</sub>) and Sulfuric Acid (H<sub>2</sub>SO<sub>4</sub>).</ptxt>
+		<ptxt>Common acids; <bi>Acetic acid</bi> (E260, C<sub>2</sub>H<sub>4</sub>O<sub>2</sub>) found in vinegar, <bi>Ascorbic acid</bi> (vitamin C, E300, C<sub>6</sub>H<sub>8</sub>O<sub>6</sub>) found in fruits, <bi>Carbonic acid</bi> (E290, H<sub>2</sub>CO<sub>3</sub>) found in carbonated soft drinks, <bi>Citric acid</bi> (E330, C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>) found in citrus fruits, <bi>Formic acid</bi> (E236, CH<sub>2</sub>O<sub>2</sub>HCOOH) found in bee and ant stings, <bi>Lactic acid</bi> (E270, C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>) found in dairy products such as yoghurt and sour milk, also is product of cellular fermentation, the reason muscles burn, <bi>Oxalic acid</bi> (C<sub>2</sub>H<sub>2</sub>O<sub>4</sub>) found in spinach and rhubarb, <bi>Pectic acid</bi> (C<sub>17</sub>H<sub>24</sub>O<sub>16</sub>) found in fruits and some vegetables, <bi>Sorbic acid</bi> (E200, C<sub>6</sub>H<sub>8</sub>O<sub>2</sub>) found in foods and drinks, <bi>Stearic acid</bi> (E570, C<sub>18</sub>H<sub>36</sub>O<sub>2</sub>), a type of fatty acid that comes from many animal and vegetable fats and oils, <bi>Tannic acid</bi> (C<sub>76</sub>H<sub>52</sub>O<sub>46</sub>) found in tea and Tartaric acid (E334, C<sub>4</sub>H<sub>6</sub>O<sub>6</sub>) found in grapes.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="base">Base</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Actinides</title>
+	<filename>actinides</filename>
+	<data>
+		<ptxt>IUPAC currently recommends the name actinoid rather than actinide. The suffix "-ide" generally indicates negative <glink ref="ion">ions</glink> whereas the suffix "-oid" indicates similarity to one of the members of the containing family of elements.</ptxt>
+		<ptxt>The fourteen <glink ref="element">elements</glink> in the bottom row of the inner-transition elements of the <glink ref="pt">periodic table</glink> that follow the element <elink ref="89">Actinium (Ac #89)</elink>. Some reference sources include <elink ref="89">actinium</elink> in this series others do not. For these elements the 5f orbital is the filling orbital. This series is a sub-series of the <glink ref="tm">transition metals</glink>. All actinides are radioactive.</ptxt>
+		<ptxt>Only <elink ref="90">thorium</elink> and <elink ref="93">uranium</elink> occur naturally in the earth's crust in anything more than trace quantities. <elink ref="93">Neptunium</elink> and <elink ref="94">plutonium</elink> have been known to show up naturally in trace amounts in <elink ref="92">uranium</elink> ores as a result of decay or bombardment. The remaining actinides were discovered in nuclear fallout, or were synthesized in particle colliders. The latter half of the series possess exceedingly short <glink ref="hl">half-lives</glink>.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="actinoids">Actinoids</glink>, <glink ref="transactinides">Transactinides</glink> and <glink ref="ree">Rare Earth Elements</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Actinoids</title>
+	<filename>actinoids</filename>
+	<data>
+		<ptxt>The fourteen <glink ref="element">elements</glink> in the bottom row of the inner-transition elements of the <glink ref="pt">periodic table</glink> that follow the element <elink ref="89">Actinium (Ac #89)</elink>. Some reference sources include <elink ref="89">actinium</elink> in this series others do not. For these elements the 5f orbital is the filling orbital. This series is a sub-series of the <glink ref="tm">transition metals</glink>. All actinoids are radioactive.</ptxt>
+		<ptxt>Only <elink ref="90">thorium</elink> and <elink ref="93">uranium</elink> occur naturally in the earth's crust in anything more than trace quantities. <elink ref="93">Neptunium</elink> and <elink ref="94">plutonium</elink> have been known to show up naturally in trace amounts in <elink ref="92">uranium</elink> ores as a result of decay or bombardment. The remaining actinoids were discovered in nuclear fallout, or were synthesized in particle colliders. The latter half of the series possess exceedingly short <glink ref="hl">half-lives</glink>.</ptxt>
+		<ptext>The Actinoid series was previously known as the Actinide series. IUPAC currently recommends the name actinoid rather than actinide, as the suffix "-ide" generally indicates negative <glink ref="ion">ions</glink> whereas the suffix "-oid" indicates similarity to one of the members of the containing family of elements.</ptext>
+	</data>
+	<seealso>
+		<ptxt><glink ref="transactinides">Transactinides</glink> and <glink ref="ree">Rare Earth Elements</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Air</title>
+	<filename>air</filename>
+	<data>
+		<ptxt>Earth's atmosphere is a layer of gases surrounding the planet Earth and retained by the Earth's gravity. It contains roughly 78% <elink ref="7">nitrogen</elink> and 21% <elink ref="8">oxygen</elink>, trace amounts of other gases, and water vapour. This mixture of gases is commonly known as air. The atmosphere protects life on Earth by absorbing ultraviolet solar radiation and reducing <glink ref="temp">temperature</glink> extremes between day and night.</ptxt>
+		<ptxt>The atmosphere has no abrupt cut-off. It slowly becomes thinner and fades away into space. There is no definite boundary between the atmosphere and outer space. Three-quarters of the atmosphere's mass is within 11 km of the planetary surface. In the United States, persons who travel above an altitude of 50.0 miles (80.5 km) are designated as astronauts. An altitude of 120 km (75 mi or 400,000 ft) marks the boundary where atmospheric effects become noticeable during re-entry. The Karman line, at 100 km (62 mi), is also frequently used as the boundary between atmosphere and space.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Aliphatic</title>
+	<filename>aliphatic</filename>
+	<data>
+		<ptxt>An organic <glink ref="compound">compound</glink> that does not contain ring structures.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Alkali Metal (alkaline-earth metals)</title>
+	<filename>aem</filename>
+	<data>
+		<ptxt>Elements in the second column (from the left) of the <glink ref="pt">periodic table</glink> all fall into this series. These elements are in general white, differing by shades of colour or casts; they are malleable, extrudable and machinable. These elements may be made into rods, wire or plate. Also, these elements are less reactive than the <glink ref="alkalimetal">alkali metals</glink> and have higher <glink ref="mp">melting points</glink> and <glink ref="bp">boiling points</glink>.</ptxt>
+		<ptxt>The alkaline earth metals are silvery coloured, soft, low-density metals, which react readily with <glink ref="halogens">halogens</glink> to form ionic salts, and with water, though not as rapidly as the alkali metals, to form strongly alkaline (basic) hydroxides. For example, where <elink ref="11">sodium</elink> and <elink ref="19">potassium</elink> react with water at room temperature, magnesium reacts only with steam and <elink ref="20">calcium</elink> with hot water.</ptxt>
+		<ptxt>All the alkaline earth metals have two <glink ref="electron">electrons</glink> in their outermost shell, so the energetically preferred state of achieving a filled <glink ref="electron">electron</glink> shell is to lose two <glink ref="electron">electrons</glink> to form doubly charged positive <glink ref="ion">ions</glink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Alkali Metal</title>
+	<filename>alkalimetal</filename>
+	<data>
+		<ptxt>A metal in the first column of the periodic table (i.e., <elink ref="3">lithium</elink>, <elink ref="11">sodium</elink>, <elink ref="19">potassium</elink>, <elink ref="37">rubidium</elink>, <elink ref="55">caesium</elink> and <elink ref="87">francium</elink>). With the exception of <elink ref="87">francium</elink>, these metals are all soft and silvery.</ptxt>
+		<ptxt>They may be readily fused and volatilized with their <glink ref="mp">melting</glink> and <glink ref="bp">boiling</glink> points becoming lower with increasing <glink ref="am">atomic mass</glink>. They are the strongest electropositive metals. These elements react vigorously, even violently with water.</ptxt>
+		<ptxt>The alkali metals are silver-colored (<elink ref="55">caesium</elink> has a golden tinge), soft, low-density metals, which react readily with <glink ref="halogens">halogens</glink> to form ionic salts, and with water to form strongly alkaline (basic) hydroxides. These elements all have one electron in their outermost shell, so the energetically preferred state of achieving a filled electron shell is to lose one electron to form a singly charged positive <glink ref="ion">ion</glink>, or <glink ref="cation">cation</glink>.</ptxt>
+		<ptxt><elink ref="1">Hydrogen</elink>, with a solitary <glink ref="electron">electron</glink>, is usually placed at the top of Group 1 of the <glink ref="pt">periodic table</glink>, but it is not considered an alkali metal; rather it exists naturally as a diatomic gas. Removal of its single electron requires considerably more energy than removal of the outer <glink ref="electron">electron</glink> for the alkali metals. As in the <glink ref="halogens">halogens</glink>, only one additional <glink ref="electron">electron</glink> is required to fill in the outermost shell of the <elink ref="1">hydrogen</elink> <glink ref="atom">atom</glink>, so <elink ref="1">hydrogen</elink> can in some circumstances behave like a <glink ref="halogens">halogen</glink>, forming the negative hydride <glink ref="ion">ion</glink>. Binary compounds of hydride with the alkali metals and some transition metals have been prepared. Under extremely high pressure, such as is found at the core of Jupiter, <elink ref="1">hydrogen</elink> does become metallic and behaves like an alkali metal</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Allobar</title>
+	<filename>allobar</filename>
+	<data>
+		<ptxt>A form of an element that has isotopic abundances that are different from the naturally occuring form.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Allotrope</title>
+	<filename>allotrope</filename>
+	<data>
+		<ptxt>An allotrope is a variant of a substance consisting of only one type of <glink ref="atom">atom</glink>. It is a new molecular configuration, with new physical properties. Allotropes of a given substance will often have substantial differences between each other. Generally one allotrope will be far more abundant than another.</ptxt>
+		<ptxt><elink ref="8">Oxygen</elink> has three known allotropes, O<sub>2</sub> which is far more abundant than O<sub>3</sub>, ozone and O<sub>4</sub>, tetraoxygen.</ptxt>
+		<ptxt><elink ref="15">Phosphorous</elink> comes in at least 3 allotropic forms; red, black (or purple, or violet), white (or yellow). Red and white <elink ref="15">phosphorous</elink> are the most common, both of which consist of tetrahedrally arranged groups of four phosphorous. The tetrahedral arrangements in red phosphorous are linked into chains, whereas those in white phosphorous are separate. Black phosphorous is arranged in 2-dimensional hexagonal sheets, much like graphite. White prosphorous reacts immediately to the air, oxiding and producing phosphorus pentoxide.</ptxt>
+		<ptxt><elink ref="6">Carbon</elink> is the substance with the greatest number of allotropes, with 8 discovered so far. It possesses allotropes most radically different from one another, ranging from soft to hard, opaque to transparent, abrasive to smooth, inexpensive to costly. These allotropes include the amorphous <elink ref="6">carbon</elink> allotrope, carbon nanofoam, carbon nanotube, the diamond allotrope, fullerene allotrope, graphite, lonsdaleite, and ceraphite allotrope. Coal and soot are both forms of amorphous carbon, one of the most common carbon allotropes. Diamond is an allotrope in which atoms are linked in a 3-D crystalline network of covalent carbon bonds. Diamond, of course, is both very expensive, rare, and strong. Carbon fullerenes are among the strongest and lightest materials known. Carbon nanofoam has an extremely low density, only a few times heavier than air.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="isotrope">Isotope</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Alloy</title>
+	<filename>alloy</filename>
+	<data>
+		<ptxt>An alloy is a combination, either in solution or compound, of two or more elements, at least one of which is a metal, and where the resulting material has metallic properties. An alloy with two components is called a binary alloy; one with three is a ternary alloy; one with four is a quaternary alloy. The resulting metallic substance generally has properties significantly different from those of its components.</ptxt>
+		<ptxt>Alloys are usually designed to have properties that are more desirable than those of their components. For instance, steel is stronger than iron, one of its main elements. It 'inherits' some of the characteristics of the elements it was made from, usually physical properties like density, reactivity and electrical and thermal conductivity. However, its engineering properties (Tensile strength, <glink ref="youngsm">Young's modulus</glink>, shear strength) can be vastly different from its constituent materials. Among other factors, this is due to the differing sizes of the atoms in the alloy - larger <glink ref="atom">atoms</glink> exert a compressive force on neighbouring <glink ref="atom">atoms</glink>, and smaller <glink ref="atom">atoms</glink> will exert a tensile force on their neighbours. Unlike a pure metal, where the atoms are more free to move, this helps the alloy resist deformation.</ptxt>
+		<ptxt>Unlike pure metals, most alloys do not have a single <glink ref="mp">melting point</glink>. Instead, they have a melting range in which the material is a mixture of solid and liquid phases. The temperature at which melting begins is called the solidus, and that at which melting is complete is called the liquidus. However, for most pairs of elements, there is a particular ratio which has a single melting point, and this is called a eutectic mixture.</ptxt>
+		<ptxt>In practice, some alloys are used so predominantly with respect to their base metals that the name of the primary constituent is also used as the name of the alloy. For example, 14 carat (58%) gold is an alloy of <elink ref="79">gold</elink> with other <glink ref="element">elements</glink>. Similarly, the <elink ref="47">silver</elink> used in jewellery and the <elink ref="13">aluminium</elink> used as a structural building material are also alloys.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Alpha Decay</title>
+	<filename>decay_a</filename>
+	<data>
+		<ptxt>Alpha decay is one process that unstable atoms can use to become more stable. During alpha decay, an atom's nucleus sheds two <glink ref="proton">protons</glink> and two <glink ref="neutron">neutrons</glink> in a packet that scientists call an alpha particle.</ptxt>
+		<ptxt>Since an atom loses two <glink ref="proton">protons</glink> during alpha decay, it changes from one element to another. For example, after undergoing alpha decay, an atom of <elink ref="92">uranium</elink> (with 92 protons) becomes an atom of <elink ref="90">thorium</elink> (with 90 <glink ref="proton">protons</glink>).</ptxt>
+		<ptxt>Alpha decay is a form of radioactive decay in which an atomic <elink ref="nucleus">nucleus</elink> ejects an alpha particle through the electromagnetic force and transforms into a <elink ref="nucleus">nucleus</elink> with mass number 4 less and <glink ref="an">atomic number</glink> 2 less. For example:</ptxt>
+		<ptxt><image ref="decay_a1" /></ptxt>
+		<ptxt>this is usually written as;</ptxt>
+		<ptxt><image ref="decay_a2" /></ptxt>
+		<ptxt>Note that an alpha particle IS a <elink ref="2">helium</elink> nucleus, and that both mass number and <glink ref="an">atomic number</glink> are conserved. Alpha decay can essentially be thought of as nuclear fission where the parent <elink ref="nucleus">nucleus</elink> splits into two daughter <glink ref="nucleus">nuclei</glink>. Alpha decay is fundamentally a quantum tunneling process. Unlike beta decay, alpha decay is governed by the strong nuclear force.</ptxt>
+		<ptxt>Alpha particles with their typical kinetic energy of 5 <glink ref="ev">MeV</glink> have a speed of 15,000 km/s.</ptxt>
+		<ptxt>Because of alpha decay, virtually all of the <elink ref="2">helium</elink> produced in the United States and elsewhere comes from trapped underground deposits associated with minerals containing <elink ref="92">uranium</elink> or <elink ref="90">thorium</elink>, and brought to the surface as a by-product of natural gas production.</ptxt>
+		<ptxt>Alpha particles emitted by radioactive <glink ref="nucleus">nuclei</glink> are among the most hazardous forms of <glink ref="radiation">radiation</glink>, if these <glink ref="nucleus">nuclei</glink> are incorporated within a human body. As any heavy <glink ref="atc">charged</glink> particle, alpha particles lose their energy within a very short distance in dense media, causing significant damage to surrounding biomolecules. On the other hand, external alpha irradiation is not harmful because alpha particles are completely absorbed by a very thin (micrometers) dead layer of skin as well as by few centimeters of air. However, if a substance radiating alpha particles is injected, ingested or inhaled by an organism it may become a risk, potentially inflicting very serious damage to the organisms' genetic makeup.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Amalgam</title>
+	<filename>amalgam</filename>
+	<data>
+		<ptxt>An <glink ref="alloy">alloy</glink> that contains <elink ref="80">mercury</elink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Amorphous</title>
+	<filename>amorphous</filename>
+	<data>
+		<ptxt>A solid that does not have a repeating, regular three-dimensional arrangement of <glink ref="atom">atoms</glink>, <glink ref="molecule">molecules</glink>, or <glink ref="ion">ions</glink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Amphoteric</title>
+	<filename>amphoteric</filename>
+	<data>
+		<ptxt>A substance that can act as either an <glink ref="acid">acid</glink> or a <glink ref="base">base</glink> in a reaction.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Anhydrous</title>
+	<filename>anhydrous</filename>
+	<data>
+		<ptxt>A substance is said to be anhydrous if it contains no water.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Anion</title>
+	<filename>anion</filename>
+	<data>
+		<ptxt>A negatively charged <glink ref="ion">ion</glink>.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="atc">Atomic Charge</glink> and <glink ref="cation">Cation</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Anode</title>
+	<filename>anode</filename>
+	<data>
+		<ptxt>An electrode through which positive electic current flows in.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="cathode">Cathode</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Angstrom</title>
+	<filename>angstrom</filename>
+	<data>
+		<ptxt>A unit of length used to express wavelenghts of light, molecular sizes and bond lengths. 1 angstrom = 10<sup>-10</sup> metres.</ptxt>
+		<ptxt>The angstrom is not an SI unit but can still be seen in use.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Antiproton</title>
+	<filename>antiproton</filename>
+	<data>
+		<ptxt>The antiproton is the antiparticle of the <glink ref="proton">proton</glink>. Antiprotons are stable, but they are typically short-lived since any collision with a proton will cause both particles to be annihilated in a burst of energy. It was discovered in 1955 by University of California, Berkeley physicists Emilio Segre and Owen Chamberlain, for which they were awarded the 1959 Nobel Prize in Physics.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="antimatter">Antimatter</glink> and <glink ref="positron">Positron</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Antimatter</title>
+	<filename>antimatter</filename>
+	<data>
+		<ptxt>A species of subatomic particles that have the same mass and spin as normal particles, however, they have opposite electrical charges from their normal matter counterparts. In the case of antineutrons they are opposite of <glink ref="neutron">neutrons</glink> in magnetic moment. Positrons, which are the counterpart to <glink ref="electron">electrons</glink>, have a positive charge and antiprotons have a negative charge. <glink ref="photon">Photons</glink> are their own antimatter counterpart. When a particle of matter collides with a particle of antimatter, both particles are destroyed and their masses are converted to photons of equivalent energy.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="positron">Positron</glink> and <glink ref="antiproton">Antiproton</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Anti-Neutrino</title>
+	<filename>aneutrino</filename>
+	<data>
+		<ptxt>In physics, antineutrinos, the antiparticles of <glink ref="neutrino">neutrinos</glink>, are neutral particles produced in nuclear beta decay. They are part of the lepton family of particles. Antineutrinos interact with other matter only through the gravitational and weak nuclear forces, making them very difficult to detect experimentally. Neutrino oscillation experiments indicate that antineutrinos have mass, but beta decay experiments constrain that mass to be very small.</ptxt>
+		<ptxt>There are three known types (flavours) of antineutrino: electron antineutrino, muon antineutrino and tau antineutrino;</ptxt>
+		<ptxt><image ref="aneutrino1" /></ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Aqua regia</title>
+	<filename>aquaregia</filename>
+	<data>
+		<ptxt>(Latin: royal water)</ptxt>
+		<ptxt>Aqua regia is a higly corrosive, fuming yellow or red solution. It is a mixture of (usually) 1 part nitric acid (HNO<sub>3</sub>) to three parts hydrochloric acid (HCl). It is one of the few <glink ref="reagent">reagent</glink>s that can dissolve <elink ref="79">gold</elink> and <elink ref="78">platinum</elink>.</ptxt>
+		<ptxt>Aqua regia is itself very corrosive and has been implicated in several explosions as well due to mishandling and it should not be used unless gentler cleaning techniques are inadequate.</ptxt>
+		<ptxt>Due to the reaction between its components resulting in its decomposition, aqua regia quickly loses its effectiveness. As such, its components should only be mixed immediately before use.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="acid">Acid</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Aromatic</title>
+	<filename>aromatic</filename>
+	<data>
+		<ptxt>A <glink ref="compound">compound</glink> containing an aromatic ring (An exceptionally stable planar ring of <glink ref="atom">atoms</glink> with resonance structures that consist of alternating double and single bonds). Aromatic <glink ref="compound">compounds</glink> have strong, characteristic odours; such as benzene C<sub>6</sub>H<sub>6</sub>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Atom</title>
+	<filename>atom</filename>
+	<data>
+		<ptxt>The smallest possible unit of matter that still maintains an element's identity during chemical reactions. Atoms contain one or more <glink ref="proton">protons</glink> and <glink ref="neutron">neutrons</glink> (except <elink ref="1">hydrogen (H)</elink>, which normally contains no <glink ref="neutron">neutrons</glink>) in a <glink ref="nucleus">nucleus</glink> around which one or more <glink ref="electron">electrons</glink> revolve.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="ion">Ion</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Atomic Charge</title>
+	<filename>atc</filename>
+	<data>
+		<ptxt>Since the number of <glink ref="proton">protons</glink> (positive charges) always equals the number of <glink ref="electron">electrons</glink> (negative charges) in an <glink ref="atom">atom</glink>, positive charges equal negative charges and atoms in the elemental state have no charge. Only when an atom takes an <glink ref="electron">electron</glink> from another atom does the particle become charged. This charged form of the atom is known as an <glink ref="ion">ion</glink>.</ptxt>
+		<ptxt>Positively charged ions are called <glink ref="cation">cations</glink>, and negatively charged <glink ref="ion">ions</glink> are called <glink ref="anion">anions</glink>. For instance, when <elink ref="17">chlorine</elink> accepts an <glink ref="electron">electron</glink> from <elink ref="11">sodium</elink>, the <elink ref="11">sodium</elink> <glink ref="ion">ion</glink> that is formed will have one more <glink ref="proton">proton</glink> than electrons. It will therefore have a positive charge and be called a <glink ref="cation">cation</glink>. The <elink ref="17">chlorine</elink> (or chloride) <glink ref="ion">ion</glink> will have one more <glink ref="glink">electron</glink> than <glink ref="proton">protons</glink>. It will take on a negative charge and be called an <glink ref="anion">anion</glink>. The compound formed by this transfer of electrons is <elink ref="11">sodium</elink> chloride or table salt, which is nothing like the highly reactive <elink ref="11">sodium</elink> or extremely poisonous <elink ref="17">chlorine</elink> from which it was formed.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="anion">Anion</glink>, <glink ref="cation">Cation</glink> and <glink ref="cation">Ion</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Atomic Mass</title>
+	<filename>am</filename>
+	<data>
+		<ptxt>An atomic weight (relative atomic mass) of an element from a specified source is the ratio of the average mass per <glink ref="atom">atom</glink> of the element to 1/12 of the mass of <sup>12</sup>C in its nuclear and electronic ground state.</ptxt>
+		<ptxt>A sample of any element consists of one or more <glink ref="isotope">isotopes</glink> of that element. Each <glink ref="isotope">isotope</glink> is a different weight. The relative amounts of each <glink ref="isotope">isotope</glink> for any element represents the <glink ref="isotope">isotope</glink> distribution for that element. The atomic weight is the average of the <glink ref="isotope">isotope</glink> weights weighted for the <glink ref="isotope">isotope</glink> distribution and expressed on the <sup>12</sup>C scale as mentioned above.</ptxt>
+		<ptxt>The standard atomic weights apply to the elements as they exist naturally on Earth, and the uncertainties take into account the isotopic variation found in most laboratory samples.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Atomic mass unit (amu, u)</title>
+	<filename>amu</filename>
+	<data>
+		<ptxt>A unit of mass equal to 1/12 the mass of a carbon-12 nucleus, which is 1.66053873 x 10<sup>-27</sup> kg (with an uncertainty of 0.00000013 x 10<sup>-27</sup> kg.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Atomic Number (Z)</title>
+	<filename>an</filename>
+	<data>
+		<ptxt>The atomic number is equal to the number of <glink ref="proton">protons</glink> in an atom's <glink ref="nucleus">nucleus</glink>. The atomic number determines which <glink ref="element">element</glink> an <glink ref="atom">atom</glink> is. For example, any <glink ref="atom">atom</glink> that contains exactly 47 <glink ref="proton">protons</glink> in its <glink ref="nucleus">nucleus</glink> is an atom of <elink ref="47">silver</elink>.</ptxt>
+		<ptxt>The number of <glink ref="neutron">neutrons</glink> in atom can change, when this happens it is said to be a different <glink ref="isotope">isotope</glink> of the element.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="massn">Mass Number</glink>.</ptxt>
+	</seealso>	
+</glossary>
+
+<glossary type="entry">
+	<title>Atomic Radius</title>
+	<filename>ar</filename>
+	<data>
+		<ptxt>One half the distance between <glink ref="nucleus">nuclei</glink> of <glink ref="atom">atoms</glink> of the same element, when the atoms are bound by a single covalent bond or are in a metallic crystal. The radius of atoms obtained from covalent bond lengths is called the covalent radius; the radius from interatomic distances in metallic crystals is called the metallic radius.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Avogadro's Constant</title>
+	<filename>ac</filename>
+	<data>
+		<ptxt>Avogadro's constant is the number of particles in one <glink ref="mole">mole</glink> of a substance.</ptxt>
+		<ptxt>Avogadro's Constant = 6.022136736 x 10<sup>23</sup> particles per <glink ref="mole">mole</glink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>B</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Baryon</title>
+	<filename>baryon</filename>
+	<data>
+		<ptxt>In particle physics, the baryons are a family of subatomic particles including the <glink ref="proton">proton</glink> and the <glink ref="neutron">neutron</glink> (collectively called nucleons), as well as a number of unstable, heavier particles (called hyperons). The term "baryon" is derived from the Greek "barys", meaning "heavy," as they are heavier than the other main groups of particles.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Base</title>
+	<filename>base</filename>
+	<data>
+		<ptxt>Bases can be thought of as the chemical opposite of acids. A reaction between an acid and base is called neutralization. Bases and acids are seen as opposites because the effect of an acid is to increase the hydronium ion (H3O+) concentration in water, whereas bases reduce this concentration. Bases react with acids to produce water and salts (or their solutions).</ptxt>
+		<ptxt>A weak base is a chemical base that does not ionize fully in an aqueous solution. As bases are proton acceptors, a weak base may also be defined as a chemical base in which protonation is incomplete. This results in a relatively low pH level compared to strong bases. Bases range from a <glink ref="ph">pH</glink> of greater than 7 (7 is neutral, like pure water) to 14 (though some bases are greater than 14).</ptxt>
+		<ptxt>A strong base is a base which hydrolyzes completely, raising the <glink ref="ph">pH</glink> of the solution towards 14. Strong bases, like strong acids, attack living tissue and cause serious burns.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="acid">Acid</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Beta Particle </title>
+	<filename>betap</filename>
+	<data>
+		<ptxt>A charged particle emitted from the <glink ref="nucleus">nucleus</glink> of some <glink ref="atom">atoms</glink> as part of those atoms' <glink ref="radioactive">radioactive</glink> decay. Positively charged beta particles are <glink ref="positron">positrons</glink> and negatively charged beta particles are <glink ref="electron">electrons</glink>. Beta particles can cause burns and are harmful to living tissues, however, protection is afforded by a thin sheet of metal.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Binary compound</title>
+	<filename>bcompound</filename>
+	<data>
+		<ptxt>A compound that contains two different elements e.g. H<sub>2</sub>O, NaCl, HCl, CH<sub>4</sub>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Bohr Model</title>
+	<filename>bohrmodel</filename>
+	<data>
+		<ptxt>Introduced in 1913 the Bohr model, devised by Niels Bohr, depicts the <glink ref="atom">atom</glink> as a small, positively charged nucleus surrounded by <glink ref="electron">electrons</glink> that travel in circular orbits around the nucleus - similar in structure to the solar system, but instead of gravity, electrostatic forces provide attraction.</ptxt>
+		<ptxt>Since the Bohr model is a quantum physics-based modification of the Rutherford model, many sources combine the two, referring instead to the Rutherford-Bohr model.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="cubicmodel">Cubic Model</glink>, <glink ref="plummodel">Plum-pudding model</glink>, <glink ref="saturnmodel">Saturnian Model</glink> and <glink ref="rutherfordmodel">Rutherford Model</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Boiling Point</title>
+	<filename>bp</filename>
+	<data>
+		<ptxt>The <glink ref="temp">temperature</glink> at which the vapour pressure of a liquid is equal to or slightly greater than the atmospheric pressure of the environment. For water at sea level, its boiling point is 100&degree;C (212F and (273.15K).</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="mp">Melting Point</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Brinell Hardness</title>
+	<filename>brinellh</filename>
+	<data>
+		<ptxt>The Brinell scale characterises the indentation hardness of materials through the scale of penetration of an indenter, loaded on a material test-piece. It is one of several definitions of hardness in materials science.</ptxt>
+		<ptxt>Brinelling refers to surface fatigue caused by repeated impact or overloading. It is a common cause of roller bearing failures, and loss of preload in bolted joints when a hardened washer is not used. Engineers will use the Brinell hardness of materials in their calculations to avoid this mode of failure. Fretting corrosion can cause a similar-looking kind of damage and is called false brinelling since the mechanism is different.</ptxt>
+		<ptxt>Proposed by Swedish engineer Johan August Brinell in 1900, it was the first widely used and standardised hardness test in engineering and metallurgy. The large size of indentation and possible damage to test-piece limits its usefulness.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="vickersh">Vickers Hardness</glink> and <glink ref="mohsh">Moh's Scale of Hardness</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Bulk Modulus</title>
+	<filename>bulkm</filename>
+	<data>
+		<ptxt>The bulk modulus measures the response in pressure due to a change in relative volume, essentially measuring the substance's resistance to uniform compression. Other moduli describe the material's response (strain) to other kinds of stress: the <glink ref="shearm">shear modulus</glink> describes the response to shear, and <glink ref="youngsm">Young's modulus</glink> describes the response to linear strain. For a fluid, only the bulk modulus is meaningful.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="shearm">Shear Modulus</glink> and <glink ref="youngsm">Young's Modulus</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="astop">
+	<title>C</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Carcinogen</title>
+	<filename>carcinogen</filename>
+	<data>
+		<ptxt>A carcinogen is any substance or agent that promotes cancer. Carcinogens may cause cancer by altering cellular metabolism or damaging DNA directly in cells, which interferes with normal biological processes.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><elink ref="33">Arsenic</elink>, <elink ref="45">Rhodium</elink> and <glink ref="teratogenic">Teratogen</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>CAS</title>
+	<filename>cas</filename>
+	<data>
+		<ptxt>Chemical Abstracts Service a group which assigns CAS Numbers to chemicals.</ptxt>
+		<ptxt>Click <wlink ref="www.cas.org">here</wlink> for the Chemical Abstracts Service's Website.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Catalyst</title>
+	<filename>catalyst</filename>
+	<data>
+		<ptxt>A catalyst is a substance that increases the speed of a chemical reaction without being consumed by the reaction.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Cathode</title>
+	<filename>cathode</filename>
+	<data>
+		<ptxt><ptxt>An electrode through which negative electic current flows out.</ptxt></ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="Anode">Anode</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Cation</title>
+	<filename>cation</filename>
+	<data>
+		<ptxt>A positively charged <glink ref="ion">ion</glink>.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="atc">Atomic Charge</glink> and <glink ref="anion">Anion</glink>.</ptxt>
+	</seealso>	
+</glossary>
+
+<glossary type="entry">
+	<title>Centigrade (celsius)</title>
+	<filename>centigrade</filename>
+	<data>
+		<ptxt>The scale for measuring <glink ref="temp">temperature</glink> used internationally where the freezing point of water is zero and the <glink ref="bp">boiling point</glink> of water at sea level is 100 degrees. To convert from centigrade into <glink ref="fahrenheit">Fahrenheit</glink>, multiply the centigrade <glink ref="temp">temperature</glink> by 1.8 then add 32 to the product (C*1.8+32=F). To convert from <glink ref="fahrenheit">Fahrenheit</glink> to centigrade, subtract 32 and then divide by 1.8 ((F-32)/1.8).</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="fahrenheit">Fahrenheit</glink> and <glink ref="kelvin">Kelvin</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Compound</title>
+	<filename>compound</filename>
+	<data>
+		<ptxt>A substance composed of <glink ref="atom">atoms</glink> or <glink ref="ion">ions</glink> of two or more <glink ref="element">elements</glink> that are chemically combined. Elements in a compound are present in definite proportions by mass and are bonded with each other in a specific manner.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Conduction</title>
+	<filename>conduction</filename>
+	<data>
+		<ptxt>[1] thermal conduction the transfer of heat between two solid materials that are physically touching each other.</ptxt>
+		<ptxt>[2] electrical conduction the transfer of electrical current through a solid or liquid.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="convection">Convection</glink> and <glink ref="radiation">Radiation</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Convection</title>
+	<filename>convection</filename>
+	<data>
+		<ptxt>The movement of heat by a moving liquid or gas. Convection results from the differences in the densities of a material at different <glink ref="temp">temperature</glink>. As a liquid or gas raises in <glink ref="temp">temperature</glink>, it becomes less dense and thus lighter thereby rising above its cooler and denser counterparts, which in turn sink.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="conduction">Conduction</glink> and <glink ref="radiation">Radiation</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Cosmogenic isotope</title>
+	<filename>cosmogenic</filename>
+	<data>
+		<ptxt>Cosmogenic isotopes (or cosmogenic nuclides) are rare isotopes created when a high-energy cosmic ray interacts with the nucleus of an in situ atom. These isotopes are produced within earth materials such as rocks or soil, in Earth's atmosphere, and in extraterrestrial items such as meteorites.</ptxt>
+		<ptxt>By measuring cosmogenic isotopes, scientists are able to gain insight into a range of geological and astronomical processes. There are both radioactive and stable cosmogenic isotopes.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Covalent bonds</title>
+	<filename>covalent</filename>
+	<data>
+		<ptxt>Bonds that have an <glink ref="elecneg">electronegativity</glink> difference of less than 1.7. Covalent bonds involve a sharing of <glink ref="electron">electrons</glink> and generally join two <glink ref="nm">nonmetals</glink>.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="ionic">Ionic bonds</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Critical temperature</title>
+	<filename>ct</filename>
+	<data>
+		<ptxt>The temperature at which it is no longer possible to liquify a substance by increasing the pressure.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Cubic Model</title>
+	<filename>cubicmodel</filename>
+	<data>
+		<ptxt>An early atomic model in which <glink ref="electron">electrons</glink> were positioned at the eight corners of a cube. The theory was developed by Gilbert N. Lewis in 1902 and published in 1916 in the famous article "The Atom and the Molecule" which used the theory to account for the phenomenon of <glink ref="valency">valency</glink>.</ptxt>		
+		<ptxt>The cubic model of the atom was soon abondoned in favour of the quantum mechanical model based on the Shrodinger equation. But it is still of historical interest as it represented an important step towards the understanding of the chemical bond.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="plummodel">Plum-pudding model</glink>, <glink ref="saturnmodel">Saturnian Model</glink>, <glink ref="rutherfordmodel">Rutherford Model</glink> and <glink ref="bohrmodel">Bohr Model</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="astop">
+	<title>D</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Decay Energy</title>
+	<filename>de</filename>
+	<data>
+		<ptxt>The decay energy is the energy released by a nuclear decay.</ptxt>
+		<ptxt>The difference between the mass of the reactants and the mass of products is often written as Q:</ptxt>
+		<ptxt>Q = (mass of reactants) - (mass of products)</ptxt>
+		<ptxt>This can be expressed as energy by Albert Einstein's famous formula; E=mc<sup>2</sup>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Deliquescent</title>
+	<filename>deliquescent</filename>
+	<data>
+		<ptxt>Deliquescent materials are substances (mostly salts) which have a strong affinity for moisture and will absorb relatively large amount of water from the atmosphere if exposed to it, forming a liquid solution. Deliquescent salts include calcium chloride, magnesium chloride, zinc chloride, and the strong base sodium hydroxide.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="Hygroscopic">Hygroscopic</glink> and <glink ref="Desiccant">Desiccant</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Desiccant</title>
+	<filename>desiccant</filename>
+	<data>
+		<ptxt>A desiccant is a substance that absorbs water. It is most commonly used to remove humidity that would normally degrade or even destroy products sensitive to moisture. Silica gel, calcium sulfate, montmorillonite clay, and molecular sieves are commonly used as desiccants.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="Hygroscopic">Hygroscopic</glink> and <glink ref="deliquescent">deliquescent</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Double Beta Decay</title>
+	<filename>decay_bb</filename>
+	<data>
+		<ptxt>In the process of beta decay unstable <glink ref="nucleus">nuclei</glink> decay by converting a neutron in the nucleus to a <glink ref="proton">proton</glink> and emitting an <glink ref="electron">electron</glink> and anti-neutrino. In order for beta decay to be possible the final nucleus must have a larger binding energy than the original nucleus. For some nuclei, such as <elink ref="32">germanium-76</elink> the nuclei with atomic number one higher has a smaller binding energy, preventing beta decay from occurring. In the case of <elink ref="32">germanium-76</elink> the nuclei with <glink ref="an">atomic number</glink> two higher, <elink ref="34">selenium-76</elink> has a larger binding energy, so the "double beta decay" process is allowed.</ptxt>
+		<ptxt>In double beta decay two <glink ref="neutron">neutrons</glink> in the <glink ref="nucleus">nuclei</glink> are converted to <glink ref="proton">protons</glink>, and two electrons and two anti-neutrinos are emitted. This process was first observed in 1986. It is the rarest known kind of radioactive decay; it was observed for only 10 <glink ref="isotope">isotopes</glink>, and all of them have the mean life time more than 1019 yr.</ptxt>
+		<ptxt>For some nuclei, the process occurs as conversion of two <glink ref="proton">protons</glink> to neutrons, with emission of two neutrinos and absorption of two orbital electrons (double electron capture). If mass difference between the parent and daughter atoms is more than 1022 keV (two electron masses), another branch of the process becomes possible, with capture of one orbital electron and emission of one positron. And, at last, when the mass difference is more than 2044 keV (four electron masses), the third branch of the decay arises, with emission of two positrons. All these kinds of double beta decay are predicted but not observed yet.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Double Electron Capture</title>
+	<filename>decay_ee</filename>
+	<data>
+		<ptxt>Double electron capture is a decay mode of atomic <glink ref="nucleus">nucleus</glink>. For a nuclide (A, Z) with number of nucleons A and <glink ref="an">atomic number</glink> Z, double <glink ref="electron">electron</glink> capture has to occur when the mass of the nuclide of (A, Z-2) is lower.</ptxt>
+		<ptxt>In this mode of decay, two of the orbital <glink ref="electron">electrons</glink> are captured by two <glink ref="proton">protons</glink> in the <glink ref="nucleus">nucleus</glink>, forming two <glink ref="neutron">neutrons</glink>. Two <glink ref="neutrino">neutrinos</glink> are emitted in the process. Since the <glink ref="proton">protons</glink> are changed to <glink ref="neutron">neutrons</glink>, the number of <glink ref="neutron">neutrons</glink> increases by 2, the number of <elink ref="proton">protons</elink> Z decreases by 2, and the <glink ref="am">atomic mass</glink> A remains unchanged. By changing the number of <glink ref="proton">protons</glink>, double <glink ref="electron">electron</glink> capture transforms the nuclide into a new <glink ref="element">element</glink>.</ptxt>
+		<ptxt>Example:</ptxt>
+		<ptxt><image ref="decay_ee1" /></ptxt>
+		<ptxt>There exist 35 naturally occurring <glink ref="isotope">isotopes</glink> that can undergo double <glink ref="electron">electron</glink> capture. However, there are no confirmed observations of this process. The one reason is that the probability of double electron capture is enormously small (the theoretical predictions of <glink ref="hl">half-lives</glink> for this mode lies well above 1020 years). The second reason is that the only detectable particles created in this process are <glink ref="xr">X-rays</glink> and Auger electrons that are emitted by the excited atomic shell. In the range of their energies (~1 to 10 <glink ref="ev">keV</glink>), the background is usually high. Thus, the experimental detection of double <glink ref="electron">electron</glink> capture is more difficult than that for double beta decay.</ptxt>
+		<ptxt>If the mass difference between the mother and daughter atoms is more than two masses of <glink ref="electron">electron</glink> (1.022 <glink ref="ev">MeV</glink>), the energy released in the process is enough to allow another mode of decay: <glink ref="electron">electron</glink> capture with <glink ref="positron">positron</glink> emission. It occurs simultaneously with double electron capture, their branching ratio depending on nuclear properties. When the mass difference is more than four electron masses (2.044 <glink ref="ev">MeV</glink>), the third mode - double <glink ref="positron">positron</glink> decay - is allowed. Only 6 naturally occurring nuclides can decay via these three modes simultaneously.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="decay_e">Electron Capture</glink> and <glink ref="decay_b-">Electron Emission</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Doubly Magic</title>
+	<filename>dm</filename>
+	<data>
+		<ptxt>Nuclei which have both <glink ref="neutron">neutron</glink> number and <glink ref="proton">proton</glink> (atomic) number equal to one of the <glink ref="mn">magic numbers</glink> are called "doubly magic", and are especially stable against decay. Examples of doubly magic <glink ref="isotope">isotopes</glink> include <elink ref="2">helium-4</elink> (<sup>4</sup>He), <elink ref="8">oxygen-16</elink> (<sup>16</sup>O), <elink ref="20">calcium-40</elink> (<sup>40</sup>Ca), <elink ref="20">calcium-48</elink> (<sup>48</sup>Ca), <elink ref="28">nickel-48</elink> (<sup>48</sup>Ni), <elink ref="28">nickel-56</elink> (<sup>56</sup>Ni), <elink ref="50">tin-100</elink> (<sup>100</sup>Sn), <elink ref="50">tin-132</elink> (<sup>132</sup>Sn) and <elink ref="82">lead-208</elink> (<sup>208</sup>Pb). It is no accident that <elink ref="2">helium-4</elink> (<sup>4</sup>He) and <elink ref="8">oxygen-16</elink> (<sup>16</sup>O) are the second and third most abundant (and stable) elements in the universe.</ptxt>
+		<ptxt>Both <elink ref="20">calcium-48</elink> (<sup>48</sup>Ca) and <elink ref="28">nickel-48</elink> (<sup>48</sup>Ni) are doubly magic because <elink ref="20">calcium-48</elink> has 20 <glink ref="proton">protons</glink> and 28 <glink ref="neutron">neutrons</glink> while <elink ref="28">nickel-48</elink> has 28 <glink ref="proton">protons</glink> and 20 <glink ref="neutron">neutrons</glink>. Calcium-48 is very neutron-rich for such a light element, but is made stable by being doubly magic. Similarly, <elink ref="28">nickel-48</elink>, discovered in 1999, is the most proton-rich <glink ref="isotope">isotope</glink> known.</ptxt>
+		<ptxt>In December 2006 <elink ref="108">hassium-270</elink> (<sup>270</sup>Hs) was discovered by an international team of scientists led by the Technical University of Munich having the unusually long <glink ref="hl">half-life</glink> of 22 seconds. <elink ref="108">Hassium-270</elink> evidently forms part of an island of stability, and may even be doubly magic.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="mn">Magic Number</glink> and <glink ref="ios">Island of stability</glink>.</ptxt>
+	</seealso>	
+</glossary>
+
+<glossary type="entry">
+	<title>Ductile</title>
+	<filename>ductile</filename>
+	<data>
+		<ptxt>Capable of being drawn out into a wire or thread, or of being fashioned into a new form.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>E</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Electrical Conductivity</title>
+	<filename>eleccon</filename>
+	<data>
+		<ptxt>The transfer of electrical current through a solid or liquid.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="elecresis">Electrical Resistivity</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Electrical Resistivity</title>
+	<filename>elecresis</filename>
+	<data>
+		<ptxt>Electrical resistivity (also known as specific electrical resistance) is a measure of how strongly a material opposes the flow of electric current. A low resistivity indicates a material that readily allows the movement of electrical charge. The SI unit of electrical resistivity is the ohm metre.</ptxt>
+		<ptxt>In general, electrical resistivity of metals increases with <glink ref="temp">temperature</glink>, while the resistivity of <glink ref="semicon">semiconductors</glink> decreases with increasing <glink ref="temp">temperature</glink>. In both cases, electron-phonon interactions can play a key role. At high <glink ref="temp">temperatures</glink>, the resistance of a metal increases linearly with <glink ref="temp">temperature</glink>.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="eleccon">Electrical Conductivity</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Electrochemical Equivalent</title>
+	<filename>ece</filename>
+	<data>
+		<ptxt>The mass of the substance, in grams, which is liberated by the passage of 1 coulomb of electricity.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Electron</title>
+	<filename>electron</filename>
+	<data>
+		<ptxt>Electrons are negatively charged particles that surround the <glink ref="atom">atom's</glink> <glink ref="nucleus">nucleus</glink>. Electrons were discovered by J. J. Thomson in 1897.</ptxt>
+		<ptxt>It is believed that the number of electrons existing in the known universe is at least 10<sup>79</sup>. This number amounts to an average density of about one electron per cubic metre of space.</ptxt>
+		<ptxt>The proper symbol to use when representing an electron;</ptxt>
+		<ptxt><image ref="symbol_electron" /></ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="positron">Positron</glink>, <glink ref="neutron">Neutron</glink> and <glink ref="proton">Proton</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Electron Capture</title>
+	<filename>decay_e</filename>
+	<data>
+		<ptxt><glink ref="electron">Electron</glink> capture is a decay mode for <glink ref="isotopes">isotopes</glink> that will occur when there are too many <glink ref="proton">protons</glink> in the <glink ref="nucleus">nucleus</glink> of an <glink ref="atom">atom</glink>, and there isn't enough energy to emit a <glink ref="positron">positron</glink>; however, it continues to be a viable decay mode for radioactive <glink ref="isotope">isotopes</glink> that can decay by <glink ref="positron">positron</glink> emission. If the energy difference between the parent <glink ref="atom">atom</glink> and the daughter one is less than 1.022 <glink ref="ev">MeV</glink>, <glink ref="positron">positron</glink> emission is forbidden and electron capture is the sole decay mode. For example, <elink ref="37">Rubidium-83</elink> will decay to <elink ref="36">Krypton-83</elink> solely by electron capture (the energy difference is about 0.9 <glink ref="ev">MeV</glink>).</ptxt>
+		<ptxt>In this case, one of the orbital <glink ref="electron">electrons</glink>, usually from the K or L electron shell (K-electron capture, also K-capture, or L-electron capture, L-capture), is captured by a <glink ref="proton">proton</glink> in the <glink ref="nucleus">nucleus</glink>, forming a <glink ref="neutron">neutron</glink> and a <glink ref="neutrino">neutrino</glink>. Since the <glink ref="proton">proton</glink> is changed to a <glink ref="neutron">neutron</glink>, the number of <glink ref="neutron">neutrons</glink> increases by 1, the number of <glink ref="proton">protons</glink> decreases by 1, and the atomic mass number remains unchanged. By changing the number of <glink ref="proton">protons</glink>, electron capture transforms the nuclide into a new element. The atom ends up in excited state, with a missing electron in inner shell. The atom in its excited state will emit X-rays (a type of electromagnetic <glink ref="radiation">radiation</glink>) and/or Auger electrons. The electron in an outer shell falls into the inner shell releasing energy, emitted as the <glink ref="xr">x-ray</glink>. Because of this electron capture is most likely to happen in larger neculides.</ptxt>
+		<ptxt>examples:</ptxt>
+		<ptxt><image ref="decay_e1" /></ptxt>
+		<ptxt><image ref="decay_e2" /></ptxt>
+		<ptxt>It is of note that radioactive <glink ref="isotope">isotopes</glink> which go by pure <glink ref="electron">electron</glink> capture can, in theory, be inhibited from radioactive decay if they are fully ionized ("stripped" is sometimes used to describe such <glink ref="ion">ions</glink>). It is hypothesized that such elements, if formed by the r-process in exploding supernovae, are ejected fully ionized and so do not undergo radioactive decay as long as they do not encounter electrons in outer space. Anomalies in elemental distributions are thought to be partly a result of this effect on electron capture.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="decay_ee">Double Electron Capture</glink> and <glink ref="decay_b-">Electron Emission</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Electronegativity</title>
+	<filename>elecneg</filename>
+	<data>
+		<ptxt>Electronegativity is a measure of the ability of an <glink ref="atom">atom</glink> or <glink ref="molecule">molecule</glink> to attract electrons in the context of a chemical bond. The type of bond formed is largely determined by the difference in electronegativity between the atoms involved. Atoms with similar electronegativities will share an electron with each other and form a covalent bond. However, if the difference is too great, the electron will be permanently transferred to one atom and an ionic bond will form. Furthermore, in a covalent bond if one atom pulls slightly harder than the other, a polar covalent bond will form.</ptxt>
+		<ptxt>No electronegativity difference between two atoms leads to a pure non-polar covalent bond. A small electronegativity difference leads to a polar covalent bond. A large electronegativity difference leads to an ionic bond.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="pauling">The Pauling Scale</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Electron Emission (Beta- Decay)</title>
+	<filename>decay_b-</filename>
+	<data>
+		<ptxt>Electron emission is a type of beta decay, sometimes referred to as "beta minus".</ptxt>
+		<ptxt>In beta- decay, the weak interaction converts a <glink ref="neutron">neutron</glink> into a <glink ref="proton">proton</glink> while emitting an <glink ref="">electron</glink> and an anti-neutrino:</ptxt>
+		<ptxt><image ref="decay_b-1"/></ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Electron Volt</title>
+	<filename>ev</filename>
+	<data>
+		<ptxt>An electronvolt (symbol eV) is (technically) the amount of kinetic energy gained by a single unbound electron when it passes through an electrostatic potential difference of one volt, in vacuum. The one-word spelling is the modern recommendation although the use of the earlier electron volt still exists. It is used to represent either very small amounts of energy or very small masses.</ptxt>
+		<ptxt>Einstein reasoned that energy is equivalent to (rest) mass, as famously expressed in the formula E=mc<sup>2</sup>. It is thus common in particle physics, where mass and energy are often interchanged, to use eV/c<sup>2</sup> or even simply eV as a unit of mass. (Although the latter is only strictly valid when working in natural units where c=1.)</ptxt>
+		<ptxt>One electronvolt is a very small amount of energy:</ptxt>
+		<ptxt>1 eV = 1.602 176 53 (14) x 10<sup>-19</sup> Joules.</ptxt>
+		<ptxt>KeV = 1 thousand electron volts; 1 x 10<sup>3</sup> eV</ptxt>
+		<ptxt>MeV = 1 million electron volts; 1 x 10<sup>6</sup> eV</ptxt>
+		<ptxt>GeV = 1 billion electron volts; 1 x 10<sup>9</sup> eV</ptxt>
+		<ptxt></ptxt>
+		<ptxt>Total (on average) energy released in nuclear fission of one <ilink ref="92">U-235</ilink> atom is; 3.2 x 10<sup>-11</sup> joules or 200 MeV.</ptxt>
+		<ptxt>Total (on average) energy released in fission of one <ilink ref="94">Pu-239</ilink> atom is; 3.5 x 10<sup>-11</sup> joules or 210 MeV.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Elecron Work Function</title>
+	<filename>ewf</filename>
+	<data>
+		<ptxt>The smallest amount of photonic energy necessary to remove an <glink ref="electron">electron</glink> from the boundary of an <glink ref="element">element</glink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Element</title>
+	<filename>element</filename>
+	<data>
+		<ptxt>One of the 116 presently known substances that cannot be decomposed by chemical reaction into a simpler substance. Elements comprise all matter at and above the atomic level. All elements heavier than <elink ref="82">lead (Pb)</elink> are radioactive and unstable. In addition, there are no stable elements with odd numbers of both <glink ref="proton">protons</glink> and <glink ref="neutron">neutrons</glink> heavier than <elink ref="7">nitrogen (N)</elink>. Elements with even numbers of <glink ref="proton">protons</glink> and an even number of <glink ref="neutron">neutrons</glink> make up about 90% of the Earth's crust.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Endothermic</title>
+	<filename>endot</filename>
+	<data>
+		<ptxt>An endothermic reaction cannot occur spontaneously, an input of energy is required in order for it to proceed. When endothermic reactions absorb energy, a temperature drop is measured during the reaction.</ptxt>
+		<ptxt>Photosynthesis is an example of an endothermic chemical reaction. In this process, plants use the energy from the sun to convert carbon dioxide and water into glucose and <elink ref="8">oxygen</elink>. This reaction requires 15MJ of energy (sunlight) for every kilogram of glucose that is produced:</ptxt>
+		<ptxt>6CO<sub>2(g)</sub> + H<sub>2</sub>O<sub>(l)</sub><image ref="arrow"/>C<sub>6</sub>H<sub>12</sub>O<sub>6(aq)</sub> + 6O<sub>2(g)</sub></ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="exot">Exothermic</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Energy Levels</title>
+	<filename>el</filename>
+	<data>
+		<ptxt><glink ref="electron">Electrons</glink> which surround the <glink ref="nucleus">nucleus</glink> of the <glink ref="atom">atom</glink>. Electrons are located in energy levels a term which has replaced the word shells, which was once used to describe the location of electrons. The word shell suggests a fixed position, which is far from reality. We will use energy level to describe the possible location of electrons.</ptxt>
+		<ptxt>There are seven energy levels. Each has a specific maximum number of <glink ref="electron">electrons</glink> that can exist in it. The number of <glink ref="electron">electrons</glink>, which an energy level can hold is equal to 2n2 where n = energy level. The letter n represents the principal quantum number that specifies the energy level of the atom in which an electron is located. The chart below identifies the various energy levels and maximum number of electrons possible. The energy level closest to the nucleus is represented by energy level 1.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Enzyme</title>
+	<filename>enzyme</filename>
+	<data>
+		<ptxt>A protein or protein-based molecules that speed up chemical reactions occurring in living things. Enzymes act as catalysts for a single reaction, converting a specific set of reactants (called substrates) into specific products.</ptxt>
+		<ptxt>Enzymes are vital to living things, without them life as we know it would be impossible.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Emission Spectrum</title>
+	<filename>espectrum</filename>
+	<data>
+		<ptxt>An <glink ref="element">element's</glink> emission spectrum is the relative intensity of electromagnetic radiation of each frequency it emits when it is heated (or more generally when it is excited).</ptxt>
+		<ptxt>When the <glink ref="electron">electrons</glink> in the element are excited, they jump to higher energy levels. As the electrons fall back down, and leave the excited state, energy is re-emitted, the wavelength of which refers to the discrete lines of the emission spectrum. [Note however that the emission extends over a range of frequencies, an effect called spectral line broadening.]</ptxt>
+		<ptxt>The emission spectrum can be used to determine the composition of a material, since it is different for each <glink ref="element">element</glink> of the <glink ref="pt">periodic table</glink>. One example is identifying the composition of stars by analysing the received light.</ptxt>
+		<ptxt>An <glink ref="aspectrum">absorption spectrum</glink> occurs when light passes through a cold, dilute gas and <glink ref="atom">atoms</glink> in the gas absorb at characteristic frequencies; since the re-emitted light is unlikely to be emitted in the same direction as the absorbed photon, this gives rise to dark lines (absence of light) in the spectrum. The light emitted from an excited atom can not be directed toward the observer, so the light appears to be missing from the continuous spectrum.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="aspectrum">Absorption Spectrum</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Enthalpy Change of Fusion (Heat of Fusion)</title>
+	<filename>eof</filename>
+	<data>
+		<ptxt>The standard enthalpy change of fusion, also known as the heat of fusion, is the amount of thermal energy which must be absorbed or lost for 1 gram of a substance to change states from a solid to a liquid or vice versa. It is also called the latent heat of fusion or the enthalpy of fusion, and the <glink ref="temp">temperature</glink> at which it occurs is called the <glink ref="mp">melting point</glink>.</ptxt>
+		<ptxt>When you withdraw thermal energy from a liquid or solid, the <glink ref="temp">temperature</glink> falls. When you add heat energy the <glink ref="temp">temperature</glink> rises. However, at the transition point between solid and liquid (the <glink ref="mp">melting point</glink>), extra energy is required (the heat of fusion). To go from liquid to solid, the <glink ref="molecule">molecules</glink> of a substance must become more ordered. For them to maintain the order of a solid, extra heat must be withdrawn. In the other direction, to create the disorder from the solid crystal to liquid, extra heat must be added.</ptxt>
+		<ptxt>The heat of fusion can be observed if you measure the <glink ref="temp">temperature</glink> of water as it freezes. If you plunge a closed container of room <glink ref="temp">temperature</glink> water into a very cold environment (say -20&degree;C), you will see the <glink ref="temp">temperature</glink> fall steadily until it drops just below the freezing point (0&degree;C). The <glink ref="temp">temperature</glink> then rebounds and holds steady while the water crystalises. Once completely frozen, the <glink ref="temp">temperature</glink> will fall steadily again.</ptxt>
+		<ptxt>The <glink ref="temp">temperature</glink> stops falling at (or just below) the freezing point due to the heat of fusion. The energy of the heat of fusion must be withdrawn (the liquid must turn to solid) before the <glink ref="temp">temperature</glink> can continue to fall.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Enthalpy Change of Vapourisation</title>
+	<filename>eov</filename>
+	<data>
+		<ptxt>The standard enthalpy change of vapourisation is a physical property of substances. It is defined as the amount of heat (or energy) required per unit mass of a substance to completely vapourize the substance at its <glink ref="bp">boiling point</glink>. The heat of vapourization is expressed in kJ/mol (kJ mol<sup>-1</sup>), or calories/gram. The use of kJ/kg is also possible, but less customary. Other units still in use in certain places include Btu/lb (British Thermal Units per pound).</ptxt>
+		<ptxt>Because vapourisation is the opposite process of condensation, the term heat of condensation is also used. The latter is defined as the heat released when a unit mass of a substance is completely condensed at its <glink ref="bp">boiling point</glink>.</ptxt>
+		<ptxt>The standard enthalpy change of vapourization of water is about 2260 kJ/kg which is equal to 40.8 kJ/mol. This is quite a lot: it is five times the energy needed for heating the water from 0&degree;C to 100&degree;C.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="eof">Enthalpy Change of Fusion</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Exothermic</title>
+	<filename>exot</filename>
+	<data>
+		<ptxt>A reaction that releases energy in the form of light, heat or sound. They may produce so much energy as to cause an explosion.</ptxt>
+		<ptxt>An example of an exothermic reaction is the mixture of <elink ref="11">sodium</elink> and <elink ref="17">chlorine</elink> to yield table salt. This reaction produces 411 kJ of energy for each <glink ref="mole">mole</glink> of salt that is produced:</ptxt>
+		<ptxt>2Na<sub>(s)</sub> + Cl<sub>2(g)</sub><image ref="arrow"/>2NaCl<sub>(s)</sub></ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="endot">Endothermic</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="astop">
+	<title>F</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Fahrenheit</title>
+	<filename>fahrenheit</filename>
+	<data>
+		<ptxt>The <glink ref="temp">temperature</glink> scale where 32 degrees is the freezing point of water and 212 degrees at 760mm <elink ref="80">Hg</elink> (sea level) is the <glink ref="bp">boiling</glink> point of water. To convert from Fahrenheit to <glink ref="centigrade">centigrade</glink>, subtract 32 and then divide by 1.8 ((F-32)/1.8). To convert from <glink ref="centrigrade">centigrade</glink> into Fahrenheit, multiply the <glink ref="centigrade">centigrade</glink> <glink ref="temp">temperature</glink> by 1.8 then add 32 to the product (C*1.8+32=F).</ptxt>
+		<ptxt>This scale is named after <glink ref="gdf">G. D. Fahrenheit</glink> (1686-1736), the German physicist, who invented it and was the individual who introduced the use of <elink ref="80">mercury</elink> (Hg) instead of alcohol in thermometers. Because of the health dangers related with mercury, the use of <elink ref="80">mercury</elink> in thermometers is losing favour and once again alcohol thermometers are becoming more popular.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="centigrade">Centigrade</glink> and <glink ref="kelvin">Kelvin</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="astop">
+	<title>G</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Gamma Ray</title>
+	<filename>gr</filename>
+	<data>
+		<ptxt>Extremely short wavelength and intensely high-energy electromagnetic <glink ref="radiation">radiation</glink>. Gamma rays originate from an atom's <glink ref="nucleus">nucleus</glink> and normally accompany <glink ref="ap">alpha</glink> and <glink ref="betap">beta</glink> particles as part of the emissions of the <glink ref="radioactive">radioactive</glink> decay of an <glink ref="atom">atom</glink> and always accompany nuclear fission. Because gamma rays are energy and not matter, they are very penetrating and can cause damage to animal and plant tissues. Gamma rays are absorbed by extremely dense materials like <elink ref="82">lead (Pb)</elink> and depleted <elink ref="92">uranium (U)</elink>.</ptxt>
+		<ptxt>Gamma rays, <glink ref="xr">x-rays</glink>, visible light, and Ultraviolet (UV) rays are all forms of electromagnetic <glink ref="radiation">radiation</glink>. The only difference is the frequency and hence the energy of the photons. Gamma rays are the most energetic.</ptxt>
+		<ptxt>The powerful nature of gamma rays have made them useful in the sterilizing of medical equipment by killing bacteria. They are also used to kill bacteria and insects in foodstuffs, particularly meat and vegetables, to maintain freshness.</ptxt>
+		<ptxt>In spite of their cancer-causing properties, gamma rays are also used to treat some types of cancer. In the procedure called gamma-knife surgery, multiple concentrated beams of gamma rays are directed on the growth in order to kill the cancerous cells. The beams are aimed from different angles to focus the <glink ref="radiation">radiation</glink> on the growth while minimising damage to the surrounding tissues.</ptxt>
+		<ptxt>Gamma rays are also used for diagnostic purposes in nuclear medicine. Several gamma-emitting radioisotopes are used, one of which is <elink ref="43">technetium-99m</elink>. When administered to a patient, a gamma camera can be used to form an image of the radioisotope's distribution by detecting the gamma <glink ref="radiation">radiation</glink> emitted. Such a technique can be employed to diagnose a wide range of conditions (e.g. spread of cancer to the bones).</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Gas</title>
+	<filename>gas</filename>
+	<data>
+		<ptxt>A gas is a state of matter, consisting of a collection of particles (<glink ref="molecule">molecules</glink>, <glink ref="atom">atoms</glink>, <glink ref="ion">ions</glink>, <glink ref="electron">electrons</glink>, etc.) without a definite shape or volume that are in more or less random motion. Gasses are generally modeled by the ideal gas law where the total volume of the gas increases proportionally to absolute temperature and decreases inversely proportionally to pressure.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="solid">Solid</glink>, <glink ref="liquid">Liquid</glink>, <glink ref="plasma">Plasma</glink> and <glink ref="idealgas">Ideal gas</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Goldschmidt Classification</title>
+	<filename>gc</filename>
+	<data>
+		<ptxt>The Goldschmidt classification (named after Victor Goldschmidt, who developed it) is a geochemical classification which groups the chemical elements according to their preferred host phases into <b>lithophile</b> (<elink ref="14">silicate</elink> loving), <b>siderophile</b> (<elink ref="26">iron</elink> loving), <b>chalcophile</b> (<elink ref="16">sulfur</elink> loving), and <b>atmophile</b> (gas loving).</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Group</title>
+	<filename>group</filename>
+	<data>
+		<ptxt>The vertical columns (major classes or divisions) into which elements are arranged in the periodic table of elements. There are three common numbering systems for these groups:</ptxt>
+		<ptxt>The new <glink ref="iupac">IUPAC</glink> system, which numbers each column with Arabic numbers from 1 (one) through 18 (eighteen). To reduce confusion caused by the other two systems, this is the system that is used in articles on this web site.</ptxt>
+		<ptxt>The old <glink ref="iupac">IUPAC</glink> system, which labeled columns with Roman numerals followed by either the letter 'A' or 'B'. Columns were numbed such that columns one through seven were numbered 'IA' through 'VIIA', columns 8 through 10 were labeled 'VIIIA', columns 11 through 17 were numbered 'IB' through 'VIIB' and column 18 was numbered 'VIII'.</ptxt>
+		<ptxt>The CAS system, which also used Roman numerals followed by an 'A' or 'B'. This method, however, labeled columns 1 and 2 as 'IA' and 'IIA', columns 3 through 7 as 'IIIB' through 'VIB', column 8 through 10 as 'VIII', columns 11 and 12 as 'IB' and 'IIB' and columns 13 through 18 as 'IIIA' through 'VIIIA'.</ptxt>
+		<ptxt>Because of the confusion the old <glink ref="iupac">IUPAC</glink> and the <glink ref="CAS">CAS</glink> system created, the <glink ref="iupac">IUPAC</glink> adopted their new system.</ptxt>
+		<ptxt><glink ref="element">Elements</glink> are arranged in these groups according to whose proprieties are similar. All elements in Group 1 for instance are <glink ref="alkalimetal">alkali metals</glink>. They have only one <glink ref="electron">electron</glink> in the outer shell (valence electron) and as a result are highly reactive. Elements in Group 17 are the <glink ref="halogens">halogens</glink>. They all have seven <glink ref="electron">electrons</glink> in the outer orbital (two in level s and five in level p). They are also very reactive because they have seven <glink ref="electron">electrons</glink> in the outer shell and will readily accept an <glink ref="electron">electron</glink> in order to reach the <glink ref="ion">ion</glink> configuration with the ideal number of eight <glink ref="electron">electrons</glink> in the outer shell. Elements Group 18 have a complete outer shell with eight <glink ref="electron">electrons</glink>. These <glink ref="noble">noble gases</glink> are highly stable and do not react to form <glink ref="compound">compounds</glink> under normal conditions.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>H</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Half Life</title>
+	<filename>hl</filename>
+	<data>
+		<ptxt>The half-life describes the amount of time needed for half of a sample of unstable atoms or particles to undergo decay. <elink ref="81">Thallium-208</elink>, for example, decays into <elink ref="82">lead-208</elink> with a half-life of 3.05 minutes. This means that half of a sample of <elink ref="81">thallium-208</elink> will decay into lead-208 over the course of 3.05 minutes.</ptxt>
+		<ptxt>Scientists can not predict when a particular <glink ref="atom">atom</glink> or particle will decay. They only know that, on average, half of a sample will decay during the span of one half-life</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Halogens</title>
+	<filename>halogens</filename>
+	<data>
+		<ptxt>The reactive <glink ref="nm">nonmetals</glink> that are in Group 17 of the <glink ref="pt">periodic table</glink>. All of these <glink ref="element">elements</glink> are electronegative. The halogens show a number of trends when moving down the group - for instance, decreasing electronegativity and reactivity, increasing <glink ref="mp">melting</glink> and <glink ref="bp">boiling point</glink>.</ptxt>
+		<ptxt>Members of the Halogen group; <elink ref="9">Fluorine</elink>, <elink ref="17">Chlorine</elink>, <elink ref="35">Bromine</elink>, <elink ref="53">Iodine</elink> and <elink ref="85">Astatine</elink>.</ptxt>
+		<ptxt>The name "halogen" means "salt former"; halogens react with metals to form binary ionic compounds. At room temperature and pressure, <elink ref="9">fluorine</elink> and <elink ref="17">chlorine</elink> are gases, <elink ref="35">bromine</elink> is a liquid and <elink ref="53">iodine</elink> and <elink ref="85">astatine</elink> are solids; Group 7 is therefore the only periodic table group exhibiting all three states of matter.</ptxt>
+		<ptxt>Halogens are highly reactive, and as such can be harmful or lethal to biological organisms in sufficient quantities. This high reactivity is due to their <glink ref="atom">atoms</glink> being one <glink ref="electron">electron</glink> short of a full outer shell of <glink ref="electron">electrons</glink>. They can gain this <glink ref="electron">electron</glink> by reacting with <glink ref="atom">atoms</glink> of other elements. <elink ref="9">Fluorine</elink> is the most reactive element in existence, attacking such inert materials as glass, and forming compounds with the heavier noble gases. It is a corrosive and highly toxic gas. The reactivity of <elink ref="9">fluorine</elink> is such that, if used or stored in laboratory glassware, it can react with glass in the presence of small amounts of water to form SiF<sub>4</sub>. Thus fluorine must be handled with substances such as Teflon, extremely dry glass, or metals such as copper or steel which form a protective layer of fluoride on their surface.</ptxt>
+		<ptxt>Both <elink ref="17">chlorine</elink> and <elink ref="35">bromine</elink> are used as disinfectants for drinking water, swimming pools, fresh wounds, dishes, and surfaces. They kill bacteria and other potentially harmful microorganisms through a process known as sterilization. Their reactivity is also put to use in bleaching. <elink ref="17">Chlorine</elink> is the active ingredient of most fabric bleaches and is used in the production of most paper products.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Heat Capacity</title>
+	<filename>heatcap</filename>
+	<data>
+		<ptxt>Heat capacity (usually denoted by a capital C, often with subscripts) is a measurable physical quantity that characterizes the ability of a body to store heat as it changes in <glink ref="temp">temperature</glink>. It is defined as the rate of change of <glink ref="temp">temperature</glink> as heat is added to a body at the given conditions and state of the body (foremost its <glink ref="temp">temperature</glink>). In the International System of Units, heat capacity is expressed in units of joules per kelvin. It is termed an "extensive quantity" because it is sensitive to the size of the object (for example, a bathtub of water has a greater heat capacity than a cup of water). Dividing heat capacity by the body's mass yields a specific heat capacity (also called more properly "mass-specific heat capacity" or more loosely "specific heat"), which is an "intensive quantity," meaning it is no longer dependent on amount of material, and is now more dependent on the type of material, as well as the physical conditions of heating.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Heavy water (D<sub>2</sub>O)</title>
+	<filename>heavywater</filename>
+	<data>
+		<ptxt>Water that contains deuterium (<sup>2</sup>H, and <glink ref="isotope">isotope</glink> of <elink ref="1">hydrogen</elink>) instead of <sup>1</sup>H. Heavy water is about 11% denser than ordinary water.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Hygroscopic</title>
+	<filename>hygroscopic</filename>
+	<data>
+		<ptxt>A hygroscopic substance readily absorbs water from its surroundings. Because of their affinity for atmospheric moisture, hygroscopic materials may need to be stored in sealed containers.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="dessicant"></glink> and <glink ref="deliquescent">deliquescent</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="astop">
+	<title>I</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Ideal Gas</title>
+	<filename>idealgas</filename>
+	<data>
+		<ptxt>An Ideal Gas (perfect gas) is one which obeys Boyle's Law and Charles' Law exactly.</ptxt>
+		<ptxt>An Ideal Gas obeys the Ideal Gas Law: PV = nRT.</ptxt>
+		<ptxt>Where;</ptxt>
+		<ptxt>P is Pressure</ptxt>
+		<ptxt>V is Volume</ptxt>
+		<ptxt>n is Moles of gas</ptxt>
+		<ptxt>T is temperature</ptxt>
+		<ptxt>R is the Gas constant (8.314472 JK<sup>-1</sup> mol<sup>-1</sup></ptxt>						
+	</data>
+	<seealso>
+		<ptxt><glink ref="gas">Gas</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Inert</title>
+	<filename>inert</filename>
+	<data>
+		<ptxt>A chemically inactive element, compound or material. Because of their extremely low chemical activity the <glink ref="noble">noble gasses</glink> are considered to be inert substances. This term is also used for substances that are added to mixtures, primarily for their bulk and weight.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Ion</title>
+	<filename>ion</filename>
+	<data>
+		<ptxt>An <glink ref="atom">atom</glink> that has gained or lost one or more <glink ref="electron">electrons</glink> and thus has either a positive (<glink ref="cation">cation</glink>) or negative (<glink ref="anion">anion</glink>) charge.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Ionic bonds</title>
+	<filename>ionic</filename>
+	<data>
+		<ptxt>bonds that have an <glink ref="elecneg">electronegativity</glink> difference of greater than or equal to 1.7. Ionic bonds involve a strong attraction between two charged <glink ref="atom">atoms</glink> or groups of atoms, resulting in a transfer of <glink ref="electron">electrons</glink>, and usually involve a <gelink ref="metals">metal</gelink> and a <glink ref="nm">nonmetal</glink> when diatomic. </ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="covalent">Covalent bonds</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Ionization energy</title>
+	<filename>ione</filename>
+	<data>
+		<ptxt>The energy required to remove an <glink ref="electron">electron</glink> from an <glink ref="atom">atom</glink> (creating a <glink ref="cation">cation</glink>).</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Island of Stability</title>
+	<filename>ios</filename>
+	<data>
+		<ptxt>The island of stability is a term from nuclear physics that describes the possibility of elements with particularly stable "<glink ref="mn">magic numbers</glink>" of <glink ref="proton">protons</glink> and <glink ref="neutron">neutrons</glink>. This would allow certain <glink ref="isotope">isotopes</glink> of some transuranic elements to be far more stable than others, that is, decay much more slowly.</ptxt>
+		<ptxt>The idea of the island of stability was first proposed by <blink ref="gts">Glenn T. Seaborg</blink>. The hypothesis is that the atomic <glink ref="nucleus">nucleus</glink> is built up in "shells" in a manner similar to the electron shells in <glink ref="atom">atoms</glink>. In both cases shells are just groups of quantum energy levels that are relatively close to each other. Energy levels from quantum states in two different shells will be separated by a relatively large energy gap. So when the numbers of <glink ref="neutron">neutrons</glink> and <glink ref="proton">protons</glink> completely fill the energy levels of a given shell in the <glink ref="nucleus">nucleus</glink>, then the binding energy per nucleon will reach a local minimum and thus that particular configuration will have a longer lifetime than nearby <glink ref="isotope">isotopes</glink> that do not have filled shells</ptxt>
+		<ptxt>A filled shell would have "magic numbers" of <glink ref="neutron">neutrons</glink> and <glink ref="proton">protons</glink>. One possible magic number of neutrons is 184, and some possible matching proton numbers are 114, 120 and 126 - which would mean that the most stable possible <glink ref="isotope">isotopes</glink> would be <elink ref="114">ununquadium-298</elink>, unbinilium-304 and <elink ref="116">unbihexium-310</elink>. Of particular note is Ubh-310, which would be "<glink ref="dm">doubly magic</glink>" (both its proton number of 126 and neutron number of 184 are thought to be magic) and thus the most likely to have a very long <glink ref="hl">half-life</glink>. (The next lighter doubly-magic nucleus is <elink ref="82">Lead-208</elink>, the heaviest stable <glink ref="nucleus">nucleus</glink> and most stable heavy metal.) None of these transuranic isotopes has yet been produced, but <glink ref="isotope">isotopes</glink> of elements in the range between 110 through 114 are slower to decay than <glink ref="isotope">isotopes</glink> of nearby <glink ref="nucleus">nuclei</glink> on the <glink ref="pt">periodic table</glink>.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="mn">Magic Number</glink> and <glink ref="dm">Doubly Magic</glink>.</ptxt>
+	</seealso>	
+</glossary>
+
+<glossary type="entry">
+	<title>Ionization Potential</title>
+	<filename>iop</filename>
+	<data>
+		<ptxt>The ionization potential, ionization energy or E<sub>I</sub> of an <glink ref="atom">atom</glink> or <glink ref="molecule">molecule</glink> is the energy required to remove one mole of <glink ref="electron">electrons</glink> from one mole of isolated gaseous <glink ref="atom"></glink>atoms or <glink ref="ion">ions</glink>. </ptxt>
+		<ptxt>The nth ionization energy is the energy required to strip it of an nth mole of electrons after the first n-1 mole of <glink ref="electron">electrons</glink> have already been removed.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Isometric Transition</title>
+	<filename>decay_it</filename>
+	<data>
+		<ptxt>Isomeric transition is a radioactive decay process that occurs in an <glink ref="atom">atom</glink> where the <glink ref="nucleus">nucleus</glink> is in an excited meta-state (e.g. following the emission of an alpha or beta particle). The extra energy in the nucleus is released by the emission of a <elink ref="gr">gamma ray</elink>, returning the <glink ref="nucleus">nucleus</glink> to the ground state. This process is similar to a gamma emission but differs in that it involves excited meta-states.</ptxt>
+		<ptxt>The <elink ref="gr">gamma ray</elink> may transfer its energy directly to one of the most tightly bound <glink ref="electron">electrons</glink> causing it to be ejected from the <glink ref="atom">atom</glink>, a process termed internal conversion.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Isotope</title>
+	<filename>isotope</filename>
+	<data>
+		<ptxt>Atoms that have the same number of <glink ref="proton">protons</glink> but different numbers of <glink ref="neutron">neutrons</glink> are called isotopes.</ptxt>
+		<ptxt>While the number of <glink ref="proton">protons</glink> and <glink ref="electron">electrons</glink> remain constant in the neutral <glink ref="atom">atom</glink>, the number of <glink ref="neutron">neutrons</glink> may vary within different <glink ref="atom">atom</glink> species of the same <glink ref="element">element</glink>. As a result, the <glink ref="am">atomic mass</glink> for one <glink ref="atom">atom</glink> may be different from another <glink ref="atom">atom</glink> of the same <glink ref="element">element</glink> if the number of <glink ref="neutron">neutrons</glink> varies. <glink ref="am">Atomic mass</glink> must account for all possible species or nuclides (isotopes), of an atom. <elink ref="6">Carbon</elink> 12 with its 6 <glink ref="neutron">neutrons</glink> is by far the most common isotope of <elink ref="6">carbon</elink>. In reality, there is a <elink ref="6">carbon</elink> 14 which has eight <glink ref="neutron">neutrons</glink> and an atomic mass of 14. There is also a <elink ref="6">carbon</elink> 11 which has only five <glink ref="neutron">neutrons</glink>.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="allotrope">Allotrope</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Inner Transition Metals</title>
+	<filename>itm</filename>
+	<data>
+		<ptxt>The thirty elements of the <glink ref="lanthanoids">Lanthanoids</glink> and <glink ref="actinoids">Actinoids</glink> series, which are sub-series of the <glink ref="tm">Transition Metals</glink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>IUPAC</title>
+	<filename>iupac</filename>
+	<data>
+		<ptxt>"International Union of Pure and Applied Chemists", the standards body that among other things, makes recommendations regarding the names of newly discovered <glink ref="element">elements</glink> and forms other chemistry related standards (such as the labeling of <glink ref="group">groups</glink> on the <glink ref="pt">periodic table</glink>).</ptxt>
+		<ptxt>Visit their <wlink ref="www.iupac.org">website</wlink> for more details.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>K</title>
+</glossary>
+
+<glossary type="entry">
+	<title>K-alpha</title>
+	<filename>kalpha</filename>
+	<data>
+		<ptxt>In X-ray spectroscopy, K-alpha emission lines result when an electron transitions to the innermost "K" shell (principal quantum number 1) from a 2p orbital of the second or "L" shell (with principal quantum number 2). The line is actually a doublet, with slightly different energies depending on spin-orbit interaction energy between the electron spin and the orbital momentum of the 2p orbital. K-alpha is typically by far the strongest X-ray spectral line for an element bombarded with energy sufficient to cause maximally intense X-ray emission.</ptxt>
+		<ptxt>An example of K-alpha lines are those seen for <elink ref="26">iron</elink> as iron atoms radiating X-rays spiralling into a black hole at the center of a galaxy. For such purposes, the frequency of the line is adequately calculated to 2-digit accuracy by the use of Moseley's law. This formula is 10.2 eV multiplied by the square of a quantity one less than the atomic number of the element in question (atomic number minus 1). For example, K-alpha for iron (Z = 26) is calculated in this fashion as 10.2 eV (25)2 = 6.38 keV. For astrophysical purposes, Doppler and other effects (such as gravitational broadening) show the iron line to no better accuracy than 6.4 keV.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="kbeta">K-beta</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>K-beta</title>
+	<filename>kbeta</filename>
+	<data>
+		<ptxt>K-beta emissions, similar to K-alpha emissions, result when an <glink ref="electron">electron</glink> transitions to the innermost "K" shell (principal quantum number 1) from a 3p orbital of the second or "M" shell (with principal quantum number 3).</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="kalpha">K-alpha</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Kelvin (absolute temperature)</title>
+	<filename>kelvin</filename>
+	<data>
+		<ptxt>The <glink ref="temp">temperature</glink> scale used in chemistry, physics and some engineering calculations. Zero degrees Kelvin (-273.15&degree; <glink ref="centigrade">centigrade</glink>) is the <glink ref="temp">temperature</glink> at which all thermal motion ceases. To convert from Kelvin into <glink ref="centigrade">centigrade</glink> subtract 273.15 from the Kelvin <glink ref="temp">temperature</glink>.</ptxt>
+		<ptxt>The temperature at which the volume of an ideal gas becomes zero; the theoretical coldest temperature that can be approached but never reached.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="fahrenheit">Fahrenheit</glink> and <glink ref="centigrade">Centigrade</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="astop">
+	<title>L</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Lanthanides (old name)</title>
+	<filename>lanthanides</filename>
+	<data>
+		<ptxt>IUPAC currently recommends the name lanthanoids rather than lanthanides. The suffix "-ide" generally indicates negative <glink ref="ion">ions</glink> whereas the suffix "-oid" indicates similarity to one of the members of the containing family of elements.</ptxt>
+		<ptxt>The fourteen <glink ref="element">elements</glink> of the upper row on the <glink ref="itm">inner-transition metals</glink> on the <glink ref="pt">periodic table</glink> that follow the element <elink ref="57">lanthanum (#57)</elink>. Some reference sources include <elink ref="57">lanthanum</elink> in this series others do not. For all of these <glink ref="element">elements</glink> the filling orbital is 4f. This series is a sub-series of the <glink ref="tm">transition metals</glink>.</ptxt>
+		<ptxt>All lanthanides closely resemble <elink ref="57">lanthanum</elink>, hence the name. They are shiny and silvery-white, and tarnish easily when exposed to air. They react violently with most nonmetals. They are relatively soft but their hardness increases with their <glink ref="an">atomic number</glink>. Lanthanides burn in air and they have high <glink ref="mp">melting</glink> and <glink ref="bp">boiling points</glink>.</ptxt>
+		<ptxt>Most lanthanides are widely used in lasers. These elements deflect UV and infrared electromagnetic radiation and are commonly used in the production of sunglass lenses.</ptxt>
+		<ptxt>The ionic radii of the lanthanides decrease through the period - the so-called "lanthanide contraction". Except for <elink ref="58">cerium</elink> (III and IV) and <elink ref="63">europium</elink> (III and II), the lanthanides occur as trivalent <glink ref="cation">cations</glink> in nature.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="Actinides">Actinides</glink> and <glink ref="ree">Rare Earth Elements</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Lanthanoids</title>
+	<filename>lanthanoids</filename>
+	<data>
+		<ptxt>The fourteen <glink ref="element">elements</glink> of the upper row on the <glink ref="itm">inner-transition metals</glink> on the <glink ref="pt">periodic table</glink> that follow the element <elink ref="57">lanthanum (#57)</elink>. Some reference sources include <elink ref="57">lanthanum</elink> in this series others do not. For all of these <glink ref="element">elements</glink> the filling orbital is 4f. This series is a sub-series of the <glink ref="tm">transition metals</glink>.</ptxt>
+		<ptxt>All lanthanoids closely resemble <elink ref="57">lanthanum</elink>, hence the name. They are shiny and silvery-white, and tarnish easily when exposed to air. They react violently with most nonmetals. They are relatively soft but their hardness increases with their <glink ref="an">atomic number</glink>. Lanthanoids burn in air and they have high <glink ref="mp">melting</glink> and <glink ref="bp">boiling points</glink>.</ptxt>
+		<ptxt>Most lanthanoids are widely used in lasers. These elements deflect UV and infrared electromagnetic radiation and are commonly used in the production of sunglass lenses.</ptxt>
+		<ptxt>The ionic radii of the lanthanoids decrease through the period - the so-called "lanthanide contraction". Except for <elink ref="58">cerium</elink> (III and IV) and <elink ref="63">europium</elink> (III and II), the lanthanides occur as trivalent <glink ref="cation">cations</glink> in nature.</ptxt>
+		<ptext>The Lanthanoid series was previously known as the Lanthanide series. IUPAC currently recommends the name lanthanoid rather than lanthanide, as the suffix "-ide" generally indicates negative <glink ref="ion">ions</glink> whereas the suffix "-oid" indicates similarity to one of the members of the containing family of elements.</ptext>
+	</data>
+	<seealso>
+		<ptxt><glink ref="actinoids">Actinoids</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Liquid</title>
+	<filename>liquid</filename>
+	<data>
+		<ptxt>A liquid is a fluid that has the particles loose and can freely form a distinct surface at the boundaries of its bulk material.</ptxt>		
+		<ptxt>A liquid's shape is determined by the container it fills. That is to say, liquid particles (normally molecules or clusters of molecules) are free to move about the volume, but they form a discrete surface that may not necessarily be the same as the vessel. The same cannot be said about a gas; it can also be considered a fluid (things that flows, including gas), but it must conform to the shape of the container entirely.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="solid">Solid</glink>, <glink ref="gas">Gas</glink> and <glink ref="plasma">Plasma</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="astop">
+	<title>M</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Magic Number</title>
+	<filename>mn</filename>
+	<data>
+		<ptxt>In nuclear physics, a magic number is a number of nucleons (either <glink ref="proton">protons</glink> or <glink ref="neutron">neutrons</glink>) such that they are arranged into complete shells within the atomic nucleus. The seven known magic numbers as of 2007 are;</ptxt>
+		<ptxt>2, 8, 20, 28, 50, 82, 126</ptxt>
+		<ptxt>Atomic <glink ref="nucleus">nuclei</glink> consisting of such a magic number of nucleons have a higher average binding energy per nucleon than one would expect based upon predictions such as the semi-empirical mass formula and are hence more stable against nuclear decay.</ptxt>
+		<ptxt>The unusual stability of <glink ref="isotope">isotopes</glink> having magic numbers means that transuranium elements can be created with extremely large nuclei and yet not be subject to the extremely rapid radioactive decay normally associated with high atomic numbers (as of 2007, the longest-lived, known isotope among all of the elements between 110 and 120 lasts only 3.6 seconds). Large isotopes with magic numbers of nucleons are said to exist in an <glink ref="ios">island of stability</glink>. Unlike the magic numbers 2-126, which are realized in spherical nuclei, theoretical calculations predict that nuclei in the island of stability are deformed. Before this was realized, higher magic numbers, such as 184, were predicted based on simple calculations that assumed spherical shapes. It is now believed that the sequence of spherical magic numbers cannot be extended in this way.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="dm">Doubly magic</glink> and <glink ref="ios">Island of stability</glink>.</ptxt>
+	</seealso>	
+</glossary>
+
+<glossary type="entry">
+	<title>Magnetic Ordering</title>
+	<filename>magord</filename>
+	<data>
+		<ptxt>In materials that exhibit <b>antiferromagnetism</b>, the spins of electrons align in a regular pattern with neighboring spins pointing in opposite directions. This is a different manifestation of magnetism. Generally, antiferromagnetic materials exhibit antiferromagnetism at a low <glink ref="temp">temperature</glink>, and become disordered above a certain <glink ref="temp">temperature</glink>; the transition <glink ref="temp">temperature</glink> is called the Neel <glink ref="temp">temperature</glink>. Above the Neel <glink ref="temp">temperature</glink>, the material is typically paramagnetic.</ptxt>
+		<ptxt>Antiferromagnetic materials are relatively uncommon. An example is the heavy-fermion superconductor URu<sub>2</sub>Si<sub>2</sub>. More everyday examples include metals such as <elink ref="24">chromium</elink>, <glink ref="alloy">alloys</glink> such as <elink ref="26">iron</elink> <elink ref="25">manganese</elink> (FeMn), and oxides such as <elink ref="28">nickel</elink> <elink ref="8">oxide</elink> (NiO).</ptxt>
+		<ptxt><b>Diamagnetism</b> is a form of magnetism which is only exhibited by a substance in the presence of an externally applied magnetic field. It is the result of changes in the orbital motion of electrons due to the application of an externally applied magnetic field. Applying a magnetic field creates a magnetic force on a moving <glink ref="electron">electron</glink> in the form of F = qv.B . This force changes the centripetal force on the <glink ref="electron">electron</glink>, causing it to either speed up or slow down in its orbital motion. This changed <glink ref="electron">electron</glink> speed modifies the magnetic moment of the orbital in a direction opposing the external field.</ptxt>
+		<ptxt>All materials show a diamagnetic response in an applied magnetic field; however for materials which show some other form of magnetism (such as ferromagnetism or paramagnetism), the diamagnetism is completely swamped. Substances which only, or mostly, display diamagnetic behaviour are termed diamagnetic materials, or diamagnets. Materials that are said to be diamagnetic are those which are usually considered by non-physicists as "non magnetic", and include water, DNA, most organic compounds such as oil and plastic, and many metals such as <elink ref="79">gold</elink> and <elink ref="83">bismuth</elink>.</ptxt>
+		<ptxt><b>Ferrimagnetic</b> materials are those in which the magnetic moment of the atoms on different sublattices are opposed, as in antiferromagnetism; however, in ferrimagnetic materials, the opposing moments are unequal and a spontaneous magnetization remains. This happens when the sublattices consist of different materials or <glink ref="ion">ions</glink> (such as Fe<sup>2+</sup> and Fe<sup>3+</sup>).</ptxt>
+		<ptxt>Ferrimagnetic materials are like ferromagnets in that they hold a spontaneous magnetization below the Curie <glink ref="temp">temperature</glink>, and show no magnetic order (are paramagnetic) above this <glink ref="temp">temperature</glink>. However, there is sometimes a <glink ref="temp">temperature</glink> below the Curie <glink ref="temp">temperature</glink> at which the two sublattices have equal moments, resulting in a net magnetic moment of zero; this is called the compensation point. The compensation point is observed easily in garnets.</ptxt>
+		<ptxt>Ferrimagnetism is exhibited by ferrites and magnetic garnets. The oldest-known magnetic substance, magnetite, is a ferrimagnet; it was originally classified as a ferromagnet before Neel's discovery of ferrimagnetism and antiferromagnetism.</ptxt>
+		<ptxt><b>Ferromagnetism</b> is the "normal" form of magnetism which most people are familiar with, as exhibited in horseshoe magnets and refrigerator magnets, for instance. It is responsible for most of the magnetic behavior encountered in everyday life. All permanent magnets are either ferromagnetic or ferrimagnetic, as are the metals that are noticeably attracted to them.</ptxt>
+		<ptxt>Historically, the term "ferromagnet" was used for any material that could exhibit spontaneous magnetization: a net magnetic moment in the absence of an external magnetic field. This general definition is still in common use. More recently, however, different classes of spontaneous magnetization have been identified when there is more than one magnetic ion per primitive cell of the material, leading to a stricter definition of "ferromagnetism" that is often used to distinguish it from ferrimagnetism. In particular, a material is "ferromagnetic" in this narrower sense only if all of its magnetic ions add a positive contribution to the net magnetization. If some of the magnetic ions subtract from the net magnetization (if they are partially anti-aligned), then the material is "ferrimagnetic". If the ions anti-align completely so as to have zero net magnetization, despite the magnetic ordering, then it is an antiferromagnet. All of these alignment effects only occur at <glink ref="temp">temperatures</glink> below a certain critical <glink ref="temp">temperature</glink>, called the Curie <glink ref="temp">temperature</glink> (for ferromagnets and ferrimagnets) or the Neel <glink ref="temp">temperature</glink> (for antiferromagnets).</ptxt>
+		<ptxt><b>Paramagnetism</b> is a form of magnetism which only occurs in the presence of an externally applied magnetic field. Paramagnetic materials are attracted to magnetic fields, hence have a relative magnetic permeability greater than unity (or, equivalently, a positive magnetic susceptibility). However, unlike ferromagnets which are also attracted to magnetic fields, paramagnets do not retain any magnetisation in the absence of an externally applied magnetic field.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Magnetic Susceptibility (Mass)</title>
+	<filename>massmag</filename>
+	<data>
+		<ptxt>It's the degree of magnetization of a material in response to an applied magnetic field.</ptxt>
+		<ptxt>The units are m<sup>3</sup> kg<sup>-1</sup>.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="molarmag">Magnetic Susceptibility (Molar)</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Magnetic Susceptibility (Molar)</title>
+	<filename>molarmag</filename>
+	<data>
+		<ptxt>It's the degree of magnetization of a material in response to an applied magnetic field.</ptxt>
+		<ptxt>The units are m<sup>3</sup> mol<sup>-1</sup>.</ptxt>	
+	</data>
+	<seealso>
+		<ptxt><glink ref="massmag">Magnetic Susceptibility (Mass)</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Malleable</title>
+	<filename>malleable</filename>
+	<data>
+		<ptxt>Capable of being hammered into sheets. Metals are typically malleable materials.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="Ductile">Ductile</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Mass Number (A)</title>
+	<filename>massn</filename>
+	<data>
+		<ptxt>The mass number, symbol A, also called atomic mass number (not to be confused with <glink ref="an">atomic number</glink> (Z)) or nucleon number, is the number of nucleons (<glink ref="proton">protons</glink> and <glink ref="neutron">neutrons</glink>) in an atomic <glink ref="nucleus">nucleus</glink>. The mass number is unique for each <glink ref="isotop">isotope</glink> of an <glink ref="element">element</glink> and is written either after the element name or as a superscript to the left of an element's symbol.</ptxt>
+		<ptxt>Carbon-12 (<sup>12</sup>C) has 6 <glink ref="proton">protons</glink> (as do ALL isotopes of carbon) and 6 <glink ref="neutron">neutrons</glink>, 6+6 = 12.</ptxt>
+		<ptxt>Lead-207 (<sup>207</sup>Pb) has 82 <glink ref="proton">protons</glink> (as do ALL isotopes of lead) and 125 <glink ref="neutron">neutrons</glink>, 82+125 = 207.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="an">Atomic Number (Z)</glink>.</ptxt>
+	</seealso>	
+</glossary>
+
+<glossary type="entry">
+	<title>Melting Point (freezing point)</title>
+	<filename>mp</filename>
+	<data>
+		<ptxt>The point at which the crystals of a pure substance are in equilibrium with the liquid phase at atmospheric pressure. This point is commonly referred to as melting point when a substance is approaching it from its solid state and is referred to as freezing point when a substance is approaching it from its liquid state.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="bp">Boiling Point</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Metalloids</title>
+	<filename>metalloid</filename>
+	<data>
+		<ptxt>This term is no longer commonly used by chemists, however, it refers to <glink ref="element">elements</glink> that exhibit some properties of <glink ref="metals">metals</glink> and <glink ref="nm">nonmetals</glink>. These elements tend to be <glink ref="semicon">semiconductors</glink>. <elink ref="14">Silicon</elink> is an extremely important example of these elements. Without the semiconductive properties silicon you would not be reading this text right now as most microchips and microprocessors are made with <elink ref="14">silicon</elink> and without these processors computers as we now know them would not exist.</ptxt>
+		<ptxt>Some allotropes of elements exhibit more pronounced metal, metalloid or non-metal behavior than others. For example, for the element <elink ref="6">carbon</elink>, its diamond <glink ref="allotrope">allotrope</glink> is clearly non-metallic, however the graphite <glink ref="allotrope">allotrope</glink> displays limited electric conductivity more characteristic of a metalloid. <elink ref="15">Phosphorus</elink>, <elink ref="50">tin</elink>, <elink ref="34">selenium</elink> and <elink ref="83">bismuth</elink> also have allotropes which display borderline behavior.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="metals">Metals</glink> and <glink ref="nm">Non-metals</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Metals</title>
+	<filename>metals</filename>
+	<data>
+		<ptxt><glink ref="element">Elements</glink> that form cations when <glink ref="compound">compounds</glink> of it are in solution and oxides of the elements form hydroxides rather than acids in water. Most metals are conductors of electricity, have crystalline solids with a metallic luster and have a high chemical reactivity. Many of these <glink ref="element">elements</glink> are hard and have high physical strength. The metal series includes all elements of the <glink ref="alkalimetal">alkali</glink>, <glink ref="aem">alkali-earth</glink>, <glink ref="itm">inner-transition</glink> (<glink ref="lanthanoids">lanthanoids</glink> and <glink ref="actinoids">actinoids</glink> series), <glink ref="transactinides">transactinides</glink> and <glink ref="transition">transition</glink> series as well as some elements of the <glink ref="metalloid">metalloid</glink> series (elements: <elink ref="32">Ge</elink>, <elink ref="51">Sb</elink> and <elink ref="84">Po</elink>).</ptxt>
+		<ptxt>About 80% of the known chemical elements are metals.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="metalloid">Metalloids</glink> and <glink ref="nm">Non-metals</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Moh's Scale of Hardness</title>
+	<filename>mohsh</filename>
+	<data>
+		<ptxt>Mohs' scale of mineral hardness characterizes the scratch resistance of various minerals through the ability of a harder material to scratch a softer material. It was created, in 1812, by the German mineralogist Friedrich Mohs and is one of several definitions of hardness in materials science.</ptxt>
+		<ptxt>Mohs based the scale on ten minerals that are all readily available except the last one, <elink ref="6">diamond</elink>. The hardness of a material is measured against the scale by finding the hardest material that the given material can scratch, and/or the softest material that can scratch the given material. For example, if some material is scratched by apatite but not by fluorite, its hardness on Mohs scale is 4.5.</ptxt>
+		<ptxt>The table below shows comparison with absolute hardness measures by a sclerometer. Mohs' is a purely ordinal scale with, for example, corundum being twice as hard as topaz, but diamond, almost four times as hard as corundum.</ptxt>
+		<ptxt><image ref="mohs" /></ptxt>
+		<ptxt>On the Mohs scale, fingernail has hardness 2.5; copper penny, about 3.5; a knife blade, 5.5; window glass, 5.5; steel file, 6.5. Using these ordinary materials of known hardness can be a simple way to approximate the position of a mineral on the scale.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="brinellh">Brinell Hardness</glink> and <glink ref="vickersh">Vickers Hardness</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Mole</title>
+	<filename>mole</filename>
+	<data>
+		<ptxt>A mole of a substance is the mass, in grams, that is numerically equal to that substance's molecular weight. The number of particles in one mole of a substance is called <glink ref="ac">Avogadro's Constant</glink>. For example, since the molecular weight of water (H<sub>2</sub>O) is 18.01528 (the atomic weight of two atoms of <elink ref="1">hydrogen</elink> plus the atomic weight of one atom of <elink ref="8">oxygen</elink>), the mass of one mole of water is 18.01528 grams and contains an <glink ref="ac">Avogadro's Constant</glink> of <glink ref="molecule">molecules</glink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Molecule</title>
+	<filename>molecule</filename>
+	<data>
+		<ptxt>A complete chemical unit. While a molecule is often thought of as consisting of more than one <glink ref="atom">atom</glink>, this is not always true. For instance, <elink ref="2">helium</elink> has only one <glink ref="atom">atom</glink> per molecule. The <elink ref="8">oxygen</elink> molecule (O<sub>2</sub>) contains two atoms, as do <elink ref="17">chlorine</elink> (Cl<sub>2</sub>), <elink ref="1">hydrogen</elink> (H<sub>2</sub>) and <elink ref="7">nitrogen</elink> (N<sub>2</sub>).</ptxt>
+		<ptxt>Some molecules are huge having a molecular weight in the millions. Macromolecules contain literally thousands of <glink ref="atom">atoms</glink>. Some macromolecules must remain in tact in order to retain their chemical entity. These are usually proteins. Polymers are chains or networks of repeating sequences of chemical units known as molecules. Examples are polypropylene or cellulose. Molecules of polymers can be broken without destroying the chemical integrity.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>N</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Nucleon</title>
+	<filename>nucleon</filename>
+	<data>
+		<ptxt>A <glink ref="proton">proton</glink> or <glink ref="neutron">neutron</glink> in an atomic nucleus.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Neutron</title>
+	<filename>neutron</filename>
+	<data>
+		<ptxt>Neutrons are uncharged particles found within atomic <glink ref="nucleus">nuclei</glink>. Neutrons were discovered by James Chadwick in 1932.</ptxt>
+		<ptxt>The number of neutrons determines the isotope of an element. (For example, the <elink ref="6">carbon-12</elink> <glink ref="isotope">isotope</glink> has 6 protons and 6 neutrons, while the carbon-14 isotope has 6 protons and 8 neutrons.) Isotopes are atoms of the same element that have the same <glink ref="an">atomic number</glink> but different masses due to a different number of neutrons.</ptxt>
+		<ptxt>A neutron is classified as a <glink ref="baryon">baryon</glink>, and consists of two down quarks and one up quark.</ptxt>
+		<ptxt>The proper symbol to use when representing a neutron;</ptxt>
+		<ptxt><image ref="symbol_neutron" /></ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="proton">Proton</glink> and <glink ref="electron">Electron</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Noble Gasses (inert gasses)</title>
+	<filename>noble</filename>
+	<data>
+		<ptxt>Elements belonging to <glink ref="group">Group</glink> 18 of the <glink ref="pt">periodic table</glink>. These <glink ref="element">elements</glink> are very unreactive, however, they are not completely nonreactive as <glink ref="compound">compounds</glink> containing these elements have been synthesized. Chemically, they are very stable due to having the maximum number of valence electrons their outer shell can hold. Valence electrons are the outermost electrons of an atom and are normally the only electrons which can participate in chemical bonding. According to atomic theory derived from quantum mechanics and experimental trends, <glink ref="atom">atoms</glink> with full valence <glink ref="electron">electron</glink> shells are extraordinarily stable and therefore do not form chemical bonds. There are no naturally occurring compounds that are made up of these elements.</ptxt>
+		<ptxt>All of them exhibit an extremely low chemical reactivity and very few noble gas compounds have been prepared. No conventional compounds of <elink ref="2">helium</elink> or <elink ref="10">neon</elink> have yet been prepared, while <elink ref="54">xenon</elink> and <elink ref="36">krypton</elink> are known to show some reactivity in the laboratory. Recently argon compounds have also been successfully characterised. The noble gases' lack of reactivity can be explained in terms of them having a "complete valence shell". They have little tendency to gain or lose electrons. The noble gases have high ionization energies and negligible electronegativities. The noble gases have very weak inter-atomic forces of attraction, and consequently very low <glink ref="mp">melting points</glink> and <glink ref="bp">boiling points</glink>. This is why they are all monatomic gases under normal conditions, even those with larger <glink ref="am">atomic masses</glink> than many normally solid elements.</ptxt>
+		<ptxt>One of the most commonly encountered uses of the noble gases in everyday life is in lighting. <elink ref="18">Argon</elink> is often used as a suitable safe and inert atmosphere for the inside of filament light bulbs, and is also used as an inert atmosphere in the synthesis of air and moisture sensitive compounds (as an alternative for <elink ref="7">nitrogen</elink>). Some of the noble gases glow distinctive colours when used inside lighting tubes (<elink ref="10">neon</elink> lights). <elink ref="2">Helium</elink>, due to its nonreactivity (compared with flammable <elink ref="1">hydrogen</elink>) and lightness, is often used in blimps and balloons. <elink ref="2">Helium</elink> and <elink ref="18">Argon</elink> are very commonly used to shield a welding arc, and the surrounding base metal from the atmosphere during welding. <elink ref="36">Krypton</elink> is also used in lasers, which are used by doctors for eye surgery.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Non-Metals</title>
+	<filename>nm</filename>
+	<data>
+		<ptxt><glink ref="element">Elements</glink> that do not exhibit the characteristics of <glink ref="metals">metals</glink>. These elements differ markedly from metals in respect to electronegativity and thermal and electrical conductivity. These elements, in general, are poor conductors and have a high electronegativity. This series includes <glink ref="halogens">halogens</glink>, <glink ref="noble">noble gasses</glink> and some of the <glink ref="metalloid">metalloids</glink> (<elink ref="5">B</elink>, <elink ref="14">Si</elink>, <elink ref="33">As</elink> and <elink ref="52">Te</elink>).</ptxt>
+		<ptxt>They are usually brittle or waxy or gaseous, and cannot be hammered into sheets or drawn into wire. Nonmetals gain <glink ref="electron">electrons</glink> easily to form <glink ref="anion">anions</glink>. About 20% of the known chemical elements are nonmetals.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="metals">Metals</glink>.</ptxt>
+	</seealso>	
+</glossary>
+
+<glossary type="entry">
+	<title>Neutrino</title>
+	<filename>neutrino</filename>
+	<data>
+		<ptxt>The neutrino is an elementary particle.</ptxt>
+		<ptxt>There are three known types (flavours) of neutrino: electron neutrino, muon neutrino and tau neutrino;</ptxt>
+		<ptxt><image ref="neutrino1" /></ptxt>
+		<ptxt>Because the cross section in weak nuclear interactions is very small, neutrinos can pass through matter almost unhindered. For typical neutrinos produced in the sun (energy of a few MeV), it would take approximately one light year (~10<sup>16</sup>m) of <elink ref="82">lead</elink> to block half of them. Detection of neutrinos can therefore be challenging, requiring large detection volumes or high intensity man-made neutrino beams.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Nucleus</title>
+	<filename>nucleus</filename>
+	<data>
+		<ptxt>Plural of nucleus is nuclei.</ptxt>
+		<ptxt>The core of an <glink ref="atom">atom</glink> that contains at least one <glink ref="proton">proton</glink> and one <glink ref="neutron">neutron</glink> (except for <elink ref="1">hydrogen</elink> (H), which its most common nuclide doesn't have a <glink ref="neutron">neutron</glink>). This core is positively charged and contains almost all of an atom's mass.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>O</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Orbital</title>
+	<filename>orbital</filename>
+	<data>
+		<ptxt>A <glink ref="wavefunction">wavefunction</glink> that describes what an <glink ref="electron">electron</glink> with a given energy is doing inside an <glink ref="atom">atom</glink> or <glink ref="molecule">molecule</glink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Organic chemistry</title>
+	<filename>oc</filename>
+	<data>
+		<ptxt>The study of compounds that contain <elink ref="6">carbon</elink> chemically bound to <elink ref="1">hydrogen</elink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Oxidation State</title>
+	<filename>os</filename>
+	<data>
+		<ptxt>The oxidation state is a measure of the degree of oxidation (the loss of an <glink ref="electron">electron</glink> by a <glink ref="molecule">molecule</glink>, <glink ref="atom">atom</glink> or <glink ref="ion">ion</glink>) of an atom in a chemical compound. It is the hypothetical charge that an atom would have if all bonds to atoms of different elements were 100% ionic. Oxidation states are represented by Arabic numerals, and are always associated with a sign (positive or negative) unless zero. Thus, a <elink ref="1">hydrogen</elink> <glink ref="ion">ion</glink>, which is nothing more than a <glink ref="proton">proton</glink>, would have an oxidation state of 1+.</ptxt>
+		<ptxt>The increase in oxidation state of an atom is known as an oxidation: a decrease in oxidation state is known as a <glink ref="reduction">reduction</glink> (gain of an <glink ref="electron">electron</glink> by a <glink ref="molecule">molecule</glink>, <glink ref="atom">atom</glink> or <glink ref="ion">ion</glink>). Such reactions involve the transfer of electrons, a net gain in electrons being a reduction and a net loss of electrons being an oxidation.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>P</title>
+</glossary>
+
+<glossary type="entry">
+	<title>The Pauling Scale</title>
+	<filename>pauling</filename>
+	<data>
+		<ptxt>The Pauling scale was devised in 1932 by Linus Pauling. On this scale, the most <glink ref="elecneg">electronegative</glink> chemical element (<elink ref="9">fluorine</elink>) is given an electronegativity value of 3.98 (textbooks often state this value to be 4.0); the least electronegative element (<elink ref="87">francium</elink>) has a value of 0.7, and the remaining elements have values in between. On the Pauling scale, <elink ref="1">hydrogen</elink> is arbitrarily assigned a value of 2.1 or 2.2.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Periodic Law</title>
+	<filename>plaw</filename>
+	<data>
+		<ptxt>The periodic law states that physical and chemical properties of the elements recur in a regular way when the elements are arranged in order of increasing <glink ref="an">atomic number</glink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Periodic Table</title>
+	<filename>pt</filename>
+	<data>
+		<ptxt>An arrangement of <glink ref="element">elements</glink> in a geometric pattern designed to represent the periodic law by aligning elements into <glink ref="period">periods</glink> and <glink ref="group">groups</glink>. Elements with the same number of orbitals are in the same period and elements with the same number of electrons in the filling orbital and have other similar properties are in the same <glink ref="group">group</glink>.</ptxt>
+		<ptxt><blink ref="dim">Dmitri Mendeleev</blink>, a Russian chemist, is credited as the primary creator of the first periodic table. He made a formal presentation to the Russian Chemical Society on March 6th 1869.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Periods</title>
+	<filename>period</filename>
+	<data>
+		<ptxt>While <glink ref="group">groups</glink> are characterised by the number of <glink ref="electron">electrons</glink> present in the outer shell, periods are characterized by the number of energy levels (shells) of <glink ref="electron">electrons</glink> surrounding the <glink ref="nucleus">nucleus</glink>. Elements in Period 1 has only one shell. As you probably recall, the elements in the first period have a 2 electrons maximum (<elink ref="1">hydrogen</elink> has 1 electron and <elink ref="2">helium</elink> has 2 electrons. As we move to the first group of the second period, we find that <elink ref="3">lithium</elink>, which has the two electrons in the first shell and one in the second. <elink ref="10">Neon</elink> is in Group 18 of Period 2 and therefore has the two electrons in the first shell and eight electrons in the second shell. <elink ref="11">Sodium</elink> starts Period 3 with 11 electrons, two in the first shell, eight in the second shell and one in the third shell. In other words, the element in Group 1 always has one more electron (in a new shell) than the Group 18 element in the previous period.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>pH</title>
+	<filename>ph</filename>
+	<data>
+		<ptxt>pH is a measure of the acidity of a solution, in terms of activity of <elink ref="1">hydrogen</elink> ions (H+). For dilute solutions, however, it is convenient to substitute the activity of the <elink ref="1">hydrogen</elink> ions with the molarity (mol/L) of the <elink ref="1">hydrogen</elink> ions (however, this is not necessarily accurate at higher concentrations).</ptxt>
+		<ptxt>In aqueous systems, the <elink ref="1">hydrogen</elink> <glink ref="ion">ion</glink> activity is dictated by the dissociation constant of water (Kw = 1.011 x 10<sup>-14</sup> M<sup>2</sup> at 25&degree;C) and interactions with other ions in solution. Due to this dissociation constant, a neutral solution (<elink ref="1">hydrogen</elink> <glink ref="ion">ion</glink> activity equals hydroxide <glink ref="ion">ion</glink> activity) has a pH of approximately 7. Aqueous solutions with pH values lower than 7 are considered acidic, while pH values higher than 7 are considered basic.</ptxt>
+		<ptxt>The concept was introduced by S.P.L. Sorensen in 1909, and is purported to mean "pondus hydrogenii" in Latin. However, most other sources attribute the name to the French term pouvoir hydrogene. In English, pH can stand for "<elink ref="1">hydrogen</elink> power," "power of <elink ref="1">hydrogen</elink>," or "potential of <elink ref="1">hydrogen</elink>." All of these terms are technically correct.</ptxt>
+		<ptxt>Though pH is generally expressed without units, it is not an arbitrary scale; the number arises from a definition based on the activity of <elink ref="1">hydrogen</elink> ions in the solution. The pH scale is a reverse logarithmic representation of relative <elink ref="1">hydrogen</elink> proton (H+) concentration. Most scales are linear in nature and progress in a smooth incremental manner. On the pH scale, a shift up in value by one number represents a ten-fold decrease in value. For example, a shift in pH from 2 to 3 represents a decrease in total concentration of ten times less H+ concentration, and a shift from 2 to 4 represents a one-hundred fold decrease (10 X 10) in H+ concentration.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Photon</title>
+	<filename>photon</filename>
+	<data>
+		<ptxt>Discrete concentrations of energy that move at the speed of light, have no rest mass and can only be described in mathematical terms. The quantum unit of electromagnetic <glink ref="radiation">radiation</glink> that makes up light waves, <glink ref="gr">gamma rays</glink>, <glink ref="xr">x-rays</glink> etc.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Plasma</title>
+	<filename>plasma</filename>
+	<data>
+		<ptxt>A plasma is a partially <glink ref="ion">ionized</glink> gas, in which a certain proportion of <glink ref="electron">electrons</glink> are free rather than being bound to an atom or molecule. The ability of the positive and negative charges to move somewhat independently makes the plasma electrically conductive so that it responds strongly to electromagnetic fields. Plasma therefore has properties quite unlike those of solids, liquids, or gases and is considered to be a distinct state of matter. Plasma typically takes the form of neutral gas-like clouds, as seen, for example, in the case of stars. Like gas, plasma does not have a definite shape or a definite volume unless enclosed in a container; unlike gas, in the influence of a magnetic field, it may form structures such as filaments, beams and double layers.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="solid">Solid</glink>, <glink ref="liquid">Liquid</glink> and <glink ref="gas">Gas</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Plum-pudding Model</title>
+	<filename>plummodel</filename>
+	<data>
+		<ptxt>J. J. Thomson put forward the idea in 1904; in the model the <glink ref="atom">atom</glink> is composed of atoms surrounded by a soup of positive charge (to balance the <glink ref="electron">electrons</glink> negative charge). Negatively-charged "plums" surrounded by a positively-charged "pudding".</ptxt>
+		<ptxt></ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="cubicmodel">Cubic model</glink>, <glink ref="saturnmodel">Saturnian Model</glink>, <glink ref="rutherfordmodel">Rutherford Model</glink> and <glink ref="bohrmodel">Bohr Model</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Poisson Ratio</title>
+	<filename>poisson</filename>
+	<data>
+		<ptxt>When a sample of material is stretched in one direction, it tends to get thinner in the other two directions. Poisson's ratio, named after Simeon Poisson, is a measure of this tendency. Poisson's ratio is the ratio of the relative contraction strain, or transverse strain (normal to the applied load), divided by the relative extension strain (in the direction of the applied load). For a perfectly incompressible material, the Poisson's ratio would be exactly 0.5. Most practical engineering materials have ? between 0.0 and 0.5. Cork is close to 0.0, most steels are around 0.3, and rubber is almost 0.5. Some materials, mostly polymer foams, have a negative Poisson's ratio; if these auxetic materials are stretched in one direction, they become thicker in perpendicular directions.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Positron</title>
+	<filename>positron</filename>
+	<data>
+		<ptxt>A positively charged particle of <glink ref="antimatter">antimatter</glink> that has the same mass and spin of an <glink ref="electron">electron</glink>.</ptxt>
+		<ptxt>The proper symbol to use when representing a positron;</ptxt>
+		<ptxt><image ref="symbol_positron" /></ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="antimatter">Antimatter</glink> and <glink ref="antiproton">Antiproton</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Positron Emission (Beta+ Decay)</title>
+	<filename>decay_b+</filename>
+	<data>
+		<ptxt>Positron emission is a type of beta decay, sometimes referred to as "beta plus". In beta plus decay, a <glink ref="proton">proton</glink> is converted to a neutron via the weak nuclear force and a beta plus particle (a positron) and a neutrino are emitted. Isotopes which emit positrons include Carbon-11, Nitrogen-13, Oxygen-15 and Fluorine-18; for example:</ptxt>
+		<ptxt><image ref="decay_b+1" /></ptxt>
+		<ptxt>These isotopes are used in positron emission tomography, a technique used for medical imaging.</ptxt>
+	<ptxt>Electron capture is a competing decay mode in this process and is energetically favoured, but as the energy difference goes up so does the branching ratio towards positron emission.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="decay_b-">Electron Emission (Beta- decay)</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Proton</title>
+	<filename>proton</filename>
+	<data>
+		<ptxt>Protons are positively charged particles found within atomic <glink ref="nucleus">nuclei</glink>. Protons were discovered by Ernest Rutherford in experiments conducted between the years 1911 and 1919. Although a <glink ref="proton">proton</glink> has a mass 1837 times greater than an <glink ref="electron">electron</glink>, it is nearly identical in mass to a <glink ref="neutron">neutron</glink>. Protons are constituents of the <glink ref="nucleus">nuclei</glink> of all <glink ref="element">elements</glink> and an <glink ref="element">elements</glink> <glink ref="an">atomic number</glink> is dependent upon how many protons an <glink ref="element">element</glink> has.</ptxt>
+		<ptxt>The proton has a mass of 938.3 <glink ref="ev">MeV</glink> (1.6726 x 10<sup>-27</sup> kg).</ptxt>
+		<ptxt>A proton is classified as a <glink ref="baryon">baryon</glink>, and consists of two up quarks and one down quark.</ptxt>
+		<ptxt>The proper symbol to use when representing a proton;</ptxt>
+		<ptxt><image ref="symbol_proton" /></ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="antiproton">Antiproton</glink>, <glink ref="neutron">Neutron</glink> and <glink ref="electron">Electron</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Pyrophoric</title>
+	<filename>pyrophoric</filename>
+	<data>
+		<ptxt>A pyrophoric substance is a substance that ignites spontaneously, that is, its autoignition <glink ref="temp">temperature</glink> is below room <glink ref="temp">temperature</glink>. Examples are <elink ref="26">iron</elink> sulfide (FeS) and many reactive metals including <elink ref="92">uranium</elink>, when powdered or sliced thin. Pyrophoric materials are often water reactive as well and will ignite when they contact water or humid air. They can be handled safely in atmospheres of <elink ref="7">nitrogen</elink> or <elink ref="18">argon</elink>. Most pyrophoric fires should be extinguished with a class D fire extinguisher.</ptxt>
+		<ptxt>The creation of sparks from metals is based on the pyrophoricity of small metal particles. This can be useful, including: the sparking mechanisms in lighters and various toys, using ferrocerium (the "flint" in lighters); starting fires without matches, using a firesteel; the flintlock mechanism in firearms; and spark testing metals.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>Q</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Quantum Mechanics</title>
+	<filename>qm</filename>
+	<data>
+		<ptxt>A branch of physics that describes the wave properties of subatomic particles mathematically.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>R</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Radiation</title>
+	<filename>radiation</filename>
+	<data>
+		<ptxt>Radiation (radiant energy): energy in the form of electromagnetic waves. Different forms of radiation comprise the electromagnetic spectrum and are characterised by their different wave frequency and wavelength. Radiation is emitted from matter in the form of <glink ref="photon">photons</glink>.</ptxt>
+		<ptxt>The following types of radiation make up the electromagnetic spectrum (in order of decreasing energy and increasing wavelength): cosmic rays, <glink ref="gr">gamma rays</glink>, <glink ref="xr">x-rays</glink>, UV (ultraviolet) rays, visible light rays, infrared, microwave, radio (Hertzian) waves and electric waves. These electromagnetic waves have no mass and are not electrically charged. The shortest wavelength forms of radiation are most penetrating and are the most damaging to living tissue.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="radioactivity">Radioactivity</glink>, <glink ref="conduction">Conduction</glink> and <glink ref="convection">Convection</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Radioactivity</title>
+	<filename>radioactivity</filename>
+	<data>
+		<ptxt>The spontaneous emission of <glink ref="radiation">radiation</glink> and atomic particles from unstable <glink ref="element">elements</glink>. Radioactivity is measured in terms of <glink ref="hl">half-lives</glink> and is not affected by physical state or chemical combination.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Rare Earth Elements</title>
+	<filename>ree</filename>
+	<data>
+		<ptxt>The use of this name is depreciated by IUPAC, as they are neither rare in abundance nor "earths" (an obsolete term for water-insoluble strongly basic oxides of electropositive metals incapable of being smelted into metal using late 18th century technology). These elements are in fact fairly abundant in nature, although rare as compared to the "common" earths such as lime or magnesia. <elink ref="58">Cerium</elink> is the 26th most abundant element in the Earth's crust, <elink ref="60">neodymium</elink> is more abundant than <elink ref="79">gold</elink> and even <elink ref="69">thulium</elink> (the least common naturally-occurring lanthanoids) is more abundant than <elink ref="53">iodine</elink>.</ptxt>
+		<ptxt>The term "rare earths" arises from the minerals from which they were isolated, which were uncommon oxide-type minerals.</ptxt>
+		<ptxt>The Rare Earth Elements are made up of the <glink ref="lanthanoids">Lanthanoid</glink> together with <elink ref="21">scandium</elink> and <elink ref="39">yttrium</elink>.</ptxt>
+		<ptxt>The Lanthanoid series: <elink ref="57">Lanthanum</elink>, <elink ref="58">Cerium</elink>, <elink ref="59">Praseodymium</elink>, <elink ref="60">Neodymium</elink>, <elink ref="61">Promethium</elink>, <elink ref="62">Samarium</elink>, <elink ref="63">Europium</elink>, <elink ref="64">Gadolinium</elink>, <elink ref="65">Terbium</elink>, <elink ref="66">Dysprosium</elink>, <elink ref="67">Holmium</elink>, <elink ref="68">Erbium</elink>, <elink ref="69">Thulium</elink>, <elink ref="70">Ytterbium</elink> and <elink ref="71">Lutetium</elink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Reagent</title>
+	<filename>reagent</filename>
+	<data>
+		<ptxt>A reagent or reactant is a substance consumed during a chemical reaction.</ptxt>
+		<ptxt>"Reagent-grade" describes chemical substances of sufficient purity for use in chemical analysis, chemical reactions or physical testing.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="aquaregia">Aqua regia</glink> and <glink ref="catalyst">Catalyst</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Refractory</title>
+	<filename>refractory</filename>
+	<data>
+		<ptxt>Refractory materials retain their strength at high <glink ref="temp">temperatures</glink>. They are used to make crucibles and to make refractory linings, which line furnaces, kilns and incinerators. The oxides of <elink ref="12">magnesium</elink> (magnesite) and <elink ref="20">calcium</elink> (lime) are the most important refractory materials, though fireclay is widely used as well. Zirconia is used when the material must withstand extremely high <glink ref="temp">temperatures</glink>. <elink ref="14">Silicon</elink> <elink ref="6">carbide</elink> is another refractory material. It is very strong at high <glink ref="temp">temperatures</glink>, but will burn in the presence of <elink ref="8">oxygen</elink>, if the protective silica coating comes off. Refractories must be chosen according to the conditions they will face. For example, <elink ref="6">carbon</elink> cannot be used when it will be in contact with <elink ref="8">oxygen</elink>, as it will burn. Acidic refractories cannot be used in a basic environment and basic refractories cannot be used in acidic environment because they will be eroded. Zircon, fireclay and silica are acidic, dolomite and magnesite are basic and alumina, chromite, <elink ref="14">silicon</elink> carbide, carbon and mullite are neutral. Refractory materials must be strong at high <glink ref="temp">temperatures</glink>, resistant to thermal shock, chemically inert, and have low thermal conductivities and coefficients of expansion.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Reduction</title>
+	<filename>reduction</filename>
+	<data>
+		<ptxt>A reaction in which <glink ref="atom">atoms</glink> or <glink ref="ion">ions</glink> of an element experience a decrease in <glink ref="os">oxidation state</glink> (meaning a gain of <glink ref="electron">electrons</glink>).</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Rutherford Model</title>
+	<filename>rutherfordmodel</filename>
+	<data>
+		<ptxt>A model of the <glink ref="atom">atom</glink> devised by Ernest Rutherford. This new model for the atom, based on the experimental results, had the new features of a relatively high central charge concentrated into a very small volume in comparison to the rest of the atom and containing the bulk of the atomic mass (the nucleus of the atom).</ptxt>
+		<ptxt>Rutherford's model did not make any new headway in explaining the electron-structure of the atom; in this regard Rutherford merely mentioned earlier atomic models in which a number of tiny electrons circled the nucleus like planets around the sun, or a ring around a planet (such as Saturn). However, by implication, Rutherford's concentration of most of the atom's mass into a very small core made a planetary model an even more likely metaphor than before, as such a core would contain most of the atom's mass, in an analogous way to the Sun containing most of the solar system's mass.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="cubicmodel">Cubic model</glink>, <glink ref="plummodel">Plum-pudding Model</glink>, <glink ref="saturnmodel">Saturnian Model</glink> and <glink ref="bohrmodel">Bohr Model</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="astop">
+	<title>S</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Saturnian Model</title>
+	<filename>saturnmodel</filename>
+	<data>
+		<ptxt>In 1904 Nagaoka Hantaro developed this model of the atom. It was based around an analogy to the explanation of the stability of the rings of Saturn; the rings are stable because the planet they orbit is very massive). Two predictions were made by the model:</ptxt>
+		<ptxt>a) a very massive nucleus (in analogy to a very massive planet)</ptxt>
+		<ptxt>b) electrons revolving around the nucleus, bound by electrostatic forces (in analogy to the rings revolving around Saturn, bound by gravitational forces)</ptxt>
+		<ptxt>Both predictions were successfully confirmed by Rutherford (who mentions Nagaoka's model in his 1911 paper in which the nucleus is proposed). However, other details of the model were incorrect (in particular, charged rings would be unstable due to repulsive disruption, which is not the case with Saturn's rings), and Nagaoka himself abandoned it in 1908.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="cubicmodel">Cubic model</glink>, <glink ref="plummodel">Plum-pudding Model</glink>, <glink ref="rutherfordmodel">Rutherford Model</glink> and <glink ref="bohrmodel">Bohr Model</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Semiconductor</title>
+	<filename>semicon</filename>
+	<data>
+		<ptxt>A semiconductor is a material with an electrical conductivity that is intermediate between that of an insulator and a conductor. A semiconductor behaves as an insulator at very low <glink ref="temp">temperatures</glink>, and has an appreciable electrical conductivity at room <glink ref="temp">temperature</glink> although much lower conductivity than a conductor. Commonly used semiconducting materials are <elink ref="14">silicon</elink>, <elink ref="32">germanium</elink>, gallium arsenide and indium phosphide.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Shear Modulus</title>
+	<filename>shearm</filename>
+	<data>
+		<ptxt>The shear modulus is one of several quantities for measuring the strength of materials. All of them arise in the generalized Hooke's law. <glink ref="youngsm">Young's modulus</glink> describes the material's response to linear strain (like pulling on the ends of a wire), the bulk modulus describes the material's response to uniform pressure, and the shear modulus describes the material's response to shearing strains. Anisotropic materials such as wood and paper exhibit differing material response to stress or strain when tested in different directions. In solids, there are two kinds of sound waves, pressure waves and shear waves. The speed of sound for shear waves is controlled by the shear modulus.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="youngsm">Young's Modulus</glink> and <glink ref="bulk">Bulk Modulus</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Solid</title>
+	<filename>solid</filename>
+	<data>
+		<ptxt>The solid state of matter is characterized by a distinct structural rigidity and resistance to deformation (that is changes of shape and/or volume). Most solids have high values both of Young's modulus and of the shear modulus of elasticity.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="liquid">Liquid</glink>, <glink ref="gas">Gas</glink> and <glink ref="plasma">Plasma</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Solution</title>
+	<filename>solution</filename>
+	<data>
+		<ptxt>A uniformly dispersed mixture of <glink ref="molecule">molecules</glink> or <glink ref="ion">ions</glink>. The substance being dissolved is the solute, while the substance into which the solute is dissolved is the solvent.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Specific heat</title>
+	<filename>sheat</filename>
+	<data>
+		<ptxt>The heat required to raise the temperature of 1 g of a substance by 1&degree;C is called the specific heat of the substance. Specific heat has units of J g<sup>-1</sup> K<sup>-1</sup>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Speed of Sound</title>
+	<filename>sos</filename>
+	<data>
+		<ptxt>The speed of sound is a term used to describe the speed of sound waves passing through an elastic medium. The speed varies with the medium employed (for example, sound waves move faster through water than through air), as well as with the properties of the medium, especially <glink ref="temp">temperature</glink>. The term is commonly used to refer specifically to the speed of sound in air. At sea level, at a <glink ref="temp">temperature</glink> of 15&degree;C (59&degree;F) and under normal atmospheric conditions, the speed of sound is 344 m.s<sup>-1</sup> (1225 km.h<sup>-1</sup> or 761 mph).</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Spontaneous Fission</title>
+	<filename>decay_sf</filename>
+	<data>
+		<ptxt>Spontaneous fission (SF) is a form of radioactive decay characteristic of very heavy <glink ref="isotope">isotopes</glink>, and is theoretically possible for any atomic nucleus whose mass is greater than or equal to 100 amu (elements near ruthenium). In practice, however, spontaneous fission is only energetically feasible for atomic masses above 230 amu (elements near thorium). The elements most susceptible to spontaneous fission are the <glink ref="transactinides">transactinide</glink> elements, such as <elink ref="104">rutherfordium</elink>.</ptxt>
+		<ptxt>For <elink ref="92">uranium</elink> and <elink ref="90">thorium</elink>, the spontaneous fission mode of decay does occur but is not seen for the majority of radioactive breakdowns and is usually neglected except for the exact considerations of branching ratios when determining the activity of a sample containing these elements. Mathematically, the criterion for whether spontaneous fission can occur is:</ptxt>
+		<ptxt>As the name suggests, spontaneous fission follows the exact same process as nuclear fission, only it is not self-sustaining and does not generate the <glink ref="neutron">neutron</glink> flux necessary to "go critical" and continue such fissions. However, spontaneous fissions release neutrons as all fissions do, so radioisotopes for which spontaneous fission is a nonnegligible decay mode may be used as neutron sources; <elink ref="98">californium-252</elink> (<glink ref="hl">half-life</glink> 2.645 years, SF branch ratio 3.09%) is often used for this purpose. The <glink ref="neutron">neutrons</glink> may then be used to inspect airline luggage for hidden explosives, to gauge the moisture content of soil in the road construction and building industries, to measure the moisture of materials stored in silos, and in other applications.</ptxt>
+		<ptxt>The spontaneous fission of <ilink ref="92">uranium-238</ilink> leaves trails of damage in uranium containing minerals as the fission fragments recoil through the crystal structure. These trails, or fission tracks provide the basis for the radiometric dating technique: fission track dating.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Standard Temperature and Pressure (STP)</title>
+	<filename>stp</filename>
+	<data>
+		<ptxt>The standard conditions of 273.15 <glink ref="kelvin">Kelvin</glink> and 1 atmosphere of pressure (0&degree;C at sea level). Used as a baseline for calculations involving quantities that vary with <glink ref="temp">temperature</glink> and pressure.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Sublimation</title>
+	<filename>sublimation</filename>
+	<data>
+		<ptxt>Conversion of a solid directly into a gas, without first melting into a liquid. To sublime.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Superconducting temperature</title>
+	<filename>supercon</filename>
+	<data>
+		<ptxt>The temperature at which a substance becomes a superconductor, it conducts electricity without any resistance. Once set in motion the electrical current will flow forever in a closed loop of superconducting material.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>T</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Temperature</title>
+	<filename>temp</filename>
+	<data>
+		<ptxt>In thermodynamics, temperature is a measure of the tendency of an object or system to spontaneously give up energy. Temperature is a physical property of a system that underlies the common notions of "hot" and "cold", in which something that is hotter has the greater temperature. Temperature arises from the random microscopic motions of matter, where temperature is related to the average energy of these microscopic motions. The concept of temperature, defined as a tension associated with entropy, follows from the zeroth law of thermodynamics.</ptxt>
+		<ptxt>Temperature is a measure of the average energy contained in the microscopic degrees of freedom of a system. For example, in an ideal gas, the relevant degrees of freedom are translational, rotational, and vibrational motion of the individual <glink ref="molecule">molecules</glink>. In this case, temperature is proportional to the mean kinetic energy of the constituent atoms. But in more complicated systems, magnetic, electronic, photonic, or other exotic degrees of freedom can play a significant role in determining temperature.</ptxt>
+		<ptxt>Thermal motion is the reason gasses have pressure, since the particles in the gas collide with the walls of the container and exert an outward force. Although very specialized laboratory equipment is required to directly detect thermal motions, thermal collisions by atoms or <glink ref="molecule">molecules</glink> with small particles suspended in a fluid produces Brownian motion that can be seen with an ordinary microscope. The thermal motions of atoms are very fast and temperatures close to absolute zero are required to directly observe them. For instance, when scientists at the NIST achieved a record-setting cold temperature of 700 nK (billionths of a kelvin) in 1994, they used optical lattice laser equipment to adiabatically cool caesium atoms. They then turned off the entrapment lasers and directly measured <glink ref="atom">atom</glink> velocities of 7 mm per second in order to calculate their temperature.</ptxt>
+		<ptxt><glink ref="molecule">Molecules</glink>, such as O<sub>2</sub>, have more degrees of freedom than single atoms: they can have rotational and vibrational motions as well as translational motion. An increase in temperature will cause the average translational energy to increase. It will also cause the energy associated with vibrational and rotational modes to increase. Thus a diatomic gas, with extra degrees of freedom like rotation and vibration, will require a higher energy input to change the temperature by a certain amount, i.e. it will have a higher heat capacity than a monatomic gas.</ptxt>
+		<ptxt>The process of cooling involves removing energy from a system. When there is no more energy able to be removed, the system is said to be at absolute zero, which is the point on the thermodynamic (absolute) temperature scale where all kinetic motion in the particles comprising matter ceases and they are at complete rest in the "classic" (non-quantum mechanical) sense. By definition, absolute zero is a temperature of precisely 0 kelvins (-273.15&degree;C or -459.67&degree;F).</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Teratogenic</title>
+	<filename>teratogenic</filename>
+	<data>
+		<ptxt>Liable to cause teratogenesis.</ptxt>
+		<ptxt>The term teratogenesis refers to the production of congenital malformations such as cleft lip and/or palate, anencephaly, or ventricular septal defect, which are medically serious abnormalities present at birth.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="carcinogen">Carcinogen</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Thermal Conductivity</title>
+	<filename>thercon</filename>
+	<data>
+		<ptxt>Thermal conductivity, k, is the intensive property of a material that indicates its ability to conduct heat.</ptxt>
+		<ptxt>In the most materials, there is no correlation between thermal conductivity and electrical conductivity, as shown in the table below, where highly electrically conductive silver is shown to be less thermally conductive than diamond, which is an electrical <glink ref="semicon">semiconductor</glink>. The reason for this difference is that phonons, not electrons, are the primary carriers of heat in diamond. In metals, thermal conductivity approximately tracks electrical conductivity, as the freely moving valence <glink ref="electron">electrons</glink> transfer not only electric current but also heat energy.</ptxt>
+		<ptxt>Thermal conductivity is not a simple property, and depends intimately on structure and <glink ref="temp">temperature</glink>. For instance, pure crystalline substances also exhibit highly variable thermal conductivities along different crystal axes, due to differences in phonon coupling along a given crystal dimension. Sapphire is a notable example of variable thermal conductivity based on orientation and <glink ref="temp">temperature</glink>, for which the CRC Handbook reports a thermal conductivity perpendicular to the c-axis of 2.6 W.m<sup>-1</sup>.K<sup>-1</sup> at 373 K, and 6000 W.m<sup>-1</sup>.K<sup>-1</sup> at 35 K for an angle of 36 degrees to the c-axis.</ptxt>
+		<ptxt>Air and other gases are generally good insulators, in the absence of convection. Therefore, many insulating materials function simply by having a large number of gas-filled pockets which prevent large-scale convection. Examples of these include expanded and extruded polystyrene (EPS and XPS, both popularly referred to as "styrofoam") and silica aerogel. Natural, biological insulators such as fur and feathers achieve similar effects by dramatically inhibiting convection of air or water near an animal's skin.</ptxt>
+		<ptxt>Thermal conductivity is important in building insulation and related fields. However, materials used in such trades are rarely subjected to chemical purity standards. Several construction materials' k values are listed below. These should be considered approximate due to the uncertainties related to material definitions.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Thermal Expansion</title>
+	<filename>therex</filename>
+	<data>
+		<ptxt>During heat transfer, the energy that is stored in the intermolecular bonds between atoms changes. When the stored energy increases, so does the length of the molecular bond. As a result, Solids expand in response to heating and contract on cooling; this response to <glink ref="temp">temperature</glink> change is expressed as its coefficient of thermal expansion.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Transactinides</title>
+	<filename>transactinides</filename>
+	<data>
+		<ptxt>While <glink ref="group">groups</glink> are characterised by the number of <glink ref="electron">electrons</glink> present in the outer shell, <glink ref="period">periods</glink> are characterized by the number of energy levels (shells) of electrons surrounding the <glink ref="nucleus">nucleus</glink>. Elements in <glink ref="period">Period</glink> 1 has only one shell. As you probably recall, the elements in the first period have a 2 electrons maximum (<elink ref="1">hydrogen</elink> has 1 electron and <elink ref="2">helium</elink> has 2 electrons. As we move to the first group of the second period, we find that <elink ref="3">lithium</elink>, which has the two electrons in the first shell and one in the second. <elink ref="10">Neon</elink> is in Group 18 of Period 2 and therefore has the two electrons in the first shell and eight electrons in the second shell. <elink ref="11">Sodium</elink> starts Period 3 with 11 <glink ref="electron">electrons</glink>, two in the first shell, eight in the second shell and one in the third shell. In other words, the <glink ref="element">element</glink> in Group 1 always has one more <glink ref="electron">electron</glink> (in a new shell) than the Group 18 <glink ref="element">element</glink> in the previous period.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="actinoids">Actinoids</glink>, <glink ref="lanthanoids">Lanthanoids</glink> and <glink ref="ree">Rare Earth Elements</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Transition Metals</title>
+	<filename>tm</filename>
+	<data>
+		<ptxt>This series include all elements in the sub-series <glink ref="lanthanoids">Lanthanoids</glink> and <glink ref="actinoids">Actinoids</glink> of the <glink ref="itm">inner-transition</glink> elements and at least part of the sub-series <glink ref="transactinides">Transactinides</glink>, which are the elements following the <glink ref="actinoids">actinoid</glink> series. In general these elements are known for their hardness, high density, high <glink ref="mp">melting point</glink> and <glink ref="bp">boiling point</glink> and heat conduction although there are exceptions</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>V</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Valence</title>
+	<filename>valence</filename>
+	<data>
+		<ptxt>Also known as valency or valency number, is a measure of the number of chemical bonds formed by the atoms of any given element.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Valence Electron Potential</title>
+	<filename>vep</filename>
+	<data>
+		<ptxt>Provides a quantitative indication of an elements reactivity and is based on the charge of the valence electrons and the ionic radius.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Valence Shell</title>
+	<filename>vs</filename>
+	<data>
+		<ptxt>The outermost shell of an <glink ref="atom">atom</glink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>van der Waals radius</title>
+	<filename>vdwr</filename>
+	<data>
+		<ptxt>One half the distance between two nonbonded <glink ref="atom">atoms</glink>, when attractive and repulsive forces between the atoms are balanced.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="entry">
+	<title>Vickers Hardness</title>
+	<filename>vickersh</filename>
+	<data>
+		<ptxt>The Vickers hardness test was developed in the early 1920s as an alternative method to measure the hardness of materials. The basic principle, as with all common measures of hardness, is to observe the questioned materials' ability to resist identation from a standard source. The Vickers test can be used for all metals and has one of the widest scales among hardness tests. The unit of hardness given by the test is known as the Vickers Pyramid Number (HV).</ptxt>
+		<ptxt>The Vickers hardness test uses a <elink ref="6">diamond</elink>, with the shape of square-based pyramid with an angle of 136' between opposite faces as an indenter. It is based on the principle that impressions made by this indenter are geometrically similar regardless of load. Accordingly, loads of various magnitudes are applied to a flat surface, depending on the hardness of the material to be measured.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="brinellh">Brinell Hardness</glink> and <glink ref="mohsh">Moh's Scale of Hardness</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="entry">
+	<title>Viscosity</title>
+	<filename>viscosity</filename>
+	<data>
+		<ptxt>Viscosity is a measure of the resistance of a fluid to deform under shear stress. It is commonly perceived as "thickness", or resistance to pouring. Viscosity describes a fluid's internal resistance to flow and may be thought of as a measure of fluid friction. Thus, water is "thin", having a lower viscosity, while vegetable oil is "thick" having a higher viscosity. All real fluids (except superfluids) have some resistance to shear stress, but an idealized fluid which has no resistance to shear stress is known as an ideal fluid.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>W</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Wavefunction</title>
+	<filename>wavefunction</filename>
+	<data>
+		<ptxt>A mathematical function that gives the amplitude of a wave as a function of position (and sometimes, as a function of time and/or electron spin). Wavefunctions are used in chemistry to represent the behavior of <glink ref="electron">electrons</glink> bound in <elink ref="atom">atoms</elink> or <glink ref="molecule">molecules</glink>.</ptxt>
+	</data>
+</glossary>
+
+<glossary type="astop">
+	<title>X</title>
+</glossary>
+
+<glossary type="entry">
+	<title>X-Rays</title>
+	<filename>xr</filename>
+	<data>
+		<ptxt>X-rays have smaller wavelengths and therefore higher energy than ultraviolet waves. We usually talk about X-rays in terms of their energy rather than wavelength. This is partially because X-rays have very small wavelengths. It is also because X-ray light tends to act more like a particle than a wave. X-ray detectors collect actual photons of X-ray light.</ptxt>
+		<ptxt>X-rays were first observed and documented in 1895 by Wilhelm Conrad Roentgen, a German scientist who found them quite by accident when experimenting with vacuum tubes. </ptxt>
+		<ptxt>A week later, he took an X-ray photograph of his wife's hand which clearly revealed her wedding ring and her bones. The photograph electrified the general public and aroused great scientific interest in the new form of <glink ref="radiation">radiation</glink>. Roentgen called it "X" to indicate it was an unknown type of <glink ref="radiation">radiation</glink>. The name stuck, although (over Roentgen's objections), many of his colleagues suggested calling them Roentgen rays. They are still occasionally referred to as Roentgen rays in German-speaking countries.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="gr">Gamma Rays</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+<glossary type="astop">
+	<title>Y</title>
+</glossary>
+
+<glossary type="entry">
+	<title>Young's Modulus</title>
+	<filename>youngsm</filename>
+	<data>
+		<ptxt>Is a measure of the stiffness of a given material. It is defined as the ratio, for small strains, of the rate of change of stress with strain. The Young's modulus allows the behavior of a material under load to be calculated. For instance, it can be used to predict the amount a wire will extend under tension, or to predict the load at which a thin column will buckle under compression. Some calculations also require the use of other material properties, such as the <glink ref="shearm">shear modulus</glink>, density, or <glink ref="poisson">Poisson's ratio</glink>.</ptxt>
+		<ptxt>The SI unit of modulus of elasticity (Y) is the pascal. Given the large values typical of many common materials, figures are usually quoted in megapascals or gigapascals. Some use an alternative unit form, kN/mm<sup>2</sup>, which gives the same numeric value as gigapascals. The modulus of elasticity can also be measured in other units of pressure, for example pounds per square inch.</ptxt>
+	</data>
+	<seealso>
+		<ptxt><glink ref="shearm">Shear Modulus</glink> and <glink ref="bulk">Bulk Modulus</glink>.</ptxt>
+	</seealso>
+</glossary>
+
+</glossaryitems>

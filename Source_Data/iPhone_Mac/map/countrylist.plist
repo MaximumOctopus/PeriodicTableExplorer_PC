@@ -1,0 +1,1684 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Paul Alan Freshney November 23rd 2011 -->
+
+<plist version="1.0">
+<array>
+
+
+	<dict>
+		<key>name</key>
+		<string>Afghanistan</string>
+		<key>code</key>
+		<string>af</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Calcium,Chromium,Barium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Albania</string>
+		<key>code</key>
+		<string>al</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Chromium,Nickel,Copper,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Algeria</string>
+		<key>code</key>
+		<string>dz</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Helium,Calcium,Iron,Silver,Barium,Gold,Mercury,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Angola</string>
+		<key>code</key>
+		<string>ao</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (diamond),Calcium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Argentina</string>
+		<key>code</key>
+		<string>ar</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Lithium,Aluminium,Calcium,Iron,Copper,Zinc,Strontium,Molybdenum,Silver,Cadmium,Barium,Gold,Mercury,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Armenia</string>
+		<key>code</key>
+		<string>am</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Copper,Zinc,Selenium,Molybdenum,Silver,Cadmium,Rhenium,Gold,Bismuth,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Australia</string>
+		<key>code</key>
+		<string>au</string>
+		<key>continent</key>
+		<string>AU</string>
+		<key>data</key>
+		<string>Lithium,Carbon (Diamond),Aluminium,Aluminium (bauxite),Sulfur,Calcium,Scandium,Titanium,Chromium,Manganese,Iron,Cobalt,Nickel,Copper,Zinc,Rare Earths,Zirconium,Palladium,Silver,Cadmium,Tin,Antimony,Barium,Tungsten,Gold,Lead,Bismuth,Radium,Thorium,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Austria</string>
+		<key>code</key>
+		<string>at</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Carbon (graphite),Calcium,Iron,Nickel,Copper,Tungsten,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Azerbaijan</string>
+		<key>code</key>
+		<string>az</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Calcium,Iron,Copper,Silver,Iodine,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Bahrain</string>
+		<key>code</key>
+		<string>bh</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Belgium</string>
+		<key>code</key>
+		<string>be</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Iron,Cobalt,Copper,Arsenic,Selenium,Indium,Tin,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Bhutan</string>
+		<key>code</key>
+		<string>bt</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Calcium,Iron,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Bolivia</string>
+		<key>code</key>
+		<string>bo</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Lithium,Calcium,Iron,Copper,Zinc,Arsenic,Silver,Tin,Antimony,Barium,Tungsten,Gold,Lead,Bismuth,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Bosnia and Herzegovina</string>
+		<key>code</key>
+		<string>ba</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Aluminium (bauxite),Calcium,Iron,Zinc,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Botswana</string>
+		<key>code</key>
+		<string>bw</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (Diamond),Cobalt,Nickel,Copper,Palladium,Silver,Platinum,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Brazil</string>
+		<key>code</key>
+		<string>br</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Lithium,Beryllium,Carbon (Diamond),Carbon (graphite),Magnesium,Aluminium,Aluminium (bauxite),Silicon,Calcium,Titanium,Vanadium,Chromium,Manganese,Iron,Cobalt,Nickel,Copper,Zinc,Zirconium,Niobium,Molybdenum,Silver,Cadmium,Indium,Tin,Barium,Rare Earths,Tungsten,Gold,Lead,Thorium,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Bulgaria</string>
+		<key>code</key>
+		<string>bg</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Manganese,Iron,Copper,Zinc,Silver,Cadmium,Barium,Gold,Lead,Bismuth,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Burkina Faso</string>
+		<key>code</key>
+		<string>bf</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Manganese,Zinc,Silver,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Burma (Myanmar)</string>
+		<key>code</key>
+		<string>mm</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Calcium,Chromium,Manganese,Iron,Nickel,Copper,Zinc,Tin,Antimony,Barium,Tungsten,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Burundi</string>
+		<key>code</key>
+		<string>bi</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Niobium,Tin,Tantalum,Tungsten,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Cameroon</string>
+		<key>code</key>
+		<string>cm</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (diamond),Aluminium,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Canada</string>
+		<key>code</key>
+		<string>ca</string>
+		<key>continent</key>
+		<string>NA</string>
+		<key>data</key>
+		<string>Lithium,Carbon (Diamond),Carbon (graphite),Aluminium,Silicon,Sulfur,Potassium,Calcium,Titanium,Iron,Cobalt,Nickel,Copper,Zinc,Arsenic,Selenium,Niobium,Molybdenum,Rhodium,Palladium,Silver,Cadmium,Indium,Indium,Antimony,Tellurium,Caesium,Barium,Tungsten,Osmium,Iridium,Platinum,Gold,Lead,Bismuth,Radium,Thorium,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Central African Republic</string>
+		<key>code</key>
+		<string>cf</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (diamond),</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Chile</string>
+		<key>code</key>
+		<string>cl</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Lithium,Sulfur,Calcium,Manganese,Iron,Copper,Zinc,Arsenic,Selenium,Molybdenum,Silver,Iodine,Barium,Rare Earths,Rhenium,Gold,Mercury,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>China</string>
+		<key>code</key>
+		<string>cn</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Lithium,Carbon (Diamond),Carbon (graphite),Magnesium,Aluminium,Aluminium (bauxite),Silicon,Sulfur,Calcium,Scandium,Titanium,Vanadium,Chromium,Manganese,Iron,Cobalt,Nickel,Copper,Zinc,Gallium,Germanium,Arsenic,Selenium,Bromine,Strontium,Rare Earths,Zirconium,Niobium,Molybdenum,Palladium,Silver,Cadmium,Indium,Tin,Antimony,Tellurium,Iodine,Barium,Terbium,Dysprosium,Holmium,Thulium,Ytterbium,Tantalum,Tungsten,Rhenium,Platinum,Gold,Mercury,Lead,Bismuth,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Colombia</string>
+		<key>code</key>
+		<string>co</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Calcium,Iron,Nickel,Copper,Silver,Barium,Osmium,Iridium,Platinum,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Costa Rica</string>
+		<key>code</key>
+		<string>cr</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Croatia</string>
+		<key>code</key>
+		<string>hr</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Aluminium (bauxite),Calcium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Cuba</string>
+		<key>code</key>
+		<string>cu</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Calcium,Chromium,Iron,Cobalt,Nickel,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Cyprus</string>
+		<key>code</key>
+		<string>cy</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Copper,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Czech Republic</string>
+		<key>code</key>
+		<string>cz</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Iron,Lead,Radium,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Democratic Peoples' Republic of Korea</string>
+		<key>code</key>
+		<string>kp</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Sulfur,Calcium,Iron,Copper,Zinc,Silver,Cadmium,Tungsten,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Democratic Republic of Congo</string>
+		<key>code</key>
+		<string>cd</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (Diamond),Manganese,Cobalt,Nickel,Copper,Zinc,Niobium,Silver,Tin,Tantalum,Tungsten,Gold,Lead,Radium,Protactinium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Dominican Republic</string>
+		<key>code</key>
+		<string>do</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Aluminium (bauxite),Calcium,Nickel,Copper,Zinc,Silver,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Ecuador</string>
+		<key>code</key>
+		<string>ec</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Calcium,Iron,Copper,Silver,Barium,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Egypt</string>
+		<key>code</key>
+		<string>eg</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Calcium,Titanium,Manganese,Iron,Copper,Tin,Barium,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>El Salvador</string>
+		<key>code</key>
+		<string>sv</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Calcium,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Equatorial Guinea</string>
+		<key>code</key>
+		<string>gq</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Eritrea</string>
+		<key>code</key>
+		<string>er</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Calcium,Copper,Silver,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Estonia</string>
+		<key>code</key>
+		<string>ee</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Ethiopia</string>
+		<key>code</key>
+		<string>et</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Calcium,Silver,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Fiji</string>
+		<key>code</key>
+		<string>fj</string>
+		<key>continent</key>
+		<string>AU</string>
+		<key>data</key>
+		<string>Aluminium,Silver,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Finland</string>
+		<key>code</key>
+		<string>fi</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Sulfur,Chromium,Iron,Cobalt,Nickel,Copper,Zinc,Germanium,Selenium,Palladium,Silver,Platinum,Gold,Mercury,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>France</string>
+		<key>code</key>
+		<string>fr</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Aluminium (bauxite),Silicon,Sulfur,Calcium,Iron,Nickel,Arsenic,Bromine,Cadmium,Indium,Barium,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>French Guiana</string>
+		<key>code</key>
+		<string>fg</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Gabon</string>
+		<key>code</key>
+		<string>ga</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Manganese,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Gambia</string>
+		<key>code</key>
+		<string>gm</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Zirconium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Georgia</string>
+		<key>code</key>
+		<string>ge</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Manganese,Copper,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Germany</string>
+		<key>code</key>
+		<string>de</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Carbon (graphite),Aluminium,Sulfur,Potassium,Calcium,Iron,Copper,Gallium,Selenium,Bromine,Cadmium,Indium,Barium,Lead,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Ghana</string>
+		<key>code</key>
+		<string>gh</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (Diamond),Aluminium,Aluminium (bauxite),Manganese,Silver,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Greece</string>
+		<key>code</key>
+		<string>gr</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Aluminium (bauxite),Calcium,Nickel,Zinc,Silver,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Greenland</string>
+		<key>code</key>
+		<string>gl</string>
+		<key>continent</key>
+		<string>NA</string>
+		<key>data</key>
+		<string>Silver,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Guatemala</string>
+		<key>code</key>
+		<string>gt</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Calcium,Iron,Nickel,Zinc,Silver,Antimony,Barium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Guinea</string>
+		<key>code</key>
+		<string>gn</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (diamond),Aluminium (bauxite),Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Guyana</string>
+		<key>code</key>
+		<string>gy</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (diamond),Aluminium (bauxite),Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Honduras</string>
+		<key>code</key>
+		<string>hn</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Calcium,Zinc,Silver,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Hungary</string>
+		<key>code</key>
+		<string>hu</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium (bauxite),Calcium,Manganese,Iron,Gallium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Iceland</string>
+		<key>code</key>
+		<string>is</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Silicon,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>India</string>
+		<key>code</key>
+		<string>in</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Carbon (Diamond),Carbon (graphite),Magnesium,Aluminium,Aluminium (bauxite),Silicon,Sulfur,Calcium,Titanium,Chromium,Manganese,Iron,Cobalt,Copper,Zinc,Selenium,Bromine,Zirconium,Silver,Cadmium,Tin,Barium,Rare Earths,Gold,Lead,Thorium,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Indonesia</string>
+		<key>code</key>
+		<string>id</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Aluminium,Aluminium (bauxite),Calcium,Iron,Cobalt,Nickel,Copper,Zirconium,Silver,Tin,Iodine,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Iran</string>
+		<key>code</key>
+		<string>ir</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Aluminium (bauxite),Sulfur,Calcium,Chromium,Manganese,Iron,Copper,Zinc,Arsenic,Strontium,Molybdenum,Silver,Antimony,Iodine,Barium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Iraq</string>
+		<key>code</key>
+		<string>iq</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Ireland</string>
+		<key>code</key>
+		<string>ie</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Zinc,Silver,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Israel</string>
+		<key>code</key>
+		<string>il</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Magnesium,Calcium,Bromine,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Italy</string>
+		<key>code</key>
+		<string>it</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Sulfur,Calcium,Iron,Copper,Bromine,Indium,Barium,Silver,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Ivory Coast</string>
+		<key>code</key>
+		<string>ci</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (diamond),Manganese,Silver,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Jamaica</string>
+		<key>code</key>
+		<string>jm</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Aluminium (bauxite),Calcium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Japan</string>
+		<key>code</key>
+		<string>jp</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Aluminium,Sulfur,Calcium,Iron,Cobalt,Nickel,Copper,Gallium,Germanium,Arsenic,Selenium,Bromine,Silver,Cadmium,Indium,Tellurium,Iodine,Gold,Lead,Bismuth,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Jordan</string>
+		<key>code</key>
+		<string>jo</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Bromine,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Kazakhstan</string>
+		<key>code</key>
+		<string>kz</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Magnesium,Aluminium,Aluminium (bauxite),Silicon,Sulfur,Calcium,Scandium,Titanium,Vanadium,Chromium,Manganese,Iron,Copper,Zinc,Gallium,Arsenic,Selenium,Molybdenum,Silver,Cadmium,Indium,Antimony,Barium,Rhenium,Gold,Lead,Bismuth,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Kenya</string>
+		<key>code</key>
+		<string>ke</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Calcium,Titanium,Zirconium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Kuwait</string>
+		<key>code</key>
+		<string>kw</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Sulfur,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Kyrgyzstan</string>
+		<key>code</key>
+		<string>kg</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Copper,Molybdenum,Antimony,Tungsten,Gold,Mercury,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Laos</string>
+		<key>code</key>
+		<string>la</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Calcium,Copper,Zinc,Silver,Tin,Antimony,Barium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Latvia</string>
+		<key>code</key>
+		<string>lv</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Lesotho</string>
+		<key>code</key>
+		<string>ls</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (diamond),</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Liberia</string>
+		<key>code</key>
+		<string>lr</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (diamond),Iron,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Libya</string>
+		<key>code</key>
+		<string>ly</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Calcium,Iron,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Macedonia</string>
+		<key>code</key>
+		<string>mk</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Nickel,Copper,Zinc,Silver,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Madagascar</string>
+		<key>code</key>
+		<string>mg</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Beryllium,Carbon (graphite),Calcium,Scandium,Titanium,Chromium,Cobalt,Nickel,Zirconium,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Malawi</string>
+		<key>code</key>
+		<string>mw</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Malaysia</string>
+		<key>code</key>
+		<string>my</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Magnesium,Aluminium),Aluminium (bauxite),Titanium,Manganese,Iron,Zirconium,Silver,Tin,Barium,Rare Earths,Gold,Lead,Thorium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Mali</string>
+		<key>code</key>
+		<string>ml</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Iron,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Mauritania</string>
+		<key>code</key>
+		<string>mr</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Calcium,Iron,Copper,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Mexico</string>
+		<key>code</key>
+		<string>mx</string>
+		<key>continent</key>
+		<string>NA</string>
+		<key>data</key>
+		<string>Carbon (graphite),Sulfur,Calcium,Manganese,Iron,Copper,Zinc,Arsenic,Selenium,Strontium,Molybdenum,Silver,Cadmium,Antimony,Barium,Gold,Mercury,Lead,Bismuth,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Moldova</string>
+		<key>code</key>
+		<string>md</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Montenegro</string>
+		<key>code</key>
+		<string>me</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Aluminium (bauxite),Zinc,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Mongolia</string>
+		<key>code</key>
+		<string>mn</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Calcium,Iron,Copper,Zinc,Molybdenum,Silver,Tin,Tungsten,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Morocco</string>
+		<key>code</key>
+		<string>ma</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Calcium,Manganese,Iron,Cobalt,Nickel,Copper,Zinc,Arsenic,Strontium,Silver,Antimony,Barium,Gold,Mercury,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Mozambique</string>
+		<key>code</key>
+		<string>mz</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Beryllium,Aluminium,Aluminium (bauxite),Titanium,Zirconium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Namibia</string>
+		<key>code</key>
+		<string>na</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (Diamond),Calcium,Manganese,Copper,Zinc,Arsenic,Silver,Gold,Lead,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Netherlands</string>
+		<key>code</key>
+		<string>nl</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Sulfur,Iron,Cadmium,Indium,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>New Caledonia</string>
+		<key>code</key>
+		<string>nc</string>
+		<key>continent</key>
+		<string>AU</string>
+		<key>data</key>
+		<string>Cobalt,Nickel,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>New Zealand</string>
+		<key>code</key>
+		<string>nz</string>
+		<key>continent</key>
+		<string>AU</string>
+		<key>data</key>
+		<string>Aluminium,Iron,Silver,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Nicaragua</string>
+		<key>code</key>
+		<string>ni</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Calcium,Silver,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Niger</string>
+		<key>code</key>
+		<string>ne</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Calcium,Silver,Tin,Gold,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Nigeria</string>
+		<key>code</key>
+		<string>ng</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Aluminium,Calcium,Iron,Zinc,Tin,Barium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Norway</string>
+		<key>code</key>
+		<string>no</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Carbon (graphite),Aluminium,Silicon,Calcium,Scandium,Titanium,Iron,Cobalt,Nickel,Copper,Molybdenum,Cadmium,Thorium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Oman</string>
+		<key>code</key>
+		<string>om</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Calcium,Chromium,Manganese,Copper,Silver,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Pakistan</string>
+		<key>code</key>
+		<string>pk</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Carbon (graphite),Aluminium (bauxite),Calcium,Chromium,Iron,Copper,Zinc,Strontium,Antimony,Barium,Lead,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Panama</string>
+		<key>code</key>
+		<string>pa</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Papua New Guinea</string>
+		<key>code</key>
+		<string>pg</string>
+		<key>continent</key>
+		<string>AU</string>
+		<key>data</key>
+		<string>Cobalt,Nickel,Copper,Silver,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Paraguay</string>
+		<key>code</key>
+		<string>py</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Calcium,Iron,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Peru</string>
+		<key>code</key>
+		<string>pe</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Calcium,Iron,Copper,Zinc,Arsenic,Selenium,Molybdenum,Silver,Cadmium,Indium,Tin,Antimony,Tellurium,Barium,Tungsten,Gold,Mercury,Lead,Bismuth,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Philippines</string>
+		<key>code</key>
+		<string>ph</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Chromium,Iron,Cobalt,Nickel,Copper,Zinc,Selenium,Silver,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Poland</string>
+		<key>code</key>
+		<string>pl</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Sulfur,Calcium,Iron,Nickel,Copper,Zinc,Selenium,Palladium,Silver,Cadmium,Barium,Rhenium,Platinum,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Portugal</string>
+		<key>code</key>
+		<string>pt</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Lithium,Calcium,Copper,Zinc,Arsenic,Silver,Tin,Tungsten,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Qatar</string>
+		<key>code</key>
+		<string>qa</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Helium,Aluminium,Iron,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Republic of Korea</string>
+		<key>code</key>
+		<string>kr</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Carbon (graphite),Magnesium,Titanium,Iron,Copper,Zinc,Silver,Cadmium,Indium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Romania</string>
+		<key>code</key>
+		<string>ro</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Calcium,Manganese,Iron,Copper,Zinc,Silver,Gold,Lead,Bismuth,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Russia</string>
+		<key>code</key>
+		<string>ru</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Helium,Lithium,Carbon (Diamond),Carbon (graphite),Magnesium,Aluminium,Aluminium (bauxite),Silicon,Sulfur,Calcium,Scandium,Titanium,Vanadium,Chromium,Manganese,Iron,Cobalt,Nickel,Copper,Zinc,Gallium,Germanium,Arsenic,Selenium,Bromine,Rare Earths,Zirconium,Niobium,Molybdenum,Rhodium,Palladium,Silver,Cadmium,Indium,Tin,Antimony,Tellurium,Iodine,Barium,Tungsten,Rhenium,Osmium,Iridium,Platinum,Gold,Mercury,Lead,Bismuth,Polonium,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Rwanda</string>
+		<key>code</key>
+		<string>rw</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Niobium,Tin,Tantalum,Tungsten,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Saudi Arabia</string>
+		<key>code</key>
+		<string>sa</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Aluminium (bauxite),Sulfur,Calcium,Iron,Copper,Zinc,Silver,Barium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Senegal</string>
+		<key>code</key>
+		<string>sn</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Zirconium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Serbia</string>
+		<key>code</key>
+		<string>rs</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Iron,Copper,Zinc,Selenium,Palladium,Silver,Platinum,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Sierra Leone</string>
+		<key>code</key>
+		<string>sl</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (diamond),Aluminium (bauxite),Titanium,Iron,Zirconium,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Slovakia</string>
+		<key>code</key>
+		<string>sk</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Calcium,Iron,Copper,Zinc,Gallium,Silver,Barium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Slovenia</string>
+		<key>code</key>
+		<string>si</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Soloman Islands</string>
+		<key>code</key>
+		<string>sb</string>
+		<key>continent</key>
+		<string>AU</string>
+		<key>data</key>
+		<string>Aluminium,Silver,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Somalia</string>
+		<key>code</key>
+		<string>so</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Calcium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>South Africa</string>
+		<key>code</key>
+		<string>za</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (Diamond),Aluminium,Silicon,Sulfur,Calcium,Titanium,Vanadium,Chromium,Manganese,Iron,Cobalt,Nickel,Copper,Zinc,Zirconium,Rhodium,Palladium,Silver,Antimony,Osmium,Iridium,Platinum,Gold,Lead,Thorium,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Spain</string>
+		<key>code</key>
+		<string>es</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Lithium,Aluminium,Silicon,Sulfur,Nickel,Calcium,Iron,Nickel,Copper,Zinc,Bromine,Strontium,Silver,Barium,Tungsten,Gold,Mercury,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Sri Lanka</string>
+		<key>code</key>
+		<string>lk</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Carbon (graphite),Calcium,Titanium,Zirconium,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Sudan</string>
+		<key>code</key>
+		<string>sd</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Calcium,Chromium,Manganese,Iron,Silver,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Suriname</string>
+		<key>code</key>
+		<string>sr</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Aluminium (bauxite),Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Swaziland</string>
+		<key>code</key>
+		<string>sz</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Iron,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Sweden</string>
+		<key>code</key>
+		<string>se</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Carbon (graphite),Aluminium,Iron,Copper,Zinc,Selenium,Silver,Tellurium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Switzerland</string>
+		<key>code</key>
+		<string>ch</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,Iron,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Syria</string>
+		<key>code</key>
+		<string>sy</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Calcium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Taiwan</string>
+		<key>code</key>
+		<string>tw</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Iron,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Tajikistan</string>
+		<key>code</key>
+		<string>tj</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Calcium,Zinc,Silver,Antimony,Gold,Mercury,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Tanzania</string>
+		<key>code</key>
+		<string>tz</string>
+		<key>continent</key>
+		<string>AU</string>
+		<key>data</key>
+		<string>Carbon (diamond),Aluminium (bauxite),Calcium,Copper,Silver,Tin,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Thailand</string>
+		<key>code</key>
+		<string>th</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Calcium,Manganese,Iron,Copper,Zinc,Silver,Tin,Antimony,Barium,Tungsten,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Togo</string>
+		<key>code</key>
+		<string>tg</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Carbon (diamond),Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Trinidad and Tobago</string>
+		<key>code</key>
+		<string>tt</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Iron,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Tunisia</string>
+		<key>code</key>
+		<string>tn</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Calcium,Iron,Zinc,Barium,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Turkey</string>
+		<key>code</key>
+		<string>tr</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Boron,Carbon (graphite),Aluminium,Aluminium (bauxite),Calcium,Chromium,Manganese,Iron,Nickel,Copper,Zinc,Strontium,Molybdenum,Silver,Antimony,Barium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Turkmenistan</string>
+		<key>code</key>
+		<string>tm</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Bromine,Iodine,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Uganda</string>
+		<key>code</key>
+		<string>ug</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Beryllium,Iron,Cobalt,Tin,Tungsten,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Ukraine</string>
+		<key>code</key>
+		<string>ua</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Carbon (graphite),Magnesium,Aluminium,Silicon,Calcium,Scandium,Titanium,Manganese,Iron,Nickel,Copper,Gallium,Bromine,Zirconium,Lead,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>United Arab Emirates</string>
+		<key>code</key>
+		<string>ae</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Aluminium,Sulfur,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>United Kingdom</string>
+		<key>code</key>
+		<string>gb</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Carbon (Graphite),Aluminium,Calcium,Iron,Nickel,Gallium,Bromine,Silver,Tin,Barium,Europium,Tungsten,Gold,Lead,Protactinium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>United States of America</string>
+		<key>code</key>
+		<string>us</string>
+		<key>continent</key>
+		<string>NA</string>
+		<key>data</key>
+		<string>Helium,Lithium,Beryllium,Boron,Carbon (Diamond),Magnesium,Aluminium,Aluminium (bauxite),Silicon,Sulfur,Potassium,Calcium,Titanium,Vanadium,Iron,Cobalt,Nickel,Copper,Zinc,Gallium,Germanium,Selenium,Bromine,Rare Earths,Zirconium,Molybdenum,Rhodium,Palladium,Silver,Cadmium,Tellurium,Iodine,Barium,Rhenium,Iridium,Platinum,Gold,Mercury,Lead,Radium,Thorium,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Uruguay</string>
+		<key>code</key>
+		<string>uy</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Uzbekistan</string>
+		<key>code</key>
+		<string>uz</string>
+		<key>continent</key>
+		<string>EU</string>
+		<key>data</key>
+		<string>Sulfur,Calcium,Copper,Selenium,Molybdenum,Silver,Iodine,Tungsten,Gold,Uranium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Venezuela</string>
+		<key>code</key>
+		<string>ve</string>
+		<key>continent</key>
+		<string>SA</string>
+		<key>data</key>
+		<string>Aluminium,Aluminium (bauxite),Silicon,Sulfur,Calcium,Iron,Nickel,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Vietnam</string>
+		<key>code</key>
+		<string>vn</string>
+		<key>continent</key>
+		<string>AS</string>
+		<key>data</key>
+		<string>Aluminium (bauxite),Calcium,Titanium,Chromium,Manganese,Iron,Cobalt,Nickel,Copper,Zinc,Rare Earths,Zirconium,Tin,Antimony,Barium,Tungsten,Gold,Lead,Bismuth,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Yemen</string>
+		<key>code</key>
+		<string>ye</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Calcium,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Zambia</string>
+		<key>code</key>
+		<string>zm</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Beryllium,Cobalt,Nickel,Copper,Selenium,Gold,Lead,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Zimbabwe</string>
+		<key>code</key>
+		<string>zw</string>
+		<key>continent</key>
+		<string>AF</string>
+		<key>data</key>
+		<string>Lithium,Carbon (diamond),Carbon (graphite),Chromium,Iron,Cobalt,Nickel,Copper,Palladium,Palladium,Barium,Platinum,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Oceans / Seas</string>
+		<key>code</key>
+		<string>zz</string>
+		<key>continent</key>
+		<string>xx</string>
+		<key>data</key>
+		<string>Sodium,Chlorine,Potassium,Manganese,Iodine,Gold,</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Space!</string>
+		<key>code</key>
+		<string>xx</string>
+		<key>continent</key>
+		<string>xx</string>
+		<key>data</key>
+		<string>Hydrogen,Helium,Beryllium,Carbon,Nitrogen,Oxygen,Neon,Sodium,Magnesium,Aluminium,Silicon,Sulphur,Argon,Calcium,Titanium,Iron,Nickel,Yttrium,Zirconium,Technetium,Xenon,Promethium,Europium,Iridium,Platinum,</string>
+	</dict>
+
+	
+</array>
+</plist>

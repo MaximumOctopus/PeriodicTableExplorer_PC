@@ -1,0 +1,4300 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Paul Alan Freshney February 14th 2010 -->
+
+<plist version="1.0">
+<array>
+
+	<dict>
+		<key>name</key>
+		<string>alpha particle-electron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>7294.299 5365</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 0031</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>alpha particle mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.644 656 20 x 10{-27}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 33 x 10{-27}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>alpha particle mass energy equivalent</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.971 919 17 x 10{-10}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 30 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>alpha particle mass energy equivalent in MeV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3727.379 109</string>
+		<key>units</key>
+		<string>MeV</string>
+		<key>uncer</key>
+		<string>0.000 093</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>alpha particle mass in u</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.001 506 179 127</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 000 062</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>alpha particle molar mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.001 506 179 127 x 10{-3}</string>
+		<key>units</key>
+		<string>kg mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 000 062 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>alpha particle-proton mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.972 599 689 51</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 000 41</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Angstrom star</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.000 014 98 x 10{-10}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 90 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic mass constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.660 538 782 x 10{-27}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 083 x 10{-27}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic mass constant energy equivalent</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.492 417 830 x 10{-10}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 074 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic mass constant energy equivalent in MeV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>931.494 028</string>
+		<key>units</key>
+		<string>MeV</string>
+		<key>uncer</key>
+		<string>0.000 023</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic mass unit-electron volt relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>931.494 028 x 10{6}</string>
+		<key>units</key>
+		<string>eV</string>
+		<key>uncer</key>
+		<string>0.000 023 x 10{6}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic mass unit-hartree relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.423 177 7149 x 10{7}</string>
+		<key>units</key>
+		<string>E_h</string>
+		<key>uncer</key>
+		<string>0.000 000 0049 x 10{7}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic mass unit-hertz relationship </integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.252 342 7369 x 10{23}</string>
+		<key>units</key>
+		<string>Hz</string>
+		<key>uncer</key>
+		<string>0.000 000 0032 x 10{23}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic mass unit-inverse meter relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>7.513 006 671 x 10{14}</string>
+		<key>units</key>
+		<string>m{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 011 x 10{14}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic mass unit-joule relationship </integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.492 417 830 x 10{-10}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 074 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic mass unit-kelvin relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.080 9527 x 10{13}</string>
+		<key>units</key>
+		<string>K</string>
+		<key>uncer</key>
+		<string>0.000 0019 x 10{13}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic mass unit-kilogram relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.660 538 782 x 10{-27}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 083 x 10{-27}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of 1st hyperpolarizablity</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.206 361 533 x 10{-53}</string>
+		<key>units</key>
+		<string>C{3} m{3} J{-2}</string>
+		<key>uncer</key>
+		<string>0.000 000 081 x 10{-53}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of 2nd hyperpolarizablity</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.235 380 95 x 10{-65}</string>
+		<key>units</key>
+		<string>C{4} m{4} J{-3}</string>
+		<key>uncer</key>
+		<string>0.000 000 31 x 10{-65}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of action</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.054 571 628 x 10{-34}</string>
+		<key>units</key>
+		<string>J s</string>
+		<key>uncer</key>
+		<string>0.000 000 053 x 10{-34}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of charge</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.602 176 487 x 10{-19}</string>
+		<key>units</key>
+		<string>C</string>
+		<key>uncer</key>
+		<string>0.000 000 040 x 10{-19}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of charge density</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.081 202 300 x 10{12}</string>
+		<key>units</key>
+		<string>C m{-3}</string>
+		<key>uncer</key>
+		<string>0.000 000 027  x 10{12}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of current</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.623 617 63 x 10{-3}</string>
+		<key>units</key>
+		<string>A</string>
+		<key>uncer</key>
+		<string>0.000 000 17 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of electric dipole mom.</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.478 352 81 x 10{-30}</string>
+		<key>units</key>
+		<string>C m</string>
+		<key>uncer</key>
+		<string>0.000 000 21 x 10{-30}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of electric field</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.142 206 32 x 10{11}</string>
+		<key>units</key>
+		<string>V m{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 13 x 10{11}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of electric field gradient</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>9.717 361 66 x 10{21}</string>
+		<key>units</key>
+		<string>V m{-2}</string>
+		<key>uncer</key>
+		<string>0.000 000 24 x 10{21}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of electric polarizablity</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.648 777 2536 x 10{-41}</string>
+		<key>units</key>
+		<string>C{2} m{2} J{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 0034 x 10{-41}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of electric potential</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>27.211 383 86</string>
+		<key>units</key>
+		<string>V</string>
+		<key>uncer</key>
+		<string>0.000 000 68</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of electric quadrupole mom.</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.486 551 07 x 10{-40}</string>
+		<key>units</key>
+		<string>C m{2}</string>
+		<key>uncer</key>
+		<string>0.000 000 11 x 10{-40}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of energy</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.359 743 94 x 10{-18}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 22 x 10{-18}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of force</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.238 722 06 x 10{-8}</string>
+		<key>units</key>
+		<string>N</string>
+		<key>uncer</key>
+		<string>0.000 000 41 x 10{-8}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of length</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.529 177 208 59 x 10{-10}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 000 36 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of mag. dipole mom.</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.854 801 830 x 10{-23}</string>
+		<key>units</key>
+		<string>J T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 046 x 10{-23}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of mag. flux density</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.350 517 382 x 10{5}</string>
+		<key>units</key>
+		<string>T</string>
+		<key>uncer</key>
+		<string>0.000 000 059 x 10{5}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of magnetizability</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>7.891 036 433 x 10{-29}</string>
+		<key>units</key>
+		<string>J T{-2}</string>
+		<key>uncer</key>
+		<string>0.000 000 027 x 10{-29}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>9.109 382 15 x 10{-31}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 45 x 10{-31}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of momentum</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.992 851 565 x 10{-24}</string>
+		<key>units</key>
+		<string>kg m s{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 099 x 10{-24}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of permittivity</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.112 650 056 x 10{-10}</string>
+		<key>units</key>
+		<string>F m{-1}</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of time</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.418 884 326 505 x 10{-17}</string>
+		<key>units</key>
+		<string>s</string>
+		<key>uncer</key>
+		<string>0.000 000 000 016 x 10{-17}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>atomic unit of velocity</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.187 691 2541 x 10{6}</string>
+		<key>units</key>
+		<string>m s{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 0015 x 10{6}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Avogadro constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.022 141 79 x 10{23}</string>
+		<key>units</key>
+		<string>mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 30 x 10{23}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Bohr magneton</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>927.400 915 x 10{-26}</string>
+		<key>units</key>
+		<string>J T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 023 x 10{-26}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Bohr magneton in eV/T</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.788 381 7555 x 10{-5}</string>
+		<key>units</key>
+		<string>eV T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 0079 x 10{-5}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Bohr magneton in Hz/T</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>13.996 246 04 x 10{9}</string>
+		<key>units</key>
+		<string>Hz T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 35 x 10{9}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Bohr magneton in inverse meters per tesla</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>46.686 4515</string>
+		<key>units</key>
+		<string>m{-1} T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 0012</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Bohr magneton in K/T</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.671 7131</string>
+		<key>units</key>
+		<string>K T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 0012</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Bohr radius</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.529 177 208 59 x 10{-10}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 000 36 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Boltzmann constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.380 6504 x 10{-23}</string>
+		<key>units</key>
+		<string>J K{-1}</string>
+		<key>uncer</key>
+		<string>0.000 0024 x 10{-23}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Boltzmann constant in eV/K</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.617 343 x 10{-5}</string>
+		<key>units</key>
+		<string>eV K{-1}</string>
+		<key>uncer</key>
+		<string>0.000 015 x 10{-5}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Boltzmann constant in Hz/K</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.083 6644 x 10{10}</string>
+		<key>units</key>
+		<string>Hz K{-1}</string>
+		<key>uncer</key>
+		<string>0.000 0036 x 10{10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Boltzmann constant in inverse meters per kelvin</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>69.503 56</string>
+		<key>units</key>
+		<string>m{-1} K{-1}</string>
+		<key>uncer</key>
+		<string>0.000 12</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>characteristic impedance of vacuum</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>376.730 313 461</string>
+		<key>units</key>
+		<string>ohm</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>classical electron radius</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.817 940 2894 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 0058 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Compton wavelength</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.426 310 2175 x 10{-12}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 0033 x 10{-12}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Compton wavelength over 2 pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>386.159 264 59 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 53 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>conductance quantum</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>7.748 091 7004 x 10{-5}</string>
+		<key>units</key>
+		<string>S</string>
+		<key>uncer</key>
+		<string>0.000 000 0053 x 10{-5}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>conventional value of Josephson constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>483 597.9 x 10{9}</string>
+		<key>units</key>
+		<string>Hz V{-1}</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>conventional value of von Klitzing constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>25 812.807</string>
+		<key>units</key>
+		<string>ohm</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Cu x unit</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.002 076 99 x 10{-13}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 28 x 10{-13}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron-electron mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-4.664 345 537 x 10{-4}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 039 x 10{-4}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron-electron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3670.482 9654</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 0016</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron g factor</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.857 438 2308</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0072</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron mag. mom.</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.433 073 465 x 10{-26}</string>
+		<key>units</key>
+		<string>J T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 011 x 10{-26}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron mag. mom. to Bohr magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.466 975 4556 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0039 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron mag. mom. to nuclear magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.857 438 2308</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0072</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.343 583 20 x 10{-27}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 17 x 10{-27}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron mass energy equivalent</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.005 062 72 x 10{-10}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 15 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron mass energy equivalent in MeV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1875.612 793</string>
+		<key>units</key>
+		<string>MeV</string>
+		<key>uncer</key>
+		<string>0.000 047</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron mass in u</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.013 553 212 724</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 000 078</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron molar mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.013 553 212 724 x 10{-3}</string>
+		<key>units</key>
+		<string>kg mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 000 078 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron-neutron mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-0.448 206 52</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 11</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron-proton mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.307 012 2070</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0024</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron-proton mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.999 007 501 08</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 000 22</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>deuteron rms charge radius</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.1402 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.0028 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>e</integer>
+		<key>symbol</key>
+		<string>e</string>
+		<key>value</key>
+		<string>2.7182818</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string></string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electric constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.854 187 817 x 10{-12}</string>
+		<key>units</key>
+		<string>F m{-1}</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron charge to mass quotient</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1.758 820 150 x 10{11}</string>
+		<key>units</key>
+		<string>C kg{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 044 x 10{11}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron-deuteron mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-2143.923 498</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 018</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron-deuteron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.724 437 1093 x 10{-4}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0012 x 10{-4}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron g factor</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-2.002 319 304 3622</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 000 0015</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron gyromag. ratio </integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.760 859 770 x 10{11}</string>
+		<key>units</key>
+		<string>s{-1} T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 044 x 10{11}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron gyromag. ratio over 2 pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>28 024.953 64</string>
+		<key>units</key>
+		<string>MHz T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 70</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron mag. mom.</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-928.476 377 x 10{-26}</string>
+		<key>units</key>
+		<string>J T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 023 x 10{-26}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron mag. mom. anomaly</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.159 652 181 11 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 000 74 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron mag. mom. to Bohr magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1.001 159 652 181 11</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 000 000 74</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron mag. mom. to nuclear magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1838.281 970 92</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 80</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>9.109 382 15 x 10{-31}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 45 x 10{-31}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron mass energy equivalent</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.187 104 38 x 10{-14}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 41 x 10{-14}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron mass energy equivalent in MeV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.510 998 910</string>
+		<key>units</key>
+		<string>MeV</string>
+		<key>uncer</key>
+		<string>0.000 000 013</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron mass in u</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.485 799 0943 x 10{-4}</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 0023 x 10{-4}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron molar mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.485 799 0943 x 10{-7}</string>
+		<key>units</key>
+		<string>kg mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 0023 x 10{-7}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron-muon mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>206.766 9877</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 0052</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron-muon mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.836 331 71 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 12 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron-neutron mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>960.920 50</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 23</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron-neutron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.438 673 4459 x 10{-4}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0033 x 10{-4}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron-proton mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-658.210 6848</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 0054</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron-proton mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.446 170 2177 x 10{-4}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0024 x 10{-4}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron-tau mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.875 64 x 10{-4}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 47 x 10{-4}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron to alpha particle mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.370 933 555 70 x 10{-4}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 000 58 x 10{-4}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron to shielded helion mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>864.058 257</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 010</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron to shielded proton mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-658.227 5971</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 0072</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron volt </integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.602 176 487 x 10{-19}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 040 x 10{-19}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron volt-atomic mass unit relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.073 544 188 x 10{-9}</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 027 x 10{-9}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron volt-hartree relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.674 932 540 x 10{-2}</string>
+		<key>units</key>
+		<string>E_h</string>
+		<key>uncer</key>
+		<string>0.000 000 092 x 10{-2}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron volt-hertz relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.417 989 454 x 10{14}</string>
+		<key>units</key>
+		<string>Hz</string>
+		<key>uncer</key>
+		<string>0.000 000 060 x 10{14}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron volt-inverse meter relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.065 544 65 x 10{5}</string>
+		<key>units</key>
+		<string>m{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 20 x 10{5}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron volt-joule relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.602 176 487 x 10{-19}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 040 x 10{-19}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron volt-kelvin relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.160 4505 x 10{4}</string>
+		<key>units</key>
+		<string>K</string>
+		<key>uncer</key>
+		<string>0.000 0020 x 10{4}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>electron volt-kilogram relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.782 661 758 x 10{-36}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 044 x 10{-36}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>elementary charge</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.602 176 487 x 10{-19}</string>
+		<key>units</key>
+		<string>C</string>
+		<key>uncer</key>
+		<string>0.000 000 040 x 10{-19}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>elementary charge over h</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.417 989 454 x 10{14}</string>
+		<key>units</key>
+		<string>A J{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 060 x 10{14}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Faraday constant </integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>96 485.3399</string>
+		<key>units</key>
+		<string>C mol{-1}</string>
+		<key>uncer</key>
+		<string>0.0024</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Faraday constant for conventional electric current</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>96 485.3401</string>
+		<key>units</key>
+		<string>C_90 mol{-1}</string>
+		<key>uncer</key>
+		<string>0.0048</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Fermi coupling constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.166 37 x 10{-5}</string>
+		<key>units</key>
+		<string>GeV{-2}</string>
+		<key>uncer</key>
+		<string>0.000 01 x 10{-5}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>fine-structure constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>7.297 352 5376 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0050 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>first radiation constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.741 771 18 x 10{-16}</string>
+		<key>units</key>
+		<string>W m{2}</string>
+		<key>uncer</key>
+		<string>0.000 000 19 x 10{-16}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>first radiation constant for spectral radiance</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.191 042 759 x 10{-16}</string>
+		<key>units</key>
+		<string>W m{2} sr{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 059 x 10{-16}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hartree-atomic mass unit relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.921 262 2986 x 10{-8}</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 0042 x 10{-8}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hartree-electron volt relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>27.211 383 86</string>
+		<key>units</key>
+		<string>eV</string>
+		<key>uncer</key>
+		<string>0.000 000 68</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Hartree energy</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.359 743 94 x 10{-18}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 22 x 10{-18}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Hartree energy in eV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>27.211 383 86</string>
+		<key>units</key>
+		<string>eV</string>
+		<key>uncer</key>
+		<string>0.000 000 68</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hartree-hertz relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.579 683 920 722 x 10{15}</string>
+		<key>units</key>
+		<string>Hz</string>
+		<key>uncer</key>
+		<string>0.000 000 000 044 x 10{15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hartree-inverse meter relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.194 746 313 705 x 10{7}</string>
+		<key>units</key>
+		<string>m{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 000 015 x 10{7}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hartree-joule relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.359 743 94 x 10{-18}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 22 x 10{-18}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hartree-kelvin relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.157 7465 x 10{5}</string>
+		<key>units</key>
+		<string>K</string>
+		<key>uncer</key>
+		<string>0.000 0055 x 10{5}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hartree-kilogram relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.850 869 34 x 10{-35}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 24 x 10{-35}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>helion-electron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5495.885 2765</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 0052</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>helion mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.006 411 92 x 10{-27}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 25 x 10{-27}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>helion mass energy equivalent</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.499 538 64 x 10{-10}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 22 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>helion mass energy equivalent in MeV </integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2808.391 383</string>
+		<key>units</key>
+		<string>MeV</string>
+		<key>uncer</key>
+		<string>0.000 070</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>helion mass in u</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.014 932 2473</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 0026</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>helion molar mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.014 932 2473 x 10{-3}</string>
+		<key>units</key>
+		<string>kg mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 0026 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>helion-proton mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.993 152 6713</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0026</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hertz-atomic mass unit relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.439 821 6294 x 10{-24}</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 0064 x 10{-24}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hertz-electron volt relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.135 667 33 x 10{-15}</string>
+		<key>units</key>
+		<string>eV</string>
+		<key>uncer</key>
+		<string>0.000 000 10 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hertz-hartree relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.519 829 846 006 x 10{-16}</string>
+		<key>units</key>
+		<string>E_h</string>
+		<key>uncer</key>
+		<string>0.000 000 000 010 x 10{-16}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hertz-inverse meter relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.335 640 951</string>
+		<key>units</key>
+		<string>m{-1}</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hertz-joule relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.626 068 96 x 10{-34}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 33 x 10{-34}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hertz-kelvin relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.799 2374 x 10{-11}</string>
+		<key>units</key>
+		<string>K</string>
+		<key>uncer</key>
+		<string>0.000 0084 x 10{-11}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>hertz-kilogram relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>7.372 496 00 x 10{-51}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 37 x 10{-51}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>inverse fine-structure constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>137.035 999 679</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 094</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>inverse meter-atomic mass unit relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.331 025 0394 x 10{-15}</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 0019 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>inverse meter-electron volt relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.239 841 875 x 10{-6}</string>
+		<key>units</key>
+		<string>eV</string>
+		<key>uncer</key>
+		<string>0.000 000 031 x 10{-6}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>inverse meter-hartree relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.556 335 252 760 x 10{-8}</string>
+		<key>units</key>
+		<string>E_h</string>
+		<key>uncer</key>
+		<string>0.000 000 000 030 x 10{-8}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>inverse meter-hertz relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>299 792 458></string>
+		<key>units</key>
+		<string>Hz</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>inverse meter-joule relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.986 445 501 x 10{-25}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 099 x 10{-25}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>inverse meter-kelvin relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.438 7752 x 10{-2}</string>
+		<key>units</key>
+		<string>K</string>
+		<key>uncer</key>
+		<string>0.000 0025 x 10{-2}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>inverse meter-kilogram relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.210 218 70 x 10{-42}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 11 x 10{-42}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>inverse of conductance quantum</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>12 906.403 7787</string>
+		<key>units</key>
+		<string>ohm</string>
+		<key>uncer</key>
+		<string>0.000 0088</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Josephson constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>483 597.891 x 10{9}</string>
+		<key>units</key>
+		<string>Hz V{-1}</string>
+		<key>uncer</key>
+		<string>0.012 x 10{9}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>joule-atomic mass unit relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.700 536 41 x 10{9}</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 33 x 10{9}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>joule-electron volt relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.241 509 65 x 10{18}</string>
+		<key>units</key>
+		<string>eV</string>
+		<key>uncer</key>
+		<string>0.000 000 16 x 10{18}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>joule-hartree relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.293 712 69 x 10{17}</string>
+		<key>units</key>
+		<string>E_h</string>
+		<key>uncer</key>
+		<string>0.000 000 11 x 10{17}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>joule-hertz relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.509 190 450 x 10{33}</string>
+		<key>units</key>
+		<string>Hz</string>
+		<key>uncer</key>
+		<string>0.000 000 075 x 10{33}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>joule-inverse meter relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.034 117 47 x 10{24}</string>
+		<key>units</key>
+		<string>m{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 25 x 10{24}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>joule-kelvin relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>7.242 963 x 10{22}</string>
+		<key>units</key>
+		<string>K</string>
+		<key>uncer</key>
+		<string>0.000 013 x 10{22}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>joule-kilogram relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.112 650 056 x 10{-17}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kelvin-atomic mass unit relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>9.251 098 x 10{-14}</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 016 x 10{-14}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kelvin-electron volt relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.617 343 x 10{-5}</string>
+		<key>units</key>
+		<string>eV</string>
+		<key>uncer</key>
+		<string>0.000 015 x 10{-5}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kelvin-hartree relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.166 8153 x 10{-6}</string>
+		<key>units</key>
+		<string>E_h</string>
+		<key>uncer</key>
+		<string>0.000 0055 x 10{-6}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kelvin-hertz relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.083 6644 x 10{10}</string>
+		<key>units</key>
+		<string>Hz</string>
+		<key>uncer</key>
+		<string>0.000 0036 x 10{10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kelvin-inverse meter relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>69.503 56</string>
+		<key>units</key>
+		<string>m{-1}</string>
+		<key>uncer</key>
+		<string>0.000 12</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kelvin-joule relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.380 6504 x 10{-23}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 0024 x 10{-23}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kelvin-kilogram relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.536 1807 x 10{-40}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 0027 x 10{-40}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kilogram-atomic mass unit relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.022 141 79 x 10{26}</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 30 x 10{26}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kilogram-electron volt relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.609 589 12 x 10{35}</string>
+		<key>units</key>
+		<string>eV</string>
+		<key>uncer</key>
+		<string>0.000 000 14 x 10{35}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kilogram-hartree relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.061 486 16 x 10{34}</string>
+		<key>units</key>
+		<string>E_h</string>
+		<key>uncer</key>
+		<string>0.000 000 10 x 10{34}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kilogram-hertz relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.356 392 733 x 10{50}</string>
+		<key>units</key>
+		<string>Hz</string>
+		<key>uncer</key>
+		<string>0.000 000 068 x 10{50}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kilogram-inverse meter relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.524 439 15 x 10{41}</string>
+		<key>units</key>
+		<string>m{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 23 x 10{41}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kilogram-joule relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.987 551 787 x 10{16}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>kilogram-kelvin relationship</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.509 651 x 10{39}</string>
+		<key>units</key>
+		<string>K</string>
+		<key>uncer</key>
+		<string>0.000 011 x 10{39}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>lattice parameter of silicon</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>543.102 064 x 10{-12}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 014 x 10{-12}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>lattice spacing of silicon</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>192.015 5762 x 10{-12}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 0050 x 10{-12}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Loschmidt constant (273.15 K, 101.325 kPa)</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.686 7774 x 10{25}</string>
+		<key>units</key>
+		<string>m{-3}</string>
+		<key>uncer</key>
+		<string>0.000 0047 x 10{25}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>mag. constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>12.566 370 614 x 10{-7}</string>
+		<key>units</key>
+		<string>N A{-2}</string>
+		<key>uncer</key>
+		<string></string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>mag. flux quantum</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.067 833 667 x 10{-15}</string>
+		<key>units</key>
+		<string>Wb</string>
+		<key>uncer</key>
+		<string>0.000 000 052 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>molar gas constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.314 472</string>
+		<key>units</key>
+		<string>J mol{-1} K{-1}</string>
+		<key>uncer</key>
+		<string>0.000 015</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>molar mass constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1 x 10{-3}</string>
+		<key>units</key>
+		<string>kg mol{-1}</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>molar mass of carbon-12</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>12 x 10{-3}</string>
+		<key>units</key>
+		<string>kg mol{-1}</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>molar Planck constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.990 312 6821 x 10{-10}</string>
+		<key>units</key>
+		<string>J s mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 0057 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>molar Planck constant times c</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.119 626 564 72</string>
+		<key>units</key>
+		<string>J m mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 000 17</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>molar volume of ideal gas (273.15 K, 100 kPa)</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>22.710 981 x 10{-3}</string>
+		<key>units</key>
+		<string>m{3} mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 040 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>molar volume of ideal gas (273.15 K, 101.325 kPa)</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>22.413 996 x 10{-3}</string>
+		<key>units</key>
+		<string>m{3} mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 039 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>molar volume of silicon</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>12.058 8349 x 10{-6}</string>
+		<key>units</key>
+		<string>m{3} mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 0011 x 10{-6}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Mo x unit</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.002 099 55 x 10{-13}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 53 x 10{-13}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon Compton wavelength</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>11.734 441 04 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 30 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon Compton wavelength over 2 pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.867 594 295 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 047 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon-electron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>206.768 2823</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 0052</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon g factor</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-2.002 331 8414</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0012</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon mag. mom.</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-4.490 447 86 x 10{-26}</string>
+		<key>units</key>
+		<string>J T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 16 x 10{-26}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon mag. mom. anomaly</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.165 920 69 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 60 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon mag. mom. to Bohr magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-4.841 970 49 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 12 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon mag. mom. to nuclear magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-8.890 597 05</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 23</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.883 531 30 x 10{-28}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 11 x 10{-28}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon mass energy equivalent</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.692 833 510 x 10{-11}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 095 x 10{-11}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon mass energy equivalent in MeV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>105.658 3668</string>
+		<key>units</key>
+		<string>MeV</string>
+		<key>uncer</key>
+		<string>0.000 0038</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon mass in u</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.113 428 9256</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 0029</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon molar mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.113 428 9256 x 10{-3}</string>
+		<key>units</key>
+		<string>kg mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 0029 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon-neutron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.112 454 5167</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0029</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon-proton mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-3.183 345 137</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 085</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon-proton mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.112 609 5261</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0029</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>muon-tau mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.945 92 x 10{-2}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 97 x 10{-2}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>natural unit of action</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.054 571 628 x 10{-34}</string>
+		<key>units</key>
+		<string>J s</string>
+		<key>uncer</key>
+		<string>0.000 000 053 x 10{-34}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>natural unit of action in eV s</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.582 118 99 x 10{-16}</string>
+		<key>units</key>
+		<string>eV s</string>
+		<key>uncer</key>
+		<string>0.000 000 16 x 10{-16}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>natural unit of energy</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.187 104 38 x 10{-14}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 41 x 10{-14}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>natural unit of energy in MeV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.510 998 910</string>
+		<key>units</key>
+		<string>MeV</string>
+		<key>uncer</key>
+		<string>0.000 000 013</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>natural unit of length</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>386.159 264 59 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 53 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>natural unit of mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>9.109 382 15 x 10{-31}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 45 x 10{-31}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>natural unit of momentum </integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.730 924 06 x 10{-22}</string>
+		<key>units</key>
+		<string>kg m s{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 14 x 10{-22}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>natural unit of momentum in MeV/c</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.510 998 910</string>
+		<key>units</key>
+		<string>MeV/c</string>
+		<key>uncer</key>
+		<string>0.000 000 013</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>natural unit of time</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.288 088 6570 x 10{-21}</string>
+		<key>units</key>
+		<string>s</string>
+		<key>uncer</key>
+		<string>0.000 000 0018 x 10{-21}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>natural unit of velocity</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>299 792 458</string>
+		<key>units</key>
+		<string>m s{-1}</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron Compton wavelength</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.319 590 8951 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 0020 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron Compton wavelength over 2 pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.210 019 413 82 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 000 31 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron-electron mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.040 668 82 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 25 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron-electron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1838.683 6605</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 0011</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron g factor</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-3.826 085 45</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 90</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron gyromag. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.832 471 85 x 10{8}</string>
+		<key>units</key>
+		<string>s{-1} T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 43 x 10{8}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron gyromag. ratio over 2 pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>29.164 6954</string>
+		<key>units</key>
+		<string>MHz T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 0069</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron mag. mom.</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-0.966 236 41 x 10{-26}</string>
+		<key>units</key>
+		<string>J T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 23 x 10{-26}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron mag. mom. to Bohr magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1.041 875 63 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 25 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron mag. mom. to nuclear magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1.913 042 73</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 45</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.674 927 211 x 10{-27}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 084 x 10{-27}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron mass energy equivalent</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.505 349 505 x 10{-10}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 075 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron mass energy equivalent in MeV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>939.565 346</string>
+		<key>units</key>
+		<string>MeV</string>
+		<key>uncer</key>
+		<string>0.000 023</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron mass in u</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.008 664 915 97</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 000 43</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron molar mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.008 664 915 97 x 10{-3}</string>
+		<key>units</key>
+		<string>kg mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 000 43 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron-muon mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.892 484 09</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 23</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron-proton mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-0.684 979 34</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 16</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron-proton mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.001 378 419 18</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 000 46</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron-tau mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.528 740</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 086</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>neutron to shielded proton mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-0.684 996 94</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 16</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Newtonian constant of gravitation</integer>
+		<key>symbol</key>
+		<string>G</string>
+		<key>value</key>
+		<string>6.674 28 x 10{-11}</string>
+		<key>units</key>
+		<string>m{3} kg{}-1 s{-2}</string>
+		<key>uncer</key>
+		<string>0.000 67 x 10{-11}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Newtonian constant of gravitation over h-bar c</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.708 81 x 10{-39}</string>
+		<key>units</key>
+		<string>(GeV/c{2}){-2}</string>
+		<key>uncer</key>
+		<string>0.000 67 x 10{-39}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>nuclear magneton</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.050 783 24 x 10{-27}</string>
+		<key>units</key>
+		<string>J T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 13 x 10{-27}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>nuclear magneton in eV/T</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.152 451 2326 x 10{-8}</string>
+		<key>units</key>
+		<string>eV T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 0045 x 10{-8}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>nuclear magneton in inverse meters per tesla</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.542 623 616 x 10{-2}</string>
+		<key>units</key>
+		<string>m{-1} T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 064 x 10{-2}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>nuclear magneton in K/T</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.658 2637 x 10{-4}</string>
+		<key>units</key>
+		<string>K T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 0064 x 10{-4}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>nuclear magneton in MHz/T</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>7.622 593 84</string>
+		<key>units</key>
+		<string>MHz T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 19</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Permeability of a vacuum</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.257 x 10{-6}</string>
+		<key>units</key>
+		<string>H m{-1}</string>
+		<key>uncer</key>
+		<string></string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Permittivity of a vacuum</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.854 x 10{-12}</string>
+		<key>units</key>
+		<string>F m{-1}</string>
+		<key>uncer</key>
+		<string></string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.141592565</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string></string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Planck constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.626 068 96 x 10{-34}</string>
+		<key>units</key>
+		<string>J s</string>
+		<key>uncer</key>
+		<string>0.000 000 33 x 10{-34}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Planck constant in eV s</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.135 667 33 x 10{-15}</string>
+		<key>units</key>
+		<string>eV s</string>
+		<key>uncer</key>
+		<string>0.000 000 10 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Planck constant over 2 pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.054 571 628 x 10{-34}</string>
+		<key>units</key>
+		<string>J s</string>
+		<key>uncer</key>
+		<string>0.000 000 053 x 10{-34}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Planck constant over 2 pi in eV s</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>6.582 118 99 x 10{-16}</string>
+		<key>units</key>
+		<string>eV s</string>
+		<key>uncer</key>
+		<string>0.000 000 16 x 10{-16}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Planck constant over 2 pi times c in MeV fm</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>197.326 9631</string>
+		<key>units</key>
+		<string>MeV fm</string>
+		<key>uncer</key>
+		<string>0.000 0049</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Planck length</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.616 252 x 10{-35}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 081 x 10{-35}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Planck mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.176 44 x 10{-8 }</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 11 x 10{-8}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Planck mass energy equivalent in GeV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.220 892 x 10{19}</string>
+		<key>units</key>
+		<string>GeV</string>
+		<key>uncer</key>
+		<string>0.000 061 x 10{19}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Planck temperature</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.416 785 x 10{32}</string>
+		<key>units</key>
+		<string>K</string>
+		<key>uncer</key>
+		<string>0.000 071 x 10{32}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Planck time</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.391 24 x 10{-44}</string>
+		<key>units</key>
+		<string>s</string>
+		<key>uncer</key>
+		<string>0.000 27 x 10{-44}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton charge to mass quotient</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>9.578 833 92 x 10{7}</string>
+		<key>units</key>
+		<string>C kg{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 24 x 10{7}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton Compton wavelength</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.321 409 8446 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 0019 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton Compton wavelength over 2 pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.210 308 908 61 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 000 000 30 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton-electron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1836.152 672 47</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 80</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton g factor</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.585 694 713</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 046</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton gyromag. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.675 222 099 x 10{8}</string>
+		<key>units</key>
+		<string>s{-1} T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 070 x 10{8}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton gyromag. ratio over 2 pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>42.577 4821</string>
+		<key>units</key>
+		<string>MHz T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 0011</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton mag. mom.</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.410 606 662 x 10{-26}</string>
+		<key>units</key>
+		<string>J T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 037 x 10{-26}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton mag. mom. to Bohr magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.521 032 209 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 012 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton mag. mom. to nuclear magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.792 847 356</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 023</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton mag. shielding correction</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>25.694 x 10{-6}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.014 x 10{-6}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.672 621 637 x 10{-27}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 083 x 10{-27}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton mass energy equivalent</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.503 277 359 x 10{-10}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 075 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton mass energy equivalent in MeV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>938.272 013</string>
+		<key>units</key>
+		<string>MeV</string>
+		<key>uncer</key>
+		<string>0.000 023</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton mass in u</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.007 276 466 77</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 000 10</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton molar mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.007 276 466 77 x 10{-3}</string>
+		<key>units</key>
+		<string>kg mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 000 10 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton-muon mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>8.880 243 39</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 23</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton-neutron mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1.459 898 06</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 34</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton-neutron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.998 623 478 24</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 000 46</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton rms charge radius</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.8768 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.0069 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>proton-tau mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.528 012</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 086</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>quantum of circulation</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.636 947 5199 x 10{-4}</string>
+		<key>units</key>
+		<string>m{2} s{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 0050 x 10{-4 }</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>quantum of circulation times 2</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>7.273 895 040 x 10{-4}</string>
+		<key>units</key>
+		<string>m{2} s{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 010 x 10{-4}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Rydberg constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>10 973 731.568 527</string>
+		<key>units</key>
+		<string>m{-1}</string>
+		<key>uncer</key>
+		<string>0.000 073</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Rydberg constant times c in Hz</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.289 841 960 361 x 10{15}</string>
+		<key>units</key>
+		<string>Hz</string>
+		<key>uncer</key>
+		<string>0.000 000 000 022 x 10{15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Rydberg constant times hc in eV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>13.605 691 93</string>
+		<key>units</key>
+		<string>eV</string>
+		<key>uncer</key>
+		<string>0.000 000 34</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Rydberg constant times hc in J</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.179 871 97 x 10{-18}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 11 x 10{-18}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Sackur-Tetrode constant (1 K, 100 kPa)</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1.151 7047</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 0044</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Sackur-Tetrode constant (1 K, 101.325 kPa)</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1.164 8677</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 0044</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>second radiation constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.438 7752 x 10{-2}</string>
+		<key>units</key>
+		<string>m K</string>
+		<key>uncer</key>
+		<string>0.000 0025 x 10{-2}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded helion gyromag. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.037 894 730 x 10{8}</string>
+		<key>units</key>
+		<string>s{-1} T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 056 x 10{8}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded helion gyromag. ratio over 2 pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>32.434 101 98</string>
+		<key>units</key>
+		<string>MHz T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 90</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded helion mag. mom.</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1.074 552 982 x 10{-26}</string>
+		<key>units</key>
+		<string>J T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 030 x 10{-26}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded helion mag. mom. to Bohr magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1.158 671 471 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 014 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded helion mag. mom. to nuclear magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-2.127 497 718</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 025</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded helion to proton mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-0.761 766 558</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 011</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded helion to shielded proton mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-0.761 786 1313</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0033</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded proton gyromag. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.675 153 362 x 10{8}</string>
+		<key>units</key>
+		<string>s{-1} T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 073 x 10{8}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded proton gyromag. ratio over 2 pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>42.576 3881</string>
+		<key>units</key>
+		<string>MHz T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 0012</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded proton mag. mom.</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.410 570 419 x 10{-26}</string>
+		<key>units</key>
+		<string>J T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 038 x 10{-26}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded proton mag. mom. to Bohr magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.520 993 128 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 017 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>shielded proton mag. mom. to nuclear magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.792 775 598</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 030</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>speed of light in vacuum </integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>299 792 458</string>
+		<key>units</key>
+		<string>m s{-1}</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>standard acceleration of gravity</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>9.806 65</string>
+		<key>units</key>
+		<string>m s{-2}</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>standard atmosphere</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>101 325</string>
+		<key>units</key>
+		<string>Pa</string>
+		<key>uncer</key>
+		<string>0</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Stefan-Boltzmann constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.670 400 x 10{-8}</string>
+		<key>units</key>
+		<string>W m{-2} K{-4}</string>
+		<key>uncer</key>
+		<string>0.000 040 x 10{-8}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>tau Compton wavelength</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.697 72 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 11 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>tau Compton wavelength over 2 pi</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.111 046 x 10{-15}</string>
+		<key>units</key>
+		<string>m</string>
+		<key>uncer</key>
+		<string>0.000 018 x 10{-15}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>tau-electron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3477.48</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.57</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>tau mass </integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.167 77 x 10{-27}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 52 x 10{-27}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>tau mass energy equivalent</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.847 05 x 10{-10}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 46 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>tau mass energy equivalent in MeV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1776.99</string>
+		<key>units</key>
+		<string>MeV</string>
+		<key>uncer</key>
+		<string>0.29</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>tau mass in u</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.907 68</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 31</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>tau molar mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.907 68 x 10{-3}</string>
+		<key>units</key>
+		<string>kg mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 31 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>tau-muon mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>16.8183</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.0027</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>tau-neutron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.891 29</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 31</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>tau-proton mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.893 90</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 31</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Thomson cross section</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.665 245 8558 x 10{-28}</string>
+		<key>units</key>
+		<string>m{2}</string>
+		<key>uncer</key>
+		<string>0.000 000 0027 x 10{-28}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton-electron mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1.620 514 423 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 021 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton-electron mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5496.921 5269</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 0051</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton g factor</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.957 924 896</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 076</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton mag. mom.</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.504 609 361 x 10{-26}</string>
+		<key>units</key>
+		<string>J T{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 042 x 10{-26}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton mag. mom. to Bohr magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.622 393 657 x 10{-3}</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 021 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton mag. mom. to nuclear magneton ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.978 962 448</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 038</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.007 355 88 x 10{-27}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 25 x 10{-27}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton mass energy equivalent</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>4.500 387 03 x 10{-10}</string>
+		<key>units</key>
+		<string>J</string>
+		<key>uncer</key>
+		<string>0.000 000 22 x 10{-10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton mass energy equivalent in MeV</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2808.920 906</string>
+		<key>units</key>
+		<string>MeV</string>
+		<key>uncer</key>
+		<string>0.000 070</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton mass in u </integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.015 500 7134</string>
+		<key>units</key>
+		<string>u</string>
+		<key>uncer</key>
+		<string>0.000 000 0025</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton molar mass</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>3.015 500 7134 x 10{-3}</string>
+		<key>units</key>
+		<string>kg mol{-1}</string>
+		<key>uncer</key>
+		<string>0.000 000 0025 x 10{-3}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton-neutron mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>-1.557 185 53</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 37</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton-proton mag. mom. ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.066 639 908</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 010</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>triton-proton mass ratio</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.993 717 0309</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 000 0025</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>unified atomic mass unit</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>1.660 538 782 x 10{-27}</string>
+		<key>units</key>
+		<string>kg</string>
+		<key>uncer</key>
+		<string>0.000 000 083 x 10{-27}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>von Klitzing constant </integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>25 812.807 557</string>
+		<key>units</key>
+		<string>ohm</string>
+		<key>uncer</key>
+		<string>0.000 018</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>weak mixing angle</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>0.222 55</string>
+		<key>units</key>
+		<string></string>
+		<key>uncer</key>
+		<string>0.000 56</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Wien frequency displacement law constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>5.878 933 x 10{10}</string>
+		<key>units</key>
+		<string>Hz K{-1}</string>
+		<key>uncer</key>
+		<string>0.000 010 x 10{10}</string>
+	</dict>
+
+	<dict>
+		<key>name</key>
+		<string>Wien wavelength displacement law constant</integer>
+		<key>symbol</key>
+		<string></string>
+		<key>value</key>
+		<string>2.897 7685 x 10{-3}</string>
+		<key>units</key>
+		<string>m K</string>
+		<key>uncer</key>
+		<string>0.000 0051 x 10{-3}</string>
+	</dict>
+
+</array>
+</plist>

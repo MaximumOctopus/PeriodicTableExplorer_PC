@@ -1,0 +1,3528 @@
+﻿<?xml version="1.0"?>
+
+<!-- Don't use; / or * or : or @ ANYWHERE in the TEXT! -->
+
+<media>
+<images>
+
+<element>
+	<an>1</an>
+	<imagelist>
+		<image>
+			<filename>tt_H</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Hidrogénio num tubo de ensaio.</title>
+			<notes>
+				<ptext>O hidrogénio gasoso é incolor.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>pmw_H</filename>
+			<copyright>Precious Metals West</copyright>
+			<title>Chama de hidrogénio</title>
+			<notes>
+				<ptext>O hidrogénio queima com pouca ou nenhuma chama.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>2</an>
+	<imagelist>
+		<image>
+			<filename>tt_He</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Hélio num tubo de ensaio.</title>
+			<notes>
+				<ptext>O hélio gasoso é incolor.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_He2</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Hélio a brilhar</title>
+			<notes>
+				<ptext>O hélio brilha com uma cor branca clara quando lhe é aplicada uma carga de voltagem elevada.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>pslawinski_He</filename>
+			<copyright>pslawinski</copyright>
+			<title>Tubo de descarga de hélio</title>
+			<notes>
+				<ptext>Um tubo de descarga de hélio.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>3</an>
+	<imagelist>
+		<image>
+			<filename>tt_Li</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Lítio oxidado</title>
+			<notes>
+				<ptext>Esta amostra de lítio está revestida com camadas escuras de óxidos e nitratos.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_lepidolite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Lepidolite violeta</title>
+			<notes>
+				<ptext>O lítio é encontrado em quantidades traço no mineral lepidolite.</ptext>
+			</notes>
+		</image>	
+	</imagelist>
+</element>
+
+<element>
+	<an>4</an>
+	<imagelist>
+		<image>
+			<filename>tt_Be</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Berílio</title>
+			<notes>
+				<ptext>Pequenas fragmentos de berílio.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_be_sphere</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Esfera de berílio</title>
+			<notes>
+				<ptext>5g de minério de berílio com pureza de 98.5%+. Cerca de 2cm em diâmetro.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>5</an>
+	<imagelist>
+		<image>
+			<filename>tt_B</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Boro I cristalino</title>
+			<notes>
+				<ptext>Boro cristalino. 0.2 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_b</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Boro II cristalino</title>
+			<notes>
+				<ptext>10 gramas de boro cristalino em pequenos fragmentos.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>6</an>
+	<imagelist>
+		<image>
+			<filename>tt_C</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Grafite</title>
+			<notes>
+				<ptext>Um dos muitos alótropos do carbono. 0.2g</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_C2</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Diamantes em bruto</title>
+			<notes>
+				<ptext>O mais bem conhecido dos alótropos de carbono, o diamante. Estes são diamantes em bruto provenientes da Venezuela. 0.1 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_graphite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Amostra de grafite</title>
+			<notes>
+				<ptext>Um grande amostra de grafite, que facilmente risca o papel (assim como as mãos!).</ptext>
+			</notes>
+		</image>				
+	</imagelist>
+</element>
+
+<element>
+	<an>7</an>
+	<imagelist>
+		<image>
+			<filename>tt_N</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Azoto gasoso</title>
+			<notes>
+				<ptext>O azoto gasoso é incolor. Quantidade: 3 ml.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>ot_liN</filename>
+			<copyright>desconhecido</copyright>
+			<title>Azoto líquido</title>
+			<notes>
+				<ptext>Pequena amostra de azoto líquido.</ptext>
+			</notes>
+		</image>				
+	</imagelist>
+</element>
+
+<element>
+	<an>8</an>
+	<imagelist>
+		<image>
+			<filename>tt_O</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Oxigénio gasoso</title>
+			<notes>
+				<ptext>O oxigénio gasoso é incolor. Quantidade: 3 ml.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>wh_lox</filename>
+			<copyright>William Hillard</copyright>
+			<title>Oxigénio líquido</title>
+			<notes>
+				<ptext>Uma pequena amostra de oxigénio líquido apresentando a sua coloração azul clara característica.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>9</an>
+	<imagelist>
+		<image>
+			<filename>tt_F</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Fluorite</title>
+			<notes>
+				<ptext>O flúor elementar corrói vidro, portanto, apresenta-se aqui fluoreto de cálcio muito antigo, contendo vestígios de material radioactivo. O flúor elementar é libertado pelo fragmentar do mineral, sendo reconhecível pelo seu cheiro característico. Quantidade; 0,4 g flúor, flúor desconhecido.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_F2</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Flúor elementar</title>
+			<notes>
+				<ptext>Este é flúor elementar verdadeiro, incluso em quartzo, que resiste à corrosão de forma mais eficaz do que o vidro normal. Quantidade: 2.5 ml.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_fluorite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristais de Fluorite</title>
+			<notes>
+				<ptext>Alguns fragmentos de fluorite, com os tons pastel típicos dos cristais de fluorite.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>10</an>
+	<imagelist>
+		<image>
+			<filename>tt_Ne</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Néon gasoso</title>
+			<notes>
+				<ptext>O néon gasoso é incolor. Quantidade; 3 ml.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Ne2</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Néon gasoso (brilhante)</title>
+			<notes>
+				<ptext>Aplicando uma elevada voltagem ao néon gasoso este torna-se brilhante em tom de laranja-vermelho</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>pslawinski_Ne</filename>
+			<copyright>pslawinski</copyright>
+			<title>Tubo de descarga de Néon</title>
+			<notes>
+				<ptext>Um tubo de descarga de Néon.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>11</an>
+	<imagelist>
+		<image>
+			<filename>tt_Na</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Sódio lustroso</title>
+			<notes>
+				<ptext>Magnífico brilho, sem pontos oxidados. Quantidade; 0.2 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>swn_Na</filename>
+			<copyright>Soren Wedel Nielsen</copyright>
+			<title>Chama de sódio</title>
+			<notes>
+				<ptext>O sódio arde com uma chama amarela.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>12</an>
+	<imagelist>
+		<image>
+			<filename>tt_Mg</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Tira de magnésio</title>
+			<notes>
+				<ptext>pequenas amostras de fita de magnésio. Quantidade; 0.1 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Mg_ingot</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Magnésio sólido</title>
+			<notes>
+				<ptext>Um fragmento de magnésio sólido, 3g, mais de 2.5cm em comprimento. Pureza superior a 99.8%.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_dolomite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristais de dolomite</title>
+			<notes>
+				<ptext>Alguns cristais de dolomite originários do distrito mineiro de Tri-State, próximo de Joplin, Missouri EUA. A dolomite é uma fonte comercial muito importante de magnésio.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_magnesite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristais de magnesite</title>
+			<notes>
+				<ptext>Estes cristais romboédricos de magnesite medem cerca de 50mm, da esquerda para a direita.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>13</an>
+	<imagelist>
+		<image>
+			<filename>tt_Al</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Folha de alumínio</title>
+			<notes>
+				<ptext>0.2 de folha de alumínio.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>paf_al</filename>
+			<copyright>Paul Alan Freshney</copyright>
+			<title>Folha de alumínio ampliada</title>
+			<notes>
+				<ptext>Um fragmento de folha de cozinha com ampliação de 60x.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_bauxite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Bauxite</title>
+			<notes>
+				<ptext>O mais importante minério de alumínio. Deve o seu nome à vila de "Les Baux-de-Provence" no sul de França, onde foi descoberto e observado pela primeira vez, em 1821, pelo geólogo Pierre Berthier.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>14</an>
+	<imagelist>
+		<image>
+			<filename>tt_Si</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Fragmentos de silício</title>
+			<notes>
+				<ptext>Silício com elevado grau de pureza para o fabrico de chips. Quantidade: 0.3 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_si</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Pedaços de silício</title>
+			<notes>
+				<ptext>10 gramas de silício sólido. Grau de pureza superior a 99%.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>15</an>
+	<imagelist>
+		<image>
+			<filename>tt_P</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Fósforo branco</title>
+			<notes>
+				<ptext>Uma pequena quantidade de fósforo branco, venenoso, armazenado em água para evitar a auto-ignição.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_p_red</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Fósforo vermelho</title>
+			<notes>
+				<ptext>Amontoado de fósforo vermelho (inofensivo).</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>16</an>
+	<imagelist>
+		<image>
+			<filename>tt_S</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Enxofre cristalino</title>
+			<notes>
+				<ptext>Enxofre cristalino. Quantidade; 0.2 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>ndgs_S</filename>
+			<copyright>North Dakota Geological Survey</copyright>
+			<title>Enxofre</title>
+			<notes>
+				<ptext>O enxofre é um componente de muitos compostos orgânicos complexos que se encontram no petróleo bruto. Ocorre também sob a forma de sulfureto de hidrogénio no gás natural. Esta amostra de enxofre é proveniente de uma fábrica de gás natural perto de Tioga, North Dakota (EUA).</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>17</an>
+	<imagelist>
+		<image>
+			<filename>tt_Cl</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Cloro gasoso</title>
+			<notes>
+				<ptext>A cor verde-amarelada do cloro pode ser observada aqui.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>18</an>
+	<imagelist>
+		<image>
+			<filename>tt_Ar</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Árgon gasoso</title>
+			<notes>
+				<ptext>O árgon gasoso é incolor. Quantidade; 3 ml.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Ar2</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Árgon gasoso (brilhante)</title>
+			<notes>
+				<ptext>Aplicando alta voltagem ao árgon gasoso faz com que este brilhe.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>pslawinski_Ar</filename>
+			<copyright>pslawinski</copyright>
+			<title>Tubo de descarga de árgon</title>
+			<notes>
+				<ptext>Um tubo de descarga de árgon.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>19</an>
+	<imagelist>
+		<image>
+			<filename>tt_K</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Potássio</title>
+			<notes>
+				<ptext>Lustre sem qualquer ponto oxidado. Quantidade; 0.6 g.</ptext>
+			</notes>
+		</image>	
+		<image>
+			<filename>K_solutions</filename>
+			<copyright>unknown</copyright>
+			<title>Compostos de potássio</title>
+			<notes>
+				<ptext>Alguns compostos de potássio, evidenciando as suas variações de cor na água.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_sylvite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristal de Silvite</title>
+			<notes>
+				<ptext>Um cristal de silvite (cloreto de potássio na sua forma natural).</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>20</an>
+	<imagelist>
+		<image>
+			<filename>tt_Ca</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Grumos de cálcio</title>
+			<notes>
+				<ptext>Alguns pequenos grumos de cálcio. Quantidade; 0.9 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Ca_ingot</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de cálcio</title>
+			<notes>
+				<ptext>Um lingote de cálcio com 10 gramas, com cerca de 2.5cm quadrados. 99% puro.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_gypsum</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Pedaço de gesso</title>
+			<notes>
+				<ptext>Uma fonte mineral de cálcio, esta variedade de gesso é chamada de selenite. Este espécimen é oriundo de Verde Valley, Arizona EUA.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>21</an>
+	<imagelist>
+		<image>
+			<filename>tt_Sc</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Fragmentos de escândio</title>
+			<notes>
+				<ptext>Pequenos fragmentos do muito raro escândio. Quantidade; 0.1 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Sc</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Escândio dendítrico</title>
+			<notes>
+				<ptext>Um pedaço de escândio puro, numa forma dendítrica. 10 gramas de peso e 99.5% puro.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>22</an>
+	<imagelist>
+		<image>
+			<filename>tt_Ti</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pedaços de titânio</title>
+			<notes>
+				<ptext>Pequenos fragmentos de titânio. Quantidade; 0.3 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_rutile</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Rútilo</title>
+			<notes>
+				<ptext>Uma grande amostra de rútilo, um mineral fonte de titânio.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>23</an>
+	<imagelist>
+		<image>
+			<filename>tt_V</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pedaço de vanádio</title>
+			<notes>
+				<ptext>Amostra de vanádio. Quantidade; 0.6 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Vanadium</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Cubo de vanádio</title>
+			<notes>
+				<ptext>Um pequeno cubo de vanádio puro. Pesa cerca de 10g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_vanadinite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristais de vanadinite</title>
+			<notes>
+				<ptext>A vanadinite é um dos principais minerais industriais fonte de vanádio e, também, uma fonte secundária de chumbo. Esta amostra é da África do Sul, cerca de 90mm.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>24</an>
+	<imagelist>
+		<image>
+			<filename>tt_Cr</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Crómio cristalino</title>
+			<notes>
+				<ptext>Crómio na forma cristalina. Quantidade; 0.2 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Cr</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de crómio</title>
+			<notes>
+				<ptext>Um lingote de crómio extremamente brilhante. Pesa 10g, 99%+ puro.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_chromite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cromite</title>
+			<notes>
+				<ptext>Cromite é o mineral mais importante fonte de crómio.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>25</an>
+	<imagelist>
+		<image>
+			<filename>tt_Mn</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Fragmentos de manganês</title>
+			<notes>
+				<ptext>Pequenos pedaços de manganês. Quantidade; 0.8 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_psilomeline</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Psilomelana</title>
+			<notes>
+				<ptext>Psilomelana é um dos minérios de manganês mais abundantes.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_pyrolusite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Pirolusite</title>
+			<notes>
+				<ptext>Pirolusite é um dos mais abundantes minérios de manganês.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>26</an>
+	<imagelist>
+		<image>
+			<filename>tt_Fe</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Ferro puro</title>
+			<notes>
+				<ptext>Ferro puro, sem carbono. Quantidade; 1.1 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_hematite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Hematite</title>
+			<notes>
+				<ptext>Hematite é um importante mineral de ferro. Esta amostra é oriunda da Montreal Mine em Hurley, Michigan, EUA.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_magnetite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Magnetite</title>
+			<notes>
+				<ptext>Magnetite é um mineral importante de ferro. Estes cristais octaédricos de magnetite vêm de Cerro Huanaquino Potosi, Bolívia.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>27</an>
+	<imagelist>
+		<image>
+			<filename>tt_Co</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pedaço de cobalto.</title>
+			<notes>
+				<ptext>Uma pequena amostra de cobalto com cerca de 1.0g.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>28</an>
+	<imagelist>
+		<image>
+			<filename>tt_Ni</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Nickel Sheet</title>
+			<notes>
+				<ptext>Pedaços de folha de níquel. Quantidade; 0.3 g.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>29</an>
+	<imagelist>
+		<image>
+			<filename>tt_Cu</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Fio de cobre</title>
+			<notes>
+				<ptext>Uma amostra reduzida de fio de cobre. Quantidade; 1.7 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_azurite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Azurite</title>
+			<notes>
+				<ptext>Um mineral fonte de cobre. Esta rosa de cristais de azurite com intercrescimento vem do Utah, EUA.</ptext>
+			</notes>
+		</image>	
+	</imagelist>
+</element>
+
+<element>
+	<an>30</an>
+	<imagelist>
+		<image>
+			<filename>tt_Zn</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pedaços de zinco</title>
+			<notes>
+				<ptext>Pequenos fragmentos de zinco. Quantidade; 0.8 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Zn</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de zinco</title>
+			<notes>
+				<ptext>Um lingote de zinco, com 50g, com um grau de pureza de 99.9%. 36mm de diâmetro e 8mm de espessura.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_zincite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristais de zincite</title>
+			<notes>
+				<ptext>Um fragmento de zincite, uma boa fonte de zinco.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>31</an>
+	<imagelist>
+		<image>
+			<filename>es_Ga</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Vara de gálio</title>
+			<notes>
+				<ptext>Uma pequena vareta de gálio. O gálio funde na mão.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Ga</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pedaço de gálio</title>
+			<notes>
+				<ptext>O gálio funde à temperatura ambiente. Quantidade; 0.6 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>32</an>
+	<imagelist>
+		<image>
+			<filename>tt_Ge</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Fragmentos de germânio</title>
+			<notes>
+				<ptext>Pequenos fragmentos de germânio. Quantidade; 0.3 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Ge</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Peça de germânio</title>
+			<notes>
+				<ptext>Uma peça brilhante de germânio retirado de uma amostra.10g, 2.5cm de comprimento e 99.999% de grau de pureza.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>33</an>
+	<imagelist>
+		<image>
+			<filename>tt_As</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Arsénio cinza</title>
+			<notes>
+				<ptext>Uma pequena amostra de arsénio cinza. Quantidade; 0.4 g.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>34</an>
+	<imagelist>
+		<image>
+			<filename>tt_Se</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Uma pequena quantidade de selénio</title>
+			<notes>
+				<ptext>Vários fragmentos de selénio. Quantidade; 0.7 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Se</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de selénio</title>
+			<notes>
+				<ptext>Um lingote de selénio sólido pesando cerca de 80g com 7.5cm de diâmetro. 99.95% puro.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>35</an>
+	<imagelist>
+		<image>
+			<filename>tt_Br</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Bromo</title>
+			<notes>
+				<ptext>Os vapores de bromo puro preenchem o frasco. Quantidade; 0.2 g.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>36</an>
+	<imagelist>
+		<image>
+			<filename>tt_Kr</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Crípton gasoso</title>
+			<notes>
+				<ptext>O crípton gasoso é incolor. 3ml.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Kr2</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Crípton gasoso</title>
+			<notes>
+				<ptext>Ao aplicar uma elevada voltagem ao gás de crípton, este adquire um brilho azul claro. 3ml.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>pslawinski_Kr</filename>
+			<copyright>pslawinski</copyright>
+			<title>Tubo de descarga de crípton</title>
+			<notes>
+				<ptext>Um tubo de descarga de crípton.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>37</an>
+	<imagelist>
+		<image>
+			<filename>zz_Rb</filename>
+			<copyright>Other</copyright>
+			<title>Lâmpada de vapor de rubídio</title>
+			<notes>
+				<ptext>Uma lâmpada de vapor de rubídio produzida pela Osram.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>38</an>
+	<imagelist>
+		<image>
+			<filename>es_Sr</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de estrôncio</title>
+			<notes>
+				<ptext>Um lingote de 2.5cm quadrados de estrôncio, com um grau de pureza de 98%+. Approx. 20g.</ptext>
+			</notes>
+		</image>	
+		<image>
+			<filename>tt_Sr</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Estrôncio</title>
+			<notes>
+				<ptext>Uma pequena amostra manchada (oxidada). Amount; 0.2 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_strontianite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristal de estroncianite</title>
+			<notes>
+				<ptext>Um conjunto de cristais de estroncianite (branco), um importante mineral de estrôncio.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>39</an>
+	<imagelist>
+		<image>
+			<filename>es_Y</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Pedaço de ítrio</title>
+			<notes>
+				<ptext>Um pedaço com 2.5cm quadrados de ítrio retirado de uma amostra maior. 50g de peso, 99% puro.</ptext>
+			</notes>
+		</image>	
+		<image>
+			<filename>tt_Y</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pedaços de ítrio</title>
+			<notes>
+				<ptext>Pedaços de ítrio. Quantidade; 0.4 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>40</an>
+	<imagelist>
+		<image>
+			<filename>tt_Zr</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pedaços de zircónio</title>
+			<notes>
+				<ptext>Pequenas amostras de zircónio. Quantidade; 0.5 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_zircon</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristal de zircão</title>
+			<notes>
+				<ptext>Um pequeno cristal de zircão. Os minerais mais antigos que se encontraram são zircões oriundos da Austrália Ocidental, com uma idade de 4.404 mil milhões de anos.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>41</an>
+	<imagelist>
+		<image>
+			<filename>es_Nb</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Cilindro de nióbio</title>
+			<notes>
+				<ptext>Cilindro de nióbio, pesando cerca de 3.5g, 99.95% puro.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Nb</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pedaços de nióbio</title>
+			<notes>
+				<ptext>Pequenas amostras de nióbio. Quantidade; 0.7 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_pyrochlore</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Pirocloro</title>
+			<notes>
+				<ptext>O piricloro é uma fonte de nióbio.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>42</an>
+	<imagelist>
+		<image>
+			<filename>es_Mo</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Cilindro de molibdénio</title>
+			<notes>
+				<ptext>Cilindro de molibdénio com grau de pureza de 99.95%, pesando 4 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Mo</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Tiras de molibdénio</title>
+			<notes>
+				<ptext>Pequenas tiras de molibdénio. Quantidade; 0.2 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_molybdenite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristais de molibdenite</title>
+			<notes>
+				<ptext>Alguns cristais de molibdenite, arredondados, uma excelente fonte de molibdénio.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>43</an>
+	<imagelist>
+		<image>
+			<filename>tt_Tc</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pitchblenda (contém tecnécio)</title>
+			<notes>
+				<ptext>O tecnécio é bastante radioactivo. Na pitchblenda (um minério de urânio), aqui mostrada, é onde a fissão espontânea de U-238 cria pequenas quantidades de tecnécio. Quantidade; 0.2 g Pitchblenda, o correspondente a 0.1 pg ou 600 milhões de átomos de Tc.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>44</an>
+	<imagelist>
+		<image>
+			<filename>tt_Ru</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostra de ruténio</title>
+			<notes>
+				<ptext>Uma amostra de ruténio. Quantidade; 0.3 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Ru</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>"Bala" de ruténio</title>
+			<notes>
+				<ptext>Uma "bola" de ruténio, com um grau de pureza de 99.9%, pesando 10g e com 14mm de diâmetro.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>45</an>
+	<imagelist>
+		<image>
+			<filename>es_Rh</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>"Bala" de ródio</title>
+			<notes>
+				<ptext>Uma amostra esférica, com cerca de 1g, de ródio com grau de pureza de 99.9% , 6mm de diâmetro.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Rh</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostras de ródio</title>
+			<notes>
+				<ptext>O ródio é um dos metais preciosos mais caros. Quantidade; 0.4 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>46</an>
+	<imagelist>
+		<image>
+			<filename>tt_Pd</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Tira de paládio</title>
+			<notes>
+				<ptext>Pequena tira de paládio. Quantidade; 0.3 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Pd</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de paládio</title>
+			<notes>
+				<ptext>Um lingote de paládio puro, com cerca de 36mm em diâmetro, 8mm de espessura.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>47</an>
+	<imagelist>
+		<image>
+			<filename>tt_Ag</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pepitas de prata</title>
+			<notes>
+				<ptext>Várias pepitas de prata. Quantidade; 1.1 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>ha_siclm</filename>
+			<copyright>Heritage Auctions</copyright>
+			<title>Lingote de prata</title>
+			<notes>
+				<ptext>Lingote de prata com grau de pureza de cerca de 99.1%. Produzido em meados de 1863, com originária da Chico Ledge Mine, Nevada.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>paf_ag</filename>
+			<copyright>Paul Alan Freshney</copyright>
+			<title>Colar de prata</title>
+			<notes>
+				<ptext>Correia de prata esterlina vista a uma ampliação de 200x.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>48</an>
+	<imagelist>
+		<image>
+			<filename>tt_Cd</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostra de cádmio</title>
+			<notes>
+				<ptext>Uma amostra de cádmio. Quantidade; 0.9 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Cd</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de cádmio fundido</title>
+			<notes>
+				<ptext>Um lingote de cádmio em forma de "panqueca", com grau de pureza de cerca de 99.9%+. 50g, 36mm em diâmetro e 8mm de espessura.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>49</an>
+	<imagelist>
+		<image>
+			<filename>tt_In</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Índio</title>
+			<notes>
+				<ptext>Pequena amostra de índio. 1.3 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_In</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de índio</title>
+			<notes>
+				<ptext>Lingote de índio fundido. 28g de peso e 31mm em diâmetro. 99%+ puro.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>50</an>
+	<imagelist>
+		<image>
+			<filename>tt_Sn</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pepitas de estanho</title>
+			<notes>
+				<ptext>Pepitas de estanho. Quantidade; 1.2 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_snrod</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Cilindro de estanho</title>
+			<notes>
+				<ptext>Um cilindro de estanho pesando 1 quilograma.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_cassiterite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristais de cassiterite</title>
+			<notes>
+				<ptext>Uma amostra de cristais brilhantes de cassiterite (óxido de estanho).</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>51</an>
+	<imagelist>
+		<image>
+			<filename>es_Sb</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de antimónio</title>
+			<notes>
+				<ptext>Lingote de antimónio fundido, com uma pureza de 99%+, pesando cerca de 40g. 36mm em diâmtro e 8mm em espessura.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Sb</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostras de antimónio</title>
+			<notes>
+				<ptext>Pequenas amostras de antimónio. Quantidade; 0.8 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_stibnite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristais de estibina</title>
+			<notes>
+				<ptext>Uma amálgama de cristais de estibina, fonte de antimónio.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>52</an>
+	<imagelist>
+		<image>
+			<filename>es_Te</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Amostras de telúrio</title>
+			<notes>
+				<ptext>Uma magnífica peça fundida de telúrio puro, evidenciando uma superfície cristalina, com grau de pureza de 99.9%, 30g, 38mm de diâmetro e 6mm de espessura.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Te</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostras de telúrio</title>
+			<notes>
+				<ptext>Pequenas amostras de telúrio. Quantidade; 0.7 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>53</an>
+	<imagelist>
+		<image>
+			<filename>tt_I</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Cristais de iodo</title>
+			<notes>
+				<ptext>Os cristais de iodo formam-se a temperatura ambiente. 0.7g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_I2</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Vapor de iodo</title>
+			<notes>
+				<ptext>Quando aquecido, o iodo sublima (passa de sólido a gás) em vapor violeta.</ptext>
+			</notes>
+		</image>	
+	</imagelist>
+</element>
+
+<element>
+	<an>54</an>
+	<imagelist>
+		<image>
+			<filename>tt_Xe</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Xénon gasoso</title>
+			<notes>
+				<ptext>O gás de xénon é incolor. 3ml.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Xe2</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Xénon a brilhar</title>
+			<notes>
+				<ptext>Aplicando uma voltagem elevada, o xénon brilha com um tom púrpura escuro.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>pslawinski_Xe</filename>
+			<copyright>pslawinski</copyright>
+			<title>Tubo de descarga de xénon</title>
+			<notes>
+				<ptext>Um tubo de descarga de xénon.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>55</an>
+	<imagelist>
+		<image>
+			<filename>tt_Cs</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pequena amostra de césio</title>
+			<notes>
+				<ptext>Césio amarelo-ouro, duplamente incorporado num frasco interior.Quantidade; 50 mg.</ptext>
+			</notes>
+		</image>
+			<image>
+			<filename>cs_mineral</filename>
+			<copyright></copyright>
+			<title>Polucite</title>
+			<notes>
+				<ptext>A polucite é um dos principais minérios de césio.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>56</an>
+	<imagelist>
+		<image>
+			<filename>es_Ba</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Lingote de bário</title>
+			<notes>
+				<ptext>Um lingote de bário oxidado. 98% puro, 20g, 25mm de diâmetro.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Ba</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Bário</title>
+			<notes>
+				<ptext>Bário um pouco oxidado. Quantidade; 0.5 g.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>57</an>
+	<imagelist>
+		<image>
+			<filename>es_La</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de lantânio</title>
+			<notes>
+				<ptext>Um lingote de lantânio com grau de pureza de 99%. 75g e 36mm em comprimento.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_La</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pedaço de lantânio</title>
+			<notes>
+				<ptext>Uma película de óxido de lantânio deixa a superfície com uma patine azulada. Quantidade; 0.4 g</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>58</an>
+	<imagelist>
+		<image>
+			<filename>es_Ce</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de cério</title>
+			<notes>
+				<ptext>Lingote de cério, 99% puro, com cerca de 25g e 20mm de altura.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Ce</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostra de cério</title>
+			<notes>
+				<ptext>A película de óxido de cério atribui à superficie metálica um aspecto azulado. Quantidade; 0.4 g</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>59</an>
+	<imagelist>
+		<image>
+			<filename>es_Pr</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de praseodímio</title>
+			<notes>
+				<ptext>Um lingote de praseodímio, com pureza de 99%. Pesa 50g, cerca de 25mm em comprimento.</ptext>
+			</notes>
+		</image>	
+		<image>
+			<filename>tt_Pr</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostra de praseodímio</title>
+			<notes>
+				<ptext>Uma amostra de praseodímio. Quantidade; 0.5 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>60</an>
+	<imagelist>
+		<image>
+			<filename>es_Nd</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de neodímio</title>
+			<notes>
+				<ptext>Um lingote de neodímio com 75g, grau de pureza de 99%. Cerca de 3cm de comprimento.</ptext>
+			</notes>
+		</image>	
+		<image>
+			<filename>tt_Nd</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostra de neodímio</title>
+			<notes>
+				<ptext>Uma pequena amostra de neodímio. Quantidade; 0.3 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>61</an>
+	<imagelist>
+		<image>
+			<filename>tt_Pm</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Promécio aplicado num ponteiro de relógio</title>
+			<notes>
+				<ptext>A tinta luminosa do ponteiro contém traços de promécio radioactivo.</ptext>
+			</notes>			
+		</image>
+		<image>
+			<filename>tt_Pm2</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Promécio usado num ponteiro de relógio (brilho)</title>
+			<notes>
+				<ptext>Após uma exposição prolongada, o brilho pode ser captado em fotografia no escuro.</ptext>
+			</notes>			
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>62</an>
+	<imagelist>
+		<image>
+			<filename>tt_Sm</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostra de samário</title>
+			<notes>
+				<ptext>Uma pequena amostra de samário. Quantidade; 0.5 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Sm</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Pedaço de samário</title>
+			<notes>
+				<ptext>Pequena amostra de samário retirada de uma amostra de maiores dimensões. 5g de peso, 99.5% puro.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>63</an>
+	<imagelist>
+		<image>
+			<filename>es_Eu</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Európio</title>
+			<notes>
+				<ptext>Esta amostra de európio exibe uma multiplicidade de cores devido a uma fina película de oxidação sobre a superfície. 25g, 99.9% puro, cerca de 2.5cm de largura.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Eu</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostra de európio</title>
+			<notes>
+				<ptext>Uma pequena amostra de európio. Quantidade; 0.6 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>64</an>
+	<imagelist>
+		<image>
+			<filename>es_Gd</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de gadolínio</title>
+			<notes>
+				<ptext>Um pequeno lingote de gadolínio, com grau de pureza de 99%. Pesa 75g.</ptext>
+			</notes>
+		</image>	
+		<image>
+			<filename>tt_Gd</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Gadolínio</title>
+			<notes>
+				<ptext>O gadolínio é o único metal ferro-magnético das terras raras. Quantidade; 0.4 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>65</an>
+	<imagelist>
+		<image>
+			<filename>es_Tb</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Amostra de térbio</title>
+			<notes>
+				<ptext>Uma amostra de térbio com um grau de pureza de 99.5%. 25g de peso.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Tb</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostra de térbio</title>
+			<notes>
+				<ptext>Amostra de térbio. Quantidade; 0.5 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>66</an>
+	<imagelist>
+		<image>
+			<filename>es_Dy</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de disprósio</title>
+			<notes>
+				<ptext>Um lingote de disprósio, de 75g, com 99% de pureza.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Dy</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Fragmento de disprósio</title>
+			<notes>
+				<ptext>Um fragmento de disprósio. Quantidade; 0.2 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>67</an>
+	<imagelist>
+		<image>
+			<filename>es_Ho</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de hólmio</title>
+			<notes>
+				<ptext>Um pedaço de hólmio, com 75g, com grau de pureza de 99%.</ptext>
+			</notes>
+		</image>	
+		<image>
+			<filename>tt_Ho</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Limalhas de hólmio</title>
+			<notes>
+				<ptext>Limalhas de hólmio. Quantidade; 0.1 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>68</an>
+	<imagelist>
+		<image>
+			<filename>es_Er</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Amostra de érbio</title>
+			<notes>
+				<ptext>Uma amostra de érbio, com cerca de 35g, com um grau de pureza de 99.9%.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Er</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Aparas de érbio</title>
+			<notes>
+				<ptext>Algumas aparas de érbio. Quantidade; 0.3 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>69</an>
+	<imagelist>
+		<image>
+			<filename>es_Tm</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Amostra de túlio</title>
+			<notes>
+				<ptext>Pedaço de túlio com 25g, com um grau de pureza de 99%, um dos metais das terras-raras mais raros.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Tm</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Limalhas de túlio</title>
+			<notes>
+				<ptext>Limalhas de túlio. Quantidade; 0.4 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>70</an>
+	<imagelist>
+		<image>
+			<filename>es_Yb</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Amostra de Itérbio</title>
+			<notes>
+				<ptext>25g de puro itérbio, cerca de 99.9% de pureza. A cor amarelada é o tom natural.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Yb</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Aparas de itérbio</title>
+			<notes>
+				<ptext>Algumas aparas de itérbio. Quantidade; 0.2 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>71</an>
+	<imagelist>
+		<image>
+			<filename>es_Lu</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Amostra de lutécio</title>
+			<notes>
+				<ptext>Amostra de lutécio com cerca de 5g, com um grau de pureza de 99.5%. Considerado o mais raros da série dos Lantanídios.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Lu</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Limalhas de lutécio</title>
+			<notes>
+				<ptext>Limalhas de lutécio. Quantidade; 0.2 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>72</an>
+	<imagelist>
+		<image>
+			<filename>tt_Hf</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Aparas de háfnio</title>
+			<notes>
+				<ptext>Algumas aparas de háfnio. Quantidade; 0.5 g.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>73</an>
+	<imagelist>
+		<image>
+			<filename>es_Ta</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Peça de tântalo</title>
+			<notes>
+				<ptext>100g de tântalo com pureza de 99.95%, sob a forma de um bloco com 38mm quadrados.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Ta</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostras de tântalo</title>
+			<notes>
+				<ptext>Amostras de tântalo. Quantidade; 1.2 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>74</an>
+	<imagelist>
+		<image>
+			<filename>tt_W</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostras de volfrâmio</title>
+			<notes>
+				<ptext>Pequenas amostras de volfrâmio. Quantidade; 0.9 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_scheelite</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristal de scheelite</title>
+			<notes>
+				<ptext>Uma excelente fonte de volfrâmio.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>75</an>
+	<imagelist>
+		<image>
+			<filename>tt_Re</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Tira de rénio</title>
+			<notes>
+				<ptext>Uma tira de rénio. Quantidade; 0.2 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Re</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>"Bala" de rénio</title>
+			<notes>
+				<ptext>Uma "bala" de 1g, com 6mm em diâmetro. É o elemento com o segundo ponto de ebulição mais elevado de todos os elementos. 99%+ puro.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>76</an>
+	<imagelist>
+		<image>
+			<filename>es_Os</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>"Bala" de ósmio</title>
+			<notes>
+				<ptext>Uma "bala" de 5g de ósmio, com um grau de pureza de 99.9%, o mais denso dos metais. 8mm diâmetro.</ptext>
+			</notes>
+		</image>	
+		<image>
+			<filename>tt_Os</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Limalhas de ósmio</title>
+			<notes>
+				<ptext>Limalhas de ósmio após compressão. Quantidade; 0.4 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>77</an>
+	<imagelist>
+		<image>
+			<filename>tt_Ir</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Irídio</title>
+			<notes>
+				<ptext>Pequena amostra de irídio. Quantidade; 0.9 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Iridium</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Cilindro de irídio</title>
+			<notes>
+				<ptext>Cilindro de irídio com grandes dimensões. A produção de um cilindro com estas dimensões é difícil devido ao elevado ponto de fusão do irídio, extrema dureza e fragilidade. 22 "onças Troy".</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>78</an>
+	<imagelist>
+		<image>
+			<filename>tt_Pt</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Tira de platina.</title>
+			<notes>
+				<ptext>Uma pequena amostra de platina. Quantidade; 0.1 g</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_ptrod</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Cilindro de platina</title>
+			<notes>
+				<ptext>Um cilindro de platina, pesando 21 "onças Troy". À cotação de Julho de 2006, este cilindro valeria cerca de US$25,500.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>79</an>
+	<imagelist>
+		<image>
+			<filename>tt_Au</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Folha de ouro</title>
+			<notes>
+				<ptext>Uma pequena amostra de folha de ouro. Quantidade; 0.5 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>ha_gitgm</filename>
+			<copyright>Heritage Auctions</copyright>
+			<title>Lingote de ouro</title>
+			<notes>
+				<ptext>Um lingote de ouro oriundo da Tolkuma Gold Mine, Nova Guiné.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>paf_gold</filename>
+			<copyright>Paul Alan Freshney</copyright>
+			<title>Anel de ouro ampliado</title>
+			<notes>
+				<ptext>Anel de ouro branco e amarelo de 18ct, ampliado 150x.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_gold</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Pepitas de Ouro</title>
+			<notes>
+				<ptext>Ouro num veio de quartzo.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>80</an>
+	<imagelist>
+		<image>
+			<filename>tt_Hg</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Mercúrio líquido</title>
+			<notes>
+				<ptext>Uma pequena quantidade de mercúrio tóxico. Quantidade; 5.0 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_cinnabar</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristais de cinábrio</title>
+			<notes>
+				<ptext>Alguns cristais hexagonais de cinábrio (a vermelho). O cinábrio é o mais importante mineral de mercúrio.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>81</an>
+	<imagelist>
+		<image>
+			<filename>es_Tl</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Disco de tálio</title>
+			<notes>
+				<ptext>Um disco de 10g com tálio 99.9% puro. 13mm em diâmetro e 6mm de espessura.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Tl</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pepitas de tálio</title>
+			<notes>
+				<ptext>Pepitas de tálio. Quantidade; 1.8 g.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>82</an>
+	<imagelist>
+		<image>
+			<filename>tt_Pb</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostra de chumbo</title>
+			<notes>
+				<ptext>Um grande fragmento de chumbo. quantidade; 2.2 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Pb</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote de chumbo</title>
+			<notes>
+				<ptext>Um lingote de 60g de chumbo fundido, 99.9%+ puro. 36mm em diâmetro e 8mm de espessura.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_galena</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Cristais de fluorite</title>
+			<notes>
+				<ptext>O mineral galena (cinza) é o principal mineral de chumbo.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>83</an>
+	<imagelist>
+		<image>
+			<filename>tt_Bi</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Amostra de bismuto</title>
+			<notes>
+				<ptext>O bismuto é o último dos elementos estáveis. Quantidade; 1.2 g.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>es_Bi</filename>
+			<copyright>Metallium Inc.</copyright>
+			<title>Lingote fundido</title>
+			<notes>
+				<ptext>Lingote de bismuto fundido. 2.5cm de comprimento, approx. 80 gramas. 99%+ puro.</ptext>
+			</notes>
+		</image>		
+		<image>
+			<filename>sc_bismuth</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Bismuto nativo</title>
+			<notes>
+				<ptext>Uma amostra de bismuto metálico, natural.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>sc_bismuthsyn</filename>
+			<copyright>Stan Celestian</copyright>
+			<title>Bismuto sintético</title>
+			<notes>
+				<ptext>Um cristal de bismuto "cultivado" por fundição. As manchas produzem iridescência da superfície.</ptext>
+			</notes>
+		</image>
+	</imagelist>
+</element>
+
+<element>
+	<an>84</an>
+	<imagelist>
+		<image>
+			<filename>tt_Po</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pitchblenda (contém polónio)</title>
+			<notes>
+				<ptext>O Po-210 (meia-vida de 138 dias) é parte da cadeia de decaimento do U-238, pelo que existem vestígios de polónio na pitchblenda aqui apresentada. Quantidade; 0.7 g pitchblenda, correspondendo a 25 pg ou 70 mil milhões de átomos de Po-210.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>85</an>
+	<imagelist>
+		<image>
+			<filename>tt_At</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pitchblenda (contém astato)</title>
+			<notes>
+				<ptext>O At-218 (meia-vida de 1.6 segundos) faz parte da cadeia de decaimento do U-238, pelo que traços de astato existem nesta amostra de pitchblenda. Quantidade; 0.2 g pitchblenda, correspondendo a 0.002 ag ou 6 átomos de At-218.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>86</an>
+	<imagelist>
+		<image>
+			<filename>tt_Rn</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pequena amostra de rádon.</title>
+			<notes>
+				<ptext>O Rn-220 (meia-vida de 56 segundos) faz parte da cadeia de decaimento do Th-232, pelo que traços de rádon podem ser libertados pelo óxido de torio aqui apresentado. Quantidade; 0.9 g óxido de tório, correspondendo a 6 ag ou 16000 átomos de Rn-220.</ptext>
+			</notes>			
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>87</an>
+	<imagelist>
+		<image>
+			<filename>tt_Fr</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pitchblenda (contendo frâncio)</title>
+			<notes>
+				<ptext>O Fr-223 (meia-vida de 22 minutos) faz parte da cadeia de decaimento do U-235, pelo que traços de frâncio podem existir na pitchblenda aqui presente. Quantidade; 0.1 g pitchblenda, correspondendo a 0.36 ou 950 átomos(!) de Fr-223.</ptext>
+			</notes>			
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>88</an>
+	<imagelist>
+		<image>
+			<filename>tt_Ra</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Tinta luminosa contendo sais de rádio</title>
+			<notes>
+				<ptext>Esta tinta luminosa contém vestígios de sais de rádio. Quantidade; 50 mg, Fracção de rádio desconhecida.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Ra2</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Tinta luminosa contendo sais de rádio (brilho)</title>
+			<notes>
+				<ptext>Após uma longa exposição o brilho pode ser captado (no escuro).</ptext>
+			</notes>
+		</image>	
+	</imagelist>
+</element>
+
+<element>
+	<an>89</an>
+	<imagelist>
+		<image>
+			<filename>tt_Ac</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pitchblenda (contendo actínio)</title>
+			<notes>
+				<ptext>O Ac-227 (meia-vida de 21.8 anos) faz parte da cadeia de decaimento do U-235, pelo que existem traços de actínio nesta pitchblenda. Quantidade; 0.1 g pitchblenda, correspondendo a 12 pg ou 30 mil milhões de átomos de Ac-227.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>90</an>
+	<imagelist>
+		<image>
+			<filename>tt_Th</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Volfrâmio (ou tungsténio) impregnado com tório</title>
+			<notes>
+				<ptext>Uma pequena amostra, 0.9g, de volfrâmio impregnada com tório, 20mg.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>91</an>
+	<imagelist>
+		<image>
+			<filename>tt_Pa</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pitchblenda (contendo protactínio)</title>
+			<notes>
+				<ptext>O Pa-231 (meia-vida de 32700 anos) faz parte da cadeia de decaimento do U-235, pelo que traços de protactínio existem na pitchblenda aqui fotografada. Quantidade; 0.2 g pitchblenda, correspondendo a 37 ng ou 100 milhão de biliões de átomos de Pa-231.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>92</an>
+	<imagelist>
+		<image>
+			<filename>tt_U</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pó de urânio</title>
+			<notes>
+				<ptext>Urânio metálico (U-238) em pó, cerca de 0.1g.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>93</an>
+	<imagelist>
+		<image>
+			<filename>tt_Np</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Pitchblenda (contendo neptúnio)</title>
+			<notes>
+				<ptext>O Np-237 (meia-vida de 2.14 milhões de anos) é produzido por reacções nucleares no U-238, pelo que existem traços de neptúnio nesta pitchblenda. Quantidade; 0.4 g pitchblenda, correspondendo a 47 fg ou 120 milhões de átomos de Np-237.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>94</an>
+	<imagelist>
+		<image>
+			<filename>doe_Pu</filename>
+			<copyright>US Department of Energy</copyright>
+			<title>Plutónio-238, a brilhar</title>
+			<notes>
+				<ptext>Uma pequena amostra de plutónio, a brilhar sob a sua própria luz.</ptext>
+			</notes>
+		</image>
+		<image>
+			<filename>tt_Pu</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Quantidade traços em trinitite</title>
+			<notes>
+				<ptext>Amostra de trinitite, um mineral da área circundante à da área de lançamento da primeira bomba atómica, testada do Novo México. A areia fundiu devido ao calor produzido, encerrando traços de plutónio. Quantidade; trinitite 0.2 g, fracção de plutónio desconhecida, mas muito reduzida.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>95</an>
+	<imagelist>
+		<image>
+			<filename>tt_Am</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Quantidade traço na trinitite</title>
+			<notes>
+				<ptext>Amostra de trinitite, um mineral da área circundante à da área de lançamento da primeira bomba atómica, testada do Novo México. A areia fundiu devido ao calor produzido, aprisionando quantidades traço de amerício, criado a partir do plutónio por captura de neutrões. Quantidade; trinitite 0.2 g, fracção de amerício desconhecida, mas muito reduzida.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+<element>
+	<an>96</an>
+	<imagelist>
+		<image>
+			<filename>tt_Cm</filename>
+			<copyright>Fred Bayer</copyright>
+			<title>Quantidade traço na trinitite</title>
+			<notes>
+				<ptext>Amostra de trinitite, um mineral da área circundante à da área de lançamento da primeira bomba atómica, testada do Novo México. A areia fundiu devido ao calor produzido, aprisionando quantidades traço de cúrio, criado a partir do plutónio por captura de neutrões. Quantidade; trinitite 0.2 g, fracção de cúrio desconhecida, mas muito reduzida.</ptext>
+			</notes>
+		</image>		
+	</imagelist>
+</element>
+
+</images>
+
+<!-- ============================================================================================================================= -->
+<!-- ============================================================================================================================= -->
+<!-- ============================================================================================================================= -->
+
+<!-- ============================================================================================================================= -->
+<!-- ============================================================================================================================= -->
+<!-- ============================================================================================================================= -->
+
+<movies>
+
+<!-- == 1 ======================================================================================================================== -->
+
+<element>
+	<an>1</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>fesgl5Cs5FY</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>2</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>a8FJEiI5e6Q</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>3</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>MwH0796IN48</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>4</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>tTuJekum1gA</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>5</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>JzqdHkpXuy4</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>6</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>wmC8Dg4n-ZA</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>7</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>zmvJ54kRpjg</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>8</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>1aNN6w-5Ie</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>9</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>wm2AdknTcMI</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>10</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>wzv0pb7mzaw</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<!-- == 11 ======================================================================================================================= -->
+
+<element>
+	<an>11</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>YvSkXd_VVYk</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>12</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>Hu385YwuRaM</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>13</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>p2cicHXMs1w</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>14</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>a2aWO5cL410</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>15</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>nXDar3TMiqI</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>16</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>mGMR72X8V-U</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>17</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>JeUfCVoe3As</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>18</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>nrHVOFG2V-c</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>19</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>pPdevJTGAYY</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>20</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>Jcvac9__YN4</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<!-- == 21 ======================================================================================================================= -->
+
+<element>
+	<an>21</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>yFuD2JSDueU</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>22</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>jA_TY_2gqZY</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>23</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>XRjb_IKDiz8</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>24</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>lzRb4zmGvNU</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>25</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>5xqsPZ7WsHw</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>26</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>01z4tnBbsL0</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>27</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>V6ljxByu9ng</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>28</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>t4kRHoj0W1Y</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>29</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>sWvp_Z2kfYs</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>30</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>99wPiMb-k0o</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<!-- == 31 ======================================================================================================================= -->
+
+<element>
+	<an>31</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>9TsA4qYsy0I</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>32</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>osrKWVknkgs</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>33</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>a2AbKwAvyos</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>34</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>IHrUtKjcAFE</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>35</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>hbBVgufI9y4</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>36</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>il4OOY7Zseg</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>37</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>FCz7424Vo0E</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>38</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>f7NiPdD1Xx0</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>39</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>q7jVtQv4m0U</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>40</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>7p9H0FubPv8</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<!-- == 41 ======================================================================================================================= -->
+
+<element>
+	<an>41</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>Mr2hnIheDxQ</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>42</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>ZRQ3vBGskds</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>43</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>0QBlrGva5YQ</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>44</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>NSi6Wosajys</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>45</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>n0BM5KZBTZQ</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>46</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>ZAyKx0m97WA</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>47</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>xOw_bHXiA-c</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>48</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>boRius1DYdQ</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>49</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>4opHafNmgCw</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>50</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>qEwCPJOP0Mg</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<!-- == 51 ======================================================================================================================= -->
+
+<element>
+	<an>51</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>kcc6qNT3BoU</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>52</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>5ChFbVu4Mpk</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>53</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>ARXSnu8ImqQ</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>54</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>Ejoct_6pQ74</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>55</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>zCARhVfeX5U</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>56</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>IQ2u1JunzgA</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>57</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>Q21clW0s0B8</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>58</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>2G3noJk_vdY</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>59</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>IL06CzXF3ns</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>60</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>PBbl-3_R3mk</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<!-- == 61 ======================================================================================================================= -->
+
+<element>
+	<an>61</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>px52fxITTrw</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>62</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>LpTkBg8HpvY</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>63</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>88YOmg_FUVo</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>64</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>uUo7pY38fGY</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>65</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>2Nwr9E2BBTo</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>66</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>hFfR_qOSa-8</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>67</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>3ERc-vPLMUs</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>68</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>WGBqeQ-dmYU</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>69</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>CQFDIZfMPVQ</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>70</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>83lk4wLNfcM</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<!-- == 71 ======================================================================================================================= -->
+
+<element>
+	<an>71</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>a5T1xXoR8XI</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>72</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>egw79BA_0PA</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>73</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>51xFP1Yn3g0</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>74</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>_PccntqMOoI</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>75</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>uTm_wWAEz1Q</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>76</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>AdX-T2Vv68Y</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>77</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>0OOJ7qBwVHU</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>78</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>LZyy4e7K8hQ</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>79</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>3OoLHe-4aNA</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>80</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>oL0M_6bfzkU</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<!-- == 81 ======================================================================================================================= -->
+
+<element>
+	<an>81</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>bK6nnyibhdk</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>82</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>2ERfPN5JLX8</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>83</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>vyIo-c7VmIM</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>84</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>bbr5yWwsI1o</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>85</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>sSL7EwdlLlE</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>86</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>OMCVgvHG7-c</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>87</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>PyFLvSg6ZDw</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>88</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>5_I6vj-lXNM</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>89</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>0BlpjWBYW0k</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>90</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>KQ64Jm3dmSs</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<!-- == 91 ======================================================================================================================= -->
+
+<element>
+	<an>91</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>3nZB4u34q98</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>92</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>B8vVZTvJNGk</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>93</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>AFo96BkYNdQ</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>94</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>XLufmakbiU0</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>95</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>PB38NyjmneE</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>96</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>sZobqPFNcwg</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>97</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>imXT9QwRzks</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>98</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>eG6HyPrTccI</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>99</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>-G_4nJLNXA0</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>100</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>SQhI52sqanA</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<!-- == 101 ====================================================================================================================== -->
+
+<element>
+	<an>101</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>0JlshAo8DuE</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>102</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>ZTyul7Xndi</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>103</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>hIv0oQDkEmM</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>104</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>kskmiwiOeZE</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>105</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>eeczRrDoL_M</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>106</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>itreFICfo3I</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>107</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>Cz6q2RD6Zbg</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>108</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>VQ8cZoA0tiU</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>109</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>FKt52CytJng</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>110</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>W-DgrZD_xdo</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<!-- == 111 ====================================================================================================================== -->
+
+<element>
+	<an>111</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>eB69L94mGLQ</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>112</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>dqMksokDbeA</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>113</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>Ac7iFepG2CY</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>114</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>oNp4_Znfd4o</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>115</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>gCt5WK2OVp0</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>116</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>dYyIoNA2DJk</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>117</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>tvkyB99vFaI</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+<element>
+	<an>118</an>
+	<movielist>
+		<movie type="web">
+			<title></title>
+			<url>Stxor9L00BU</url>
+			<ptxt><wlink ref="www.periodicvideos.com/">(c) The University of Nottingham</wlink></ptxt>
+		</movie>
+	</movielist>
+</element>
+
+</movies>
+
+</media>
