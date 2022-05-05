@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<project name="PeriodicTable.xwp" homepath="E:\Delphi2007\Projects\PeriodicTable\source_information" example_xsl="" example_xml="" output_folder="" output_ext="">
+	<group name="XML Files (Portuguese)" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_non_UK\Arabic\elements\elementlists.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_non_UK\Arabic\media\media.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_non_UK\Arabic\allotropes\allotropes.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+	</group>
+	<group name="Stylesheets" filter="*.css;*.xsl;*.xslt" description="This folder contains CSS and XSLT Stylesheets." example_xml="" example_xsl="" output_folder="" output_ext="">
+		<group name="Countries" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\map\create_indexpage.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\map\create_elementlist.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\map\create_pages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+				<open caret_pos_x="17" caret_pos_y="57" sel_start_x="0" sel_start_y="0" sel_end_x="17" sel_end_y="57" window_x1="44" window_x2="1520" window_y1="58" window_y2="618" state="1"/>
+			</file>
+		</group>
+		<group name="element lists" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\create_elementlists.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="languages" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\create_namepages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="lab" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\lab\create_lab.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\lab\labkit.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+				<open caret_pos_x="9" caret_pos_y="6" sel_start_x="9" sel_start_y="6" sel_end_x="9" sel_end_y="6" window_x1="88" window_x2="1053" window_y1="116" window_y2="545" state="1"/>
+			</file>
+		</group>
+		<group name="formulae" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\formulae\create_formulaetext.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\formulae\forumlae.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="allotropes" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\allotropes\create_pages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+				<open caret_pos_x="10" caret_pos_y="33" sel_start_x="2" sel_start_y="31" sel_end_x="10" sel_end_y="33" window_x1="132" window_x2="1565" window_y1="174" window_y2="617" state="1"/>
+			</file>
+		</group>
+		<group name="isotopes" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\isotopes\create_full_isotope_pages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\isotopes\create_pages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\Projects\EarthsCore\source information\biographies\create_index_biog.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\isotopes\create_abundancedata.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="Compounds" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\compounds\create_pages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="Documents" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\documents\create_documenttext.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\documents\create_documents.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="equations" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\equations\create_equations.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\equations\create_equationtext.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="Reactions" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\Reactions\reactions.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\create_namepages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\Reactions\create_pages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="Index" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\index\index.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\index\create_indexes.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="NIST" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\NIST_Data\Create_MAC.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\NIST_Data\Create_MAC_Data.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\NIST_Data\Create_AD.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="media" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\media\create_imagetext.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\media\create_videopages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="biog" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\biogs\create_biog.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\biogs\create_biography_index.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\biogs\create_biographytext.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<group name="isolation" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\production\create_pages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\glossary\create_glossary.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\language_fr.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\equations\create_equations.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\create_spectra_pages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\language_es.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\glossary\create_glossary_index_az.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\language_nl.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\create_index_az.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\tableview.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\language_de.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\elements\create_PTFlash.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\elementdata.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\create_namepages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\map\create_elementlist.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\language_pt.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\language_sw.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\ionenergies.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\create_pages_az.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\create_other_pages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="0" caret_pos_y="537" sel_start_x="0" sel_start_y="537" sel_end_x="11" sel_end_y="594" window_x1="132" window_x2="1565" window_y1="174" window_y2="617" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\elements\create_groups.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\language_uk.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\reference\create_referencetext.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\events\create_events.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\language_it.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\glossary\create_glossarytext.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\builddata.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+	</group>
+	<group name="XML Files" filter="*.xml" description="This folder contains XML Files." example_xml="" example_xsl="" output_folder="" output_ext="">
+		<group name="language" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<group name="Bulgarian" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+				<file path="E:\Delphi2007\projects\PeriodicTable\source_non_UK\Bulgarian\documents\documents.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+				<file path="E:\Delphi2007\projects\PeriodicTable\source_non_UK\Bulgarian\media\media.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+				<file path="E:\Delphi2007\projects\PeriodicTable\source_non_UK\Bulgarian\elements\elementlists.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+			</group>
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\equations\equations.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\isotopes\isotopes.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\media\media.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\equations\equations.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\elements\namingstuff.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\NIST_Data\nist.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\production\isolation.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\charts.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\allotropes\allotropes.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\events\events.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\map\map.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="0" caret_pos_y="0" sel_start_x="0" sel_start_y="0" sel_end_x="0" sel_end_y="0" window_x1="176" window_x2="1640" window_y1="232" window_y2="792" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\biogs\biogs.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\reference\reference.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\elementlists.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Webpages\freshney.org\rss.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\elements\elements.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\language.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\documents\documents.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\formulae\forumlae.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\glossary\glossary.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\compounds\compounds.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+	</group>
+	<group name="WebVersion" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_glossarytext.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_namepages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_image_pages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_pages_az.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="42" caret_pos_y="22" sel_start_x="42" sel_start_y="22" sel_end_x="42" sel_end_y="22" window_x1="44" window_x2="1477" window_y1="58" window_y2="501" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_map_index.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_isotopes.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="196" caret_pos_y="34" sel_start_x="149" sel_start_y="34" sel_end_x="196" sel_end_y="34" window_x1="22" window_x2="1455" window_y1="29" window_y2="472" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_compounds.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="56" caret_pos_y="34" sel_start_x="56" sel_start_y="34" sel_end_x="56" sel_end_y="34" window_x1="0" window_x2="1433" window_y1="0" window_y2="443" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_biographytext.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_allotropes.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="0" caret_pos_y="34" sel_start_x="0" sel_start_y="34" sel_end_x="10" sel_end_y="42" window_x1="110" window_x2="1539" window_y1="145" window_y2="584" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_production.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="152" caret_pos_y="34" sel_start_x="152" sel_start_y="34" sel_end_x="152" sel_end_y="34" window_x1="66" window_x2="1499" window_y1="87" window_y2="530" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_biography_index.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_glossary.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_spectra.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="196" caret_pos_y="33" sel_start_x="196" sel_start_y="33" sel_end_x="196" sel_end_y="33" window_x1="110" window_x2="1543" window_y1="145" window_y2="588" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\Create_AD.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_map.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="10" caret_pos_y="19" sel_start_x="10" sel_start_y="19" sel_end_x="10" sel_end_y="19" window_x1="22" window_x2="1498" window_y1="29" window_y2="589" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_reactions.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="167" caret_pos_y="35" sel_start_x="167" sel_start_y="35" sel_end_x="167" sel_end_y="35" window_x1="88" window_x2="1521" window_y1="116" window_y2="559" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_videopages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="0" caret_pos_y="0" sel_start_x="0" sel_start_y="0" sel_end_x="0" sel_end_y="0" window_x1="154" window_x2="1587" window_y1="203" window_y2="646" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_glossary_index_az.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_biog.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_elementlists.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\create_other_pages.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl="">
+			<open caret_pos_x="11" caret_pos_y="569" sel_start_x="11" sel_start_y="569" sel_end_x="11" sel_end_y="569" window_x1="66" window_x2="1542" window_y1="87" window_y2="647" state="1"/>
+		</file>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\WebVersion\Create_MAC.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+	</group>
+	<group name="Output Files" filter="*.htm;*.html" description="This folder receives output from XSL transformations." example_xml="" example_xsl="" output_folder="" output_ext="">
+		<file path="E:\Delphi2007\Projects\PeriodicTable\data\elementdata.data" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+	</group>
+	<group name="PTQuiz" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+		<group name="XML" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+			<file path="E:\Delphi2007\projects\PeriodicTable\source_information\PTQuiz\questions.xml" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		</group>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\PTQuiz\create_questions.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+	</group>
+	<group name="GoogleDesktop" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\GoogleDesktop\create_production.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\GoogleDesktop\create_pages_az.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\GoogleDesktop\create_spectra.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\GoogleDesktop\create_isotopes.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\GoogleDesktop\create_reactions.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\GoogleDesktop\create_listitems.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+	</group>
+	<group name="WindowsMobile" filter="" description="" example_xml="" example_xsl="" output_folder="" output_ext="">
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\mobile\create_other.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\Projects\PeriodicTable\source_information\create_reactions.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\mobile\create_hazard.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\mobile\create_spectra.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\mobile\create_isotopes.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+		<file path="E:\Delphi2007\projects\PeriodicTable\source_information\mobile\create_mobile.xsl" description="" output_folder="" output_ext="" example_xml="" example_xsl=""/>
+	</group>
+</project>

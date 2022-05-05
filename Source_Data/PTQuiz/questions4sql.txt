@@ -1,0 +1,11731 @@
+
+
+
+
+
+
+
+
+
+{
++1
++The Haber Process involves the industrial manufacture of which compound?
++
++Ammonia
++Hydrochloric acid
++Sodium chloride
++Methane
++
+}
+
+
+
+{
++1
++The Haber Process uses which two gases?
++
++Nitrogen and Hydrogen
++Nitrogen and Chlorine
++Hydrogen and Fluorine
++Chlorine and Hydrogen
++
+}
+
+
+
+{
++1
++The Haber Process uses a catalyst made from which element?
++
++Iron
++Copper
++Zinc
++Magnesium
++
+}
+
+
+          
+
+
+{
++1
++Natural gas is mostly ... ?
++
++Methane
++Ethane
++Methanol
++Carbon dioxide
++
+}
+
+
+
+{
++1
++Crude oil is a mixture of substances, mostly ... ?
++
++Hydrocarbons
++Gases
++Minerals
++Non-organic compounds
++
+}
+
+
+
+{
++1
++Cracking uses which catalyst?
++
++Aluminium oxide
++Iron oxide
++Platinum
++Copper sulphate
++
+}
+
+
+
+{
++1
++What Fraction of crude oil is used as fuel for cars?
++
++Petrol (gasoline)
++Naphtha
++Kerosene
++Bitumen
++
+}
+
+
+
+{
++1
++What Fraction of crude oil is used as fuel for aircraft?
++
++Naphtha
++Petrol (gasoline)
++Kerosene
++Bitumen
++
+}
+
+
+
+{
++1
++What Fraction of crude oil is used as fuel for trains?
++
++Diesel oil
++Naphtha
++Petrol (gasoline)
++Kerosene
++
+}
+
+
+
+{
++1
++What Fraction of crude oil is used for road surfaces and roofing?
++
++Bitumen
++Diesel oil
++Petrol (gasoline)
++Kerosene
++
+}
+
+
+
+{
++1
++The fractions taken from the top of the Fractional Distillation column have which property?
++
++Low boiling point
++Longer carbon chains
++Less likely to burn
++Darker coloured
++
+}
+
+
+
+{
++1
++The fractions taken from the bottom of the Fractional Distillation column have which property?
++
++High boiling point
++Shorter carbon chains
++Burn with a clear flame
++Burn readily
++
+}
+
+
+
+
+
+
+
+
+
+{
++2
++Haemoglobin is an important compound containing which transition metal?
++
++Iron
++Zinc
++Copper
++Vanadium
++Manganese
+}
+
+
+
+{
++2
++Chlorophyll is an important compound containing which metal?
++
++Magnesium
++Iron
++Copper
++Nickel
++Lithium
+}
+
+
+
+
+
+{
++1
++Alkanes have ...
++
++Only single bonds
++Only double bonds
++At least one double bond
++Single and double bonds
++
+}
+
+
+
+{
++1
++An alkane with two carbon atoms is called ...
++
++Ethane
++Methane
++Butane
++Propane
++
+}
+
+
+
+{
++1
++What are alkanes mainly used as?
++
++Fuels
++Catalysts
++Lubricants
++Polymers
++
+}
+
+
+
+{
++1
++Which of these facts about alkanes is false?
++
++Alkanes are reactive
++Boiling point increases as the carbon chain gets longer
++They only contain carbon and hydrogen
++They are saturated hydrocarbons
++
+}
+
+
+
+{
++1
++Alkenes have ...
++
++At least one double bond
++Only single bonds
++Only double bonds
++Single and double bonds
++
+}
+
+
+
+{
++1
++An alkene with four carbon atoms is called ...
++
++Butane
++Propene
++Butene
++Ethene
++
+}
+
+
+
+{
++2
++Alkynes have ...
++
++At least one triple bond
++Only triple bonds
++Only double bonds
++Single, double and triple bonds
++
+}
+
+
+
+{
++2
++All alcohols contain ...
++
++A hydroxyl group (OH)
++Ammonia
++A double bond between two carbon atoms
++A benzene ring
++
+}
+
+
+          
+          
+
+{
++1
++What is formed when a carboxylic acid reacts with an alcohol in the presence of concentrated sulphuric acid?
++
++An ester
++An alkene
++An alkyne 
++A ketone
++
+}
+    
+
+
+{
++1
++What are the main uses of esters?
++
++In perfumes and flavourings
++As colourings
++Preservatives
++Emulsifiers
++
+}
+  
+
+
+{
++1
++What are the main uses of esters?
++
++In perfumes and flavourings
++As colourings
++Preservatives
++Emulsifiers
++
+}
+
+
+          
+
+
+{
++2
++Ferric and ferrous refer to compounds containing which element?
++
++Iron
++Fluorine
++Potassium
++Phosphorus
++
+}
+
+
+
+{
++2
++Stannous and stannic refer to compounds containing which element?
++
++Tin
++Lead
++Sodium
++Strontium
++
+}
+
+
+
+
+
+
+
+
+
+{
++1
++Which gas makes up 75% of the mass of the visible universe?
++
++Hydrogen
++Helium
++Oxygen
++Nitrogen
++Neon
+}
+
+
+
+{
++1
++The area around Amarillo (Texas, USA) is a large source of which gas?
++
++Helium
++Hydrogen
++Xenon
++Krypton
++Nitrogen
+}
+
+
+
+{
++2
++Which element is found in spodumene and petalite, although most is produced by recovery from brine pools?
++
++Lithium
++Sodium
++Potassium
++Iodine
++Bromine
+}
+
+
+
+{
++1
++Which element is chiefly obtained from kernite and borax?
++
++Boron
++Xenon
++Carbon
++Bohrium
++Bromine
+}
+
+
+
+{
++1
++Which element can be obtained by burning organic compounds with insufficient oxygen?
++
++Carbon
++Nitrogen
++Silicon
++Hydrogen
++Iron
+}
+
+
+
+{
++1
++Which gas makes up about 21% of the atmosphere (by volume)?
++
++Oxygen
++Nitrogen
++Carbon dioxide
++Helium
++Chlorine
+}
+
+
+
+{
++1
++Which element is found in the minerals fluorite and cryolite?
++
++Fluorine
++Copper
++Chromium
++Zinc
++Iron
+}
+
+
+
+{
++1
++Which element is the fifth most abundant in the universe, by mass?
++
++Neon
++Helium
++Hydrogen
++Silicon
++Oxygen
+}
+
+
+
+{
++1
++Which element is produced commercially through the electrolysis of liquid table salt?
++
++Sodium
++Chlorine
++Carbon
++Oxygen
++Potassium
+}
+
+
+
+{
++1
++Dolomite, brucite, carnalite and chalks are commercially important sources of which metal?
++
++Magnesium
++Calcium
++Sodium
++Potassium
++Barium
+}
+
+
+
+{
++1
++Bauxite is good source of which metal?
++
++Aluminium
++Boron
++Gold
++Platinum
++Lead
+}
+
+
+
+{
++1
++Which element forms a major portion of clay, granite, quartz and sand?
++
++Silicon
++Carbon
++Cesium
++Hydrogen
++Nickel
+}
+
+
+
+{
++1
++Galena and cinnabar are both good sources of which non-metal?
++
++Sulfur
++Selenium
++Carbon
++Phosphorus
++
+}
+
+
+
+{
++1
++Which gas is found in common table salt?
++
++Chlorine
++Oxygen
++Hydrogen
++Nitrogen
++Helium
+}
+
+
+
+{
++1
++Which of these cannot be obtained from liquid air?
++
++Chlorine
++Oxygen
++Xenon
++Krypton
++Neon
+}
+
+
+
+{
++2
++Which noble gas is constantly being formed by the radioactive decay of potassium-40?
++
++Argon
++Helium
++Xenon
++Krypton
++Neon
+}
+
+
+
+{
++1
++Which alkali metal can be obtained from carnallite and sylvite?
++
++Potassium
++Sodium
++Lithium
++Rubidium
++Caesium
+}
+
+
+
+{
++1
++Which element is obtained from chalk, limestone and marble?
++
++Calcium
++Sulfur
++Lithium
++Magnesium
++Potassium
+}
+
+	
+
+{
++2
++Which element is obtained from thortveitile, thortvetite, gadolinite and euxenite?
++
++Scandium
++Vanadium
++Chromium
++Titanium
++Manganese
+}
+	
+
+
+{
++2
++Which transition metal usually occurs in ilmenite and rutile?
++
++Titanium
++Vanadium
++Chromium
++Molybdenum
++Manganese
+}
+
+
+
+{
++2
++Which transition metal occurs in patronite and carnotite and is also present in bauxite?
++
++Vanadium
++Osmium
++Chromium
++Nickel
++Zirconium
+}
+
+
+
+{
++2
++Chromite is an important source of which element?
++
++Chromium
++Cobalt
++Copper
++Cerium
++Calcium
+}
+
+
+
+{
++2
++Which transition metal's most abundant ores are pyrolusite, psilomelane and rhodochrosite?
++
++Manganese
++Rhodium
++Niobium
++Zirconium
++Iron
+}
+
+
+
+{
++2
++Haematite and magnetite are good sources of which metal?
++
++Iron
++Cobalt
++Copper
++Niobium
++Zirconium
+}
+
+
+
+{
++2
++Which transition metal's most abundant ores are limonite, garnierite and pentlandite?
++
++Nickel
++Copper
++Tungsten
++Palladium
++Cadmium
+}
+
+
+
+{
++2
++Azurite, malachite and bornite are important ores of which transition metal?
++
++Copper
++Vanadium
++Chromium
++Iridium
++Hafnium
+}
+
+
+
+{
++2
++Which element is obtained from sphalerite, calamine, franklinite and smithsonite?
++
++Zinc
++Calcium
++Gold
++Francium
++Niobium
+}
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+
+{
++2
++Which element is obtained from mispickel (also known as arsenopyrite)?
++
++Arsenic
++Nickel
++Iron
++Manganese
++Antimony
+}
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+
+{
++1
++Krypton forms what percentage of the Earth's atmosphere?
++
++1 millionth
++1
++1 billionth
++10
++2
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which transition metal is found in wulfenite?
++
++Molybdenum
++Manganese
++Tungsten
++Vanadium
++Copper
+}
+
+
+
+{
++1
++Which transition metal was first created by bombarding molybdenum with heavy hydrogen?
++
++Technetium
++Hafnium
++Titanium
++Scandium
++Rhenium
+}
+
+
+
+{
++2
++Which transition metal is found in pentlandite and pyroxinite and can be extracted from spent nuclear fuel?
++
++Ruthenium
++Titanium
++Hafnium
++Niobium
++Mercury
+}
+
+
+
+{
++1
++Which transition metal is found in argentite?
++
++Silver
++Gold
++Mercury
++Tungsten
++Iron
+}
+
+
+
+{
++2
++Which element is obtained as a by-product of zinc refining and in rare ores such as greenockite?
++
++Cadmium
++Copper
++Titanium
++Molybdenum
++Osmium
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element is principally found in cassiterite and stannine?
++
++Tin
++Lead
++Antimony
++Bismuth
++Zinc
+}
+
+
+
+{
++2
++The mineral Stibnite is the main source of which metal?
++
++Antimony
++Lead
++Tin
++Selenium
++Strontium
+}
+
+
+
+{
++2
++Which metalloid is obtained from the mineral calaverite?
++
++Tellurium
++Arsenic
++Germanium
++Silicon
++Boron
+}
+
+
+
+{
++1
++Kelp (a type of seaweed) tends to have high concentrations of which element?
++
++Iodine
++Bromine
++Silicon
++Gallium
++Selenium
+}
+
+
+
+{
++2
++Which alkali metal is recovered from pollucite and lepidolite??
++
++Caesium
++Potassium
++Francium
++Lithium
++Rubidium
+}
+
+
+
+{
++2
++Which alkali earth metal is obtained from witherite and barytine?
++
++Barium
++Beryllium
++Magnesium
++Calcium
++Strontium
+}
+
+
+	
+	
+	
+
+	
+	
+	
+
+
+{
++1
++Which transition metal is found in tantalite and euxenite?
++
++Tantalum
++Titanium
++Tellurium
++Thallium
++Terbium
+}
+
+
+
+{
++1
++The minerals scheelite, ferberite and wolframite are main sources of which transition metal?
++
++Tungsten
++Manganese
++Zirconium
++Cadmium
++Vanadium
+}
+
+
+
+{
++2
++The mineral cinnabar is the main source of which metal?
++
++Mercury
++Gold
++Palladium
++Indium
++Copper
+}
+
+
+	
+	
+	
+
+
+{
++2
++The element is found in crookesite, hutchinsonite and lorandite?
++
++Thallium
++Bismuth
++Mercury
++Tellurium
++Polonium
+}
+
+
+
+{
++1
++The mineral Galena is the main source of which metal?
++
++Lead
++Gallium
++Arsenic
++Germanium
++Tin
+}
+
+
+
+{
++1
++Which gas is formed by the decay of Radium in the Earth's crust?
++
++Radon
++Xenon
++Argon
++Chlorine
++Bromine
+}
+
+
+	
+	
+	
+
+
+{
++2
++Which actinide is created by bombarding plutonium with neutrons?
++
++Americium
++Einsteinium
++Californium
++Lawrencium
++Berkelium
+}
+		
+	
+
+{
++2
++Which actinide is created by bombarding plutonium with helium ions?
++
++Curium
++Einsteinium
++Nobelium
++Lawrencium
++Berkelium
+}
+	
+	
+
+{
++2
++Which actinide is created by bombarding americium with alpha particles?
++
++Berkelium
++Einsteinium
++Nobelium
++Lawrencium
++Fermium
+}
+		
+	
+
+{
++2
++Which actinide is created by bombarding curium with helium ions?
++
++Californium
++Einsteinium
++Nobelium
++Berkelium
++Fermium
+}
+		
+	
+
+{
++2
++Which actinide is created by bombarding uranium with neutrons?
++
++Einsteinium
++Nobelium
++Berkelium
++Fermium
++Californium
+}
+	
+	
+	
+	
+		
+
+
+{
++2
++Which actinide is created by bombarding einsteinium with helium ions?
++
++Mendelevium
++Nobelium
++Lawrencium
++Fermium
++Californium
+}
+
+	
+
+{
++2
++Which actinide is created by bombarding curium with carbon-13?
++
++Nobelium
++Lawrencium
++Fermium
++Mendelevium
++Actinium
+}
+
+
+
+{
++2
++Which actinide is created by bombarding californium with boron ions?
++
++Lawrencium
++Nobelium
++Fermium
++Mendelevium
++Actinium
+}
+	
+
+
+
+
+
+
+
+
+{
++1
++Which gas's name comes from the Greek words for "generate" and "water"?
++
++Hydrogen
++Oxygen
++Nitrogen
++Iron
++Zinc
+}
+
+
+
+{
++1
++Which gas gets its name from the Greek work for "Sun"?
++
++Helium
++Hydrogen
++Oxygen
++Nitrogen
++Xenon
+}
+
+
+
+{
++1
++Which metal gets its name from the Greek word for "stone"?
++
++Lithium
++Sodium
++Potassium
++Titanium
++Tungsten
+}
+
+
+
+{
++1
++Which element gets its name from the Latin word for "coal"?
++
++Carbon
++Oxygen
++Nitrogen
++Copper
++Lead
+}
+
+
+
+{
++1
++Which metal gets its name from the Greek words for "generate" and "acid"?
++
++Oxygen
++Hydrogen
++Lithium
++Nitrogen
++Tungsten
+}
+
+
+
+{
++1
++Which element gets its name from the Latin word for "flow"?
++
++Fluorine
++Iodine
++Mercury
++Bromine
++Francium
+}
+
+
+
+{
++1
++Which element gets its name from the Greek word for "new"?
++
++Neon
++Nickel
++Niobium
++Sodium
++Vanadium
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element gets its symbol from the Latin word "natrium"?
++
++Sodium
++Potassium
++Nickel
++Barium
++Mercury
+}
+
+
+
+{
++2
++Which element gets its name from the Greek words for "light" and "bearer"?
++
++Phosphorus
++Neon
++Argon
++Magnesium
++Cerium
+}
+
+
+
+{
++1
++Which element gets its name from the Latin word "brimstone"?
++
++Sulfur
++Phosphorus
++Caesium
++Promethium
++Fluorine
+}
+
+
+
+{
++1
++Which element gets its name from the Greek word for "green"?
++
++Chlorine
++Fluorine
++Copper
++Gold
++Astatine
+}
+
+
+
+{
++1
++Which noble gas gets its name from the Greek word for "inactive"?
++
++Argon
++Helium
++Krypton
++Neon
++Xenon
+}
+
+
+	
+	
+	
+
+
+{
++2
++Which of these elements is not named after a country?
++
++Scandium
++Polonium
++Germanium
++Francium
++Americium
+}
+
+
+
+{
++2
++Which metal is named after a Scandinavian goddess?
++
++Vanadium
++Titanium
++Tantalum
++Indium
++Cadmium
+}
+
+
+
+{
++1
++Which metal gets its name from the Greek word for "Colour"?
++
++Chromium
++Zirconium
++Lead
++Tin
++Copper
+}
+
+
+
+{
++2
++Which element gets its name from the German word for "evil spirit"?
++
++Cobalt
++Uranium
++Arsenic
++Zinc
++Beryllium
+}
+
+
+
+{
++1
++Which island in the Mediterranean has an element named after it?
++
++Cyprus
++Malta
++Ibiza
++Rhodes
++Sicily
+}
+
+
+
+{
++1
++Which element gets its symbol from the Latin word "argentum"?
++
++Silver
++Lead
++Argon
++Gold
++Molybdenum
+}
+
+
+
+{
++1
++Which element is named after the German word for "tin"?
++
++Zinc
++Tin
++Titanium
++Nickel
++Osmium
+}
+
+
+	
+	
+		
+	
+
+{
++1
++Which element gets its name from the Latin for France and Rooster?
++
++Gallium
++Francium
++Fluorine
++Rubidium
++Tantalum
+}
+
+
+
+{
++1
++Which element gets its name from the Latin for Germany?
++
++Germanium
++Gallium
++Dubnium
++Niobium
++Tellurium
+}
+
+
+
+{
++1
++Which element gets its name from the Greek for "masculine"?
++
++Arsenic
++Manganese
++Astatine
++Iron
++Strontium
+}
+
+
+
+{
++2
++Which element is named after the Greek word for "Moon"?
++
++Selenium
++Lutetium
++Manganese
++Lanthanum
++Barium
+}
+
+
+
+{
++1
++Which halogen is named after the Greek word for "stench"?
++
++Bromine
++Fluorine
++Iodine
++Astatine
++Chlorine
+}
+
+
+
+{
++1
++Which noble gas is named after the Greek word for "hidden"?
++
++Krypton
++Xenon
++Radon
++Neon
++Argon
+}
+
+
+
+{
++1
++Which alkali metal's name comes from the colour red?
++
++Rubidium
++Lithium
++Sodium
++Francium
++Caesium
+}
+
+
+
+{
++1
++Which of these is named after a small Scottish town?
++
++Strontium
++Barium
++Thorium
++Tellurium
++Palladium
+}
+
+
+
+{
++1
++A town in which country has been the inspiration for the naming of these elements; yttrium, ytterbium, terbium and erbium?
++
++Sweden
++Norway
++Germany
++Scotland
++France
+}
+
+
+	
+	
+	
+
+
+{
++2
++The daughter of the mythical Greek King Tantalus is the basis of the name of which element?
++
++Niobium
++Tungsten
++Barium
++Tin
++Xenon
+}
+
+
+
+{
++2
++Which element is named after the Greek word for "lead like"?
++
++Molybdenum
++Lead
++Bismuth
++Mercury
++Antimony
+}
+
+
+
+{
++2
++Which element is named after the Greek word for "artifical"?
++
++Technetium
++Uranium
++Ununbium
++Dubnium
++Plutonium
+}
+
+
+
+{
++1
++Which element is named after the Latin name of "Russia"?
++
++Ruthenium
++Rubidium
++Rhenium
++Rhodium
++Radium
+}
+
+
+
+{
++1
++Which element gets its name from the Greek for "rose"?
++
++Rhodium
++Aluminium
++Hafnium
++Erbium
++Cerium
+}
+
+
+
+{
++2
++Which element is named after an asteroid that was discovered in the same year as this element?
++
++Palladium
++Iodine
++Chromium
++Cerium
++Osmium
+}
+
+
+
+{
++2
++Which element gets its name from the Latin word "stannum"?
++
++Tin
++Sulfur
++Zinc
++Antimony
++Indium
+}
+
+
+	
+	
+	
+
+
+{
++2
++Which element is named after the Greek word for "the Earth"?
++
++Tellurium
++Erbium
++Silicon
++Potassium
++Polonium
+}
+
+
+
+{
++2
++Which element is named after the Greek word for "violet"?
++
++Iodine
++Vanadium
++Rhodium
++Bromine
++Osmium
+}
+
+
+
+{
++1
++Which element is named after the Greek word for "stranger"?
++
++Xenon
++Strontium
++Tantalum
++Vanadium
++Zirconium
+}
+
+
+
+{
++2
++Which element is named after the Latin for "sky blue"?
++
++Caesium
++Francium
++Scandium
++Oxygen
++Hydrogen
+}
+
+
+
+{
++2
++Which element is named after the Greek for "heavy / dense"?
++
++Barium
++Lead
++Tungsten
++Gold
++Bismuth
+}
+
+
+
+{
++2
++Which element is named after the Greek for "to lie hidden"?
++
++Lanthanum
++Gadolinium
++Terbium
++Thulium
++Radium
+}
+
+
+
+{
++2
++Which element is named after an asteroid that was discovered in the same year as it?
++
++Cerium
++Protactinium
++Fermium
++Osmium
++Titanium
+}
+
+
+
+{
++2
++Which element is named after the Greek for "green" and "twin"?
++
++Praseodymium
++Chlorine
++Gallium
++Krypton
++Sodium
+}
+
+
+
+{
++1
++Which element is named after the Greek for "new" and "twin"?
++
++Neodymium
++Praseodymium
++Rubidium
++Molybdenum
++Cobalt
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element is named after a Greek god who stole fire from Zeus and gave it to mortals?
++
++Promethium
++Titanium
++Fluorine
++Magnesium
++Iron
+}
+
+	
+
+{
++2
++Which element is named after a mineral that was named after a Russian mine official?
++
++Samarium
++Fermium
++Rubidium
++Molybdenum
++Thorium
+}
+
+
+
+{
++1
++Which of these elements is NOT named after the Swedish town of Ytterby?
++
++Tellurium
++Yttrium
++Terbium
++Erbium
++Ytterbium
+}
+
+
+
+{
++2
++Which element is names after the Greek for "hard to get at"?
++
++Dysprosium
++Tantalum
++Vanadium
++Cobalt
++Holmium
+}
+
+
+
+{
++2
++Which element is named after the Latin name for Stockholm?
++
++Holmium
++Erbium
++Silicon
++Samarium
++Potassium
+}
+
+
+	
+	
+	
+
+
+{
++2
++Which element is named after the ancient name for Paris?
++
++Lutetium
++Palladium
++Francium
++Praseodymium
++Thulium
+}
+
+
+
+{
++2
++Which element is named after the Latin name of "Copenhagen"?
++
++Hafnium
++Copper
++Caesium
++Carbon
++Platinum
+}
+
+
+
+{
++1
++What element gets its name from the Swedish for "heavy stone"?
++
++Tungsten
++Lead
++Iridium
++Iron
++Mercury
+}
+
+
+
+{
++2
++What element gets its symbol its German name "wolfram"?
++
++Tungsten
++Cadmium
++Vanadium
++Sodium
++Potassium
+}
+
+
+
+{
++2
++Which element is named after the Greek word for "odour"?
++
++Osmium
++Sulfur
++Chlorine
++Iodine
++Terbium
+}
+
+
+
+{
++2
++Which element is named after the Latin for "rainbow" as many of its salts are strongly coloured?
++
++Iridium
++Rubidium
++Iodine
++Manganese
++Xenon
+}
+
+
+
+{
++2
++The name of which element comes from the Spanish for "little silver"?
++
++Platinum
++Palladium
++Mercury
++Calcium
++Germanium
+}
+
+
+
+{
++1
++Which element is named after the Old English word for "yellow"?
++
++Gold
++Sulfur
++Samarium
++Copper
++Silicon
+}
+
+
+
+{
++2
++Which element is named after the Greek god who was messenger to the gods?
++
++Mercury
++Zinc
++Silicon
++Tungsten
++Xenon
+}
+
+
+	
+	
+	
+
+
+{
++2
++Which element is named after the Greek for "young shoot", referring to a bright green line its spectrum?
++
++Thallium
++Lithium
++Chlorine
++Argon
++Niobium
+}
+
+
+
+{
++2
++Which element is named after the Greek word for "unstable"?
++
++Astatine
++Carbon
++Uranium
++Lanthanum
++Lithium
+}
+
+
+
+{
++1
++Which is the element to be named after another element?
++
++Radon
++Yttrium
++Neptunium
++Calcium
++Polonium
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element is named in honour of a husband and wife team?
++
++Curium
++Rutherfordium
++Nobelium
++Lawrencium
++Meitnerium
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which of these wasn't named after a scientist?
++
++Hassium
++Fermium
++Nobelium
++Seaborgium
++Meitnerium
+}
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+{
++1
++Henry Cavendish is credited with the discovery of which gas?
++
++Hydrogen
++Helium
++Oxygen
++Nitrogen
++Neon
+}
+
+
+
+{
++1
++Evidence of the existence of which element was found in the spectrum of the Sun?
++
++Helium
++Radon
++Oxygen
++Silicon
++Xenon
+}
+
+
+
+{
++2
++Johann August Arfvedson discovered which element in 1817?
++
++Lithium
++Sodium
++Potassium
++Rubidium
++Francium
+}
+
+
+
+{
++2
++Which element was independently isolated by Friedrich Wohler and A. A. Bussy in 1828?
++
++Beryllium
++Magnesium
++Calcium
++Niobium
++Aluminium
+}
+
+
+
+{
++1
++Daniel Rutherford discovered which gas in 1772?
++
++Nitrogen
++Hydrogen
++Helium
++Xenon
++Krypton
+}
+
+
+
+{
++1
++Joseph Priestly and Karl Wilhelm Scheele are both credited with discovering which gas?
++
++Oxygen
++Hydrogen
++Helium
++Nitrogen
++Neon
+}
+
+
+
+{
++1
++Henri Moissan isolated which element?
++
++Fluorine
++Silicon
++Bromine
++Molybdenum
++Calcium
+}
+
+
+
+{
++2
++Sir William Ramsay and Morris Travers discovered which three gases in 1898?
++
++Neon, Krypton, Xenon
++Neon, Helium, Xenon
++Neon, Argon, Xenon
++Neon, Xenon, Radon
++Neon, Krypton, Radon
+}
+
+
+	
+	
+	
+
+
+{
++1
++In 1807 Sir Humphry Davy isolated which element for the first time?
++
++Sodium
++Lithium
++Calcium
++Potassium
++Cadmium
+}
+
+
+
+{
++1
++Magnesium was first isolated in 1808 by which scientist?
++
++Sir Humphry Davy
++Anders Ekeberg
++Daniel Rutherford
++Joseph Priestley
++John William Strutt Rayleigh
+}
+
+
+
+{
++1
++Hans Christian Oersted is credited with discovering which element in 1825?
++
++Aluminium
++Gallium
++Technetium
++Tungsten
++Barium
+}
+
+
+
+{
++1
++Antoine Lavoisier first identified which element in 1787?
++
++Silicon
++Oxygen
++Iron
++Selenium
++Rhenium
+}
+
+
+
+{
++1
++In 1669 Hennig Brand discovered which element?
++
++Phosphorus
++Bromine
++Aluminium
++Gallium
++Magnesium
+}
+
+
+
+{
++1
++In 1774 Karl Wilhelm Scheele discovered which element?
++
++Chlorine
++Bromine
++Iodine
++Fluorine
++Astatine
+}
+
+
+
+{
++1
++Sir William Ramsay and Baron Rayleigh are credited with the discovery of which gas in 1894?
++
++Argon
++Radon
++Helium
++Xenon
++Nitrogen
+}
+
+
+
+{
++1
++Which member of the nobel gases was discovered first, in 1894?
++
++Argon
++Neon
++Krypton
++Xenon
++Radon
+}
+
+
+
+{
++1
++In 1807 Sir Humphrey Davy discovered which element?
++
++Potassium
++Titanium
++Rubidium
++Mercury
++Lithium
+}
+
+
+
+{
++1
++In 1808 Sir Humphrey Davy discovered which element?
++
++Calcium
++Strontium
++Gallium
++Selenium
++Europium
+}
+
+
+	
+	
+	
+	
+
+{
++1
++In 1879 Lars Nilson discovered which element?
++
++Scandium
++Sodium
++Osmium
++Gold
++Boron
+}
+
+
+
+{
++1
++In 1791 William Gregor discovered which element?
++
++Titanium
++Tungsten
++Argon
++Polonium
++Zinc
+}
+
+
+
+{
++1
++In 1830 Nils Sefstrom discovered which element?
++
++Vanadium
++Manganese
++Copper
++Francium
++Hydrogen
+}
+
+
+
+{
++1
++In 1797 Louis Vauquelin discovered which element?
++
++Chromium
++Rubidium
++Carbon
++Bismuth
++Hafnium
+}
+
+
+
+{
++1
++In 1774 Johann Gahn discovered which element?
++
++Manganese
++Chromium
++Beryllium
++Technetium
++Chlorine
+}
+
+
+
+
+
+
+
+{
++1
++In 1737 George Brandtn discovered which element?
++
++Cobalt
++Calcium
++Sodium
++Erbium
++Aluminium
+}
+
+
+
+{
++1
++In 1751 Alex Cronstedt discovered which element?
++
++Nickel
++Copper
++Silver
++Scandium
++Xenon
+}
+
+
+
+
+
+
+
+{
++1
++In 1764 Andreas Marggraf discovered which element?
++
++Zinc
++Zirconium
++Titanium
++Cadmium
++Tin
+}
+
+
+
+{
++1
++Which of these elements wasn't known to the Ancients?
++
++Zinc
++Sulfur
++Iron
++Copper
++Lead
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Gallium was discovered in 1875 by which French scientist?
++
++Paul emile Lecoq de Boisbaudran
++Marguerite Perey
++Joseph Louis Gay-Lussac
++Pierre Curie
++
+}
+
+
+
+{
++1
++Clemens Winkler discovered which element in 1886?
++
++Germanium
++Antimony
++Tellurium
++Boron
++Arsenic
+}
+
+
+
+{
++1
++Albertus Magnus is credited with the isolation of which element in 1250?
++
++Arsenic
++Antimony
++Tellurium
++Boron
++Germanium
+}
+
+
+
+{
++1
++In 1817 Jons Berzelius discovered which element?
++
++Selenium
++Scandium
++Ytterbium
++Bismuth
++Antimony
+}
+
+
+
+{
++1
++In 1826 Antoine Balard discovered which halogen?
++
++Bromine
++Fluorine
++Chlorine
++Iodine
++Astatine
+}
+
+
+
+{
++1
++Krypton was discovered by which pair of scientists in 1898?
++
++Sir William Ramsey and M. W. Travers?
++Pierre and Marie Curie
++Carlo Perrier and Emillo Segre
++Ferdinand Reich and H. Richter
++Dirk Coster and George Hevesy
+}
+
+
+
+{
++1
++Rubidium was discovered in 1861 by which pair of scientists?
++
++Robert Bunsen and Gustav Kirchoff
++Sir William Ramsey and M. W. Travers
++Carlo Perrier and Emillo Segre
++Ferdinand Reich and H. Richter
++D. R. Corson and E. Segre
+}
+
+
+
+{
++1
++Adair Crawford discovered which element in 1790?
++
++Strontium
++Niobium
++Scandium
++Actinium
++Rhenium
+}
+
+
+
+{
++1
++Johann Gadolin discovered which element in 1794?
++
++Yttrium
++Germanium
++Hafnium
++Tin
++Molybdenum
+}
+
+
+
+{
++2
++In 1789 which scientist discovered zirconium?
++
++Martin Klaproth
++Johann Gahn
++Sir Humphrey Davy
++Adair Crawford
++Hennig Brand
+}
+
+
+	
+	
+	
+
+
+{
++1
++Charles Hatchet discovered which element in 1801?
++
++Niobium
++Tellurium
++Lanthanum
++Bismuth
++Terbium
+}
+
+
+
+{
++1
++Karl Wilhem Scheele discovered which transition element in 1778?
++
++Molybdenum
++Manganese
++Palladium
++Mercury
++Tantalum
+}
+
+
+
+{
++1
++Carlo Perrier and Emillo Segre created which transition element in 1937?
++
++Technetium
++Titanium
++Cobalt
++Hafnium
++Zinc
+}
+
+
+
+{
++1
++Karl Klaus discovered which transition element in 1844?
++
++Ruthenium
++Vanadium
++Tungsten
++Hafnium
++Iridium
+}
+
+
+
+{
++1
++Rhodium was discovered by which English scientist in 1803?
++
++William Wollaston
++Sir Humphrey Davy
++Joseph Priestley
++Sir William Ramsay
++Sir William Crookes
+}
+
+
+
+{
++1
++Palladium was discovered by which English scientist in 1803?
++
++William Wollaston
++Sir Humphrey Davy
++Joseph Priestley
++Sir William Ramsay
++Sir William Crookes
+}
+
+
+
+
+
+{
++1
++Fredrich Stromeyer discovered which element in 1817?
++
++Cadmium
++Carbon
++Calcium
++Chromium
++Cobalt
+}
+
+
+
+{
++1
++Ferdinand Reich and H. Richter discovered which element in 1863?
++
++Indium
++Gallium
++Thallium
++Bismuth
++Aluminium
+}
+
+
+
+
+	
+	
+	
+
+
+
+
+{
++1
++Franz Muller von Reichenstein discovered which element in 1782?
++
++Tellurium
++Gallium
++Thallium
++Bismuth
++Aluminium
+}
+	
+	
+
+{
++1
++Bernard Courtois discovered which halogen in 1804?
++
++Iodine
++Fluorine
++Bromine
++Astatine
++Chlorine
+}
+	
+
+
+{
++1
++Xenon was discovered by which two scientists in 1898?
++
++Sir William Ramsey and M. W. Travers
++Joseph Priestly and Karl Wilhelm Scheele
++Dirk Coster and George Hevesy
++Gustov Kirchoff and Robert Bunsen
++Pierre and Marie Curie
+}
+	
+	
+
+{
++1
++Caesium was discovered by which two scientists in 1898?
++
++Gustov Kirchoff and Robert Bunsen
++Carlo Perrier and Emillo Segre
++Joseph Priestly and Karl Wilhelm Scheele
++Dirk Coster and George Hevesy
++Pierre and Marie Curie
+}
+
+
+
+{
++1
++Barium was discovered by which English scientist in 1808?
++
++Sir Humphrey Davy
++William Wollaston
++Joseph Priestley
++Sir William Ramsay
++Sir William Crookes
+}
+
+
+
+{
++1
++Lanthanum was discovered by which scientist in 1839?
++
++Carl Mosander
++Lars Nilson
++Joseph Priestley
++Clemens Winkler
++Dirk Coster
+}
+
+
+
+{
++2
++Wilhelm Hisinger, Jons Berzelius and Martin Klaproth are all credited with the discovery of which Lanthanide?
++
++Cerium
++Terbium
++Lutetium
++Promethium
++Samarium
+}
+
+
+
+
+
+{
++1
++Neodymium was discovered by which scientist in 1925?
++
++Carl Auer Baron von Welsbach
++Smithson Tenant
++Jean de Marignac
++Pierre Curie
++Clemens Winkler
+}
+
+
+	
+	
+	
+
+
+
+
+{
++1
++Which French scientist discovered samarium in 1879?
++
++Paul emile Lecoq de Boisbaudran
++Antoine-Jerome Balard
++Bernard Courtois
++Irene Joliot-Curie
++Louis Jacques Thenard
+}
+
+
+
+{
++1
++Eugene Demarcay discovered which lanthanide in 1901?
++
++Europium
++Promethium
++Holmium
++Thulium
++Neodymium
+}
+
+
+
+{
++1
++In 1880 Jean de Marignac discovered which lanthanide?
++
++Gadolinium
++Samarium
++Praseodymium
++Cerium
++Neodymium
+}
+
+
+
+{
++1
++Terbium was discovered by which scientist in 1843?
++
++Carl Mosander
++Paul emile Lecoq de Boisbaudran
++J. L. Soret
++Jean de Marigna
++Bernard Courtois
+}
+
+
+
+{
++1
++Which lanthanide was discovered in 1886 by Paul emile Lecoq de Boisbaudran?
++
++Dysprosium
++Cerium
++Promethium
++Lutetium
++Ytterbium
+}
+
+
+
+{
++1
++Swiss scientist J. L. Soret discovered which lanthanide in 1878?
++
++Holium
++Actinium
++Europium
++Samarium
++Erbium
+}
+
+
+
+{
++1
++Erbium was discovered by which scientist in 1843?
++
++Carl Mosander
++Dirk Coster
++George Hevesy
++Jean de Marignac
++Bernard Courtois
+}
+
+
+
+{
++1
++Per Theodor Cleve discovered which lanthanide in 1879?
++
++Thulium
++Cerium
++Actinium
++Neodymium
++Samarium
+}
+
+
+
+{
++1
++Ytterbium was discovered by which scientist in 1878?
++
++Jean de Marignac
++Per Theodor Cleve
++George Hevesy
++J. L. Soret
++Paul emile Lecoq de Boisbaudran
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Lutetium was discovered by which scientist in 1878?
++
++Jean de Marignac
++Per Theodor Cleve
++George Hevesy
++J. L. Soret
++Paul emile Lecoq de Boisbaudran
+}
+
+
+
+{
++1
++Dirk Coster and George Hevesy discovered which transition element in 1923?
++
++Hafnium
++Tantalum
++Platinum
++Vanadium
++Mercury
+}
+
+
+
+{
++1
++Anders Ekeberg discovered which transition element in 1802?
++
++Tantalum
++Zirconium
++Platinum
++Vanadium
++Yttrium
+}
+
+
+
+{
++1
++Fausto and Juan Jose de Elhuyar discovered which element in 1783?
++
++Tungsten
++Niobium
++Platinum
++Vanadium
++Iron
+}
+
+
+
+
+
+{
++1
++Simthson Tenant discovered which two elements?
++
++Iridium and Osmium
++Tantalum and Tungsten
++Platinum and Palladium
++Vanadium and Chromium
++Mercury and Cadmium
+}
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+{
++1
++In 1861 Sir William Crookes discovered which element?
++
++Thallium
++Indium
++Antimony
++Tellurium
++Polonium
+}
+
+
+
+{
++1
++Thallium was discovered by which English scientist in 1861?
++
++Sir William Crookes
++Joseph Priestley
++Sir Humphrey Davy
++Henry Cavendish
++Sir William Ramsay
+}
+
+
+
+
+
+
+
+{
++1
++Radium and Polonium were discovered by ...?
++
++Pierre and Marie Curie
++Joseph Priestley
++Sir Humphrey Davy
++Robert Bunsen
++Smithson Tenant
+}
+
+
+
+{
++1
++Which halogen was the last to be discovered, in 1940?
++
++Astatine
++Iodine
++Bromine
++Chlorine
++Fluorine
+}
+
+
+
+{
++1
++Fredrich Ernst Dorn discovered which gas in 1898?
++
++Radon
++Chlorine
++Nitrogen
++Argon
++Krypton
+}
+
+
+
+{
++1
++In 1939 Marguerite Perey discovered which element?
++
++Francium
++Uranium
++Terbium
++Caesium
++Actinium
+}
+
+
+
+{
++2
++Andre Debierne discovered which actinide in 1899?
++
++Actinium
++Thorium
++Neptunium
++Nobelium
++Plutonium
+}
+
+
+
+{
++2
++Thorium was discovered by which Swedish scientist?
++
++Jons Berzelius
++Lars Nilson
++Johann Gadolin
++Per Theodor Cleve
++Carl Mosander
+}
+
+
+	
+	
+	
+
+
+
+
+{
++2
++Uranium was discovered by which German scientist in 1789?
++
++Martin Klaproth
++Gustov Kirchoff
++Robert Bunsen
++Fredrich Wohler
++Wilhelm Hisinger
+}
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+{
++1
++Which element has the lowest density?
++
++Hydrogen
++Argon
++Helium
++Radon
++Krypton
+}
+
+
+
+{
++1
++Which of these gases is an explosion hazard?
++
++Hydrogen
++Bromine
++Nitrogen
++Fluorine
++Argon
+}
+
+
+
+{
++1
++Which element has the atomic number 1?
++
++Hydrogen
++Nitrogen
++Helium
++Lithium
++Nickel
+}
+
+
+
+{
++1
++What symbol is used to represent Hydrogen?
++
++H
++Hy
++Ho
++Hn
++Hd
+}
+
+
+
+{
++1
++Which element has isotopes named Deuterium and Tritium?
++
++Hydrogen
++Oxygen
++Nitrogen
++Argon
++Chlorine
+}
+
+
+
+{
++1
++Which element is the most abundant in the Universe?
++
++Hydrogen
++Helium
++Carbon
++Oxygen
++Silicon
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of hydrogen?
++
++20.268K
++20.268'C
++220.268K
++420.268K
++220.268'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of hydrogen?
++
++14.01K
++14.01'C
++114.01K
++-14.01'C
++214.01'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element has the atomic number 2?
++
++Helium
++Hydrogen
++Lithium
++Oxygen
++Carbon
+}
+
+
+
+{
++1
++What is the symbol for Helium?
++
++He
++H
++Hl
++Hi
++Hm
+}
+
+
+
+{
++1
++Helium is a member of which group?
++
++Noble gases
++Halogens
++Alkali Metals
++Non metals
++Transactinides
+}
+
+
+
+{
++1
++Why is there very little Helium on Earth?
++
++Its low density caused it to escape the atmosphere
++It's highly radioactive
++It's all been used up
++No-one knows
++There's plenty on Earth
+}
+
+
+
+{
++1
++Which gas is used in airships instead of Hydrogen?
++
++Helium
++Oxygen
++Chlorine
++Argon
++Xenon
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which metal has the atomic number 3?
++
++Lithium
++Sodium
++Potassium
++Zinc
++Silver
+}
+
+
+
+{
++1
++Which metal has the lowest density?
++
++Lithium
++Gold
++Vanadium
++Sodium
++Gallium
+}
+
+
+
+{
++1
++Three elements were created in the "Big Bang"; hydrogen, helium and which other element?
++
++Lithium
++Carbon
++Nitrogen
++Oxygen
++Boron
+}
+
+
+
+{
++2
++What is the only metal that reacts with nitrogen and room temperature?
++
++Lithium
++Sodium
++Magnesium
++Calcium
++Mercury
+}
+
+
+
+{
++1
++Lithium is a member of which group?
++
++Alkali metals
++Transition metals
++Transactinides
++Actinides
++Alkali Earth metals
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of lithium?
++
++1615K
++1615'C
++10615K
++615K
++2615'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of lithium?
++
++453.69K
++453.69'C
++1453.69K
++-453.69'C
++853.69'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element has the atomic number 4?
++
++Beryllium
++Boron
++Carbon
++Nitrogen
++Lithium
+}
+
+
+
+{
++2
++The speed of sound is the highest in which element?
++
++Beryllium
++Gold
++Lead
++Nickel
++Helium
+}
+
+
+
+{
++1
++Beryllium is a member of which group?
++
++Alkali Earth metals
++Halogens
++Transition metals
++Actinides
++Non metals
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of beryllium?
++
++1551K
++1551'C
++15.51K
++-15.51'C
++15.51'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of beryllium?
++
++3243K
++4324'C
++1243K
++-324'C
++32.43'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element has the atomic number 5?
++
++Boron
++Carbon
++Aluminium
++Silicon
++Beryllium
+}
+
+
+
+{
++2
++Boron nitride is;
++
++Used to make materials nearly as hard as diamond
++Move valuable than gold
++Used as an explosive
++The lightest substance known
++An excellent conductor of electricity
+}
+
+
+
+{
++1
++The symbol used to represent Boron is?
++
++B
++Bo
++Br
++Bn
++Bx
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element has the atomic number 6?
++
++Carbon
++Boron
++Nitrogen
++Lithium
++Oxygen
+}
+
+
+
+{
++1
++Diamond and graphite are allotropes of which element?
++
++Carbon
++Gold
++Silver
++Silicon
++Potassium
+}
+
+
+
+{
++1
++Which element has the highest melting point?
++
++Carbon
++Tungsten
++Rhenium
++Tantalum
++Boron
+}
+
+
+
+{
++1
++Fullerenes, nanofoam and nanorods are all allotropes of which element?
++
++Carbon
++Magnesium
++Calcium
++Niobium
++Aluminium
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of carbon?
++
++5100K
++5100'C
++51.00K
++-51.00'C
++51.00'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of carbon?
++
++3773K
++3773'C
++37.73K
++-37.73'C
++37.73'C
+}
+
+
+
+{
++1
++Steel is an alloy of which two elements?
++
++Carbon and iron
++Copper and tin
++Lead and tin
++Iron and tin
++Carbon and nickel
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element has the atomic number 7?
++
++Nitrogen
++Boron
++Carbon
++Oxygen
++Potassium
+}
+
+
+
+{
++1
++Which gas is the largest single component of the Earth's atmosphere (78%)?
++
++Nitrogen
++Oxygen
++Argon
++Helium
++Xenon
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of nitrogen?
++
++77.36K
++77.36'C
++773.6K
++-77.36'C
++773.6'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of nitrogen?
++
++63.15K
++63.15'C
++631.5K
++-63.15'C
++6.315'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which gas has the atomic number 8?
++
++Oxygen
++Nitrogen
++Fluorine
++Chlorine
++Xenon
+}
+
+
+
+{
++1
++Liquid oxygen is;
++
++Blue
++Red
++Green
++Colourless
++Orange
+}
+
+
+
+{
++1
++Oxygen makes up approximately what percentage of the atmosphere?
++
++21
++78
++45
++90
++8
+}
+
+
+
+{
++1
++Ozone is an allotrope of which element?
++
++Oxygen
++Nitrogen
++Osmium
++Bromine
++Fluorine
+}
+
+
+
+{
++1
++Which element comprises the largest percentage of the Earth's crust (49%)?
++
++Oxygen
++Silicon
++Carbon
++Hydrogen
++Nitrogen
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of oxygen?
++
++90.20K
++90.20'C
++9.020K
++-90.20'C
++9.020'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of oxygen?
++
++54.36K
++54.36'C
++5.436K
++-54.36'C
++5.436'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element has the atomic number 9?
++
++Fluorine
++Neon
++Oxygen
++Nitrogen
++Boron
+}
+
+
+
+{
++1
++Which is the most reactive element?
++
++Fluorine
++Lithium
++Magnesium
++Potassium
++Calcium
+}
+
+
+
+{
++1
++Fluorine is a member of which group?
++
++Halogens
++Noble gases
++Transition metals
++Actinides
++Alkali Earth metals
+}
+
+
+
+{
++2
++Fluorine has the highest electronegativity on the Pauling scale, what it is?
++
++3.98
++1.25
++9.98
++3.14
++0
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of fluorine?
++
++85.03K
++85.03'C
++8.503K
++-85.03'C
++850.3'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of fluorine?
++
++53.53K
++53.53'C
++5.353K
++-53.53'C
++5.353'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element has the atomic number 10?
++
++Neon
++Fluorine
++Oxygen
++Silicon
++Krypton
+}
+
+
+
+{
++1
++Neon is in which group?
++
++Noble gases
++Halogens
++Transactinides
++Transition metals
++Alikali metals
+}
+
+
+
+{
++1
++Which symbol is used to represent neon?
++
++Ne
++N
++No
++Nn
++Na
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of neon?
++
++27.096K
++27.096'C
++2.7096K
++-27.096'C
++270.96'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of neon?
++
++24.553K
++24.553'C
++245.53K
++-24.553'C
++2.4553'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++What symbol is used to represent sodium?
++
++Na
++S
++Sm
++Si
++K
+}
+
+
+
+{
++1
++Which of these elements is highly reactive to water?
++
++Sodium
++Copper
++Nickel
++Argon
++Tungsten
+}
+
+
+
+{
++1
++Sodium is a member of which group?
++
++Alkali metals
++Halogens
++Noble gases
++Transactinides
++Metalloids
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of sodium?
++
++1156K
++1156'C
++115.6K
++-11.56'C
++115.6'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of sodium?
++
++379.87K
++379.87'C
++37.987K
++-37.987'C
++37.987'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Magnesium is a member of which group?
++
++Alkali Earth metals
++Non-metals
++Halogens
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which element, in pure form, is highly flammable when molten, as a powder or in ribbon form?
++
++Magnesium
++Titanium
++Sulfur
++Lead
++Cadmium
+}
+
+
+
+{
++1
++What symbol is used to represent magnesium?
++
++Mg
++Mn
++Ma
++Ms
++Mi
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of magnesium?
++
++1363K
++1363'C
++1363.K
++-13.63'C
++13.63'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of magnesium?
++
++923K
++923'C
++9.23K
++-92.3'C
++92.3'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Aluminium is a member of which group?
++
++Metals
++Alkali Metals
++Halogens
++Actinides
++Transition metals
+}
+
+
+
+{
++1
++What symbol is used to represent aluminium?
++
++Al
++A
++Au
++Am
++Ai
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of aluminium?
++
++2792K
++2792'C
++279.2K
++-27.92'C
++279.2'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of aluminium?
++
++933.47K
++933.47'C
++93.347K
++-93.347'C
++9334.7'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Oxygen is the most abundant element in the Earth's crust, what is the second most abundant?
++
++Silicon
++Hydrogen
++Carbon
++Boron
++Magnesium
+}
+
+
+
+{
++1
++What symbol is used to represent silicon?
++
++Si
++S
++Sn
++Sc
++So
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of silicon?
++
++3538K
++3538'C
++35.38K
++-35.38'C
++353.8'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of silicon?
++
++1687K
++1687'C
++16.87K
++-16.87'C
++168.7'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element has red, white and black allotropes?
++
++Phosphorus
++Lead
++Carbon
++Sulfur
++Silicon
+}
+
+
+	
+	
+	
+
+
+{
++1
++The distinctive colours of Io, Jupiter's volcanic moon, are from various forms of which element?
++
++Sulfur
++Iron
++Phosphorus
++Carbon
++Arsenic
+}
+
+
+
+{
++1
++Which element has allotropes called alpha, beta and gamma?
++
++Sulfur
++Phosphorus
++Carbon
++Aluminium
++Selenium
+}
+
+
+	
+	
+	
+
+
+{
++1
++Chlorine is in which group?
++
++Halogens
++Noble gases
++Non-metals
++Actinides
++Alkali Earth metals
+}
+
+
+
+{
++1
++What symbol is used to represent chlorine?
++
++Cl
++Ch
++C
++Ce
++Co
+}
+
+
+
+{
++1
++Which of these gases is yellowish-green?
++
++Chlorine
++Fluorine
++Nitrogen
++Neon
++Radon
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of chlorine?
++
++239.1K
++239.1'C
++23.91K
++-239.1'C
++23.91'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of chlorine?
++
++172.16K
++172.16'C
++17.216K
++-172.16'C
++17.216'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Argon is a member of which group?
++
++Noble gases
++Halogens
++Metalloids
++Actinides
++Lanthanides
+}
+
+
+
+{
++1
++What symbol is used to represent argon?
++
++Ar
++Ag
++A
++An
++Ao
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of argon?
++
++87.3K
++87.3'C
++873K
++-87.3'C
++8.73'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of argon?
++
++83.80K
++83.80'C
++8.380K
++-83.80'C
++838.0'C
+}
+
+
+
+{
++1
++Argon makes up what percentage of the atmosphere?
++
++1%
++10%
++28%
++72%
++
+}
+
+
+
+	
+	
+	
+
+
+{
++1
++Potassium is a member of which group?
++
++Alkali Metals
++Alkali Earth metals
++Transactinides
++Lanthanides
++Transition metals
+}
+
+
+
+{
++1
++What symbol is used to represent potassium?
++
++K
++Na
++P
++Po
++Pt
+}
+
+
+
+{
++2
++What was the first metal to be isolated by electrolysis?
++
++Potassium
++Lithium
++Calcium
++Zinc
++Copper
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the boiling point of potassium?
++
++1032K
++1032'C
++103.2K
++-103.2'C
++103.2'C
+}
+
+
+
+{
++2
++At standard atmospheric conditions what is the melting point of potassium?
++
++336.53K
++336.53'C
++33.653K
++-33.653'C
++33.653'C
+}
+
+
+	
+	
+	
+
+
+{
++1
++Calcium is a member of which group?
++
++Alkali Earth metals
++Alkali metals
++Actinides
++Transactinides
++Metalloids
+}
+
+
+
+{
++1
++A deficit of which element can affect bone and teeth formation, while too much can cause kidney stones?
++
++Calcium
++Iron
++Potassium
++Sodium
++Copper
+}
+
+
+
+{
++1
++What symbol is used to represent calcium?
++
++Ca
++Cu
++Cm
++Ci
++Cl
+}
+
+
+	
+	
+	
+
+
+{
++1
++Scandium is a member of which group?
++
++Transition metal
++Actinides
++Lanthanides
++Metalloids
++Alkali metals
+}
+
+
+	
+	
+	
+
+
+{
++2
++Which of these facts about titanium is FALSE?
++
++Attacked easily by acids
++A lustrous white metal
++As strong as steel, but 45% lighter
++60% heavier than aluminium
++The ninth most abundant element in the Earth's crust
+}
+
+
+
+{
++1
++Which group is titanium a member?
++
++Transition metal
++Actinides
++Lanthanides
++Metalloids
++Alkali metals
+}
+
+
+
+{
++1
++What symbol is used to represent titanium?
++
++Ti
++T
++Ta
++Tn
++Tm
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which group is vanadium a member?
++
++Transition metal
++Actinides
++Lanthanides
++Metalloids
++Alkali metals
+}
+
+
+
+
+{
++1
++Which symbol is used to represent vanadium?
++
++V
++Fe
++Va
++Vn
++Vo
+}
+
+
+	
+	
+	
+
+
+{
++1
++Chromium is a member of which group?
++
++Transition metal
++Actinides
++Lanthanides
++Metalloids
++Alkali metals
+}
+
+
+
+{
++1
++What symbol is used to represent chromium?
++
++Cr
++Ch
++Cm
++Co
++Ci
+}
+
+
+
+{
++1
++Stainless steel contains approximately 15% of which metal?
++
++Chromium
++Iron
++Tin
++Aluminium
++Copper
+}
+
+
+	
+	
+	
+
+
+{
++1
++Manganese is a member of which group?
++
++Transition metal
++Actinides
++Lanthanides
++Metalloids
++Alkali metals
+}
+
+
+
+{
++1
++What symbol is used to represent manganese?
++
++Mn
++Mg
++Ma
++Ms
++Mi
+}
+
+
+	
+	
+	
+
+
+{
++1
++Iron is a member of which group?
++
++Transition metal
++Actinides
++Lanthanides
++Metalloids
++Alkali metals
+}
+
+
+
+{
++1
++Which metal forms a major part of haemoglobin, a chemical that carries oxygen around the body?
++
++Iron
++Copper
++Zinc
++Calcium
++Magnesium
+}
+
+
+
+{
++1
++What symbol is used to represent iron?
++
++Fe
++K
++Na
++Ti
++Ir
+}
+
+
+	
+	
+	
+
+
+{
++1
++Cobalt is a member of which group?
++
++Transition metal
++Actinides
++Lanthanides
++Metalloids
++Alkali metals
+}
+
+
+
+{
++2
++Which transition metal is a core component of Vitamin B12?
++
++Cobalt
++Iron
++Zinc
++Nickel
++Copper
+}
+
+
+
+{
++1
++What symbol is used to represent cobalt?
++
++Co
++C
++Cb
++Ca
++Ct
+}
+
+
+	
+	
+	
+
+
+{
++1
++Nickel is a member of which group?
++
++Transition metal
++Actinides
++Lanthanides
++Metalloids
++Alkali metals
+}
+
+
+
+{
++1
++What symbol is used to represent nickel?
++
++Ni
++N
++Ne
++Nc
++Nl
+}
+
+
+	
+	
+	
+
+
+{
++1
++Copper is a member of which group?
++
++Transition metal
++Actinides
++Lanthanides
++Metalloids
++Alkali metals
+}
+
+
+
+{
++1
++Bronze is an alloy of which two metals?
++
++Copper and Tin
++Copper and Zinc
++Lead and Tin
++Iron and Tin
++Tin and Nickel
+}
+
+
+
+{
++1
++Brass is an alloy of which two metals?
++
++Copper and Zinc
++Copper and Tin
++Lead and Tin
++Iron and Tin
++Tin and Nickel
+}
+
+
+
+{
++1
++What symbol is used to represent copper?
++
++Cu
++Co
++Cp
++Ce
++Cr
+}
+
+
+	
+	
+	
+
+
+{
++1
++Zinc is a member of which group?
++
++Transition metal
++Actinides
++Lanthanides
++Metalloids
++Alkali metals
+}
+
+
+
+{
++1
++What symbol is used to represent Zinc?
++
++Zn
++Z
++Zi
++Zc
++Zz
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which of these elements isn't a liquid at (or near) room temperature?
++
++Manganese
++Gallium
++Caesium
++Bromine
++Iodine
+}
+
+
+
+{
++1
++Which symbol is used to represent gallium?
++
++Ga
++G
++Gl
++Gi
++Gm
+}
+
+
+	
+	
+	
+
+
+{
++1
++Germanium is a member of which group?
++
++Metalloids
++Alkali metals
++Transition metals
++Actinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent germanium?
++
++Ge
++G
++Gm
++Gn
++Ga
+}
+
+
+	
+	
+	
+
+
+{
++1
++Arsenic is a member of which group?
++
++Metalloids
++Alkali metals
++Transition metals
++Actinides
++Lanthanides
+}
+
+
+
+{
++1
++What symbol is used to represent arsenic?
++
++As
++Ar
++An
++Ac
++Ai
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element has allotropes called; gray, alpha and vitreous?
++
++Selenium
++Sulfur
++Tin
++Carbon
++Aluminium
+}
+
+
+
+{
++1
++Which symbol is used to represent selenium?
++
++Se
++S
++Sl
++Si
++Sm
+}
+
+
+	
+	
+	
+
+
+{
++1
++Bromine is a member of which group?
++
++Halogens
++Alkali metals
++Transition metals
++Actinides
++Noble gases
+}
+
+
+
+{
++1
++Which symbol is used to represent bromine?
++
++Br
++B
++Bi
++Bn
++Be
+}
+
+
+	
+	
+	
+
+
+{
++1
++Krypton is a member of which group?
++
++Noble gases
++Halogens
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent krypton?
++
++Kr
++K
++Ky
++Kp
++Ko
+}
+
+
+	
+	
+	
+
+
+{
++1
++Rubidium is a member of which group?
++
++Alkali metals
++Noble gases
++Halogens
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent rubidium?
++
++Rb
++Rd
++Rm
++Ru
++Ri
+}
+
+
+	
+	
+	
+
+
+{
++1
++Strontium is a member of which group?
++
++Alkali Earth metals
++Noble gases
++Halogens
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent strontium?
++
++Sr
++S
++So
++Sn
++St
+}
+
+
+	
+	
+	
+
+
+{
++1
++Yttrium is a member of which group?
++
++Transition metals
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent yttrium?
++
++Y
++Yt
++Yr
++Ym
++Yu
+}
+
+
+	
+	
+	
+
+
+{
++1
++Zirconium is a member of which group?
++
++Transition metals
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent zirconium?
++
++Zr
++Z
++Zn
++Zo
++Zi
+}
+
+
+	
+	
+	
+
+
+{
++1
++Noibium is a member of which group?
++
++Transition metals
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which element was previously known as columbium?
++
++Noibium
++Cobalt
++Osmium
++Chromium
++Hafnium
+}
+
+
+
+{
++1
++Which symbol is used to represent niobium?
++
++Nb
++N
++No
++Ni
++Nm
+}
+
+
+	
+	
+	
+
+
+{
++1
++Molybdenum is a member of which group?
++
++Transition metals
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent molybdenum?
++
++Mo
++Mn
++Mb
++My
++Me
+}
+
+
+	
+	
+	
+
+
+{
++1
++Technetium is a member of which group?
++
++Transition metals
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which element was the first to be artificially created?
++
++Technetium
++Plutonium
++Fermium
++Neptunium
++Americium
+}
+
+
+
+{
++1
++Which symbol is used to represent technetium?
++
++Tc
++Te
++Tn
++Tt
++Ti
+}
+
+
+	
+	
+	
+
+
+{
++1
++Ruthenium is a member of which group?
++
++Transition metals
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent ruthenium?
++
++Ru
++Re
++Rn
++Rm
++Rh
+}
+
+
+	
+	
+	
+
+
+{
++1
++Rhodium is a member of which group?
++
++Transition metals
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent rhodium?
++
++Rh
++Ro
++Rd
++Ri
++Rm
+}
+
+
+	
+	
+	
+
+
+{
++1
++Palladium is a member of which group?
++
++Transition metals
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent palladium?
++
++PD
++Pa
++P
++Pu
++Pl
+}
+
+
+	
+	
+	
+
+
+{
++1
++Silver is a member of which group?
++
++Transition metals
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which element has the highest thermal conductivity?
++
++Silver
++Copper
++Gold
++Aluminium
++Beryllium
+}
+
+
+
+{
++1
++What percentage of "sterling silver" is silver?
++
++92.5
++50
++10
++80
++25
+}
+
+
+
+{
++1
++Which symbol is used to represent silver?
++
++Ag
++Au
++Na
++S
++Si
+}
+
+
+	
+	
+	
+
+
+{
++1
++Cadmium is a member of which group?
++
++Transition metals
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent cadmium?
++
++Cd
++Ca
++C
++Cm
++Cu
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element emits a high-pitched "cry" when bent?
++
++Indium
++Lead
++Magnesium
++Tantalum
++Copper
+}
+
+
+
+{
++1
++Which symbol is used to represent indium?
++
++In
++I
++Iu
++Im
++Id
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element is known to have the largest number of stable isotopes?
++
++Tin
++Hydrogen
++Barium
++Oxygen
++Palladium
+}
+
+
+
+{
++1
++Which symbol is used to represent tin?
++
++Sn
++Sb
++Ti
++Tn
++T
+}
+
+
+	
+	
+	
+
+
+{
++1
++Antimony is a member of which group?
++
++Metalloids
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent antimony?
++
++Sb
++Sn
++Ti
++T
++Tn
+}
+
+
+	
+	
+	
+
+
+{
++1
++Tellurium is a member of which group?
++
++Metalloids
++Alkali Earth metals
++Noble gases
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent tellurium?
++
++Te
++Tu
++Tl
++Ti
++Tr
+}
+
+
+	
+	
+	
+
+
+{
++1
++Iodine is a member of which group?
++
++Halogens
++Alkali Earth metals
++Noble gases
++Transactinides
++Actinides
+}
+
+
+
+{
++1
++Which element is found in the thyroid hormones "thyroxine" and "triiodothyronine"?
++
++Iodine
++Potassium
++Copper
++Magnesium
++Zinc
+}
+
+
+
+{
++1
++Which symbol is used to represent iodine?
++
++I
++Id
++In
++Ie
++Io
+}
+
+
+	
+	
+	
+
+
+{
++1
++Xenon is a member of which group?
++
++Noble gases
++Halogens
++Alkali Earth metals
++Transactinides
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent xenon?
++
++Xe
++Ze
++Xn
++Zn
++Xo
+}
+
+
+	
+	
+	
+
+
+{
++1
++Caesium is a member of which group?
++
++Alkali Metals
++Transactinides
++Alkali Earth metals
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent caesium?
++
++Cs
++C
++Cu
++Cm
++Ca
+}
+
+
+	
+	
+	
+
+
+{
++1
++Barium is a member of which group?
++
++Alkali Earth metals
++Alkali Metals
++Transactinides
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent barium?
++
++Ba
++B
++Br
++Bi
++Bu
+}
+
+
+	
+	
+	
+
+
+{
++1
++Lanthanum is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali Metals
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent lanthanum?
++
++La
++Ln
++Lt
++Lu
++Lm
+}
+
+
+	
+	
+	
+
+
+{
++1
++Cerium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali Metals
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which is the most abundant member of the Rare Earth elements?
++
++Cerium
++Europium
++Holmium
++Uranium
++Actinium
+}
+
+
+
+{
++1
++Which symbol is used to represent cerium?
++
++Ce
++Cr
++Ci
++Cm
++Cu
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Praseodymium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali Metals
++Halogens
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent praseodymium?
++
++Pr
++P
++Pd
++Pm
++Pu
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Neodymium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Halogens
++Actinides
+}
+
+
+
+{
++1
++The changing composition of which element's isotopes can help to predict volcanic eruptions?
++
++Neodymium
++Samarium
++Holmium
++Lead
++Uranium
+}
+
+
+
+{
++1
++Which symbol is used to represent neodymium?
++
++Nd
++Ne
++Ni
++No
++Nu
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Promethium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent promethium?
++
++Pm
++Po
++Pt
++Pu
++Pi
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Samarium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent samarium?
++
++Sm
++Sa
++Sr
++Si
++Su
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Europium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which is the most reactive Rare Earth metal?
++
++Europium
++Uranium
++Cerium
++Thorium
++Nobelium
+}
+
+
+
+{
++1
++Which symbol is used to represent europium?
++
++Eu
++Er
++Ep
++Em
++Eo
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Gadolinium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent gadolinium?
++
++Gd
++Ga
++Gl
++Go
++Gm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Terbium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent terbium?
++
++Tb
++Te
++Tr
++Ti
++Tm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Dysprosium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent dysprosium?
++
++Dy
++D
++Ds
++Dp
++Do
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Holmium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent holmium?
++
++Ho
++Hi
++Hm
++Hu
++H
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Erbium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent erbium?
++
++Er
++Eb
++Em
++Ei
++Eu
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Thulium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent thulium?
++
++Tm
++T
++Tl
++Ti
++Tu
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Ytterbium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent ytterbium?
++
++Yb
++Yt
++Y
++Ym
++Yr
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Lutetium is a member of which group?
++
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent lutetium?
++
++Lu
++Lt
++Le
++Li
++Lm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Lutetium is a member of which group?
++
++Transition metals
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent hafnium?
++
++Hf
++H
++Ho
++Hn
++Hm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Tantalum is a member of which group?
++
++Transition metals
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent tantalum?
++
++Ta
++T
++Tm
++Tn
++Tl
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Tungsten is a member of which group?
++
++Transition metals
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent tungsten?
++
++W
++Te
++Na
++K
++Tn
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Rhenium is a member of which group?
++
++Transition metals
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Actinides
+}
+
+
+
+{
++1
++Which of the naturally occuring elements was the last to be discovered?
++
++Rhenium
++Hafnium
++Iridium
++Dysprosium
++Holmium
+}
+
+
+
+{
++1
++Which symbol is used to represent rhenium?
++
++Re
++Rh
++Rn
++Rm
++Ri
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Osmium is a member of which group?
++
++Transition metals
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent osmium?
++
++Os
++O
++Om
++Ou
++Oi
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Iridium is a member of which group?
++
++Transition metals
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Actinides
+}
+
+
+
+{
++1
++Which element in the Periodic Table has the highest density?
++
++Iridium
++Gold
++Copper
++Tungsten
++Platinum
+}
+
+
+
+{
++1
++Which symbol is used to represent iridium?
++
++Ir
++I
++Im
++Id
++Iu
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Platinum is a member of which group?
++
++Transition metals
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent platinum?
++
++Pt
++P
++Pl
++Pa
++Pn
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Gold is a member of which group?
++
++Transition metals
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Actinides
+}
+
+
+
+{
++1
++Which symbol is used to represent gold?
++
++Au
++Ag
++W
++Na
++Gd
+}
+
+
+
+{
++1
++Which metal is the most malleable?
++
++Gold
++Copper
++Nickel
++Silver
++Tantalum
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Mercury is a member of which group?
++
++Transition metals
++Lanthanides
++Alkali Earth metals
++Alkali metals
++Actinides
+}
+
+
+
+{
++1
++Which element's transportation by aircraft is restricted due to its ability to rapidly corrode aluminium?
++
++Mercury
++Sodium
++Iodine
++Gallium
++Boron
+}
+
+
+
+{
++1
++Which symbol is used to represent mercury?
++
++Hg
++Ag
++W
++Na
++K
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Which poisonous element's antidote is "prussian blue"?
++
++Thallium
++Arsenic
++Mercury
++Cadmium
++Lead
+}
+
+
+
+{
++1
++Which symbol is used to represent thallium?
++
++Tl
++T
++Th
++Ta
++Ti
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which symbol is used to represent lead?
++
++Pb
++La
++Ld
++W
++Hg
+}
+
+
+	
+	
+	
+	
+
+{
++1
++The only naturally occuring isotope of which element has a half-life of more than 10 times the current age of the universe?
++
++Bismuth
++Uranium
++Polonium
++Radon
++Neptunium
+}
+
+
+
+{
++1
++Which symbol is used to represent bismuth?
++
++Bi
++B
++Bu
++Bt
++Bm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Which element has more isotopes than any other?
++
++Polonium
++Uranium
++Curium
++Radium
++Astatine
+}
+
+
+
+{
++1
++Which symbol is used to represent polonium?
++
++Po
++P
++Pn
++Pu
++Pm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Astatine is a member of which group?
++
++Halogens
++Transition metals
++Alkali Earth metals
++Alkali metals
++Actinides
+}
+
+
+
+{
++1
++Which element is the rarest on Earth, with as little as 28g present in the Earth's crust at any one time?
++
++Astatine
++Polonium
++Thorium
++Protactinium
++Actinium
+}
+
+
+
+{
++1
++Which symbol is used to represent astatine?
++
++At
++As
++Aa
++An
++Ae
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Radon is a member of which group?
++
++Noble gases
++Alkali Earth metals
++Alkali metals
++Actinides
++Halogens
+}
+
+
+
+{
++1
++Radon is formed from the radioactive decay of which element?
++
++Radium
++Francium
++Uranium
++Terbium
++Thorium
+}
+
+
+
+{
++1
++Which symbol is used to represent radon?
++
++Rn
++Ra
++Rd
++R
++Ro
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Francium is a member of which group?
++
++Alkali metals
++Transactinides
++Alkali Earth metals
++Actinides
++Halogens
+}
+
+
+
+{
++1
++Francium is formed from the radioactive decay of which element?
++
++Actinium
++Cerium
++Plutonium
++Radium
++Europium
+}
+
+
+
+{
++1
++The longest lived isotope of francium has a half-life of?
++
++22 minutes
++1 minute
++28 years
++1 second
++1200 years
+}
+
+
+
+{
++1
++Which symbol is used to represent francium?
++
++Fr
++F
++Fa
++Fn
++Fu
+}
+
+
+	
+	
+	
+
+
+{
++1
++Radium is a member of which group?
++
++Alkali Earth metals
++Alkali metals
++Transactinides
++Actinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent radium?
++
++Ra
++Rd
++Ru
++Rm
++Ri
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Which symbol is used to represent actinium?
++
++Ac
++At
++An
++Am
++Au
+}
+	
+	
+	
+	
+	
+	
+
+{
++1
++Thorium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent thorium?
++
++Th
++Ti
++Tr
++Tm
++Tu
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Protactinium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent protactinium?
++
++Pa
++P
++Pm
++Pt
++Pr
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Uranium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent uranium?
++
++U
++Ur
++Un
++Ua
++Um
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Neptunium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent neptunium?
++
++Np
++Ni
++N
++Nt
++Nm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Plutonium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent plutonium?
++
++Pu
++Po
++Pm
++Pl
++Pt
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Americium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+
+{
++1
++Which symbol is used to represent americium?
++
++Am
++Ar
++Ac
++Am
++Au
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Curium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent curium?
++
++Cm
++Cu
++Cr
++C
++Ci
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Berkelium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent berkellium?
++
++Bk
++B
++Bl
++Br
++Bm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Californium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent californium?
++
++Cf
++C
++Cl
++Ca
++Cn
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Einsteinium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent einsteinium?
++
++Es
++En
++Em
++Et
++Eu
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Fermium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent fermium?
++
++Fm
++Fe
++Fr
++F
++Fu
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Mendelevium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent mendelevium?
++
++Md
++Mn
++Ml
++Mv
++Me
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Nobelium is a member of which group?
++
++Actinides
++Alkali Earth metals
++Alkali metals
++Transactinides
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent nobelium?
++
++No
++Ne
++Nm
++Ni
++Nb
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Rutherfordium is a member of which group?
++
++Transactinides
++Actinides
++Alkali Earth metals
++Alkali metals
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent rutherfordium?
++
++Rf
++R
++Ru
++Rr
++Rm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Dubnium is a member of which group?
++
++Transactinides
++Actinides
++Alkali Earth metals
++Alkali metals
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent dubnium?
++
++Db
++D
++Dn
++Di
++Dm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Seaborgium is a member of which group?
++
++Transactinides
++Actinides
++Alkali Earth metals
++Alkali metals
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent seaborgium?
++
++Sg
++S
++Se
++Sa
++Sm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Bohrium is a member of which group?
++
++Transactinides
++Actinides
++Alkali Earth metals
++Alkali metals
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent bohrium?
++
++Bh
++Bo
++Bi
++Bu
++Bm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Hassium is a member of which group?
++
++Transactinides
++Actinides
++Alkali Earth metals
++Alkali metals
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent hassium?
++
++Hs
++Ha
++Hu
++Hi
++Hm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Meitnerium is a member of which group?
++
++Transactinides
++Actinides
++Alkali Earth metals
++Alkali metals
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent meitnerium?
++
++Mt
++Mn
++Me
++Mm
++Mi
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Darmstadtium is a member of which group?
++
++Transactinides
++Actinides
++Alkali Earth metals
++Alkali metals
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent darmstadtium?
++
++Ds
++Dm
++Dd
++Dt
++Dm
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Roentgenium is a member of which group?
++
++Transactinides
++Actinides
++Alkali Earth metals
++Alkali metals
++Lanthanides
+}
+
+
+
+{
++1
++Which symbol is used to represent roentgenium?
++
++Rg
++Re
++Ro
++Rn
++Rm
+}
+
+
+
+
+
+ 
+
+
+	
+	
+	
+	
+
+{
++1
++Which gas is used in the production of ethanol, ammonia and is also used in rocket fuel?
++
++Hydrogen
++Chlorine
++Nitrogen
++Argon
++Fluorine
+}
+
+
+
+{
++1
++Fuel cells containing which gas are being investigated as alternatives to combustion engines?
++
++Hydrogen
++Nitrogen
++Fluorine
++Helium
++Oxygen
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Which noble gas replaced hydrogen as the gas of choice for balloons?
++
++Helium
++Neon
++Argon
++Krypton
++Xenon
+}
+
+ -->
+
+	
+	
+	
+	
+
+{
++1
++Which alkali metal is used in mood stabilizers?
++
++Lithium
++Sodium
++Potassium
++Rubidium
++Caesium
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Which of these is Beryllium not used for?
++
++Making bridges stronger
++Light weight space vehicle parts
++Making gyroscopes
++Loudspeaker construction
++
+}
+
+
+
+{
++2
++The mirrors of the James Webb Space Telescope are made from which metal?
++
++Beryllium
++Silicon
++Aluminium
++Silver
++
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Which metalloid is used to make tennis rackets, regulators in nuclear plants, heat resistant glass and eye disinfectant?
++
++Boron
++Silicon
++Polonium
++Tellurium
++Arsenic
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element is essential to all known living systems?
++
++Carbon
++Silicon
++Boron
++Helium
++
+}
+
+
+
+{
++1
++Which allotrope of carbon is used as a lubricant?
++
++Graphite
++Diamond
++Fullerenes
++Nanotubes
++
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Which of these gases is used in incandescent light bulbs as a cheaper alternative to argon?
++
++Nitrogen
++Hydrogen
++Fluorine
++Chlorine
++Radon
+}
+
+
+
+{
++1
++How is liquid nitrogen used?
++
++To keep things very cool
++To keep things very warm
++To make tea/coffee
++In swimming pools
++
+}
+
+
+
+{
++1
++"Laughing gas" contains oxygen and which other gas?
++
++Nitrogen
++Hydrogen
++Helium
++Chlorine
++Xenon
+}
+
+
+
+{
++1
++Nitrogen is used by plants and animals for what?
++
++Making amino acids and proteins
++Making blood
++Healthy bones and teeth
++Muscle growth
++
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Which gas is required for combustion and supporting life?
++
++Oxygen
++Nitrogen
++Argon
++Fluorine
++Chlorine
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Which halogen is used in toothpaste, Teflon and in air-conditioning and refrigeration?
++
++Fluorine
++Chlorine
++Bromine
++Astatine
++Iodine
+}
+
+
+	
+	
+	
+	
+
+{
++1
++When used in "gas discharge lamps" (the kind used for signs) what colour does Neon emit?
++
++Reddish-orange
++Blue
++Greenish-blue
++Yellow
++
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which element is used in soap, street lights and is found in table salt?
++
++Sodium
++Mercury
++Xenon
++Aluminium
++Oxygen
+}
+
+ -->
+
+	
+	
+	
+	
+
+{
++1
++The powder of which alkali earth metal is used to make fireworks and marine flares?
++
++Magnesium
++Beryllium
++Calcium
++Strontium
++Barium
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Which metal is used in making cans, tin foil and alloyed with various other metals to make high performance parts for aircraft and rockets?
++
++Aluminium
++Tin
++Vanadium
++Iron
++Palladium
+}
+
+
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+
+{
++1
++Which element is used to make fertilisers, fireworks, pesticides and matches?
++
++Phosphorus
++Sulfur
++Selenium
++Bromine
++Magnesium
+}
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+
+{
++1
++Bananas are a good source of which alkali metal, necessary for daily nutrition?
++
++Potassium
++Lithium
++Sodium
++Rubidium
++Caesium
+}
+
+
+	
+	
+	
+	
+
+{
++1
++Which Alkali Earth metal is an important component of shells, bones, teeth and plant structures?
++
++Calcium
++Magnesium
++Strontium
++Barium
++Beryllium
+}
+
+
+	
+	
+	
+	
+
+{
++1
++The main application of which transition metal is alloyed with aluminium to make high performance parts for the aerospace and sports industries?
++
++Scandium
++Iron
++Nickel
++Copper
++Zirconium
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which transition metal is used in catalytic converters, jewellery and combined with cobalt to make very strong magnets?
++
++Platinum
++Iron
++Molybdenum
++Tungsten
++Gold
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which transition metal is used in thermometers, barometers, and batteries?
++
++Mercury
++Zinc
++Vanadium
++Tantalum
++Osmium
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which halogen has no uses, due to its radioactivity and scarcity?
++
++Astatine
++Fluorine
++Chlorine
++Bromine
++Iodine
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which Alkali Metal has no uses, due to its radioactivity and scarcity?
++
++Francium
++Rubidium
++Caesium
++Potassium
++Sodium
+}
+
+
+	
+	
+	
+
+
+{
++1
++An isotope of which actinide is currently being used in smoke detectors?
++
++Americium
++Uranium
++Californium
++Nobelium
++Thorium
+}
+
+
+
+
+
+
+
+
+
+{
++1
++The Periodic Table has how many groups?
++
++18
++17
++16
++15
++19
+}
+
+
+
+{
++1
++The Periodic Table has how many periods?
++
++7
++8
++9
++6
++5
+}
+
+
+
+{
++1
++Group 1 is also known as?
++
++Alkali metals
++Noble gases
++Alkali Earth metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Group 2 is also known as?
++
++Alkali Earth metals
++Alkali metals
++Noble gases
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Group 17 is also known as?
++
++Halogens
++Alkali metals
++Noble gases
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Group 18 is also known as?
++
++Noble gases
++Halogens
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Elements with atomic numbers from 57 to 71 are members of which group?
++
++Lanthanides
++Metalloids
++Alkali metals
++Transition metals
++Actinides
+}
+
+
+
+{
++1
++Elements with atomic numbers from 89 to 103 are members of which group?
++
++Actinides
++Lanthanides
++Metalloids
++Alkali metals
++Transition metals
+}
+
+
+
+{
++1
++What trend can be noted when moving down a group of the Periodic Table?
++
++Increasing atomic radius
++Increasing melting point
++Decreasing atomic radius
++Decreasing melting point
++Decreasing density
+}
+
+
+
+{
++1
++What increases as you move down Group 1 and Group 2?
++
++Reactivity
++Melting point
++Boiling point
++Density
++Hardness
+}
+
+
+
+{
++1
++Which of these is true for all halogens?
++
++They form acids with hydrogen
++They react with water
++They are all radioactive
++All gases at room temperature
++They conduct electricity
+}
+
+
+
+{
++1
++Elements with atomic numbers higher than which element are all radioactive?
++
++Lead
++Bismuth
++Mercury
++Francium
++Uranium
+}
+
+
+
+{
++1
++Which element comes next; lithium, sodium, potassium, rubidium, caesium, .... ?
++
++Francium
++Radium
++Actinium
++Radon
++Barium
+}
+
+
+
+{
++1
++Which element comes next; beryllium, magnesium, calcium, strontium, barium, .... ?
++
++Radium
++Actinium
++Radon
++Barium
++Francium
+}
+
+
+
+{
++1
++Which element comes next; fluorine, chlorine, bromine, iodine,  .... ?
++
++Astatine
++Radium
++Actinium
++Radon
++Barium
+}
+
+
+
+{
++1
++Which element comes next; neon, argon, krypton, xenon, .... ?
++
++Radon
++Radium
++Actinium
++Polonium
++Barium
+}
+
+
+
+{
++1
++Which element comes next; boron, carbon, nitrogen, oxygen, fluorine, .... ?
++
++Neon
++Argon
++Sodium
++Helium
++Magnesium
+}
+
+
+
+{
++1
++Which element comes next; aluminium, silicon, phosphorus, sulfur, chlorine, .... ?
++
++Argon
++Neon
++Sodium
++Helium
++Fluorine
+}
+
+
+
+{
++1
++Which element comes next; gallium, germanium, arsenic, selenium, bromine,.... ?
++
++Krypton
++Argon
++Neon
++Iodine
++Xenon
+}
+
+
+
+{
++1
++Which element comes next; indium, tin, antimony, tellurium, iodine, .... ?
++
++Xenon
++Argon
++Astatine
++Krypton
++Radon
+}
+
+
+
+{
++1
++Which element comes next; potassium, calcium, scandium, titanium, vanadium, .... ?
++
++Chromium
++Iron
++Zirconium
++Molybdenum
++Manganese
+}
+
+
+
+{
++1
++Which element comes next; manganese, iron, cobalt, nickel, .... ?
++
++Copper
++Zinc
++Cadmium
++Silver
++Palladium
+}
+
+
+
+{
++1
++Which element comes next; rubidium, strontium, yttrium, zirconium, .... ?
++
++Niobium
++Vanadium
++Chromium
++Technetium
++Iron
+}
+
+
+
+{
++1
++Which element comes next; molybdenum, technetium, ruthenium, rhodium, .... ?
++
++Palladium
++Silver
++Gold
++Iridium
++Copper
+}
+
+
+
+{
++1
++Which element comes next; caesium, barium, lanthanum, hafnium, tantalum, .... ?
++
++Tungsten
++Molybdenum
++Technetium
++Osmium
++Niobium
+}
+
+
+
+{
++1
++Which element comes next; osmium, iridium, platinum, gold, .... ?
++
++Mercury
++Lead
++Cadmium
++Silver
++Zinc
+}
+
+
+
+{
++1
++Which element comes next; boron, aluminium, gallium, indium, .... ?
++
++Thallium
++Mercury
++Tin
++Lead
++Bismuth
+}
+
+
+
+{
++1
++Which element comes next; carbon, silicon, germanium, tin, .... ?
++
++Lead
++Indium
++Thallium
++Antimony
++Bismuth
+}
+
+
+
+{
++1
++Which element comes next; nitrogen, phosphorus, arsenic, antimony, .... ?
++
++Bismuth
++Tin
++Lead
++Polonium
++Astatine
+}
+
+
+
+{
++1
++Which element comes next; oxygen, sulfur, selenium, tellurium, .... ?
++
++Polonium
++Astatine
++Radon
++Bismuth
++Lead
+}
+
+
+	
+	
+	
+
+
+{
++1
++Which of these is not a transition metal?
++
++Indium
++Vanadium
++Iron
++Tungsten
++Mercury
+}
+
+
+
+{
++1
++Which of these is not a transition metal?
++
++Aluminium
++Scandium
++Zinc
++Technetium
++Gold
+}
+
+
+
+{
++1
++Which of these is not a transition metal?
++
++Tin
++Titanium
++Zinc
++Cadmium
++Platinum
+}
+
+
+
+{
++1
++Which of these is not a transition metal?
++
++Lead
++Zirconium
++Niobium
++Osmium
++Iron
+}
+
+
+
+{
++1
++Which of these is not a transition metal?
++
++Antimony
++Ruthenium
++Cobalt
++Copper
++Silver
+}
+
+
+
+{
++1
++Which of these is not a transition metal?
++
++Strontium
++Hafnium
++Chromium
++Iridium
++Molybdenum
+}
+
+
+
+{
++1
++Which of these is not a transition metal?
++
++Germanium
++Tungsten
++Palladium
++Mercury
++Tantalum
+}
+
+
+
+{
++1
++Which of these is not a transition metal?
++
++Thallium
++Hafnium
++Zirconium
++Nickel
++Rhenium
+}
+
+
+
+{
++1
++Which of these is not a transition metal?
++
++Polonium
++Scandium
++Manganese
++Niobium
++Cadmium
+}
+
+
+
+{
++1
++Which of these is not a transition metal?
++
++Magnesium
++Manganese
++Yttrium
++Technetium
++Iridium
+}
+
+
+
+{
++1
++Which of these is the odd one out?
++
++Calcium
++Lithium
++Potassium
++Sodium
++Rubidium
+}
+
+
+
+{
++1
++Which of these is the odd one out?
++
++Barium
++Cesium
++Potassium
++Sodium
++Rubidium
+}
+
+
+
+{
++1
++Which of these is the odd one out?
++
++Rubidium
++Beryllium
++Calcium
++Strontium
++Magnesium
+}
+
+
+
+{
++1
++Which of these is the odd one out?
++
++Sodium
++Beryllium
++Calcium
++Strontium
++Barium
+}
+
+
+
+{
++1
++Which of these is the odd one out?
++
++Xenon
++Fluorine
++Iodine
++Chlorine
++Bromine
+}
+
+
+
+{
++1
++Which of these is the odd one out?
++
++Krypton
++Fluorine
++Iodine
++Chlorine
++Bromine
+}
+
+
+
+{
++1
++Which of these is the odd one out?
++
++Chlorine
++Neon
++Krypton
++Xenon
++Argon
+}
+
+
+
+{
++1
++Which of these is the odd one out?
++
++Fluorine
++Neon
++Argon
++Krypton
++Xenon
+}
+
+
+
+{
++1
++Which of these is not a member of the lanthanide series?
++
++Uranium
++Cerium
++Dysprosium
++Erbium
++Samarium
+}
+
+
+
+{
++1
++Which of these is not a member of the lanthanide series?
++
++Thorium
++Europium
++Gadolinium
++Holmium
++Lutetium
+}
+
+
+
+{
++1
++Which of these is not a member of the lanthanide series?
++
++Nobelium
++Cerium
++Ytterbium
++Promethium
++Neodymium
+}
+
+
+
+{
++1
++Which of these is not a member of the actinide series?
++
++Lutetium
++Uranium
++Nobelium
++Americium
++Protactinium
+}
+
+
+
+{
++1
++Which of these is not a member of the actinide series?
++
++Praseodymium
++Thorium
++Neptunium
++Fermium
++Curium
+}
+
+
+
+{
++1
++Which of these is not a member of the actinide series?
++
++Promethium
++Lawrencium
++Plutonium
++Fermium
++Californium
+}
+
+
+
+{
++1
++Which of these is not a member of the actinide series?
++
++Dysprosium
++Berkelium
++Plutonium
++Fermium
++Uranium
+}
+
+
+
+{
++1
++Which of these cannot be cut with a knife?
++
++Magnesium
++Lithium
++Potassium
++Cadmium
++Thulium
+}
+
+
+
+{
++1
++Which of these is not a gas at standard temperature and pressure?
++
++Bromine
++Nitrogen
++Xenon
++Radon
++Chlorine
+}
+
+
+
+{
++1
++Which of these is not a gas at standard temperature and pressure?
++
++Astatine
++Neon
++Helium
++Fluorine
++Chlorine
+}
+
+
+
+{
++1
++Which of these is denser than water?
++
++Rubidium
++Sodium
++Potassium
++Lithium
++Hydrogen
+}
+
+
+
+{
++1
++Which of these is lighter than water?
++
++Potassium
++Calcium
++Rubidium
++Francium
++Magnesium
+}
+
+
+
+{
++1
++Which of these elements is synthetic?
++
++Neptunium
++Cerium
++Uranium
++Thorium
++Samarium
+}
+
+
+
+
+
+
+
+{
++1
++In which country where neodymium and praseodymium discovered?
++
++Austria
++France
++Sweden
++Germany
++Italy
+}
+
+
+
+{
++1
++In which country where aluminium and hafnium discovered?
++
++Denmark
++Switzerland
++Sweden
++Germany
++Italy
+}
+
+
+
+{
++1
++In which country where calcium, neon and sodium discovered?
++
++England
++France
++Sweden
++Germany
++Switzerland
+}
+
+
+
+{
++1
++In which country where barium, hydrogen and niobium discovered?
++
++England
++France
++Sweden
++Denmark
++Switzerland
+}
+
+
+
+{
++1
++In which country where magnesium, palladium and xenon discovered?
++
++England
++Austria
++Sweden
++Germany
++Switzerland
+}
+
+
+
+{
++1
++In which country where titanium, osmium and rhodium discovered?
++
++England
++France
++Sweden
++Germany
++Switzerland
+}
+
+
+
+{
++1
++In which country where actinium, bromine and chromium discovered?
++
++France
++Switzerland
++England
++Sweden
++Italy
+}
+
+
+
+{
++1
++In which country where radium, iodine and fluorine discovered?
++
++France
++Switzerland
++England
++Sweden
++Germany
+}
+
+
+
+{
++1
++In which country where polonium, samarium and francium discovered?
++
++France
++Denmark
++England
++Sweden
++Germany
+}
+
+
+
+{
++1
++In which country where cadmium, germanium and hassium discovered?
++
++Germany
++France
++Denmark
++England
++Switzerland
+}
+
+
+
+{
++1
++In which country where rhenium, radon and zinc discovered?
++
++Germany
++France
++Austria
++England
++Switzerland
+}
+
+
+
+{
++1
++In which country where uranium, caesium and rubidium discovered?
++
++Germany
++Russia
++Italy
++England
++Austria
+}
+
+
+
+{
++1
++In which country where bohrium, dubnium and seaborgium discovered?
++
++Russia
++France
++Sweden
++England
++Italy
+}
+
+
+
+{
++1
++In which country where argon and strontium discovered?
++
++Scotland
++Switzerland
++Sweden
++Austria
++Italy
+}
+
+
+
+{
++1
++In which country where chlorine, cobalt and lithium discovered?
++
++Sweden
++Austria
++Germany
++England
++Italy
+}
+
+
+
+{
++1
++In which country where nickel, scandium and vanadium discovered?
++
++Sweden
++Switzerland
++Germany
++England
++Italy
+}
+
+
+
+{
++1
++In which country where manganese, thulium and selenium discovered?
++
++Sweden
++France
++Germany
++England
++Austria
+}
+
+
+
+{
++1
++In which country where tantalum, thorium and lanthanum discovered?
++
++Sweden
++Austria
++Germany
++England
++Italy
+}
+
+
+
+{
++1
++In which country where gadolinium, holmium and ytterbium discovered?
++
++Switzerland
++England
++France
++Sweden
++Germany
+}
+
+
+
+{
++1
++In which country where astatine, neptunium and promethium discovered?
++
++USA
++Austria
++Germany
++England
++Italy
+}
+
+
+
+
+
+
+
+{
++2
++Select the correct order for these elements, abundance in the Earth's crust; lowest to highest ...
++
++Silver, Calcium, Silicon, Oxygen
++Oxygen, Silicon, Silver, Calcium
++Silver, Silicon, Calcium, Oxygen
++Calcium, Oxygen, Calcium, Silver
++Oxygen, Calcium, Silicon, Silver
+}
+
+
+
+{
++2
++Select the correct order for these elements, abundance in the Earth's crust; lowest to highest ...
++
++Xenon, Argon, Chlorine, Fluorine
++Argon, Chlorine, Xenon, Fluorine
++Chlorine, Xenon, Argon, Fluorine
++Fluorine, Argon, Xenon, Chlorine
++Argon, Xenon, Fluorine, Chlorine
+}
+
+
+
+{
++2
++Select the correct order for these elements, abundance in the Earth's crust; lowest to highest ...
++
++Osmium, Mercury, Lead, Aluminium
++Mercury, Osmium, Aluminium, Lead
++Lead, Osmium, Mercury, Aluminium
++Aluminium, Mercury, Lead, Osmium
++Mercury, Aluminium, Osmium, Lead
+}
+
+
+
+{
++2
++Select the correct order for these elements, abundance in the Earth's crust; lowest to highest ...
++
++Gallium, Cerium, Barium, Magnesium
++Cerium, Magnesium, Gallium, Barium
++Barium, Gallium, Magnesium, Cerium
++Magnesium, Barium, Gallium, Cerium
++Barium, Cerium, Gallium, Magnesium
+}
+
+
+
+{
++1
++Select the correct order for these elements, atomic mass; lowest to highest ...
++
++Helium, Oxygen, Argon, Vanadium, Copper
++Oxygen, Argon, Copper, Helium, Vanadium
++Argon, Copper, Vanadium, Oxygen, Helium
++Vanadium, Helium, Argon, Copper, Oxygen
++Copper, Vanadium, Helium, Argon, Oxygen
+}
+
+
+
+{
++2
++Select the correct order for these elements, boiling point; lowest to highest ...
++
++Silicon, Actinium, Boron, Carbon, Rhenium
++Actinium, Boron, Silicon, Rhenium, Carbon
++Boron, Carbon, Rhenium, Actinium, Silicon
++Carbon, Rhenium, Boron, Silicon, Actinium
++Rhenium, Silicon, Actinium, Boron, Carbon
+}
+
+
+
+{
++1
++Select the correct order for these elements, boiling point; lowest to highest ...
++
++Helium, Zinc, Gold, Tungsten
++Zinc, Gold, Tungsten, Helium
++Gold, Tungsten, Helium, Zinc
++Tungsten, Helium, Zinc, Gold
++Helium, Gold, Zinc, Tungsten
+}
+
+
+
+{
++2
++Select the correct order for these elements, boiling point; lowest to highest ...
++
++Hydrogen, Nitrogen, Argon, Krypton, Radon
++Nitrogen, Argon, Radon, Hydrogen, Krypton
++Argon, Krypton, Hydrogen, Radon, Nitrogen
++Krypton, Radon, Nitrogen, Argon, Hydrogen
++Radon, Hydrogen, Argon, Nitrogen, Krypton
+}
+
+
+
+{
++2
++Select the correct order for these elements, boiling point; lowest to highest ...
++
++Bromine, Iodine, Mercury, Arsenic
++Iodine, Arsenic, Mercury, Bromine
++Mercury, Bromine, Arsenic, Iodine
++Arsenic, Mercury, Iodine, Bromine
++Bromine, Arsenic, Iodine, Mercury
+}
+
+
+
+{
++2
++Select the correct order for these elements, boiling point; lowest to highest ...
++
++Lead, Indium, Iron, Plutonium, Tantalum
++Indium, Iron, Tantalum, Lead, Plutonium
++Iron, Plutonium, Lead, Tantalum, Indium
++Plutonium, Tantalum, Iron, Indium, Lead
++Tantalum, Lead, Indium, Iron, Plutonium
+}
+
+
+
+{
++2
++Select the correct order for these elements, Brinell hardness; lowest to highest ...
++
++Sodium, Zinc, Copper, Osmium
++Zinc, Copper, Osmium, Sodium
++Copper, Zinc, Sodium, Osmium
++Osmium, Copper, Zinc, Sodium
++Sodium, Copper, Osmium, Zinc
+}
+
+
+
+{
++2
++Select the correct order for these elements, Brinell hardness; lowest to highest ...
++
++Potassium, Iron, Nickel, Tungsten
++Iron, Potassium, Tungsten, Nickel
++Nickel, Tungsten, Potassium, Iron
++Tungsten, Nickel, Iron, Potassium
++Potassium, Tungsten, Nickel, Iron
+}
+
+
+
+{
++2
++Select the correct order for these elements, Brinell hardness; lowest to highest ...
++
++Caesium, Tin, Platinum, Iridium
++Tin, Platinum, Caesium, Iridium
++Platinum, Tin, Iridium, Caesium
++Iridium, Platinum, Caesium, Tin
++Caesium, Iridium, Tin, Platinum
+}
+
+
+
+{
++2
++Select the correct order for these elements, density; lowest to highest ...
++
++Nickel, Lead, Mercury, Gold, Iridium
++Lead, Gold, Iridium, Nickel. Mercury
++Mercury, Nickel, Lead, Iridium, Gold
++Gold, Iridium, Nickel, Lead, Mercury
++Iridium, Mercury, Gold, Nickel, Lead
+}
+
+
+
+{
++2
++Select the correct order for these elements, density; lowest to highest ...
++
++Sodium, Barium, Iodine, Zinc, Copper
++Barium, Copper, Sodium, Zinc, Iodine
++Iodine, Zinc, Barium, Copper, Sodium
++Zinc, Copper, Sodium, Iodine, Barium
++Copper, Sodium, Barium, Iodine, Zinc
+}
+
+
+
+{
++2
++Select the correct order for these elements, density; lowest to highest ...
++
++Lithium, Calcium, Silicon, Titanium, Iron
++Calcium, Titanium, Silicon, Iron, Lithium
++Silicon, Iron, Titanium, Lithium, Calcium
++Titanium, Lithium, Iron, Calcium, Silicon
++Iron, Silicon, Calcium, Titanium, Lithium
+}
+
+
+
+{
++2
++Select the correct order for these elements, density; lowest to highest ...
++
++Potassium, Yttrium, Cobalt, Thallium, Uranium
++Yttrium, Thallium, Potassium, Uranium, Cobalt
++Cobalt, Uranium, Potassium, Yttrium, Thallium
++Thallium, Potassium, Cobalt, Uranium, Yttrium
++Uranium, Cobalt, Yttrium, Thallium, Potassium
+}
+
+
+
+{
++2
++Select the correct order for these elements, density; lowest to highest ...
++
++Boron, Aluminium, Europium, Gallium, Niobium
++Aluminium, Niobium, Boron, Gallium, Europium
++Europium, Niobium, Aluminium, Boron, Gallium
++Gallium, Europium, Niobium, Boron, Aluminium
++Niobium, Gallium, Boron, Aluminium, Europium
+}
+
+
+
+{
++2
++Select the correct order for these elements, density; lowest to highest ...
++
++Radium, Indium, Cadmium, Bismuth, Platinum
++Indium, Cadmium, Platinum, Radium, Bismuth
++Cadmium, Bismuth, Radium, Platinum, Indium
++Bismuth, Radium, Indium, Cadmium, Platinum
++Platinum, Cadmium, Bismuth, Indium, Radium
+}
+
+
+
+{
++2
++Select the correct order for these elements, discovery year; lowest to highest ...
++
++Arsenic, Cobalt, Nitrogen, Tungsten, Cerium
++Cobalt, Nitrogen, Tungsten, Cerium, Arsenic
++Nitrogen, Cerium, Cobalt, Arsenic, Tungsten
++Arsenic, Tungsten, Cerium, Cobalt, Nitrogen
++Cerium, Cobalt, Tungsten, Nitrogen, Arsenic
+}
+
+
+
+{
++2
++Select the correct order for these elements, discovery year; lowest to highest ...
++
++Actinium, Curium, Fermium, Dubnium, Hassium
++Curium, Fermium, Hassium, Actinium, Dubnium
++Fermium, Actinium, Curium, Hassium, Fermium
++Dubnium, Fermium, Actinium, Curium, Hassium
++Hassium, Dubnium, Hassium, Actinium, Curium
+}
+
+
+
+{
++2
++Select the correct order for these elements, discovery year; lowest to highest ...
++
++Zinc, Chlorine, Titanium, Iodine, Bromine
++Chlorine, Iodine, Zinc, Bromine, Titanium
++Titanium, Bromine, Iodine, Zinc, Chlorine
++Iodine, Zinc, Bromine, Chlorine, Titanium
++Bromine, Titanium, Chlorine, Zinc, Iodine
+}
+
+
+
+{
++2
++Select the correct order for these elements, discovery year; lowest to highest ...
++
++Phosphorus, Nickel, Uranium, Cadmium, Erbium
++Nickel, Uranium, Phosphorus, Erbium, Cadmium
++Uranium, Phosphorus, Cadmium, Erbium, Nickel
++Cadmium, Erbium, Nickel, Phosphorus, Uranium
++Erbium, Cadmium, Uranium, Nickel, Phosphorus
+}
+
+
+
+{
++2
++Select the correct order for these elements, discovery year; lowest to highest ...
++
++Tellurium, Beryllium, Sodium, Thorium, Gallium
++Beryllium, Sodium, Thorium, Gallium, Tellurium
++Sodium, Thorium, Tellurium, Beryllium, Gallium
++Thorium, Gallium, Sodium, Beryllium, Tellurium
++Gallium, Tellurium, Beryllium, Sodium, Thorium
+}
+
+
+
+{
++2
++Select the correct order for these elements, discovery year; lowest to highest ...
++
++Cobalt, Yttrium, Lithium, Scandium, Xenon
++Yttrium, Scandium, Cobalt, Xenon, Lithium
++Lithium, Xenon, Scandium, Cobalt, Yttrium
++Scandium, Lithium, Xenon, Yttrium, Cobalt
++Xenon, Cobalt, Yttrium, Scandium, Lithium
+}
+
+
+
+{
++2
++Select the correct order for these elements, electronegativity; lowest to highest ...
++
++Samarium, Holmium, Curium, Zinc, Carbon
++Holmium, Curium, Carbon, Samarium, Zinc
++Curium, Zinc, Holmium, Samarium, Carbon
++Zinc, Carbon, Curium, Holmium, Samarium
++Carbon, Samarium, Zinc, Curium, Holmium
+}
+
+
+
+{
++2
++Select the correct order for these elements, electronegativity; lowest to highest ...
++
++Osmium, Lead, Xenon, Nitrogen, Oxygen
++Lead, Xenon, Osmium, Oxygen, Nitrogen
++Xenon, Osmium, Nitrogen, Lead, Oxygen
++Nitrogen, Oxygen, Xenon, Osmium, Lead
++Oxygen, Nitrogen, Lead, Xenon, Osmium
+}
+
+
+
+{
++2
++Select the correct order for these elements, electronegativity; lowest to highest ...
++
++Actinium, Thorium, Mercury, Tungsten, Chlorine
++Thorium, Mercury, Tungsten, Chlorine, Actinium
++Mercury, Actinium, Chlorine, Thorium, Tungsten
++Tungsten, Chlorine, Thorium, Actinium, Mercury
++Chlorine, Tungsten, Actinium, Mercury, Thorium
+}
+
+
+
+{
++2
++Select the correct order for these elements, melting point; lowest to highest ...
++
++Mercury, Gallium, Indium, Barium
++Gallium, Indium, Barium, Mercury
++Indium, Gallium, Mercury, Barium
++Barium, Mercury, Barium, Gallium
++Gallium, Barium, Mercury, Indium
+}
+
+
+
+{
++2
++Select the correct order for these elements, melting point; lowest to highest ...
++
++Sulfur, Cobalt, Platinum, Osmium
++Cobalt, Sulfur, Osmium, Platinum
++Platinum, Osmium, Cobalt, Sulfur
++Osmium, Platinum, Sulfur, Cobalt
++Platinum, Sulfur, Cobalt, Osmium
+}
+
+
+
+{
++2
++Select the correct order for these elements, melting point; lowest to highest ...
++
++Hydrogen, Oxygen, Xenon, Chlorine, Radon
++Oxygen, Xenon, Radon, Hydrogen, Chlorine
++Xenon, Chlorine, Hydrogen, Oxygen, Radon
++Chlorine, Radon, Oxygen, Xenon, Hydrogen
++Radon, Hydrogen, Chlorine, Oxygen, Xenon
+}
+
+
+
+{
++2
++Select the correct order for these elements, melting point; lowest to highest ...
++
++Bromine, Phosphorus, Aluminium, Copper, Platinum
++Phosphorus, Platinum, Copper, Aluminium, Bromine
++Aluminium, Bromine, Platinum, Phosphorus, Copper
++Copper, Aluminium, Phosphorus, Platinum, Bromine
++Platinum, Copper, Bromine, Aluminium, Phosphorus
+}
+
+
+
+
+
+
+
+{
++1
++Which transition metal is this?
++1
++Gold
++Copper
++Tantalum
++Cadmium
++Manganese
+}
+
+
+
+{
++1
++Which element is this?
++2
++Sulfur
++Caesium
++Scandium
++Bromine
++Sodium
+}
+
+
+
+{
++1
++This is the red allotrope of which element?
++3
++Phosphorus
++Carbon
++Lithium
++Selenium
++Iron
+}
+
+
+
+{
++1
++This yellowy-green gas is which element?
++4
++Chlorine
++Oxygen
++Krypton
++Nitrogen
++Neon
+}
+
+
+
+{
++1
++Which halogen is this?
++5
++Bromine
++Iodine
++Fluorine
++Chlorine
++Astatine
+}
+
+
+
+{
++1
++Which metallic element is this?
++6
++Mercury
++Antimony
++Lead
++Nickel
++Tungsten
+}
+
+
+
+{
++1
++This is a sample of the white allotrope of which element?
++7
++Phosphorus
++Sulfur
++Carbon
++Potassium
++Antimony
+}
+
+
+
+{
++1
++Due to its reactivity this halogen has to be stored in a special vial.
++8
++Fluorine
++Chlorine
++Bromine
++Iodine
++Astatine
+}
+
+
+
+{
++1
++Which element is this?
++9
++Bromine
++Iodine
++Sulfur
++Sodium
++Antimony
+}
+
+
+
+{
++1
++Which halogen is this?
++10
++Iodine
++Bromine
++Chlorine
++Fluorine
++Astatine
+}
+
+
+
+{
++1
++These diamonds are an allotrope of which element?
++11
++Carbon
++Silicon
++Iron
++Sulfur
++Zinc
+}
+
+
+
+{
++1
++Which transition metal is this?
++12
++Copper
++Gold
++Lead
++Chromium
++Tantalum
+}
+
+
+
+{
++1
++What kind of hazard does this sign warn of?
++13
++Toxic
++Explosive
++Corrosive
++Flammable
++
+}
+
+
+
+{
++1
++What kind of hazard does this sign warn of?
++14
++Oxidizing
++Explosive
++Corrosive
++Flammable
++
+}
+
+
+
+{
++1
++What kind of hazard does this sign warn of?
++15
++Flammable
++Toxic
++Explosive
++Corrosive
++
+}
+
+
+
+{
++1
++What kind of hazard does this sign warn of?
++16
++Corrosive
++Toxic
++Irritant
++Flammable
++
+}
+
+
+
+{
++1
++What kind of hazard does this sign warn of?
++17
++Explosive
++Toxic
++Corrosive
++Flammable
++
+}
+
+
+
+{
++1
++What kind of hazard does this sign warn of?
++18
++Irritant
++Toxic
++Explosive
++Corrosive
++
+}
+
+
+
+{
++1
++What is the name of this compound?
++19
++Ethane
++Methane
++Propane
++Butane
++
+}
+
+
+
+{
++1
++What type of compound is this?
++19
++Alkane
++Alkene
++Ester
++Alcohol
++
+}
+
+
+
+{
++1
++What is the name of this compound?
++20
++Propane
++Ethane
++Methane
++Butane
++
+}
+
+
+
+{
++2
++What is the name of this compound?
++21
++Methanol
++Ethanol
++Propanol
++Butanol
++
+}
+
+
+
+{
++2
++What type of compound is this?
++21
++Alcohol
++Alkane
++Alkene
++Ester
++
+}
+
+
+
+{
++2
++What is the name of this compound?
++22
++Ethene
++Propene
++Butene
++Pentene
++
+}
+
+
+
+{
++2
++What type of compound is this?
++22
++Alkene
++Alkane
++Alcohol
++Ester
++
+}
+
+
+
+{
++1
++This is the general formula for which group of compounds?
++23
++Alkanes
++Alkenes
++Alkynes
++Alcohols
++
+}
+
+
+
+{
++1
++This is the general formula for which group of compounds?
++24
++Alkenes
++Alkanes
++Alkynes
++Alcohols
++
+}
+
+
+
+{
++1
++This constant is named after which scientist?
++25
++Avagadro
++Newton
++Charles
++Gay-Lussac
++
+}
+
+
+
+{
++1
++Which element does this diagram represent?
++26
++Hydrogen
++Helium
++Lithium
++Beryllium
++
+}
+
+
+
+{
++1
++Which element does this diagram represent?
++27
++Helium
++Hydrogen
++Lithium
++Beryllium
++
+}
+
+
+
+{
++1
++Which element does this diagram represent?
++28
++Lithium
++Helium
++Hydrogen
++Beryllium
++
+}
+
+
+
+{
++1
++Which element does this diagram represent?
++29
++Carbon
++Magnesium
++Argon
++Beryllium
++
+}
+
+
+
+{
++1
++Which halogen does this diagram represent?
++30
++Fluorine
++Chlorine
++Iodine
++Bromine
++
+}
+
+
+
+{
++1
++Which noble gas does this diagram represent?
++31
++Neon
++Helium
++Xenon
++Krypton
++
+}
+
+
+
+{
++1
++Which element does this diagram represent?
++32
++Magnesium
++Calcium
++Barium
++Manganese
++
+}
+
+
+
+{
++1
++Which gas does this diagram represent?
++33
++Oxygen
++Hydrogen
++Helium
++Nitrogen
++
+}
+
+
+
+{
++1
++Which element does this diagram represent?
++34
++Beryllium
++Lithium
++Helium
++Oxygen
++
+}
+
+
+
+{
++1
++Which gas is present inside this gas discharge tube?
++35
++Neon
++Nitrogen
++Xenon
++Krypton
++
+}
+
+
+
+{
++1
++This is the repeat unit of which polymer?
++38
++Poly(ethene)
++Poly(chloroethene)
++Poly(propene)
++Poly(tetrafluoroethene)
++
+}
+
+
+
+{
++1
++This is the repeat unit of which polymer?
++39
++Poly(chloroethene)
++Poly(ethene)
++Poly(propene)
++Poly(tetrafluoroethene)
++
+}
+
+
+
+{
++1
++This is the general formula for which group of compounds?
++40
++Carboxylic acids
++Esters
++Alkanes
++Alkenes
++
+}
+
+
+
+{
++1
++What is the name of this compound?
++41
++Copper sulphate
++Carbon sulphide
++Copper sulphide
++Copper sodiumate
++
+}
+
+
+
+{
++1
++What is the RAM of this compound? (Cu=64, S=32 and O=16)
++41
++160
++16.0
++112
++320
++
+}
+
+
+
+
+
+
+
+
+	
+
+
+{
++1
++Johann August Arfvedson was born in which country?
++
++Sweden
++Denmark
++Germany
++England
++
+}
+
+
+	
+
+
+{
++1
++Jons Jacob Berzelius was born in which country?
++
++Sweden
++Finland
++Germany
++Spain
++
+}
+
+
+	
+	
+
+{
++1
++Henry Cavendish was born in which country?
++
++France
++England
++Spain
++Scotland
++
+}
+
+
+	
+
+
+{
++1
++Sir William Ramsay was born in which country?
++
++Scotland
++England
++France
++Wales
++
+}
+
+
+
+{
++1
++Who received the 1904 Nobel Prize in Chemistry for his work on gases?
++
++Sir William Ramsay
++Henry Cavendish
++Barron Rayleigh
++Joseph Priestley
++
+}
+
+
+
+
+
+
+
+
+
+{
++1
++What does monatomic mean?
++
++Exists as single atoms
++Contains a single electron
++Exists with a single proton
++Contains one proton and neutron
++
+}
+
+
+
+{
++1
++What is the temperature of absolute zero?
++
++0K
++0'C
++0'F
++-273'F
++273K
+}
+
+
+
+{
++1
++A strongly acidic solution would have a pH of?
++
++0
++7
++14
++
++
+}
+
+
+
+{
++1
++A strongly alkaline solution would have a pH of?
++
++14
++0
++7
++
++
+}
+
+
+
+{
++1
++A neutral solution would have a pH of?
++
++7
++0
++14
++
++
+}
+
+
+
+{
++2
++An alpha particle is the nucleus of which element?
++
++Helium
++Hydrogen
++Uranium
++Carbon
++Nitrogen
+}
+
+
+
+{
++1
++An anhydrous solution has ... ?
++
++No water
++A lot of water
++No hydrogen
++Too much hydrogen
++Oxygen and hydrogen
+}
+
+
+
+{
++1
++An anion is an ion with what charge?
++
++Negative
++Neutral
++Positive
++
++
+}
+
+
+
+{
++1
++A substance that increases the speed of a chemical reaction without being consumed by it is called a ... ?
++
++Catalyst
++Desiccant
++Allotrope
++Baryon
++Base
+}
+
+
+
+{
++1
++A cation is an ion with what charge?
++
++Positive
++Negative
++Neutral
++
++
+}
+
+
+
+{
++1
++Electrons carry which charge?
++
++Negative
++Positive
++Neutral
++
++
+}
+
+
+
+{
++1
++What does homologous mean?
++
++Similar properties and structure
++Different properties and structure
++Similar uses
++Toxic to humans
++
+}
+
+
+
+{
++2
++Hygroscopic substances readily ...?
++
++Absorb water
++Absorb hydrogen
++Give off hydrogen
++Explode
++Release water
+}
+
+
+
+{
++1
++An isotope of an element has what?
++
++Same number of protons and different number of neutrons
++Same number of neutrons and different number of protons
++Different number of protons and neutrons
++Different number of protons and more electrons
++Different number of neutrons and no electrons
+}
+
+
+
+{
++1
++Neutrons carry which charge?
++
++Neutral
++Negative
++Positive
++
++
+}
+
+
+
+{
++1
++Protons carry which charge?
++
++Positive
++Negative
++Neutral
++
++
+}
+
+
+
+
+
+
+
+
+
+{
++1
++Four different rocks have a few drops of dilute hydrochloric acid placed on them. Which rock will not effervesce?
++
++Sandstone
++Limestone
++Marble
++Chalk
++
+}
+
+
+
+{
++1
++Which type of rock is made by the action of high temperature and/or high pressure on another type of rock?
++
++Metamorphic
++Sedimentary
++Igneous
++
++
+}
+
+
+
+{
++1
++Which state of matter has the strongest forces between the particles?
++
++Solid
++Liquid
++Gas
++All the same
++
+}
+
+
+
+{
++1
++What is the name of the process that occurs when a solid changes in to a liquid?
++
++Melting
++Condensing
++Evaporating
++Solidifying
++Sublimation
+}
+
+
+
+{
++1
++What is the name of the process that occurs when a liquid changes in to a gas?
++
++Evaporating
++Condensing
++Melting
++Solidifying
++Sublimation
+}
+
+
+
+{
++1
++What is the name of the process that occurs when a gas changes in to a liquid?
++
++Condensing
++Melting
++Evaporating
++Solidifying
++Sublimation
+}
+
+
+
+{
++1
++What is the name of the process that occurs when a solid changes in to a gas?
++
++Sublimation
++Solidifying
++Condensing
++Melting
++Evaporating
+}
+
+
+
+{
++1
++What is the name of the process that occurs when a liquid changes in to a solid?
++
++Solidifying
++Sublimation
++Condensing
++Melting
++Evaporating
+}
+
+
+
+{
++1
++In a reaction between two gases, which of the following will not affect the rate?
++
++Volume
++Pressure
++Temperature
++The presence of a catalyst
++
+}
+
+
+
+{
++1
++What effect would using powdered magnesium instead of ribbon have on the rate of reaction between the metal and hydrochloric acid?
++
++Rate would increase
++Rate would decrease
++No reaction takes place between
++No effect on rate
++
+}
+
+
+
+{
++1
++What effect does decreasing the temperature have on the rate of a reaction?
++
++Rate would decrease
++Rate would increase
++Reaction will stop
++No effect
++
+}
+
+
+
+{
++1
++What effect does doubling the concentration of a reactant have on the rate of a reaction?
++
++Reaction rate increases
++Reaction rate decreases
++Reaction will stop
++No effect on reaction rate
++Reaction rate halves
+}
+
+
+
+{
++1
++Why does the rate of reaction increase when powdered calcium carbonate is used instead of lumps of marble?
++
++There is an increase in surface area
++There is an increase in temperature
++Powdered calcium carbonate is a catalyst
++There is an increase in concentration
++
+}
+
+
+
+{
++1
++If we increase the concentration of a reactant, what happens to the collisions between particles?
++
++There are more collisions
++Same number of collisions but they have more energy
++Same number of collisions but they have less energy
++There are fewer collisions
++
+}
+
+
+
+{
++1
++If we increase the temperature of a reaction, what happens to the collisions between particles?
++
++There are the more collisions and they have more energy
++There are fewer collisions
++Same number of collisions but they have more energy
++There are the more collisions but they have less energy
++
+}
+
+
+
+{
++1
++What test is used to identify carbon dioxide?
++
++Turns limewater cloudy
++Decolourises bromine water
++Relights a glowing splint
++Goes 'pop' when a lighted splint is placed in it
++
+}
+
+
+
+{
++1
++What happens when a covalent bond is formed?
++
++Electrons are shared between two atoms
++Electrons are transferred from one atom to another
++Protons are shared between two atoms
++Protons are transferred from one atom to another
++Neutrons are lost
+}
+
+
+
+{
++1
++What are all atoms trying to achieve when they bond with other atoms?
++
++To have a full outer shell of protons
++To lose all of their electrons
++To lose all of their protons
++To have a full shell of electrons
++
+}
+
+
+
+{
++1
++Half-life is the time taken ....
++
++For the radioactivity of a sample to decrease by half
++For all of the radioactivity to disappear from a sample
++For the radioactivity of a sample to increase by half
++For the radioactivity of the sample to decrease by half
++
+}
+
+
+
+{
++1
++Which type of radioactivity is the most penetrating?
++
++Gamma
++Beta
++Alpha
++All of them can pass through any substance
++
+}
+
+
+
+{
++1
++Which type of radioactivity is the least ionizing?
++
++Gamma
++Beta
++Alpha
++All equally ionizing
++
+}
+
+
+
+{
++1
++Which of the following is not an example of a use of alpha, beta or gamma radioactivity?
++
++The use of X-rays for medical examinations
++The use of tracers in medicine and industry
++Sterilization of medical equipment
++To measure thickness in paper manufacture
++
+}
+
+
+
+{
++1
++Which type of radiation can be stopped by thin sheets of paper?
++
++Alpha
++Gamma
++Beta
++All of them
++
+}
+
+
+
+{
++1
++Which type of radiation can only be stopped by concrete or lead?
++
++Gamma
++Alpha
++Beta
++All of them
++
+}
+
+
+
+{
++1
++Which of the following is an acid?
++
++Vinegar
++Soap
++Water
++Petrol
++Bleach
+}
+
+
+
+{
++1
++Which of the following is an alkali?
++
++Sodium hydroxide
++Vinegar
++Water
++Sodium chloride solution
++Petrol
+}
+
+
+
+{
++1
++What name is given when acid is mixed with alkali so that the acid is cancelled out?
++
++Neutralisation
++Oxidation
++Reduction
++Decomposition
++
+}
+
+
+
+{
++1
++What colour does universal indicator turn when it is put in to a neutral solution?
++
++Green
++Red
++Purple
++Orange
++
+}
+
+
+
+{
++1
++What colour does universal indicator turn when it is put in to a strongly acidic solution?
++
++Red
++Green
++Orange
++Blue
++
+}
+
+
+
+{
++1
++What colour does universal indicator turn when it is put in to a strongly alkaline solution?
++
++Deep blue / purple
++Red
++Green
++Orange
++
+}
+
+
+
+{
++1
++What colour does litmus indicator turn when it is put in to an alkaline solution?
++
++Blue
++Green
++Red
++Yellow
++
+}
+
+
+
+{
++1
++What colour does litmus indicator turn when it is put in to an acidic solution?
++
++Red
++Green
++Yellow
++Blue
++
+}
+
+
+
+{
++1
++When a reactant breaks down to give two or more products, this type of reaction is called...?
++
++Decomposition
++Combination
++Neutralisation
++Electrolysis
++
+}
+
+
+
+{
++1
++If a substance loses .... during a reaction it is reduced. What's the missing word?
++
++Oxygen
++Heat
++Water
++Mass
++
+}
+
+
+
+{
++1
++Precipitates are ...
++
++Insoluble
++Soluble
++Permeable
++Impermeable
++
+}
+
+
+
+{
++1
++How many electrons do elements in Group IV have in their outer shell?
++
++4
++2
++3
++5
++1
+}
+
+
+
+{
++1
++Why are the elements in Group 0 unreactive?
++
++They have a full outer shell of electrons
++They do not have any electrons
++They have an even number of protons
++They have a full nucleus of neutrons
++
+}
+
+
+
+{
++1
++Which is the only gas that has a bleaching effect?
++
++Chlorine
++Nitrogen
++Helium
++Hydrogen
++Xenon
+}
+
+
+
+{
++1
++Which is the only gas that will relight a glowing splint?
++
++Oxygen
++Nitrogen
++Helium
++Hydrogen
++Chlorine
+}
+
+
+
+{
++1
++Copper sulphate turns what colour if water is present?
++
++Blue
++White
++Pink
++Black
++Orange
+}
+
+
+
+{
++1
++Cobalt chloride turns what colour if water is present?
++
++Pink
++Black
++Orange
++Blue
++White
+}
+
+ 
+
+{
++1
++Why are alkali metals stored under oil?
++
++They are very reactive
++They are highly toxic
++They are lighter than air
++They are magnetic
++
+}
+
+
+
+{
++1
++Which of these is an example of a strong acid?
++
++Hydrochloric acid
++Acetic acid
++Citric acid
++Nucleic acid
++
+}
+
+
+
+{
++1
++An acid is any substance that produces ... ?
++
++Hydrogen ions in water
++Hydroxide ions in water
++Oxygen
++Ozone
++
+}
+
+
+
+{
++1
++An acid is a .... donor. What's the missing word?
++
++Proton
++Electron
++Neutron
++Photon
++
+}
+
+
+
+{
++1
++A base is a .... acceptor. What's the missing word?
++
++Proton
++Electron
++Neutron
++Photon
++
+}
+
+
+
+{
++1
++An alkali is any substance that produces ... ?
++
++Hydroxide ions in water
++Hydrogen ions in water
++Oxygen
++Ozone
++
+}
+
+
+
+{
++1
++An acid + an alkali produces which of these?
++
++A salt + water
++A salt
++A salt + hydrogen
++Hydrogen only
++
+}
+
+
+
+{
++1
++The three raw materials added to the top of a blast furnace are ...
++
++Iron ore, coke and limestone
++Iron ore, gypsum and slag
++Iron ore and coke
++Limestone, coke and slag
++
+}
+
+
+
+{
++1
++Cryloite is added to aluminium ore ...
++
++To reduce the melting point
++To increase the melting point
++To make it lighter
++To make it stronger
++
+}
+
+
+
+{
++1
++The ions that make water "hard" are ...
++
++Calcium and magnesium
++Iron and calcium
++Magnesium and zinc
++Zinc and iron
++
+}
+
+
+
+{
++1
++Which of these is exothermic?
++
++Adding concentrated sulphuric acid to water
++Photosynthesis
++Reaction of ethanoic acid with sodium carbonate
++Evaporation
++
+}
+
+
+
+{
++1
++Which of these is endothermic?
++
++Photosynthesis
++Adding concentrated sulphuric acid to water
++Combustion of methane
++Adding water to anhydrous copper(II) sulphate
++
+}
+
+
+
+{
++1
++You can use electrolysis to coat one metal with another. What is this process called?
++
++Electroplating
++Smelting
++Galvanising
++Fermentation
++
+}
+
+
+
+{
++1
++Some reactions never go to completion, they have a forward and a back reaction. What are these types of reactions called?
++
++Reversible
++Combination
++Redox
++Fermentation
++
+}
+
+
+
+{
++1
++What does a Geiger Counter measure?
++
++Radiation
++Heat
++Light
++Electrons
++
+}
+
+
+
+{
++1
++The Earth is roughly how many years old?
++
++4600 million
++4 million
++4600
++13 billion
++
+}
+
+
+
+{
++1
++The ozone layer protects the Earth from?
++
++Ultraviolet rays
++Asteroids
++Gamma rays
++Heat
++
+}
+
+
+
+{
++1
++Which of the following processes release carbon dioxide into the atmosphere?
++
++Combustion of fossil fuels and respiration
++Combustion of fossil fuels only
++Combustion of fossil fuels, respiration and photosynthesis
++Photosynthesis only
++
+}
+
+
+
+{
++1
++Nitric acid is formed from the reaction of ammonia and which gas?
++
++Oxygen
++Nitrogen
++Hydrogen
++Chlorine
++
+}
+
+
+
+{
++1
++The Earth's core is made from which two metals?
++
++Iron and nickel
++Iron and aluminium
++Nickel and lead
++Zinc and nickel
++
+}
+
+
+
+{
++1
++What is poly(ethene) (PE) made in to?
++
++Carrier bags and bottles
++Ropes and carpets
++Non-stick pans and waterproof clothing
++Drain pipes and wellington boots
++
+}
+
+
+
+{
++1
++What is poly(ethenol) (PVOH) made in to?
++
++Laundry bags (for hospitals)
++Ropes and carpets
++Non-stick pans and waterproof clothing
++Drain pipes and wellington boots
++
+}
+
+
+
+{
++1
++What is poly(propene) (PP) made in to?
++
++Ropes and carpets
++Carrier bags and bottles
++Non-stick pans and waterproof clothing
++Drain pipes and wellington boots
++
+}
+
+
+
+{
++1
++What is poly(phenylethene) (PS, Polystyrene) made in to?
++
++Foam used for packing and insulation
++Carrier bags and bottles
++Ropes and carpets
++Drain pipes and wellington boots
++
+}
+
+
+
+{
++1
++What is poly(tetrafluorothene) (PTFE) made in to?
++
++Non-stick pans and waterproof clothing
++Carrier bags and bottles
++Ropes and carpets
++Drain pipes and wellington boots
++
+}
+
+
+
+{
++1
++What is poly(chloroethene) (PVC) made in to?
++
++Drain pipes and wellington boots
++Carrier bags and bottles
++Ropes and carpets
++Non-stick pans and waterproof clothing
++
+}
+
+
+
+{
++1
++The polymer Kevlar is used to make what?
++
++Bullet-proof vests
++Carrier bags and bottles
++Ropes and carpets
++Non-stick pans and waterproof clothing
++Foam used for packing and insulation
+}
+
+
+
+{
++1
++Which of these properties of a gas is FALSE?
++
++Cannot be compressed
++Will fill the whole volume of its container
++No force of attraction between its particles
++Is easily compressed
++
+}
+
+
+
+{
++1
++Which of these properties of a solid is FALSE?
++
++Will flow to take the shape of its container
++Has a regular arrangement of particles
++Cannot be compressed
++Shape (and volume) is fixed
++
+}
+
+
+
+{
++1
++Which of these properties of a liquid is FALSE?
++
++Will fill the whole volume of its container
++Will flow to take the shape of its container
++Cannot be compressed
++Particles are close together but they are free to move
++
+}
+
+
+
+
+
+
+
+
+
+{
++1
++A mole is defined as the number of atoms in exactly ... grams of carbon-12. What's the missing word?
++
++12
++144
++6
++1
++
+}
+
+
+
+{
++1
++What property does this represent?
++36
++Relative atomic mass
++Atomic radioactivity
++Atomic radius
++Argon
++
+}
+
+
+
+{
++1
++What property does this represent?
++37
++Relative formula mass
++Melting point
++Molecular radius
++Atomic mass
++
+}
+
+
+
+{
++1
++In a chemical reaction equation, the elements or compounds on the left hand side are called ...
++
++Reactants
++Products
++Substrates
++Precipitates
++
+}
+
+
+
+{
++1
++In a chemical reaction equation, the elements or compounds on the right hand side are called ...
++
++Products
++Reactants
++Substrates
++Precipitates
++
+}
+
+
+
+{
++1
++One mole of helium has a mass of ...
++
++4 grams
++2 grams
++1 gram
++8 grams
++
+}
+
+
+
+{
++1
++One mole of hydrogen has a mass of ...
++
++1 gram
++4 grams
++2 grams
++8 grams
++
+}
+
+
+
+{
++1
++One mole of neon has a mass of ...
++
++20 grams
++10 grams
++40 grams
++5 grams
++
+}
+
+
+
+{
++1
++One mole of nitrogen has a mass of ...
++
++14 grams
++7 grams
++28 grams
++3.5 grams
++
+}
+
+
+
+{
++1
++One mole of oxygen has a mass of ...
++
++16 grams
++8 grams
++32 grams
++4 grams
++
+}
+
+
+
+{
++1
++How many moles are there in 28g of iron (atomic mass = 56)?
++
++0.5
++1
++0.2
++2
++
+}
+
+
+
+{
++1
++How many moles are there in 1.01kg of ruthenium (atomic mass = 101)?
++
++10
++1
++0.01
++100
++
+}
+
+
+
+{
++1
++How many moles are there in 60g of calcium (atomic mass = 40)?
++
++1.5
++15
++2
++0.15
++
+}
+
+
+
+{
++1
++How many moles are there in 35g of nitrogen (atomic mass = 14)?
++
++2.5
++25
++0.25
++250
++
+}
+
+
+
+{
++1
++What is the mass of 2 moles of oxygen (atomic mass = 16)?
++
++32g
++3.2g
++64g
++8g
++
+}
+
+
+
+{
++1
++What is the mass of 4 moles of methane (atomic mass = 16)?
++
++64g
++6.4g
++4g
++20g
++
+}
+
+
+
+
+
+
+
+
+
+{
++1
++Metal atoms (and hydrogen), such as sodium, .... to become ions. What's the missing phrase?
++
++Lose electrons
++Gain electrons
++Lose protons
++Gain neutrons
++
+}
+
+
+
+{
++1
++Non-metal atoms, such as chlorine, .... and become ions. What's the missing phrase?
++
++Gain electrons
++Lose electrons
++Lose protons
++Gain neutrons
++
+}
+
+
+
+{
++1
++Metal atoms bond with non-metal ions by transferring their electrons. This is called ... ?
++
++Ionic bonding
++Covalent bonding
++Metallic bonding
++Crystal bonding
++
+}
+
+
+
+{
++1
++... is the process by which long chained compounds are broken down into smaller chained compounds.
++
++Cracking
++Distillation
++Reforming
++Polymerisation
++
+}
+
+
+
+{
++1
++... is the process that changes chained molecules into branched.
++
++Reforming
++Cracking
++Distillation
++Polymerisation
++
+}
+
+
+
+{
++1
++The atmosphere is a layer of ... around the Earth.
++
++Gas
++Liquid
++Energy
++Heat
++
+}
+
+
+
+{
++1
++Some atoms have unstable nuclei because of 'extra' ... .
++
++Neutrons
++Protons
++Electrons
++Photons
++
+}
+
+
+
+{
++1
++A metal will displace a ... metal in a metal salt solution. What's the missing word?
++
++Less reactive
++More reactive
++Denser
++More magnetic
++
+}
+
+
+
+{
++1
++In a ..., the particles can vibrate but they cannot move from one place to another. What is the missing word?
++
++Solid
++Gas
++Liquid
++Plasma
++
+}
+
+
+
+{
++1
++As a liquid is heated, the particles move faster and faster until they overcome the force of attraction between them. The temperature at which this happens is called the ... .
++
++Boiling point
++Melting point
++Freezing point
++Triple point
++
+}
+
+
+
+{
++1
++As a solid is heated, the particles vibrate more and more until the force of attraction between them is overcome. The temperature at which this happens is called the ... .
++
++Melting point
++Boiling point
++Freezing point
++Triple point
++
+}
+
+
+
+{
++1
++The atomic number is the number of .... in the nucleus. What is the missing word?
++
++Protons
++Electrons
++Neutrons
++Atoms
++
+}
+
+
+
+{
++1
++Electrons are arranged in .... around the nucleus. What is the missing word?
++
++Energy levels
++Tight orbits
++Patterns
++Size order
++
+}
+
+
+
+{
++1
++The atom consists of a tiny, massive central nucleus surrounded by .... . What is the missing word?
++
++Electrons
++Protons
++Neutrons
++Energy
++
+}
+
+
+
+{
++1
++Positive ions travel to the ... . What's the missing word?
++
++Cathode
++Anode
++Electrode
++Catalyst
++
+}
+
+
+
+{
++1
++Negative ions travel to the ... . What's the missing word?
++
++Anode
++Cathode
++Electrode
++Catalyst
++
+}
+
+
+
+
+
+
+
+
+
+{
++1
++Water has which composition of atoms?
++
++2 hydrogen and 1 oxygen
++2 hydrogen and 2 oxygen
++1 hydrogen and 2 oxygen
++1 hydrogen and 1 oxygen
++
+}
+
+
+
+{
++1
++Hydrochloric acid has which composition of atoms?
++
++1 hydrogen and 1 chlorine
++1 hydrogen, 1 chlorine and 1 oxygen
++2 hydrogen and 1 chlorine
++1 hydrogen and 2 chlorine
++
+}
+
+
+
+{
++1
++Ammonia has which composition of atoms?
++
++1 nitrogen and 3 hydrogen
++3 nitrogen and 1 hydrogen
++3 nitrogen and 2 hydrogen
++1 nitrogen and 2 hydrogen
++
+}
+
+
+
+{
++1
++Carbon dioxide has which composition of atoms?
++
++1 carbon and 2 oxygen
++1 carbon and 1 oxygen
++2 carbon and 2 oxygen
++2 carbon and 1 oxygen
++
+}
+
+
+
+{
++1
++Methane has which composition of atoms?
++
++1 carbon and 4 hydrogen
++1 carbon and 3 hydrogen
++1 carbon and 2 hydrogen
++1 carbon and 1 hydrogen
++
+}
+
+
+
+{
++1
++Nitric acid has which composition of atoms?
++
++1 hydrogen, 1 nitrogen and 3 oxygen
++1 hydrogen, 2 nitrogen and 3 oxygen
++2 hydrogen, 1 nitrogen and 2 oxygen
++1 hydrogen, 1 nitrogen and 1 oxygen
++
+}
+
+
+
+{
++1
++Sodium hydroxide has which composition of atoms?
++
++1 sodium, 1 oxygen and 1 hydrogen
++1 sodium and 1 hydrogen
++1 sodium and 1 oxygen
++1 sodium, 2 oxygen and 1 hydrogen
++
+}
+
+
+
+
+
+
+
+
+
+{
++1
++Magnesium is placed in to zinc chloride solution. What are the products made?
++
++Magnesium oxide + hydrogen
++Magnesium oxide + water
++Magnesium hydroxide + water
++Magnesium hydroxide + hydrogen
++
+}
+
+
+
+{
++1
++What products are made when sodium reacts with water?
++
++Sodium hydroxide + hydrogen
++Sodium hydroxide + carbon dioxide
++Sodium oxide + carbon dioxide
++Sodium oxide + hydrogen
++
+}
+
+
+
+{
++1
++Complete the word equation: Zinc + copper sulphate = ...
++
++Zinc sulphate + copper
++Zinc sulphite + copper + water
++Zinc sulphate + copper + water
++Zinc copper sulphate
++
+}
+
+
+
+{
++1
++Which of the following shows the products when a reactive metal reacts with an acid?
++
++Salt + hydrogen
++Salt + water
++Salt + water + carbon dioxide
++Salt + carbon dioxide
++
+}
+ 
+
+
+{
++1
++What products would be made if copper and lead oxide are heated together?
++
++No reaction
++Copper + lead + oxygen
++Copper oxide + lead
++Copper lead oxide
++
+}
+
+
+
+{
++1
++Complete the word equation: Magnesium + steam = ...
++
++Magnesium oxide + hydrogen
++Magnesium hydroxide + oxygen
++Magnesium oxide + hydroxide
++Magnesium hydroxide + hydrogen
++
+}
+
+
+
+{
++1
++Complete the word equation: Aluminium + hydrochloric acid = ...
++
++Aluminium chloride + hydrogen
++Aluminium chlorate + hydrogen
++Aluminium hydride + chlorine
++Aluminium + hydrogen + chlorine
++
+}
+
+
+
+{
++1
++Complete the word equation: Zinc + sulphuric acid = ...
++
++Zinc sulphate + hydrogen
++Zinc oxide + hydrogen sulfide
++Zinc sulfide + water
++Zinc + water + sulfur
++
+}
+
+
