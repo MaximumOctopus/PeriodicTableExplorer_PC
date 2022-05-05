@@ -1,3 +1,6 @@
+  
+  NB: You'll need to unzip the zip files in the \data\ folder in order to use the application. EN is the English text, PT is Portugese.
+
 Periodic Table v4.0 beta
 =========================
 
