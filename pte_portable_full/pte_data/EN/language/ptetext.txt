@@ -1,0 +1,148 @@
+* (c) Paul Alan Freshney
+* July 19th 2008
+// ================ general
+File
+Clear
+Load layout
+Save layout
+Set as default
+Exit
+Tools
+Options
+Help
+Context help
+!!! Donate !!!
+Check for updates
+About
+// ================ data window
+tables
+biography
+glossary
+by Abundance (Earth's Crust)
+by Abundance (Sun)
+by Abundance (Universe)
+by Abundance (Human)
+by Atomic Mass
+by Atomic Number
+by Atomic Radius
+by Atomic Volume
+by Brinell Hardness
+by Boiling Point
+by Density
+by Discoverer
+by Discovery Date
+by Electrical Conductivity
+by Electrical Resistivity
+by Electronegativity (Pauling)
+by Energy of Fusion
+by Energy of Vapourisation
+by Heat Capacity
+by Discovery Location
+by Melting Point
+by Name
+by Symbol
+by Thermal Conductivity
+by Thermal Expansion
+by Bulk Modulus
+by Poisson Ratio
+by Shear Modulus
+by Vickers Hardness
+by Young's Modulus
+by Speed of Sound
+// ================ pt display
+Element;
+Display Mode
+physical state of element under standard conditions
+display all
+dynamic
+gas
+liquid
+solid
+back
+---- Default View ----
+Melting Point
+Boiling Point
+Atomic Radius
+Atomic Weight
+Density
+Enthalpy of Fusion
+Enthalpy of Vaporisation
+Heat Capacity
+Thermal Conductivity
+Thermal Expansion
+Discovery Date
+Electronegativity
+Absorption Spectrum
+Emission Spectrum
+Colour
+Graph
+Both
+Occurrence
+Block
+Primordial
+Synthetic
+From decay
+s-block
+p-block
+d-block
+f-block
+Lithophile
+Siderophile
+Chalcophile
+Atmophile
+Very rare
+// ================ Graph Window
+All (up to 103)
+Transition Metals
+Alkali Earth Metals
+Halogens
+Non-Metals
+Metalloids
+Noble Gases
+Alkali Metals
+Metals
+Lanthanoids
+Actinoids
++ Custom
+Display
+Temp.
+Graph type
+// ================ Search Window
+Keyword search
+Search for...
+All keywords
+Element property search
+Parameter
+Test
+Value
+Go!
+-- choose --
+Abundance (Universe)
+Abundance (Sun)
+Abundance (Earths Crust)
+Abundance (Human; Weight)
+Abundance (Human; Atoms)
+Atomic Mass
+Atomic Radius
+Boiling Point
+Density
+Electronegativity
+Enthalpy of Fusion
+Enthalpy of Vaporisation
+Heat Capacity
+Melting Point
+Thermal Conductivity
+Thermal Expansion
+// ================ Atomic Structure
+Shell structure
+// ================ Atomic Radius
+Atomic Radius
+Bohr radius
+Covalent radius
+van der Waals
+Triple bond
+Metallic
+// ================ Media Window
+Images by Element
+// ================ Document Window
+// ================ Notes Window
